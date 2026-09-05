@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      124,
+      186,
+      388,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically fishes by a pond, laughing joyfully as he reels in a line, showcasing his playful, determined expression amidst a vibrant, sunny forest backdrop.",
+    "timestamp": "2026-02-24 02:33:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      124,
+      186,
+      388,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically fishes by a pond, gripping his rod with determination. He leaps and struggles, his expression a mix of excitement and effort. The scene captures his playful, determined spirit as he battles the fishing line, set against a vibrant, lush forest backdrop.",
+    "timestamp": "2026-02-24 02:33:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      124,
+      186,
+      388,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully fishes by a pond, gripping his rod with enthusiasm. His wide grin and energetic stance convey excitement. The scene shifts to him leaping into the water, splashing dramatically as he attempts to reel in his catch, showcasing his playful, determined spirit amidst the lush, green surroundings.",
+    "timestamp": "2026-02-24 02:33:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E33 - Life With Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      124,
+      186,
+      388,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, energetically fishes by a pond, gripping his rod with determination. His expression shifts to delight as he reels in a fish, his eyes wide and mouth open in excitement. The scene transitions to him leaping joyfully, arms raised, as he triumphantly pulls the fish toward him. The lush greenery and serene pond backdrop emphasize his playful, mischievous spirit, capturing his classic cartoon charm and infectious enthusiasm for fishing.",
+    "timestamp": "2026-02-24 02:34:04"
+  }
+]

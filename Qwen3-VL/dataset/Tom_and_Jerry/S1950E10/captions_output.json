@@ -1,0 +1,170 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      90,
+      50,
+      383,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse through a room, leaping and stretching dramatically. Jerry scurries away, while Tom shows determination and playful aggression in his pursuit.",
+    "timestamp": "2026-02-24 01:15:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      90,
+      50,
+      383,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse through a cozy room. Tom leaps, stretches, and grabs a blue rug, displaying exaggerated, frantic energy. Jerry scurries away, evading Tom’s pursuit. Their classic chase continues with playful chaos, highlighting their enduring rivalry and comedic antics.",
+    "timestamp": "2026-02-24 01:15:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      90,
+      50,
+      383,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sprints, eyes gleaming with mischief, as Jerry the mouse dashes across the room. Tom leaps, grabbing a blue rug, twisting mid-air with a mischievous grin. The scene bursts with classic cartoon energy, capturing their eternal chase and playful rivalry in a cozy, warmly lit living room.",
+    "timestamp": "2026-02-24 01:15:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      90,
+      50,
+      383,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat leaps dramatically, eyes glowing yellow with determination, as he chases Jerry the mouse, who scurries across the floor. Jerry, in his yellow outfit, dashes toward the window, evading Tom’s grasp. Tom, in a frantic sprint, trips over a rug, then leaps to grab it, his expression shifting from anger to surprise. The scene captures their classic chase, full of slapstick humor and classic cartoon energy, set in a cozy, colorful living room.",
+    "timestamp": "2026-02-24 01:15:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      219,
+      160,
+      511,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stalks angrily, eyes narrowed. Jerry the mouse scurries in a teacup, hiding. Tom's determined glare shows his pursuit, while Jerry's tiny form reveals his cunning escape.",
+    "timestamp": "2026-02-24 01:15:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      219,
+      160,
+      511,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with narrowed yellow eyes and a determined expression, stalks forward. Jerry the mouse, in a white cup, scurries away, hiding as Tom closes in, showcasing their classic chase dynamic with suspense and comedic tension.",
+    "timestamp": "2026-02-24 01:15:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      219,
+      160,
+      511,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with narrowed yellow eyes and a determined expression, crouches low, stalking. Jerry the mouse, in a white cup, scurries away, dodging Tom’s pursuit. The scene captures their classic chase, filled with tension and playful rivalry, as Tom’s predatory focus contrasts Jerry’s frantic escape.",
+    "timestamp": "2026-02-24 01:15:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      219,
+      160,
+      511,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the grumpy gray cat, crouches menacingly, eyes narrowed in anger. Suddenly, Jerry, the brown mouse, scurries across the floor, dragging two teacups filled with fish. Tom’s expression shifts to surprise as he watches Jerry’s antics. The scene captures their classic rivalry—Tom’s aggression versus Jerry’s cunning escape, set against a cozy, warmly lit room. Their expressions and movements highlight their timeless comedic dynamic.",
+    "timestamp": "2026-02-24 01:16:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      68,
+      52,
+      294,
+      481
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat, Tom, crouches in a room, then suddenly dashes away, leaving a trail of motion blur. He exits through a small arched doorway, suggesting haste or escape.",
+    "timestamp": "2026-02-24 01:16:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      68,
+      52,
+      294,
+      481
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, is shown in a cartoonish style, initially sitting with a surprised expression. He then dramatically spins and falls backward into a corner, disappearing behind a wall. The scene suggests comedic chaos, with exaggerated motion and vibrant background colors.",
+    "timestamp": "2026-02-24 01:16:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      68,
+      52,
+      294,
+      481
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, crouches in a corner, surrounded by yellow bursts, then spins away, tumbling into a small arched doorway. The scene suggests playful chaos, with vibrant colors and exaggerated motion. Tom’s expression is one of startled surprise as he retreats, hinting at a mischievous chase or escape.",
+    "timestamp": "2026-02-24 01:16:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E10 - Jerry And The Goldfish (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      68,
+      52,
+      294,
+      481
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A dark blue cat, Tom, crouches in a dramatic pose, surrounded by explosive yellow and brown bursts, suggesting intense action. He then swiftly dashes across a green floor, heading toward a corner. A small arched doorway appears in the wall as he moves, hinting at his escape or pursuit. The scene is vibrant and dynamic, capturing Tom’s agility and urgency, with no visible expressions, but his body language conveys determination and swift movement.",
+    "timestamp": "2026-02-24 01:16:45"
+  }
+]

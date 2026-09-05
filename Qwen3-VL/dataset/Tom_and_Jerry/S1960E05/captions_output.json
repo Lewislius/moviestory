@@ -1,0 +1,338 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      79,
+      43,
+      361,
+      358
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat clings desperately to a rocket, screaming as it launches into space, stars flashing behind him in a frantic, cartoonish escape.",
+    "timestamp": "2026-02-24 03:13:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      79,
+      43,
+      361,
+      358
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat clings desperately to a rocket, eyes wide with terror as it launches into space. Flames erupt below, and stars flash behind him. His frantic grasping and terrified expression convey panic as he struggles against the force of launch, clinging to the red rocket's side.",
+    "timestamp": "2026-02-24 03:13:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      79,
+      43,
+      361,
+      358
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat clings desperately to a rocket, his eyes wide with panic as it launches into space. Flames burst from the rocket’s base, and stars glitter behind him. His claws grip the red casing as he screams, terrified, his body contorting with the force of acceleration and the unknown cosmos ahead.",
+    "timestamp": "2026-02-24 03:13:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      79,
+      43,
+      361,
+      358
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat clings desperately to a rocket, eyes wide with panic as it rockets through space. His paws grip the red exterior, body contorted in fear. Flames erupt beneath him, illuminating his frantic struggle. Stars dot the black void around him. His expression shifts from terror to exhilaration as the rocket ascends, leaving Earth behind. The scene captures his chaotic, comedic desperation in a cosmic adventure.",
+    "timestamp": "2026-02-24 03:13:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      13,
+      420,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat floats in space, arms outstretched, eyes wide with wonder. He drifts past a pink rocket, then spins joyfully among twinkling stars, embodying cosmic freedom and delight.",
+    "timestamp": "2026-02-24 03:14:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      13,
+      420,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat floats in space, arms outstretched, eyes wide with surprise. He tumbles backward, then spins, limbs flailing. Stars twinkle around him as he drifts, expression shifting from awe to panic. His pink nose and white paws stand out against the cosmic backdrop, capturing a moment of bewildered adventure.",
+    "timestamp": "2026-02-24 03:14:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      13,
+      420,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the blue cat floats in space, arms outstretched, eyes wide with surprise. He tumbles through stars, then leaps off a pink rocket, spinning mid-air. His expression shifts from delight to panic as he drifts aimlessly, embodying chaotic wonder against the cosmic backdrop.",
+    "timestamp": "2026-02-24 03:14:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      13,
+      420,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, joyfully floats in space, arms outstretched, eyes wide with excitement. He tumbles mid-air, limbs flailing, as stars twinkle around him. His expression shifts from delight to surprise as he drifts past a pink rocket, which suddenly vanishes, leaving him alone in the cosmic void. His playful, carefree demeanor contrasts with the vastness of space, capturing his adventurous spirit and whimsical escapades.",
+    "timestamp": "2026-02-24 03:14:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      164,
+      78,
+      436,
+      420
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, chases Jerry, the brown mouse, wielding a hammer. Jerry flees, while Tom pursues with determination, his expression fierce and focused on capturing his prey.",
+    "timestamp": "2026-02-24 03:14:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      164,
+      78,
+      436,
+      420
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wields a hammer menacingly, chasing Jerry, the brown mouse. Jerry scurries away, clutching a blue suitcase. Tom's expression shifts from playful to angry as he lunges, but Jerry escapes, leaving Tom frustrated and alone in the room.",
+    "timestamp": "2026-02-24 03:14:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      164,
+      78,
+      436,
+      420
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wields a hammer menacingly, chasing Jerry, the small brown mouse. Jerry scurries away, clutching a blue suitcase. Tom’s expression shifts from gleeful to frustrated as he struggles to catch Jerry, who escapes past a bookshelf, leaving Tom in pursuit.",
+    "timestamp": "2026-02-24 03:14:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      164,
+      78,
+      436,
+      420
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, brandishes a hammer with a mischievous grin, chasing Jerry, the small brown mouse carrying a blue briefcase. Tom lunges, then pauses, looming over Jerry with a playful threat. Jerry scurries away, dodging Tom’s hammer swings. The scene unfolds in a cozy room with bookshelves and a painting, capturing Tom’s relentless pursuit and Jerry’s quick wit, embodying their classic, comedic rivalry.",
+    "timestamp": "2026-02-24 03:14:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      3,
+      482,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a gun menacingly, while Jerry, the mouse, scurries away. Tom’s expression is intense and focused, showing his determination to catch Jerry.",
+    "timestamp": "2026-02-24 03:15:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      3,
+      482,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, brandishes a gun, menacingly aiming at Jerry, the tiny brown mouse. Jerry, clutching a blue suitcase, scurries away as Tom growls, his expression fierce. The scene unfolds in a cozy room with a purple armchair and potted plant, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-24 03:15:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      3,
+      482,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, brandishes a gun, aiming at Jerry, the tiny brown mouse. Tom’s expression is intense and focused, while Jerry scurries away, clutching a small blue suitcase. The scene unfolds in a cozy room with a purple armchair and potted plants, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-24 03:15:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      3,
+      482,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, holds a revolver, aiming it at Jerry, the small brown mouse carrying a blue suitcase. Tom’s expression shifts from intense focus to frustration as Jerry evades him. Jerry scurries away, leaving Tom bewildered and defeated. The scene unfolds in a cozy room with a purple armchair and potted plant, emphasizing the classic chase dynamic between the two iconic cartoon characters.",
+    "timestamp": "2026-02-24 03:15:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      102,
+      44,
+      296,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, floats in space, arms raised, eyes wide with surprise. He tumbles, limbs flailing, amidst stars and colorful debris, showing panic and disorientation in his cartoonish, exaggerated expression.",
+    "timestamp": "2026-02-24 03:16:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      102,
+      44,
+      296,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, floats in space, arms raised, eyes wide with panic. He tumbles, limbs flailing, as colorful meteors streak past. His expression shifts from surprise to terror as he spins, caught in cosmic chaos, embodying frantic, cartoonish disorientation against a starry void.",
+    "timestamp": "2026-02-24 03:16:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      102,
+      44,
+      296,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat floats in space, arms raised, eyes wide with surprise. Stars twinkle around him as colorful meteors streak past. His expression shifts from shock to playful delight, limbs flailing as he drifts, embodying chaotic joy amidst the cosmic backdrop.",
+    "timestamp": "2026-02-24 03:16:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      102,
+      44,
+      296,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, floats in space, arms raised in panic, eyes wide with fear. His body twists as he tumbles through the starry void, claws flailing. A purple spaceship drifts overhead, hinting at danger. Stars blink behind him, adding to the surreal chaos. His expression shifts from terror to frantic determination as he struggles against the cosmic tumble, embodying pure cartoonish panic amidst the vast, silent universe.",
+    "timestamp": "2026-02-24 03:16:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      151,
+      12,
+      388,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, leaps through space, clutching a yellow gem, surrounded by colorful debris and stars, eyes wide with excitement or panic.",
+    "timestamp": "2026-02-24 03:16:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      151,
+      12,
+      388,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, floats in space, clutching a yellow gem, eyes wide with panic. Colorful, floating gems surround him as he tumbles through the starry void, his expression a mix of shock and desperation, suggesting a chaotic, surreal adventure.",
+    "timestamp": "2026-02-24 03:16:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      151,
+      12,
+      388,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, floats in space, clutching a yellow gem, eyes wide with panic. Colorful, floating gems surround him as he desperately tries to escape. His expression is frantic, limbs flailing. Stars twinkle behind him as he tumbles through the cosmic void, seemingly pursued by unseen forces.",
+    "timestamp": "2026-02-24 03:16:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E05 - Mouse into Space (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      151,
+      12,
+      388,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, floats in space, eyes wide with panic, clutching a yellow gem. Colorful, glowing crystals swirl around him, some exploding into fiery trails. His expression shifts from shock to frantic determination as he dodges debris. Stars dot the black void, emphasizing his isolation. His limbs flail wildly, suggesting chaotic motion. The scene conveys urgency and surreal wonder, as if caught in a cosmic chase or magical mishap.",
+    "timestamp": "2026-02-24 03:16:53"
+  }
+]

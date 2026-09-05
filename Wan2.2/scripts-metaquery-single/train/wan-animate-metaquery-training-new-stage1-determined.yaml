@@ -1,0 +1,41 @@
+name: 10h-wan-ti2v-training-first_stage
+description: a simple test for the availability of wan-ti2v training
+workspace: A100
+project: wan-animate
+
+max_restarts: 0
+resources:
+  resource_pool: amp-80g
+  slots_per_trial: 4
+  is_single_node: true
+  shm_size: 34359738368
+
+bind_mounts:
+  - host_path: /mount/HOME/liuzhirui
+    container_path: /home/liuzhirui
+  - host_path: /mount/NAS1/public
+    container_path: /run/determined/NAS1/public
+
+environment:
+  image: 10.130.130.5:8192/liuzhirui:ubuntu22-04-cuda12.8-v3
+
+checkpoint_storage:
+  type: shared_fs
+  host_path: /mount/HOME/liuzhirui/model
+  storage_path: checkpoint
+  save_experiment_best: 0
+  save_trial_best: 1
+  save_trial_latest: 1
+
+searcher:
+  name: single
+  metric: validation_loss
+  max_length:
+    epochs: 1
+  smaller_is_better: true
+
+profiling:
+  enabled: true
+
+entrypoint: /home/liuzhirui/model/Wan2.2/train_stage1_openvid_local_metaquery_with_wan.sh
+

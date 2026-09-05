@@ -1,0 +1,282 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      23,
+      315,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat in a pink hat and apron dances wildly in a kitchen. A small mouse rolls past, then Tom the cat leaps in, startling the cat who drops the meat.",
+    "timestamp": "2026-02-24 02:41:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      23,
+      315,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat in a pink bonnet and apron dances wildly in a kitchen, then grabs a large slice of meat. Tom the cat leaps in, startled, as the cat proudly holds the meat, grinning mischievously. The scene is playful and chaotic, capturing classic cartoon energy.",
+    "timestamp": "2026-02-24 02:41:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      23,
+      315,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat in a pink bonnet and apron dances wildly in a kitchen, then grabs a large slice of meat. A gray cat leaps in, startled, as the black cat triumphantly holds the meat, grinning with delight, while the gray cat retreats in panic.",
+    "timestamp": "2026-02-24 02:41:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      23,
+      315,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat in a pink bonnet and apron dances wildly in a kitchen, arms raised. Suddenly, a slice of ham rolls toward him. He grabs it, smiling triumphantly. As he turns, Tom the cat leaps in, startled, then vanishes. The cat holds the ham aloft, grinning, as if celebrating a victory over his rival. The scene is comedic, filled with exaggerated expressions and slapstick energy.",
+    "timestamp": "2026-02-24 02:41:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      358,
+      106,
+      511,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat in a pink hat and apron holds a red mallet, startled as a mouse runs by, then Tom the cat leaps in, causing chaos in the kitchen.",
+    "timestamp": "2026-02-24 02:42:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      358,
+      106,
+      511,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat in a pink hat and apron holds a red mallet, startled as a small mouse runs past. Tom the cat leaps in, chasing the mouse. The cat looks surprised, then amused, as the mouse darts away, leaving Tom in a comedic chase.",
+    "timestamp": "2026-02-24 02:42:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      358,
+      106,
+      511,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat in a pink hat and apron holds a red mallet, smiling mischievously. She stumbles, then trips over a small mouse carrying a ham. Tom the cat leaps in, startled, as the mouse scurries away. The cat’s expression shifts from joy to surprise.",
+    "timestamp": "2026-02-24 02:42:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      358,
+      106,
+      511,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat in a pink bonnet and apron holds a red mallet, laughing mischievously. She stumbles backward, then leaps forward, dropping the mallet. A small brown mouse scurries away. Suddenly, a gray cat bursts in, leaping with surprise. The black cat stands still, grinning triumphantly, holding the mallet again. The scene is set in a cozy kitchen with green cabinets and orange tiles.",
+    "timestamp": "2026-02-24 02:42:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      89,
+      128,
+      426,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom carries a black-and-white cat with a pink bonnet, who laughs joyfully while pointing. Tom smiles, holding her securely, both characters displaying playful, happy expressions against a plain background.",
+    "timestamp": "2026-02-24 02:43:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      89,
+      128,
+      426,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, carries a black-and-white cat with a pink bonnet. The black cat laughs joyfully, pointing ahead. Tom smiles, seemingly amused. Their playful interaction suggests a lighthearted chase or adventure, with exaggerated expressions highlighting their comedic dynamic.",
+    "timestamp": "2026-02-24 02:43:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      89,
+      128,
+      426,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully carries a black-and-white cat wearing a pink bonnet. The black cat laughs exuberantly, pointing dramatically. Tom smiles, enjoying the moment. Their playful antics and exaggerated expressions convey lighthearted fun, capturing a classic cartoon dynamic of mischievous camaraderie.",
+    "timestamp": "2026-02-24 02:43:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      89,
+      128,
+      426,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, carries a black-and-white cat, likely Tippy, in his arms. Tippy, wearing a pink bonnet, laughs joyfully, arms flailing. Tom smiles, looking content. As the scene progresses, Tippy’s laughter crescendos into a wide, open-mouthed yell, pointing dramatically ahead. Tom’s expression shifts to amused surprise, eyes widening slightly. The moment captures playful chaos and camaraderie between the two feline characters against a plain, warm-toned backdrop.",
+    "timestamp": "2026-02-24 02:43:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      206,
+      156,
+      432,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat with pink ears grabs meat from a fridge, drops it into a trash can, then turns to face a gray cat holding a large piece of meat, both smiling.",
+    "timestamp": "2026-02-24 02:43:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      206,
+      156,
+      432,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A pink-haired cat in a black-and-white outfit rummages a fridge, pulling out meat, then drops it into a trash can. Tom the cat appears, holding a large piece of meat, and they both look at each other with expressions of surprise and mischief.",
+    "timestamp": "2026-02-24 02:43:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      206,
+      156,
+      432,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat with pink ears and a diaper rummages a fridge, pulling out meat. She drops it into a trash can, then laughs. Tom the cat appears, holding a slab of meat, and playfully bumps her. Both characters show mischievous delight in their antics.",
+    "timestamp": "2026-02-24 02:43:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      206,
+      156,
+      432,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A pink-haired cat in a black-and-white outfit rummages through a fridge, pulling out meat, then drops it into a blue trash bin. She laughs triumphantly, then turns to face Tom, who bursts in holding a large piece of meat. He looks annoyed, while the cat beams, clearly pleased with her antics. Their expressions shift from mischief to playful rivalry as they stand near the fridge, the scene filled with cartoonish energy and comedic tension.",
+    "timestamp": "2026-02-24 02:43:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      136,
+      175,
+      372,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon cat in a chef's outfit opens a fridge, revealing food inside. It gives a thumbs-up, smiling proudly, as if pleased with its culinary discovery.",
+    "timestamp": "2026-02-24 02:44:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      136,
+      175,
+      372,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat in a pink hat and black outfit opens a refrigerator, revealing food inside. The cat, with a mischievous grin, reaches for a bowl while holding the fridge door open, seemingly planning a snack. Its expression suggests delight and anticipation.",
+    "timestamp": "2026-02-24 02:44:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      136,
+      175,
+      372,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat in a black outfit and pink bow opens a refrigerator, revealing a turkey and bowls. The cat, with wide eyes and a mischievous grin, reaches inside, seemingly planning a snack. Its playful demeanor suggests a humorous, mischievous intent.",
+    "timestamp": "2026-02-24 02:44:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E38 - Baby Butch (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      136,
+      175,
+      372,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon mouse, wearing a pink hat and black outfit with a white apron, opens a refrigerator with one hand, then reaches inside. Inside, a turkey and various dishes are visible. The mouse appears determined or hungry, eyes wide, as it peers into the fridge. The kitchen setting includes green cabinets and an orange-tiled wall. The mouse’s posture suggests eagerness to grab something tasty, with a playful, cartoonish energy.",
+    "timestamp": "2026-02-24 02:44:36"
+  }
+]

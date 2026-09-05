@@ -1,0 +1,394 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      45,
+      47,
+      436,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, hides behind a tree, grinning mischievously. Jerry, a brown mouse, approaches, sniffs Tom, and gets startled, falling backward. Tom laughs triumphantly.",
+    "timestamp": "2026-02-24 00:41:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      45,
+      47,
+      436,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, hides behind a tree, laughing maniacally. Suddenly, he's startled, drops to the ground, and sees Jerry, the brown mouse, sneaking up. Jerry playfully nuzzles Tom, who reacts with surprise and annoyance, then rolls away in defeat.",
+    "timestamp": "2026-02-24 00:41:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      45,
+      47,
+      436,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, laughs gleefully behind a tree, then collapses dramatically. Jerry, the brown mouse, approaches cautiously, sniffs Tom’s nose, and playfully pokes it. Tom reacts with surprise and annoyance, ending with a comical, exaggerated expression as Jerry lies down nearby.",
+    "timestamp": "2026-02-24 00:41:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      45,
+      47,
+      436,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, initially laughs gleefully behind a tree, then suddenly drops to the ground in shock. A tiny brown mouse, Jerry, approaches curiously, sniffing Tom’s face. Tom’s expression shifts from surprise to annoyance as Jerry playfully pokes his nose. Tom’s tail flicks, and he growls, but Jerry remains unfazed, lying down and smiling mischievously, enjoying his victory. The scene captures their classic rivalry with humor and charm.",
+    "timestamp": "2026-02-24 00:41:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      144,
+      0,
+      461,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, angrily digs with a shovel after Jerry, the mouse, escapes. Tom's determined expression shows his frustration as he chases Jerry through the yard.",
+    "timestamp": "2026-02-24 00:42:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      144,
+      0,
+      461,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, angrily digs with a shovel, scattering dirt. Jerry, the brown mouse, scurries away. Tom’s determined expression shows his frustration. The scene captures their classic chase, with Tom’s aggression contrasting Jerry’s quick escape, set against a sunny backyard backdrop.",
+    "timestamp": "2026-02-24 00:42:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      144,
+      0,
+      461,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, angrily digs with a shovel, scattering dirt. Jerry, the brown mouse, scurries away. Tom’s determined expression shifts to frustration as he continues digging, revealing a hole. The scene captures their classic chase, with Tom’s aggression and Jerry’s escape.",
+    "timestamp": "2026-02-24 00:42:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      144,
+      0,
+      461,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, angrily digs with a shovel, scattering dirt. He’s determined, eyes narrowed, tail flicking. Jerry, the brown mouse, scurries away, then returns, hiding under a wheelbarrow. Tom’s frustration peaks as he swings the shovel wildly, sending rocks flying. The scene is set in a sunny yard with a house and flower box. Tom’s expression shifts from rage to surprise as he realizes his effort is futile—Jerry’s escape is swift and clever.",
+    "timestamp": "2026-02-24 00:42:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      102,
+      201,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom chases Jerry, who hides behind a barrel. Tom trips, then sees Jerry with a cannon. Jerry fires, startling Tom, who reacts with shock and fear.",
+    "timestamp": "2026-02-24 00:43:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      102,
+      201,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse, who escapes under a barrel. Tom leaps, startled by fireworks. Jerry, with a mouse companion, operates a green cannon, firing sparks at Tom, who reacts in shock and fear, his eyes wide and mouth agape as he dodges the blasts.",
+    "timestamp": "2026-02-24 00:43:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      102,
+      201,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse, who躲 behind a barrel. Tom leaps, startled by fireworks. Jerry and a small mouse operate a green cannon, launching sparks at Tom, who reacts with shock and panic. Their antics showcase classic cartoon chaos and slapstick humor.",
+    "timestamp": "2026-02-24 00:43:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      102,
+      201,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat sprints angrily, eyes narrowed, chasing Jerry the mouse. Jerry, with a mischievous grin, hides behind a barrel. Tom leaps, crashing into it. He then stands before a makeshift cannon, eyes wide with shock as Jerry fires a red rocket, sending sparks flying. Tom’s expression shifts to pure panic as he dodges the blast, his tail flailing in fear. The chase continues, full of slapstick chaos and cartoonish energy.",
+    "timestamp": "2026-02-24 00:43:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      8,
+      22,
+      436,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps in panic, dodging a firework. His wide eyes and open mouth show fear as he scrambles away, startled by the sudden explosion.",
+    "timestamp": "2026-02-24 00:43:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      8,
+      22,
+      436,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps excitedly, eyes wide, mouth open in surprise. He dodges a sparking red firecracker, leaping backward with flailing limbs. His expression shifts from joy to shock as he narrowly avoids the explosion, showcasing classic cartoon chaos and slapstick humor.",
+    "timestamp": "2026-02-24 00:43:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      8,
+      22,
+      436,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps in panic, eyes wide, mouth agape, as a red firecracker explodes nearby. His limbs flail wildly, showcasing frantic motion and surprise. The scene captures his startled reaction to the sudden blast, emphasizing comedic chaos and his classic chase-and-flee instincts.",
+    "timestamp": "2026-02-24 00:43:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      8,
+      22,
+      436,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue-gray cat with white paws and a pink ear, leaps in panic as a red firecracker explodes nearby. His eyes widen, mouth agape, and limbs flail in startled motion. Behind him, a green bush and a yellow house with flower boxes frame the scene. The explosion’s sparks fly as Tom’s frantic escape continues, his expression a mix of terror and comedic absurdity. The background shifts slightly, showing a fence and trees, emphasizing his sudden, chaotic movement.",
+    "timestamp": "2026-02-24 00:43:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      115,
+      53,
+      364,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, pours black liquid, lights a match, ignites the barrel, and leaps back in alarm as flames engulf it, showing mischief and fear.",
+    "timestamp": "2026-02-24 00:44:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      115,
+      53,
+      364,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, pours black liquid from a barrel, then lights a match. He watches as the liquid ignites, creating a small fire. He reacts with surprise as the flames grow, eventually jumping back in alarm. His expression shifts from mischief to shock.",
+    "timestamp": "2026-02-24 00:44:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      115,
+      53,
+      364,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with fierce yellow eyes, pours black liquid from a barrel, then ignites a match. He watches as the barrel bursts into flames, his expression shifting from smug to startled as he leaps back, revealing his mischievous yet startled demeanor in the backyard setting.",
+    "timestamp": "2026-02-24 00:44:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      115,
+      53,
+      364,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with his signature blue fur and white paws, eagerly pours black liquid from a barrel, then ignites a match. He gleefully watches as the liquid catches fire, forming a ring of flames around the barrel. Tom, grinning mischievously, leaps back in surprise as the fire intensifies. His expression shifts from delight to alarm as the flames engulf the barrel, showcasing his playful yet reckless nature.",
+    "timestamp": "2026-02-24 00:44:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      72,
+      85,
+      375,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, runs while holding a sparking firecracker, then stops, looks panicked, and sits down, covering his face in distress as sparks fly around him.",
+    "timestamp": "2026-02-24 00:45:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      72,
+      85,
+      375,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, runs with a lit firecracker, sparks flying. He dances wildly, then stops, startled. He sits down, head in paws, exhausted and annoyed. His expression shifts from excitement to frustration as the firecracker continues to spark.",
+    "timestamp": "2026-02-24 00:45:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      72,
+      85,
+      375,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a sparking firecracker, dances wildly outdoors, eyes wide with excitement. Sparks fly as he twirls, then abruptly stops, dropping the firecracker. He sits, exhausted and defeated, head in paws, defeated by his own chaotic energy.",
+    "timestamp": "2026-02-24 00:45:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      72,
+      85,
+      375,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with a mischievous grin, holds a lit firecracker, sparks flying as he dances wildly outdoors. His eyes widen in delight, then shift to panic as he stumbles backward, dodging the blast. He collapses, clutching his head in exaggerated distress, eyes squeezed shut, as the firecracker’s sparks still flicker around him. The scene captures his playful chaos and sudden fear, typical of his antics.",
+    "timestamp": "2026-02-24 00:45:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      215,
+      1,
+      478,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a blue-gray cat, vigorously digs with a shovel, creating a hole. He then swings the shovel, sending dirt flying, with a determined expression as he works outdoors.",
+    "timestamp": "2026-02-24 00:45:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      215,
+      1,
+      478,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, enthusiastically digs with a shovel, then suddenly transforms into a fiery beam, scattering dirt. His expression shifts from focused to startled as the scene erupts in red streaks, hinting at comedic chaos. The garden setting remains unchanged, emphasizing his exaggerated, cartoonish antics.",
+    "timestamp": "2026-02-24 00:45:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      215,
+      1,
+      478,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue-gray cat, energetically digs with a shovel, scattering dirt. His expression shifts to surprise as a red laser beam erupts from his hand, blasting soil. The scene is comedic, with exaggerated motion and vibrant colors, capturing Tom’s chaotic, cartoonish antics in a suburban backyard setting.",
+    "timestamp": "2026-02-24 00:45:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E05 - Safety Second (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      215,
+      1,
+      478,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, energetically digs with a shovel, dirt flying. He lifts the tool high, then swings it with force, sending a burst of red sparks and debris flying. His expression is focused and determined, ears perked, tail swishing. The scene is set outdoors, with a house, flower box, and green lawn. The action is exaggerated and cartoonish, highlighting Tom’s playful, mischievous intent as he works the soil.",
+    "timestamp": "2026-02-24 00:46:05"
+  }
+]

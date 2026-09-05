@@ -1,0 +1,394 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      87,
+      151,
+      343,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom proudly holds a cake, then drops it, startling Jerry. He grabs a bottle, smiling mischievously as Jerry watches from below, hinting at their classic chase.",
+    "timestamp": "2026-02-23 21:05:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      87,
+      151,
+      343,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a cake, then grabs a green bottle from the fridge. Jerry, the small brown mouse, watches from below. Tom's expression shifts from joy to surprise as he reacts to something unseen, his movements exaggerated and playful.",
+    "timestamp": "2026-02-23 21:05:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      87,
+      151,
+      343,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a cake, then turns to reveal Jerry, the mouse, peeking from behind. Tom opens the fridge, grabs a green bottle, and dances joyfully, while Jerry watches with mischief, anticipating Tom’s next move. Their classic rivalry sparkles with humor and charm.",
+    "timestamp": "2026-02-23 21:05:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      87,
+      151,
+      343,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a cake, smiling as he walks toward Jerry, the small brown mouse. Jerry watches, intrigued. Tom then opens the fridge, grabs a green bottle, and triumphantly displays it. His expression shifts to satisfaction, while Jerry remains small and observant, hinting at impending mischief. The scene captures their classic dynamic: Tom’s greed, Jerry’s wit, and the kitchen’s mundane backdrop.",
+    "timestamp": "2026-02-23 21:05:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      247,
+      131,
+      511,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, gleefully chases Jerry, the mouse, who stands on a pie. Tom falls into the pie, splashing, while Jerry laughs. Their playful antics showcase classic cartoon chaos.",
+    "timestamp": "2026-02-23 21:05:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      247,
+      131,
+      511,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, gleefully chases Jerry, the mouse, who stands atop a pie. Tom’s expression shifts from delight to shock as the pie explodes. Jerry laughs triumphantly, while Tom falls backward into the mess, revealing their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 21:05:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      247,
+      131,
+      511,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, gleefully chases Jerry, the mouse, who stands atop a pie. Tom’s expression shifts from smug to shocked as Jerry’s antics cause him to tumble into the pie, splashing yellow goo. Jerry laughs triumphantly, while Tom’s dismay is evident in his exaggerated fall.",
+    "timestamp": "2026-02-23 21:05:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      247,
+      131,
+      511,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully chases Jerry, the brown mouse, who stands atop a spilled pie. Tom, initially smug, reacts with shock as Jerry’s antics cause the pie to explode. Tom’s expression shifts from delight to dismay as he falls backward into the pie’s gooey mess. Jerry, triumphant, laughs, while Tom, drenched and flustered, tries to recover, highlighting their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 21:05:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      80,
+      76,
+      317,
+      395
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat sneaks, dances, and hides near a door, then emerges with a lit match, eyes gleaming with mischief, as a large, colorful figure stands nearby.",
+    "timestamp": "2026-02-23 21:07:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      80,
+      76,
+      317,
+      395
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sneaks around, then leaps playfully. He spots a pie and eagerly approaches, but a tiny mouse scurries away. Tom, amused, lights a match, smirking as he watches the mouse vanish. His antics show mischief and delight, capturing classic cartoon humor.",
+    "timestamp": "2026-02-23 21:07:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      80,
+      76,
+      317,
+      395
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, grinning mischievously, peeks from behind a door, then dances playfully. He spots a mouse, scowls, and dashes away. Later, he emerges with a lit match, eyes gleaming with scheming intent, as a large, colorful-clad figure stands nearby, oblivious to his antics.",
+    "timestamp": "2026-02-23 21:07:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      80,
+      76,
+      317,
+      395
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, peeks from behind a door, then dashes forward with a mischievous grin. He strikes a playful pose, tail high, then retreats as a tiny mouse scurries past. He reappears, holding a lit match, eyes gleaming with scheming delight. A large, red-clad figure stands nearby, oblivious. The scene crackles with slapstick anticipation as Tom’s antics unfold in a classic cartoon comedy.",
+    "timestamp": "2026-02-23 21:07:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      27,
+      75,
+      331,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat, flips upside-down in a pie, then crashes down. Jerry, a small mouse, watches, then laughs as Tom lies defeated, covered in pie filling.",
+    "timestamp": "2026-02-23 21:08:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      27,
+      75,
+      331,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, attempts a backflip into a pie, spills it, and crashes. Jerry, the mouse, watches with delight. Tom lies defeated, then smiles triumphantly as the pie's remnants drip around him, ending in a comical, messy aftermath.",
+    "timestamp": "2026-02-23 21:09:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      27,
+      75,
+      331,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, stands on a pie, then flips backward, landing in a mess. Jerry, the mouse, watches with delight. Tom, dazed, rolls over, then smiles, proud. The scene ends with Tom laughing, crumbs scattered, and Jerry’s triumphant grin.",
+    "timestamp": "2026-02-23 21:09:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      27,
+      75,
+      331,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, is upside down in a pie, flailing wildly as Jerry, the brown mouse, watches. Tom crashes to the floor, pie goo splattering. He rolls over, dazed, then smiles triumphantly as he sees Jerry’s delighted expression. The kitchen is messy—spilled pie, broken glass, and a tipped-over bowl. Tom’s goofy grin contrasts with Jerry’s playful mischief, capturing their classic rivalry in a chaotic, sweetly absurd moment.",
+    "timestamp": "2026-02-23 21:09:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      1,
+      225,
+      482
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom proudly holds a dessert, smiling. Jerry watches nervously. Tom leans closer, eyes wide with delight, as Jerry’s expression shifts to wary anticipation.",
+    "timestamp": "2026-02-23 21:09:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      1,
+      225,
+      482
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a dessert bowl, smiling. Jerry, the brown mouse, approaches with a mischievous grin. Tom leans in, eyes wide with delight, as Jerry watches, anticipating a prank. Their classic rivalry is evident in their expressions and body language.",
+    "timestamp": "2026-02-23 21:09:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      1,
+      225,
+      482
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a dessert, smiling as Jerry, the brown mouse, approaches with curiosity. Tom leans forward, eyes wide with delight, while Jerry watches, intrigued. Their expressions convey playful anticipation, hinting at a classic chase or treat moment in their timeless cartoon rivalry.",
+    "timestamp": "2026-02-23 21:09:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      1,
+      225,
+      482
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a dessert bowl, smiling. Jerry, the brown mouse, approaches with a mischievous grin, eyes wide with anticipation. Tom leans forward, eyes gleaming with delight, as if savoring the moment. Jerry’s expression shifts to eager excitement as he watches Tom’s reaction. The scene captures their classic dynamic: Tom’s indulgence and Jerry’s cunning anticipation, set against a kitchen backdrop filled with colorful groceries.",
+    "timestamp": "2026-02-23 21:10:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      62,
+      111,
+      407,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, joyfully chases Jerry, the brown mouse, across a wooden surface, both displaying playful, mischievous expressions as they engage in their classic chase.",
+    "timestamp": "2026-02-23 21:10:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      62,
+      111,
+      407,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully grabs Jerry, the small brown mouse, on a wooden surface. Tom’s expression shifts from joy to surprise as Jerry dodges. The scene captures their classic chase, with Tom’s playful aggression and Jerry’s quick wit, set against a simple, colorful backdrop.",
+    "timestamp": "2026-02-23 21:10:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      62,
+      111,
+      407,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully chases Jerry, the brown mouse, across a wooden crate. Tom’s expression shifts from triumphant to startled as Jerry dodges, his tail flicking. Jerry scurries away, eyes wide with mischief, as Tom’s playful pursuit continues, capturing their classic, slapstick chase.",
+    "timestamp": "2026-02-23 21:10:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      62,
+      111,
+      407,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully grabs a white object, likely a piece of cheese, while Jerry, the brown mouse, scurries nearby with a mischievous grin. Tom’s expression shifts from delight to surprise as he drops the object, then laughs triumphantly. Jerry, ever clever, dodges Tom’s flailing paws. The scene captures their classic chase, with Tom’s playful aggression and Jerry’s cunning evasion against a backdrop of wooden crates and a green bucket.",
+    "timestamp": "2026-02-23 21:10:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      181,
+      44,
+      436,
+      388
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat sneaks past a door, spots Jerry, and chases him. Jerry hides, but Tom trips over spilled food, landing in a comical tumble.",
+    "timestamp": "2026-02-23 21:11:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      181,
+      44,
+      436,
+      388
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sneaks past a door, gleefully spotting a spilled egg. He leaps joyfully, then trips over it. Jerry the mouse peeks out, watching Tom's antics. Tom's expression shifts from delight to surprise as he stumbles, highlighting their classic chase dynamic.",
+    "timestamp": "2026-02-23 21:11:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      181,
+      44,
+      436,
+      388
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, smug and mischievous, sneaks past a door, then leaps joyfully toward spilled food. He trips, tumbling dramatically. Jerry the mouse peeks from behind, watching with amusement. Tom’s antics reveal his playful, chaotic nature, while Jerry’s presence adds a touch of comedic tension.",
+    "timestamp": "2026-02-23 21:11:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E28 - Part Time Pal (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      181,
+      44,
+      436,
+      388
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray and mischievous, sneaks past a door, eyes gleaming with delight. He spots a spilled pie, then leaps joyfully, tripping over his own paws. A small orange cat, Jerry, peeks from behind the door, watching Tom’s antics. Tom’s expression shifts from gleeful to startled as he stumbles, then he resumes his playful pursuit, embodying classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 21:11:29"
+  }
+]

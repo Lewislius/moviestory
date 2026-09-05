@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      386,
+      1,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a chef's hat, reacts with panic as a large, smiling chef pours a fizzy drink, causing a burst of bubbles and liquid. Tom's fear intensifies as the drink splashes him.",
+    "timestamp": "2026-02-24 03:12:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      386,
+      1,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a chef's hat, sits anxiously as a large, smiling chef approaches with a bottle. The chef eagerly opens it, causing a burst of liquid that splashes Tom, who reacts with shock and dismay. The scene captures their contrasting reactions to the sudden eruption.",
+    "timestamp": "2026-02-24 03:12:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      386,
+      1,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat in a chef's hat, visibly distressed, sits on a wooden floor. A large, smiling orange man in a chef's hat holds a soda bottle, then dramatically squirts it, causing a burst of liquid. The cat reacts with shock and fear, while the man enjoys the chaos.",
+    "timestamp": "2026-02-24 03:12:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E04 - High Steaks (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      386,
+      1,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A blue cat in a chef’s hat, looking anxious, sits on wooden floor against a green wall. A large, smiling orange man in a chef’s hat and blue shirt enters, holding a bottle labeled “KoKo.” He laughs menacingly as he crushes the bottle, causing a burst of red liquid and bubbles. The cat reacts with shock and fear, flinching backward. The scene is comedic, filled with exaggerated expressions and slapstick action.",
+    "timestamp": "2026-02-24 03:13:00"
+  }
+]

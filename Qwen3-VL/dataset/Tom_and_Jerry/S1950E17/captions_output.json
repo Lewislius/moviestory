@@ -1,0 +1,282 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      199,
+      31,
+      510,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, swings a bat at a bird perched on a fence post. He misses, the bird flies away, and Tom looks surprised, then determined, with a mischievous grin.",
+    "timestamp": "2026-02-24 01:41:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      199,
+      31,
+      510,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, swings a bat at a bird perched on a fence. The bird flies away as Tom misses, his expression shifting from determination to frustration. The scene captures Tom’s classic chase, highlighting his persistence and comedic failure in the classic cartoon style.",
+    "timestamp": "2026-02-24 01:41:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      199,
+      31,
+      510,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, swings a bat, aiming at a yellow bird perched on a fence. The bird flies away as Tom’s bat smacks into a tree trunk. Tom’s expression shifts from determination to surprise, his mouth open in a yell, as he continues his futile chase in the sunny backyard.",
+    "timestamp": "2026-02-24 01:42:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      199,
+      31,
+      510,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, blue with white paws, swings a bat, aiming at a yellow bird perched on a fence. The bird scurries away as Tom’s bat strikes a tree trunk, sending wood flying. Tom’s expression shifts from focused to triumphant, mouth open in a yell, eyes narrowed. The scene is set outdoors, with green grass, a wooden fence, and a clear blue sky. His dynamic pose and the bird’s escape capture the classic chase-and-chase-again energy of the cartoon.",
+    "timestamp": "2026-02-24 01:42:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      221,
+      41,
+      511,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, swings an axe at a wooden post, chasing a yellow bird. He's determined, eyes narrowed, as the bird darts away, evading his attack.",
+    "timestamp": "2026-02-24 01:42:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      221,
+      41,
+      511,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wielding an axe, charges toward a wooden post, aiming to strike a yellow bird perched nearby. His determined expression and outstretched limbs convey aggression. The bird, small and alert, flies away as Tom swings, showcasing classic cartoon chaos and pursuit.",
+    "timestamp": "2026-02-24 01:42:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      221,
+      41,
+      511,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, swings an axe with determination, chasing a yellow bird. The bird darts away, narrowly escaping as Tom leaps and swings. Tom’s focused expression and energetic motion convey his persistence. The scene unfolds against a wooden fence and vibrant garden backdrop, capturing classic cartoon chaos.",
+    "timestamp": "2026-02-24 01:42:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      221,
+      41,
+      511,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, swings a hammer with determination, eyes wide and mouth agape, chasing a small yellow bird. The bird darts near a wooden fence, narrowly escaping Tom’s hammer swings. Tom’s body twists mid-air, showing his frantic pursuit. The scene is set outdoors, with green grass and a flower-lined wall. Tom’s expression is one of focused, almost comical obsession, as he leaps and swings, determined to catch the elusive bird.",
+    "timestamp": "2026-02-24 01:42:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      186,
+      320,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat peeks from behind a house, then emerges with a mischievous grin, walking confidently past a vine-covered wall under a sunny sky.",
+    "timestamp": "2026-02-24 01:43:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      186,
+      320,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a pink house, then dashes out with a mischievous grin. He walks confidently, arms outstretched, eyes gleaming with playful intent. His movements are swift and energetic, embodying his classic cunning and joyful mischief as he explores the sunny outdoor setting.",
+    "timestamp": "2026-02-24 01:43:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      186,
+      320,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a pink house, then emerges with a mischievous grin, arms outstretched. He strolls confidently past a window, his tail flicking. The scene is bright and cheerful, capturing his playful, sly nature as he moves with purpose through the sunny, cartoonish neighborhood.",
+    "timestamp": "2026-02-24 01:43:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      186,
+      320,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue-gray cat with white paws and a mischievous grin, peeks from behind a pink house, then dashes out with exaggerated, playful movements. His yellow eyes gleam with excitement as he bounds across the yard, arms outstretched, seemingly chasing something unseen. The scene is bright and cheerful, capturing his energetic, scheming spirit. His joyful expression and lively gait suggest he’s on a playful mission, perhaps to catch Jerry or simply enjoy the day.",
+    "timestamp": "2026-02-24 01:43:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      187,
+      147,
+      506,
+      454
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat swings on a swing, determined and focused, as he moves across a backyard. His expression shows concentration and playful energy as he enjoys the ride.",
+    "timestamp": "2026-02-24 01:43:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      187,
+      147,
+      506,
+      454
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat eagerly swings on a wooden swing, gripping ropes with determination. His yellow eyes gleam with mischief as he swings forward, then backward, his tail swaying. The scene ends with a wooden fence, hinting at his playful, mischievous nature in a classic cartoon setting.",
+    "timestamp": "2026-02-24 01:44:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      187,
+      147,
+      506,
+      454
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with fierce yellow eyes, grips a swing's ropes, launching himself forward. His body taut, he swings wildly, then abruptly stops mid-air, eyes wide with surprise as the swing's wooden seat scrapes the ground. The scene ends with a wooden fence, hinting at his playful, mischievous nature.",
+    "timestamp": "2026-02-24 01:44:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      187,
+      147,
+      506,
+      454
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with his signature blue fur and white paws, eagerly grips a swing’s ropes, pulling himself forward with determination. His yellow eyes gleam with mischief as he swings, then leaps off, landing with a playful bounce. The scene shifts to a wooden fence, hinting at his escape or pursuit. The vibrant garden and distant house frame his mischievous antics, capturing his classic blend of cunning and comedic energy.",
+    "timestamp": "2026-02-24 01:44:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      115,
+      50,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat struggles to carry a ladder, then drops it, revealing a pole. He looks determined, eyes narrowed, as he prepares to climb or move the ladder.",
+    "timestamp": "2026-02-24 01:44:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      115,
+      50,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat struggles to carry a ladder, his face showing determination. He trips, dropping the ladder, which stands upright. The scene ends with the ladder leaning against a pole, suggesting Tom’s effort was futile. His expression shifts to mild frustration as he watches the ladder.",
+    "timestamp": "2026-02-24 01:44:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      115,
+      50,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue-gray cat, energetically carries a wooden ladder across a grassy yard, his eyes gleaming with determination. He drops it near a pole, then vanishes, leaving the ladder standing upright. The scene suggests playful mischief, hinting at his pursuit of Jerry, the mouse.",
+    "timestamp": "2026-02-24 01:44:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E17 - The Flying Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      115,
+      50,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, grips a wooden ladder, swinging it with determination. His eyes gleam with focus, ears perked, as he leaps forward, aiming to climb. The ladder tilts, then drops to the ground as Tom’s momentum carries him past. The scene shifts to a sunny backyard with a fence and green grass, capturing Tom’s relentless pursuit. His expression remains resolute, embodying classic cartoon determination as he moves with swift, cartoonish grace.",
+    "timestamp": "2026-02-24 01:44:49"
+  }
+]

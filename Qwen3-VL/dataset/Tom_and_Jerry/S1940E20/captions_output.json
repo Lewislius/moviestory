@@ -1,0 +1,842 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      96,
+      60,
+      464,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wielding a golf club, attempts to break into a tree hole where Jerry the mouse is hiding, showing determination and frustration as he struggles.",
+    "timestamp": "2026-02-23 19:40:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      96,
+      60,
+      464,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a golf club, aiming at a tree hole. He swings, misses, and recoils with surprise. His yellow eyes gleam with determination, then shock as the club flies off. The tree’s hole remains empty, hinting at a mouse’s absence. Tom’s expression shifts from focused to bewildered.",
+    "timestamp": "2026-02-23 19:40:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      96,
+      60,
+      464,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wielding a golf club, lunges at a tree hole, startling a mouse inside. He swings wildly, then recoils in shock as the club flies off. His eyes widen, whiskers twitch, and he stares in disbelief, humorously overwhelmed by his own antics under a clear blue sky.",
+    "timestamp": "2026-02-23 19:40:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      96,
+      60,
+      464,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wields a golf club, aiming at a tree hole where Jerry, the mouse, peeks out. Tom lunges, swings wildly, and smacks the tree, sending sparks flying. He looks surprised, then triumphant, as Jerry vanishes. Tom’s eyes gleam with mischief and determination. The scene is classic cartoon chaos—Tom’s overconfidence meets Jerry’s quick wit, set against a bright blue sky with autumn leaves.",
+    "timestamp": "2026-02-23 19:41:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      135,
+      36,
+      417,
+      375
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in a golfing pose, swings his club with determination, aiming to sink a golf ball into the hole, displaying focused concentration and playful energy.",
+    "timestamp": "2026-02-23 19:42:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      135,
+      36,
+      417,
+      375
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a scarf, plays golf on a green course. He swings his club, aiming at a hole. His expression shifts from focused to triumphant as he hits the ball. The scene captures his playful, competitive spirit against a scenic backdrop of trees and mountains.",
+    "timestamp": "2026-02-23 19:42:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      135,
+      36,
+      417,
+      375
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a scarf, prepares to hit a golf ball on a green course. He swings his club with determination, then triumphantly celebrates. His expression shifts from focused to joyful, capturing his playful spirit as he enjoys the game despite his usual mischievous nature.",
+    "timestamp": "2026-02-23 19:42:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      135,
+      36,
+      417,
+      375
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands on a vibrant green golf course, gripping a golf club with determination. He prepares to swing, eyes focused, then executes a powerful swing, sending the golf ball flying toward the hole. His expression shifts from concentration to triumphant joy as he lands the shot. The background features distant trees and mountains under a partly cloudy sky, adding depth to the scene. Tom’s playful energy and the whimsical setting capture classic cartoon charm.",
+    "timestamp": "2026-02-23 19:42:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      4,
+      55,
+      335,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, screams in rage while holding a stick, his eyes wide and mouth open, showing teeth and tongue, against a plain blue background.",
+    "timestamp": "2026-02-23 19:43:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      4,
+      55,
+      335,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, grips a golf club, yelling with exaggerated expressions—wide eyes, open mouth, drooling. He appears intensely focused or frustrated. The scene transitions to a serene sky with trees, then back to Tom’s animated, dramatic reaction, highlighting his comedic, over-the-top emotions.",
+    "timestamp": "2026-02-23 19:43:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      4,
+      55,
+      335,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a stick, screams with wide eyes and an open mouth, displaying exaggerated emotion. The scene transitions to a serene sky with trees, then back to Tom, emphasizing his intense, comedic reaction. His fur stands on end, highlighting his dramatic, cartoonish expression.",
+    "timestamp": "2026-02-23 19:43:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      4,
+      55,
+      335,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cartoon cat, Tom, grips a golf club with fierce determination, eyes wide and mouth agape in a triumphant yell. His fur stands on end, whiskers twitching, as he prepares for a powerful swing. The scene shifts to a serene sky with pine trees, then back to Tom, now mid-swing, muscles tensed. His expression conveys intense focus and exhilaration, capturing the essence of a competitive golfer in cartoon glory.",
+    "timestamp": "2026-02-23 19:44:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      19,
+      122,
+      254,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, holding a golf club, swings wildly at a golf ball on a green course, showing determination and focus, then exits the frame after the swing.",
+    "timestamp": "2026-02-23 19:44:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      19,
+      122,
+      254,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, enthusiastically plays golf on a vibrant green course. He swings his club with gusto, misses the ball, and falls backward in delight. His expression shifts from focused to joyful, capturing his playful, mischievous spirit as he enjoys the game.",
+    "timestamp": "2026-02-23 19:44:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      19,
+      122,
+      254,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, grips a golf club, preparing to swing. He takes a powerful swing, sending the ball flying. His expression shifts from focused to triumphant as he watches the ball soar toward the green, celebrating his successful shot in a vibrant, cartoonish golf course setting.",
+    "timestamp": "2026-02-23 19:44:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      19,
+      122,
+      254,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, grips a golf club on a vibrant green course. He takes a stance, swings with exaggerated motion, and launches the ball toward a distant green. His expression shifts from focused to triumphant as he follows the ball’s trajectory. Trees and a wooden table frame the scene, emphasizing his playful, determined golfing antics. The animation captures his joyful, mischievous spirit as he revels in his golfing adventure.",
+    "timestamp": "2026-02-23 19:44:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      195,
+      56,
+      417,
+      378
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, holds a golf club, aiming at a tree with eyes. Suddenly, golf balls explode from the tree, scattering wildly as Tom reacts in surprise.",
+    "timestamp": "2026-02-23 19:45:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      195,
+      56,
+      417,
+      378
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a golf club, staring at a tree with three eyes. He swings, sending golf balls flying. The tree watches, eyes wide. Tom’s expression shifts from focused to surprised as balls explode from his swing, scattering across the grass.",
+    "timestamp": "2026-02-23 19:45:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      195,
+      56,
+      417,
+      378
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a golf club, eyes wide with mischief, standing beside a tree with three eyes. He swings, launching golf balls into the air, scattering them wildly. His expression shifts from focused to surprised as balls explode around him, capturing his playful, chaotic energy in a classic cartoon moment.",
+    "timestamp": "2026-02-23 19:45:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      195,
+      56,
+      417,
+      378
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands beside a tree, holding a golf club, eyes fixed on the tree’s face. As he swings, a shower of golf balls erupts from the tree’s hollow, scattering across the grass. Tom’s expression shifts from focused to startled as he watches the balls fly. The tree’s eyes blink, adding a whimsical, surreal touch. The scene captures Tom’s playful mischief and the absurdity of the situation, highlighting his mischievous nature and the cartoon’s comedic timing.",
+    "timestamp": "2026-02-23 19:45:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      0,
+      291,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, hangs from a tree branch, peeking down. He then drops, revealing a hole in the tree trunk. His expression shifts from curious to startled as he falls.",
+    "timestamp": "2026-02-23 19:45:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      0,
+      291,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat clings to a tree, peeking out with a mischievous grin. He swings down, then vanishes into a hole. The scene captures his playful, sly nature as he hides, likely plotting his next trick against Jerry, his persistent mouse foe.",
+    "timestamp": "2026-02-23 19:45:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      0,
+      291,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, clings to a tree trunk, eyes wide with surprise as Jerry, the mouse, peeks out from a hollow. Tom’s tail sways nervously as Jerry’s antics trigger his startled reaction, capturing their classic chase dynamic with playful tension and comedic timing.",
+    "timestamp": "2026-02-23 19:45:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      0,
+      291,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with a mischievous grin, clings to a tree trunk, gripping a rope. He peers down, eyes wide with anticipation. Suddenly, he’s startled—his head snaps back as a blue object (possibly a mouse) darts past, leaving him momentarily stunned. His tail flicks nervously as he scrambles to regain balance, his expression shifting from playful to startled. The tree’s rough bark and scattered leaves frame his frantic, cartoonish antics against a serene blue sky.",
+    "timestamp": "2026-02-23 19:46:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      119,
+      80,
+      449,
+      382
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, angrily swings a golf club at Jerry, the mouse, who’s stuck in a hole. Tom’s neck stretches comically as he follows through, showing frustration and determination.",
+    "timestamp": "2026-02-23 19:47:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      119,
+      80,
+      449,
+      382
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, aggressively swings a golf club at Jerry, the small brown mouse, who’s stuck in a hole. Tom’s expression shifts from rage to surprise as his neck stretches unnaturally, hinting at comedic exaggeration. The scene captures their classic chase, filled with slapstick humor and cartoonish physics.",
+    "timestamp": "2026-02-23 19:47:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      119,
+      80,
+      449,
+      382
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, aggressively swings a golf club, targeting Jerry, the mouse, who hides in a hole. Tom’s expression shifts from furious to comically stretched as he’s caught in a springy, exaggerated recoil. The scene captures their classic chase, with Tom’s over-the-top reactions and Jerry’s frantic escape.",
+    "timestamp": "2026-02-23 19:47:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      119,
+      80,
+      449,
+      382
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, angrily swings a golf club at Jerry, the small brown mouse, who hides in a hole. Tom’s expression turns to shock as his neck stretches unnaturally, then relaxes with a satisfied grin. The scene is set on a vibrant golf course with distant trees and mountains. Jerry, peeking from the hole, looks up with a mischievous smirk, anticipating Tom’s inevitable failure. The humor lies in Tom’s exaggerated reactions and Jerry’s cunning escape.",
+    "timestamp": "2026-02-23 19:47:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      208,
+      0,
+      467,
+      410
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat plays golf, swings wildly, misses, then falls backward. He looks frustrated, then amused, as the ball rolls toward the hole.",
+    "timestamp": "2026-02-23 19:49:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      208,
+      0,
+      467,
+      410
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a mischievous grin, plays golf on a vibrant green course. He swings wildly, misses the ball, and falls comically. His expression shifts from focused to frustrated, then to playful delight as he continues his chaotic golfing antics.",
+    "timestamp": "2026-02-23 19:49:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      208,
+      0,
+      467,
+      410
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a determined expression, swings a golf club at a ball near a hole. He misses, stumbles, and falls dramatically, still clutching the club. His exaggerated movements and wide eyes convey comedic frustration and effort as he attempts to play golf.",
+    "timestamp": "2026-02-23 19:49:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      208,
+      0,
+      467,
+      410
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically plays golf on a vibrant green course. He swings wildly, misses the ball, and hilariously falls backward, then tries again with exaggerated effort. His eyes gleam with determination, and his expression shifts from focused to amused as he stumbles. The golf ball rolls away, and he’s left clutching his club, laughing at his own antics, showcasing his playful, mischievous nature against a scenic backdrop.",
+    "timestamp": "2026-02-23 19:49:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      126,
+      47,
+      404,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, swings a golf club at Jerry, a small brown mouse holding a tennis racket, causing a sparkly explosion. Both display mischievous, playful expressions.",
+    "timestamp": "2026-02-23 19:50:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      126,
+      47,
+      404,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully swings a golf club, aiming at Jerry, the brown mouse holding a tennis racket. Tom's grin widens as he hits, causing a sparkly explosion. Jerry looks determined, ready for the inevitable chase, while Tom revels in his golfing triumph.",
+    "timestamp": "2026-02-23 19:50:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      126,
+      47,
+      404,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully swings a golf club, smiling broadly. Jerry, the small brown mouse, holds a tennis racket, looking defiant. Tom's powerful swing sends sparks flying, highlighting his playful aggression. The scene captures their classic rivalry with humor and exaggerated expressions.",
+    "timestamp": "2026-02-23 19:50:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      126,
+      47,
+      404,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully swings a golf club, eyes gleaming with mischief. Beside him, Jerry, the brown mouse, holds a tennis racket, looking defiant. As Tom swings, a sparkly explosion erupts, startling Jerry. Tom beams with triumph, while Jerry remains stoic, ready for the next move. Their classic rivalry shines through, with Tom’s playful aggression contrasting Jerry’s determined stance under a bright, sunny sky.",
+    "timestamp": "2026-02-23 19:50:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      78,
+      25,
+      450,
+      256
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps from a tree, arms flailing, mouth wide open in shock or fear. Leaves swirl around him as he tumbles through the air against a bright blue sky.",
+    "timestamp": "2026-02-23 19:50:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      78,
+      25,
+      450,
+      256
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps wildly through the air, mouth open in shock or fear, as he tumbles past a tree with autumn leaves. His body twists mid-air, claws extended, suggesting a frantic escape or chase. The scene captures his chaotic motion against a serene blue sky.",
+    "timestamp": "2026-02-23 19:50:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      78,
+      25,
+      450,
+      256
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, mid-air, flails with wide eyes and open mouth, screaming as he tumbles from a tree branch. Leaves swirl around him, and a tree trunk looms below. His frantic motion and panicked expression convey chaos and urgency, capturing a classic cartoon chase scene.",
+    "timestamp": "2026-02-23 19:50:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      78,
+      25,
+      450,
+      256
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically from a tree branch, arms flailing and mouth agape in panic. His body twists mid-air, showcasing frantic motion against a clear blue sky. Leaves flutter above him as he tumbles, eyes wide with surprise. The tree trunk looms beside him, its hollowed-out eyes watching. His white paws trail behind, emphasizing his sudden, uncontrolled fall—classic cartoon chaos.",
+    "timestamp": "2026-02-23 19:50:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      55,
+      18,
+      383,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom catches Jerry, then drops him into a \"Ball Cleaner\" machine. Jerry emerges soaked, while Tom looks amused, tongue out, as bubbles rise around them.",
+    "timestamp": "2026-02-23 19:51:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      55,
+      18,
+      383,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a tiny mouse, then drops it into a \"BALL CLEANER\" machine. The machine sprays him with water, causing him to react with shock and disgust. He recoils, tongue out, as bubbles burst around him, revealing his comedic frustration and surprise.",
+    "timestamp": "2026-02-23 19:51:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      55,
+      18,
+      383,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a tiny mouse, then drops it into a \"Ball Cleaner\" machine. The machine sprays water, startling Tom as he recoils. He laughs, amused by the chaos, while the mouse is comically submerged in the bubbly solution, creating a humorous, slapstick scene.",
+    "timestamp": "2026-02-23 19:51:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      55,
+      18,
+      383,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a small mouse, Jerry, in his paws, smiling mischievously. He then drops Jerry into a red “BALL CLEANER” machine, causing water and bubbles to erupt. Tom’s expression shifts to shock as he recoils, tongue out, while Jerry squeaks in distress. The scene ends with Tom holding Jerry again, now wet and dripping, as he laughs triumphantly. The cartoonish antics highlight their classic rivalry, filled with slapstick humor and exaggerated reactions.",
+    "timestamp": "2026-02-23 19:52:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      194,
+      67,
+      418,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, holding a golf club, swings wildly at a small mouse on a green. His expression shifts from focused to startled as he misses the target.",
+    "timestamp": "2026-02-23 19:53:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      194,
+      67,
+      418,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, swings a golf club with determination, aiming at a small brown mouse. He strikes the mouse, sending it flying. Tom’s expression shifts from focused to surprised as the mouse vanishes, leaving him alone on the green.",
+    "timestamp": "2026-02-23 19:53:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      194,
+      67,
+      418,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, swings a golf club with determination, aiming at a small brown mouse on the green. His focused expression and dynamic pose convey intense concentration. The mouse lies motionless, seemingly caught in Tom’s golfing frenzy, as the scene unfolds under a bright, sunny sky.",
+    "timestamp": "2026-02-23 19:53:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      194,
+      67,
+      418,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands on a golf course, gripping a club with determination. He swings wildly, sending a small squirrel flying backward. His expression shifts from focused to triumphant as he follows through, feet planted firmly. The scene captures his playful, competitive spirit as he enjoys a whimsical golf game, oblivious to the chaos he’s causing. The background features a wooden bench and a golf bag, emphasizing the setting.",
+    "timestamp": "2026-02-23 19:53:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      236,
+      39,
+      438,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, angrily swings a golf club, striking a ball. He then stands triumphantly, holding the club, while a smaller mouse runs away.",
+    "timestamp": "2026-02-23 19:54:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      236,
+      39,
+      438,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, angrily swings a golf club, sending a ball flying. He stumbles, then laughs triumphantly. His expression shifts from rage to delight as he celebrates his golfing mishap, showcasing his chaotic, comedic antics on the green.",
+    "timestamp": "2026-02-23 19:54:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      236,
+      39,
+      438,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, angrily swings a golf club, striking a ball. He stumbles, then regains composure, laughing triumphantly. His expression shifts from frustration to delight as he proudly holds the club, clearly enjoying his golfing antics despite the chaos.",
+    "timestamp": "2026-02-23 19:54:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      236,
+      39,
+      438,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, swings a golf club wildly, striking a golf ball with exaggerated force. He stumbles, then regains balance, laughing triumphantly. A broken club lies nearby. In the background, Jerry, the brown mouse, scurries away, seemingly amused by Tom’s antics. The scene is set on a sunny golf course, with a tree and wooden shed visible. Tom’s expressions shift from intense focus to joyful satisfaction, highlighting his comedic, over-the-top golfing efforts.",
+    "timestamp": "2026-02-23 19:54:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      288,
+      1,
+      511,
+      353
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, swings a golf club at a ball, while Jerry, the mouse, watches from behind a bench. Tom’s expression shows determination as he attempts his shot.",
+    "timestamp": "2026-02-23 19:55:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      288,
+      1,
+      511,
+      353
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, swings a golf club at a ball on a green, while Jerry, the brown mouse, watches from behind a golf bag. Tom’s expression shifts from focused to surprised as he misses the ball, showcasing his comedic, clumsy attempts at golf.",
+    "timestamp": "2026-02-23 19:55:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      288,
+      1,
+      511,
+      353
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, energetically swings a golf club at a ball, while Jerry, the mouse, watches from behind a bench. Tom’s focused expression and dynamic motion convey determination. The scene captures their playful rivalry in a bright, grassy setting, with Tom’s exaggerated swing adding comedic flair.",
+    "timestamp": "2026-02-23 19:55:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      288,
+      1,
+      511,
+      353
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, swings a golf club with determination, aiming at a golf ball on a green field. Jerry the mouse, small and brown, watches nervously from behind a wooden bench. Tom’s focused expression turns to surprise as he misses the ball, sending it flying. The scene is bright and cartoonish, capturing their classic chase dynamic with playful energy and comedic timing.",
+    "timestamp": "2026-02-23 19:55:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      186,
+      11,
+      383,
+      392
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, watches a dog tumble into a golf hole, then laughs, picks up a golf club, and scribbles notes, amused by the chaos.",
+    "timestamp": "2026-02-23 19:55:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      186,
+      11,
+      383,
+      392
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, watches as a squirrel falls into a golf hole, then laughs. He kneels, pulls the squirrel out, and dramatically pretends to write a note. His expressions shift from amusement to mock seriousness, showcasing his playful, mischievous nature on the golf course.",
+    "timestamp": "2026-02-23 19:55:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      186,
+      11,
+      383,
+      392
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a golf club, watches as a dog with a golf ball on its head falls into a hole. Tom reacts with surprise, then frustration, before dramatically writing in a notebook, clearly annoyed by the mishap. The scene is humorous and chaotic, capturing classic cartoon antics.",
+    "timestamp": "2026-02-23 19:55:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E20 - Tee For Two (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      186,
+      11,
+      383,
+      392
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, kneels on a golf course, holding a club, amused as a small brown dog with a white ball on its head falls into a hole. Tom watches with delight, then smirks, pretending to write notes. The dog lies upside down in the hole, seemingly defeated. Tom’s playful expression and exaggerated gestures highlight his mischievous enjoyment of the dog’s predicament, turning a simple golf mishap into a comedic spectacle.",
+    "timestamp": "2026-02-23 19:56:01"
+  }
+]

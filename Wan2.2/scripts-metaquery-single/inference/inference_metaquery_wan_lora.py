@@ -1,0 +1,1351 @@
+"""
+inference_metaquery_wan.py
+==========================
+MetaQuery + Wan2.2 TI2V 推理脚本。
+
+使用训练好的 MetaQuery Connector, 结合 Wan TI2V 5B 生成视频。
+
+★ 推理流程:
+    1. MetaQuery Encoder: (参考图 + 文本描述) → MQ features [256, 4096]
+    2. MQ-only: context = MQ_feat
+    3. 扩展 text_len: 设置为 num_metaqueries
+    4. 去噪循环: DiT(noise, t, context) → velocity estimate → 迭代采样
+    5. VAE 解码 → 视频帧
+
+★ 生成模式:
+    - t2v: 文本+MetaQuery → 视频 (纯生成)
+    - i2v: 仅用于尺寸/接口兼容（参考图仅进入 MetaQuery，不做首帧 hard-lock/animate-like）
+
+用法:
+    python inference_metaquery_wan.py \
+        --checkpoint_path /path/to/checkpoint-final/mq_encoder_full.pt \
+        --prompt "Tom chases Jerry across the kitchen" \
+        --ref_image ./reference.png \
+        --mode i2v \
+        --output_path output.mp4
+"""
+
+import os
+import sys
+import gc
+import json
+import math
+import random
+import argparse
+from pathlib import Path
+from contextlib import contextmanager
+from typing import Any, Dict
+
+import torch
+import torch.nn as nn
+from PIL import Image
+from tqdm import tqdm
+
+from wan_lora_utils import (
+    apply_lora_to_wan_model,
+    infer_lora_rank_from_state,
+    infer_lora_targets_from_state_keys,
+)
+
+# ── 路径设置 ─────────────────────────────────────────────────────────────────
+WAN_ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(WAN_ROOT))
+METAQUERY_ROOT = str(WAN_ROOT.parent / "Qwen3-VL-main" / "metaquery-main")
+sys.path.insert(0, METAQUERY_ROOT)
+
+
+def parse_args():
+    p = argparse.ArgumentParser(description="Inference: MetaQuery + Wan TI2V")
+
+    # ── 模型路径 ──────────────────────────────────────────────────────────
+    p.add_argument("--checkpoint_path", type=str, required=True,
+                   help="checkpoint 文件或目录路径（支持 mq_encoder_full.pt / checkpoint-final/）")
+    p.add_argument("--wan_checkpoint_dir", type=str,
+                   default="/home/liuzhirui/model/Wan2.2/Wan2.2-TI2V-5B",
+                   help="Wan2.2 TI2V checkpoint 目录")
+    p.add_argument("--qwen3vl_model_id", type=str,
+                   default="/home/liuzhirui/model/Qwen3-VL-main/Qwen3-VL-2B-Thinking",
+                   help="Qwen3-VL 模型 ID 或本地路径")
+
+    # ── 输入 ──────────────────────────────────────────────────────────────
+    p.add_argument("--prompt", type=str, required=True,
+                   help="文本描述")
+    p.add_argument("--ref_image", type=str, default=None,
+                   help="参考图路径 (用于 MetaQuery 编码；i2v 模式用于尺寸/构图参考)")
+    p.add_argument("--negative_prompt", type=str, default="",
+                   help="负面提示词")
+
+    # ── 生成参数 ──────────────────────────────────────────────────────────
+    p.add_argument("--mode", type=str, default="i2v", choices=["t2v", "i2v"],
+                   help="生成模式: t2v 或 i2v")
+    p.add_argument("--frame_num", type=int, default=81,
+                   help="生成帧数 (4n+1)")
+    p.add_argument("--size", type=int, nargs=2, default=[832, 480],
+                   help="视频尺寸 (宽 高)")
+    p.add_argument(
+        "--i2v_force_size",
+        action="store_true",
+        help="i2v 模式下强制使用 --size，不再按参考图比例+max_area自动计算",
+    )
+    p.add_argument("--max_area", type=int, default=480 * 832,
+                   help="最大面积")
+    p.add_argument("--sampling_steps", type=int, default=50)
+    p.add_argument("--guide_scale", type=float, default=5.0)
+    p.add_argument(
+        "--mq_cfg_scale",
+        type=float,
+        default=1.0,
+        help="额外放大 MQ 分支在 CFG 中的差分项倍率（最终系数=guide_scale*mq_cfg_scale）",
+    )
+    p.add_argument(
+        "--mq_context_scale",
+        type=float,
+        default=1.0,
+        help="按 uncond->cond 方向缩放 MQ 条件强度。>1 增强对文本/参考图的跟随；<1 减弱。",
+    )
+    p.add_argument(
+        "--cfg_uncond_mode",
+        type=str,
+        default="encode_negative",
+        choices=["encode_negative", "zero_mq"],
+        help=(
+            "CFG 无条件分支构造方式。"
+            "encode_negative=用负提示编码（默认）；"
+            "zero_mq=使用全零 MQ（通常会更强地放大条件差异）。"
+        ),
+    )
+    p.add_argument("--shift", type=float, default=5.0)
+    p.add_argument("--sample_solver", type=str, default="unipc",
+                   choices=["unipc", "dpm++"])
+    p.add_argument("--seed", type=int, default=42)
+
+    # ── 输出 ──────────────────────────────────────────────────────────────
+    p.add_argument("--output_path", type=str, default="output_metaquery.mp4")
+
+    # ── MetaQuery ─────────────────────────────────────────────────────────
+    p.add_argument("--num_metaqueries", type=int, default=256)
+    p.add_argument("--connector_num_hidden_layers", type=int, default=24)
+    p.add_argument(
+        "--dit_condition_mode",
+        type=str,
+        default="mq_only",
+        choices=["mq_only"],
+        help="DiT 显式条件注入模式。当前仅支持 mq_only（仅注入 MetaQuery tokens）",
+    )
+    p.add_argument(
+        "--verify_level",
+        type=str,
+        default="basic",
+        choices=["none", "basic", "full"],
+        help="验证级别: none/basic/full",
+    )
+    p.add_argument(
+        "--verify_fail_on_warning",
+        action="store_true",
+        help="开启后，验证 warning 直接视作失败",
+    )
+    p.add_argument(
+        "--verify_report_path",
+        type=str,
+        default="",
+        help="验证报告 JSON 输出路径（留空则自动命名为 output_path.verify.json）",
+    )
+    p.add_argument(
+        "--verify_train_before_checkpoint",
+        type=str,
+        default="",
+        help="训练前基线 checkpoint（用于对比当前 checkpoint 参数是否更新）",
+    )
+    p.add_argument(
+        "--load_wan_finetune",
+        action="store_true",
+        default=True,
+        help="若 checkpoint 中存在 wan_dit_lora.* 或 wan_dit_trainable.*，则加载到 Wan DiT（默认开启）。",
+    )
+    p.add_argument(
+        "--disable_load_wan_finetune",
+        action="store_false",
+        dest="load_wan_finetune",
+        help="禁用 Wan DiT 微调权重加载。",
+    )
+
+    # ── 设备 ──────────────────────────────────────────────────────────────
+    p.add_argument("--device", type=int, default=0)
+    p.add_argument("--offload_model", action="store_true",
+                   help="DiT 用完后 offload 到 CPU")
+
+    return p.parse_args()
+
+
+def _safe_torch_load(path: Path, map_location: str | torch.device = "cpu") -> Any:
+    try:
+        return torch.load(path, map_location=map_location, weights_only=True)
+    except TypeError:
+        return torch.load(path, map_location=map_location)
+
+
+def _write_json(path: Path, payload: Dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
+# =============================================================================
+# MetaQuery Encoder (推理模式)
+# =============================================================================
+class MetaQueryEncoderForWanInference(nn.Module):
+    """推理用 MetaQuery Encoder，加载训练好的 checkpoint"""
+
+    WAN_TEXT_DIM = 4096
+
+    def __init__(
+        self,
+        qwen3vl_model_id: str,
+        checkpoint_path: str,
+        num_metaqueries: int = 256,
+        connector_num_hidden_layers: int = 24,
+        dtype: torch.dtype = torch.bfloat16,
+        device: str = "cuda",
+        verify_level: str = "none",
+        fail_on_warning: bool = False,
+        train_before_checkpoint_path: str = "",
+    ):
+        super().__init__()
+        self.num_metaqueries = num_metaqueries
+        self.wan_text_dim = self.WAN_TEXT_DIM
+        self.dtype = dtype
+        self.device = torch.device(device)
+        self.verify_level = verify_level
+        self.fail_on_warning = fail_on_warning
+        self.verify_enabled = verify_level != "none"
+        self._ckpt_train_mq_input_embeddings: bool | None = None
+        self._ckpt_embed_rows_added: int | None = None
+        self.verify_report: Dict[str, Any] = {
+            "verify_level": verify_level,
+            "checkpoint_path_input": checkpoint_path,
+            "resolved_checkpoint_path": "",
+            "resolved_checkpoint_dir": "",
+            "training_artifacts": {},
+            "state_dict_stats": {},
+            "connector_stats": {},
+            "checkpoint_update_vs_before": {},
+            "warnings": [],
+        }
+
+        print("=" * 60)
+        print("[MetaQuery Inference] 初始化")
+        print(f"  Checkpoint: {checkpoint_path}")
+        print("=" * 60)
+
+        # ── 使用训练脚本中定义的同一个类初始化 ─────────────────────────
+        from train_connector_for_wan import MetaQueryEncoderForWan
+        from train_metaquery_wan import load_mq_encoder_state
+        self._load_mq_encoder_state_fn = load_mq_encoder_state
+        encoder = MetaQueryEncoderForWan(
+            qwen3vl_model_id=qwen3vl_model_id,
+            num_metaqueries=num_metaqueries,
+            connector_num_hidden_layers=connector_num_hidden_layers,
+            dtype=dtype,
+            device=device,
+        )
+
+        # ── 加载训练好的权重 ─────────────────────────────────────────────
+        state_dict, resolved_path = load_mq_encoder_state(
+            checkpoint_path,
+            map_location=self.device,
+        )
+        resolved_path_obj = Path(resolved_path).resolve()
+        self.verify_report["resolved_checkpoint_path"] = str(resolved_path_obj)
+        self.verify_report["resolved_checkpoint_dir"] = str(
+            resolved_path_obj if resolved_path_obj.is_dir() else resolved_path_obj.parent
+        )
+        missing, unexpected = encoder.load_state_dict(state_dict, strict=False)
+        print(f"  Resolved ckpt: {resolved_path}")
+        print(f"  Missing keys : {len(missing)}")
+        print(f"  Unexpected   : {len(unexpected)}")
+
+        self._verify_checkpoint_artifacts(Path(resolved_path))
+        self._verify_state_loading(state_dict, missing, unexpected)
+        self._verify_checkpoint_updated_vs_before(
+            after_state_dict=state_dict,
+            train_before_checkpoint_path=train_before_checkpoint_path,
+        )
+        self._verify_connector_weights(encoder)
+
+        self.encoder = encoder
+        self.encoder.eval()
+        print("[MetaQuery Inference] ✅ 加载完成")
+
+    def _warn(self, msg: str) -> None:
+        self.verify_report["warnings"].append(msg)
+        print(f"  [VERIFY][WARN] {msg}")
+        if self.fail_on_warning:
+            raise RuntimeError(f"[VERIFY] {msg}")
+
+    def _verify_checkpoint_artifacts(self, resolved_path: Path) -> None:
+        if not self.verify_enabled:
+            return
+        resolved_path = resolved_path.resolve()
+        ckpt_dir = resolved_path if resolved_path.is_dir() else resolved_path.parent
+        self.verify_report["resolved_checkpoint_path"] = str(resolved_path)
+        self.verify_report["resolved_checkpoint_dir"] = str(ckpt_dir)
+
+        artifacts = {
+            "config.json": (ckpt_dir / "config.json").exists(),
+            "trainer_state.json": (ckpt_dir / "trainer_state.json").exists(),
+            "optimizer.pt": (ckpt_dir / "optimizer.pt").exists(),
+            "scheduler.pt": (ckpt_dir / "scheduler.pt").exists(),
+            "training_args.bin": (ckpt_dir / "training_args.bin").exists(),
+            "training_args.json": (ckpt_dir / "training_args.json").exists(),
+            "metrics_summary.json": (ckpt_dir / "metrics_summary.json").exists(),
+            "metrics_tail.json": (ckpt_dir / "metrics_tail.json").exists(),
+            "latest": (ckpt_dir.parent / "latest").exists(),
+            "mq_encoder_trainable.pt": (ckpt_dir / "mq_encoder_trainable.pt").exists(),
+            "mq_encoder_trainable.safetensors": (ckpt_dir / "mq_encoder_trainable.safetensors").exists(),
+            "model.safetensors": (ckpt_dir / "model.safetensors").exists(),
+            "mq_encoder_full.pt": (ckpt_dir / "mq_encoder_full.pt").exists(),
+            "wan_dit_trainable.pt": (ckpt_dir / "wan_dit_trainable.pt").exists(),
+            "wan_dit_trainable.safetensors": (ckpt_dir / "wan_dit_trainable.safetensors").exists(),
+            "wan_dit_lora.pt": (ckpt_dir / "wan_dit_lora.pt").exists(),
+            "wan_dit_lora.safetensors": (ckpt_dir / "wan_dit_lora.safetensors").exists(),
+        }
+        self.verify_report["training_artifacts"] = artifacts
+
+        print("  [VERIFY] checkpoint 文件布局检查:")
+        for name, exists in artifacts.items():
+            print(f"    - {name}: {'OK' if exists else 'MISSING'}")
+
+        required_any = artifacts["model.safetensors"] or artifacts["mq_encoder_full.pt"]
+        if not required_any:
+            raise RuntimeError(
+                "[VERIFY] checkpoint 缺少 model.safetensors 或 mq_encoder_full.pt，"
+                "无法证明是完整训练输出"
+            )
+        if not artifacts["config.json"]:
+            self._warn("config.json 缺失，无法核对 num_metaqueries/wan_text_dim 等训练配置")
+        if not artifacts["trainer_state.json"]:
+            self._warn("trainer_state.json 缺失，无法核对训练步数与格式信息")
+        if not artifacts["training_args.json"]:
+            self._warn("training_args.json 缺失，无法核对完整训练超参数")
+        if not (artifacts["mq_encoder_trainable.pt"] or artifacts["mq_encoder_trainable.safetensors"]):
+            self._warn("mq_encoder_trainable.* 缺失，无法复核 trainable 子模块产物")
+
+        trainer_state_path = ckpt_dir / "trainer_state.json"
+        if trainer_state_path.exists():
+            try:
+                trainer_state = json.loads(trainer_state_path.read_text(encoding="utf-8"))
+                global_step = int(trainer_state.get("global_step", 0))
+                ckpt_format = str(trainer_state.get("checkpoint_format", ""))
+                self.verify_report["training_artifacts"]["trainer_global_step"] = global_step
+                self.verify_report["training_artifacts"]["trainer_checkpoint_format"] = ckpt_format
+                if global_step <= 0:
+                    self._warn(f"trainer_state.global_step={global_step}，看起来不像已训练完成的 checkpoint")
+            except Exception as e:
+                self._warn(f"读取 trainer_state.json 失败: {e}")
+
+        config_path = ckpt_dir / "config.json"
+        if config_path.exists():
+            try:
+                cfg = json.loads(config_path.read_text(encoding="utf-8"))
+                cfg_num_mq = int(cfg.get("num_metaqueries", self.num_metaqueries))
+                cfg_wan_text_dim = int(cfg.get("wan_text_dim", self.wan_text_dim))
+                if "train_mq_input_embeddings" in cfg:
+                    self._ckpt_train_mq_input_embeddings = bool(cfg.get("train_mq_input_embeddings"))
+                if "mllm_embed_rows_added" in cfg:
+                    self._ckpt_embed_rows_added = int(cfg.get("mllm_embed_rows_added"))
+                self.verify_report["training_artifacts"]["config_num_metaqueries"] = cfg_num_mq
+                self.verify_report["training_artifacts"]["config_wan_text_dim"] = cfg_wan_text_dim
+                if "train_mq_input_embeddings" in cfg:
+                    self.verify_report["training_artifacts"]["config_train_mq_input_embeddings"] = bool(cfg.get("train_mq_input_embeddings"))
+                if "mllm_embed_rows_total" in cfg:
+                    self.verify_report["training_artifacts"]["config_mllm_embed_rows_total"] = int(cfg.get("mllm_embed_rows_total"))
+                if "mllm_embed_rows_base" in cfg:
+                    self.verify_report["training_artifacts"]["config_mllm_embed_rows_base"] = int(cfg.get("mllm_embed_rows_base"))
+                if "mllm_embed_rows_added" in cfg:
+                    self.verify_report["training_artifacts"]["config_mllm_embed_rows_added"] = int(cfg.get("mllm_embed_rows_added"))
+                if cfg_num_mq != self.num_metaqueries:
+                    self._warn(
+                        f"config.num_metaqueries={cfg_num_mq} 与推理参数 --num_metaqueries={self.num_metaqueries} 不一致"
+                    )
+                if cfg_wan_text_dim != self.wan_text_dim:
+                    raise RuntimeError(
+                        f"[VERIFY] config.wan_text_dim={cfg_wan_text_dim} 与 Wan 期望 {self.wan_text_dim} 不一致"
+                    )
+            except Exception as e:
+                self._warn(f"读取 config.json 失败: {e}")
+
+        training_args_json_path = ckpt_dir / "training_args.json"
+        if training_args_json_path.exists():
+            try:
+                targs = json.loads(training_args_json_path.read_text(encoding="utf-8"))
+                keys = [
+                    "num_train_steps",
+                    "num_metaqueries",
+                    "frame_num",
+                    "max_area",
+                    "learning_rate",
+                    "warmup_steps",
+                    "gradient_accumulation_steps",
+                    "null_caption_prob",
+                    "null_image_prob",
+                    "train_mq_input_embeddings",
+                    "wan_train_mode",
+                    "wan_cond_name_pattern",
+                    "enable_wan_lora",
+                    "wan_lora_rank",
+                    "wan_lora_alpha",
+                    "wan_lora_dropout",
+                    "wan_lora_targets",
+                    "wan_lora_extra_name_pattern",
+                    "dit_fsdp",
+                    "use_sp",
+                ]
+                self.verify_report["training_artifacts"]["training_args_excerpt"] = {
+                    k: targs.get(k, None) for k in keys
+                }
+                if "num_metaqueries" in targs:
+                    cfg_mq = int(targs.get("num_metaqueries"))
+                    if cfg_mq != self.num_metaqueries:
+                        self._warn(
+                            f"training_args.num_metaqueries={cfg_mq} 与推理参数 --num_metaqueries={self.num_metaqueries} 不一致"
+                        )
+                if "train_mq_input_embeddings" in targs and self._ckpt_train_mq_input_embeddings is None:
+                    self._ckpt_train_mq_input_embeddings = bool(targs.get("train_mq_input_embeddings"))
+            except Exception as e:
+                self._warn(f"读取 training_args.json 失败: {e}")
+
+        metrics_summary_path = ckpt_dir / "metrics_summary.json"
+        if metrics_summary_path.exists():
+            try:
+                ms = json.loads(metrics_summary_path.read_text(encoding="utf-8"))
+                self.verify_report["training_artifacts"]["metrics_summary"] = ms
+                if int(ms.get("logged_steps", 0)) <= 0:
+                    self._warn("metrics_summary.logged_steps<=0，训练指标记录可能不完整")
+            except Exception as e:
+                self._warn(f"读取 metrics_summary.json 失败: {e}")
+
+        optimizer_path = ckpt_dir / "optimizer.pt"
+        if optimizer_path.exists() and self.verify_level == "full":
+            try:
+                opt_state = _safe_torch_load(optimizer_path, map_location="cpu")
+                state_len = len(opt_state.get("state", {})) if isinstance(opt_state, dict) else 0
+                self.verify_report["training_artifacts"]["optimizer_state_entries"] = state_len
+                if state_len == 0:
+                    self._warn("optimizer.pt 存在但 state 为空")
+            except Exception as e:
+                self._warn(f"读取 optimizer.pt 失败: {e}")
+
+    def _verify_state_loading(self, state_dict, missing, unexpected) -> None:
+        if not self.verify_enabled:
+            return
+
+        state_key_count = len(state_dict)
+        connector_keys = [k for k in state_dict.keys() if "connector" in k]
+        embed_keys = [k for k in state_dict.keys() if "embed_tokens" in k and "weight" in k]
+        self.verify_report["state_dict_stats"] = {
+            "state_key_count": state_key_count,
+            "connector_key_count": len(connector_keys),
+            "embed_key_count": len(embed_keys),
+            "missing_count": len(missing),
+            "unexpected_count": len(unexpected),
+        }
+        print(
+            f"  [VERIFY] state_dict keys={state_key_count}, connector_keys={len(connector_keys)}, "
+            f"embed_keys={len(embed_keys)}"
+        )
+
+        if len(connector_keys) == 0:
+            raise RuntimeError("[VERIFY] state_dict 中未发现 connector 相关权重，checkpoint 可能错误")
+        if self._ckpt_train_mq_input_embeddings is True and len(embed_keys) == 0:
+            raise RuntimeError(
+                "[VERIFY] checkpoint 标记为 train_mq_input_embeddings=True，但 state_dict 不含 embedding 权重"
+            )
+
+        critical_missing = [
+            k for k in missing
+            if "connector" in k or "embed_tokens" in k
+        ]
+        if critical_missing:
+            raise RuntimeError(
+                f"[VERIFY] load_state_dict 缺失关键参数: {critical_missing[:8]}"
+            )
+        if unexpected:
+            self._warn(f"load_state_dict 存在 unexpected keys (前8个): {unexpected[:8]}")
+        if missing:
+            self._warn(f"load_state_dict 存在 missing keys (前8个): {missing[:8]}")
+
+    def _verify_connector_weights(self, encoder) -> None:
+        if not self.verify_enabled:
+            return
+        connector = encoder.mllm_model.connector
+        total_params = 0
+        nonzero_params = 0
+        finite_ok = True
+        l2_sum = 0.0
+        for p in connector.parameters():
+            total_params += p.numel()
+            nonzero_params += int((p.detach().abs() > 0).sum().item())
+            finite_ok = finite_ok and bool(torch.isfinite(p).all())
+            l2_sum += float(p.detach().float().norm().item())
+
+        self.verify_report["connector_stats"] = {
+            "total_params": int(total_params),
+            "nonzero_params": int(nonzero_params),
+            "nonzero_ratio": float(nonzero_params / max(total_params, 1)),
+            "finite_ok": bool(finite_ok),
+            "l2_sum": float(l2_sum),
+        }
+        print(
+            f"  [VERIFY] connector params={total_params:,}, nonzero_ratio={nonzero_params / max(total_params, 1):.6f}, "
+            f"finite={finite_ok}, l2_sum={l2_sum:.4f}"
+        )
+        if total_params == 0:
+            raise RuntimeError("[VERIFY] connector 参数量为 0")
+        if not finite_ok:
+            raise RuntimeError("[VERIFY] connector 参数存在 NaN/Inf")
+        if l2_sum <= 0:
+            raise RuntimeError("[VERIFY] connector 参数范数为 0，疑似未正常训练/加载")
+
+    def _accumulate_delta_stats(self, before: torch.Tensor, after: torch.Tensor, eps: float = 1e-7) -> Dict[str, float]:
+        b = before.detach().to("cpu").reshape(-1)
+        a = after.detach().to("cpu").reshape(-1)
+        n = b.numel()
+        chunk = 1_000_000
+        changed = 0
+        max_abs = 0.0
+        sum_abs = 0.0
+        for i in range(0, n, chunk):
+            bb = b[i:i + chunk].to(torch.float32)
+            aa = a[i:i + chunk].to(torch.float32)
+            d = (aa - bb).abs()
+            changed += int((d > eps).sum().item())
+            local_max = float(d.max().item()) if d.numel() > 0 else 0.0
+            if local_max > max_abs:
+                max_abs = local_max
+            sum_abs += float(d.sum().item())
+        mean_abs = sum_abs / max(n, 1)
+        return {
+            "numel": int(n),
+            "changed_elems": int(changed),
+            "changed_ratio": float(changed / max(n, 1)),
+            "max_abs_delta": float(max_abs),
+            "mean_abs_delta": float(mean_abs),
+        }
+
+    def _verify_checkpoint_updated_vs_before(
+        self,
+        after_state_dict: Dict[str, torch.Tensor],
+        train_before_checkpoint_path: str,
+    ) -> None:
+        if not self.verify_enabled:
+            return
+        if not train_before_checkpoint_path:
+            return
+
+        try:
+            before_state_dict, before_resolved = self._load_mq_encoder_state_fn(
+                train_before_checkpoint_path,
+                map_location="cpu",
+            )
+        except Exception as e:
+            self._warn(f"读取训练前 checkpoint 失败: {e}")
+            return
+
+        shared_keys = [k for k in after_state_dict.keys() if k in before_state_dict]
+        if len(shared_keys) == 0:
+            raise RuntimeError("[VERIFY] before/after checkpoint 没有共享参数键，无法比较训练更新")
+
+        connector_keys = [k for k in shared_keys if "mllm_model.connector" in k]
+        embed_keys = [k for k in shared_keys if "embed_tokens.weight" in k]
+
+        def summarize(keys: list[str]) -> Dict[str, Any]:
+            out = {
+                "tensor_count": 0,
+                "numel": 0,
+                "changed_elems": 0,
+                "changed_ratio": 0.0,
+                "max_abs_delta": 0.0,
+                "mean_abs_delta_weighted": 0.0,
+            }
+            weighted_mean_sum = 0.0
+            valid_tensors = 0
+            for key in keys:
+                b = before_state_dict[key]
+                a = after_state_dict[key]
+                if b.shape != a.shape:
+                    self._warn(f"before/after shape 不一致: {key} {tuple(b.shape)} vs {tuple(a.shape)}")
+                    continue
+                stats = self._accumulate_delta_stats(b, a)
+                out["numel"] += stats["numel"]
+                out["changed_elems"] += stats["changed_elems"]
+                if stats["max_abs_delta"] > out["max_abs_delta"]:
+                    out["max_abs_delta"] = stats["max_abs_delta"]
+                weighted_mean_sum += stats["mean_abs_delta"] * stats["numel"]
+                valid_tensors += 1
+
+            out["tensor_count"] = valid_tensors
+            out["changed_ratio"] = float(out["changed_elems"] / max(out["numel"], 1))
+            out["mean_abs_delta_weighted"] = float(weighted_mean_sum / max(out["numel"], 1))
+            return out
+
+        summary_all = summarize(shared_keys)
+        summary_connector = summarize(connector_keys)
+        summary_embed = summarize(embed_keys)
+
+        self.verify_report["checkpoint_update_vs_before"] = {
+            "before_checkpoint_path_input": train_before_checkpoint_path,
+            "before_checkpoint_resolved": str(before_resolved),
+            "shared_tensor_count": len(shared_keys),
+            "all": summary_all,
+            "connector": summary_connector,
+            "embed_tokens": summary_embed,
+        }
+
+        print("[VERIFY] checkpoint 前后参数对比:")
+        print(
+            f"  all      : tensors={summary_all['tensor_count']} changed_ratio={summary_all['changed_ratio']:.6e} "
+            f"max_abs={summary_all['max_abs_delta']:.6e}"
+        )
+        print(
+            f"  connector: tensors={summary_connector['tensor_count']} changed_ratio={summary_connector['changed_ratio']:.6e} "
+            f"max_abs={summary_connector['max_abs_delta']:.6e}"
+        )
+        print(
+            f"  embed    : tensors={summary_embed['tensor_count']} changed_ratio={summary_embed['changed_ratio']:.6e} "
+            f"max_abs={summary_embed['max_abs_delta']:.6e}"
+        )
+
+        if summary_connector["tensor_count"] == 0:
+            raise RuntimeError("[VERIFY] 无法在 checkpoint 中定位 connector 参数，无法证明训练更新")
+        if summary_connector["changed_elems"] == 0:
+            raise RuntimeError(
+                "[VERIFY] 对比训练前后 checkpoint，connector 参数未发生变化，训练链路可能异常"
+            )
+        if summary_all["changed_elems"] == 0:
+            raise RuntimeError("[VERIFY] 训练前后 checkpoint 完全一致，训练未生效或路径配置错误")
+        if self._ckpt_train_mq_input_embeddings is True and summary_embed["tensor_count"] > 0 and summary_embed["changed_elems"] == 0:
+            raise RuntimeError(
+                "[VERIFY] checkpoint 标记 train_mq_input_embeddings=True，但训练前后 embedding 未变化"
+            )
+
+    @torch.no_grad()
+    def encode(self, caption, ref_image=None):
+        """
+        编码 (文本 + 参考图) → MQ features
+
+        Args:
+            caption: str
+            ref_image: PIL Image or None
+
+        Returns:
+            Tensor [1, 256, 4096]
+        """
+        captions = [caption]
+        images = [[ref_image]] if ref_image is not None else None
+        mq_feat = self.encoder(captions, images)
+        return mq_feat  # [1, 256, 4096]
+
+    def to(self, *args, **kwargs):
+        self.encoder = self.encoder.to(*args, **kwargs)
+        return self
+
+
+# =============================================================================
+# MetaQuery + Wan TI2V 推理管线
+# =============================================================================
+class MetaQueryWanPipeline:
+    """
+    使用 MetaQuery 增强的 Wan TI2V 推理管线。
+
+    核心: 仅使用 MQ features 作为 DiT context（MQ-only）,
+    text_len 仅按 num_metaqueries 设置。
+    """
+
+    def __init__(self, args):
+        self.args = args
+        if str(getattr(args, "dit_condition_mode", "mq_only")).strip().lower() != "mq_only":
+            raise ValueError("当前仅支持 --dit_condition_mode mq_only")
+        self.device = torch.device(f"cuda:{args.device}")
+        self.verify_level = getattr(args, "verify_level", "none")
+        self.verify_fail_on_warning = bool(getattr(args, "verify_fail_on_warning", False))
+        self.verify_enabled = self.verify_level != "none"
+        self.verify_report: Dict[str, Any] = {
+            "verify_level": self.verify_level,
+            "mode": getattr(args, "mode", "unknown"),
+            "checkpoint": {},
+            "runtime": {"dit_condition_mode": "mq_only"},
+            "warnings": [],
+        }
+
+        self._load_pipeline()
+        self._load_mq_encoder()
+        self._maybe_load_wan_finetune_weights()
+
+    def _load_pipeline(self):
+        """加载 Wan TI2V Pipeline"""
+        from wan import WanTI2V
+        from wan.configs import WAN_CONFIGS
+
+        config = WAN_CONFIGS['ti2v-5B']
+        self.wan = WanTI2V(
+            config=config,
+            checkpoint_dir=self.args.wan_checkpoint_dir,
+            device_id=self.args.device,
+            rank=0,
+            t5_cpu=False,
+            init_on_cpu=True,
+        )
+        self.wan_config = config
+        self._orig_text_len = self.wan.model.text_len  # 512
+        self._aug_text_len = int(self.args.num_metaqueries)
+        print(f"[Pipeline] Wan TI2V 已加载, text_len={self._orig_text_len}")
+
+    def _load_mq_encoder(self):
+        """加载 MetaQuery Encoder"""
+        self.mq_encoder = MetaQueryEncoderForWanInference(
+            qwen3vl_model_id=self.args.qwen3vl_model_id,
+            checkpoint_path=self.args.checkpoint_path,
+            num_metaqueries=self.args.num_metaqueries,
+            connector_num_hidden_layers=self.args.connector_num_hidden_layers,
+            dtype=torch.bfloat16,
+            device=f"cuda:{self.args.device}",
+            verify_level=self.verify_level,
+            fail_on_warning=self.verify_fail_on_warning,
+            train_before_checkpoint_path=getattr(self.args, "verify_train_before_checkpoint", ""),
+        )
+        self.verify_report["checkpoint"] = dict(self.mq_encoder.verify_report)
+
+    def _maybe_load_wan_finetune_weights(self) -> None:
+        if not bool(getattr(self.args, "load_wan_finetune", True)):
+            self._record_runtime_metric("wan_finetune_loaded", 0)
+            self._record_runtime_metric("wan_finetune_reason", "disabled_by_flag")
+            return
+        ckpt_dir_str = str(self.mq_encoder.verify_report.get("resolved_checkpoint_dir", "")).strip()
+        if not ckpt_dir_str:
+            self._warn("无法解析 checkpoint 目录，跳过 Wan 微调权重加载")
+            self._record_runtime_metric("wan_finetune_loaded", 0)
+            self._record_runtime_metric("wan_finetune_reason", "missing_checkpoint_dir")
+            return
+        ckpt_dir = Path(ckpt_dir_str)
+        pt_path = ckpt_dir / "wan_dit_trainable.pt"
+        sf_path = ckpt_dir / "wan_dit_trainable.safetensors"
+        lora_pt_path = ckpt_dir / "wan_dit_lora.pt"
+        lora_sf_path = ckpt_dir / "wan_dit_lora.safetensors"
+        picked: Path | None = None
+        lora_picked: Path | None = None
+        if sf_path.exists():
+            picked = sf_path
+        elif pt_path.exists():
+            picked = pt_path
+        if lora_sf_path.exists():
+            lora_picked = lora_sf_path
+        elif lora_pt_path.exists():
+            lora_picked = lora_pt_path
+        if picked is None and lora_picked is None:
+            self._record_runtime_metric("wan_finetune_loaded", 0)
+            self._record_runtime_metric("wan_finetune_reason", "no_wan_trainable_file")
+            return
+
+        def _load_tensor_state(src: Path) -> Dict[str, torch.Tensor]:
+            if src.suffix.lower() == ".safetensors":
+                try:
+                    from safetensors.torch import load_file
+                    payload = load_file(str(src), device="cpu")
+                except Exception as e:
+                    raise RuntimeError(f"加载 Wan safetensors 失败: {src}") from e
+                return {k: v for k, v in payload.items() if torch.is_tensor(v)}
+            payload = _safe_torch_load(src, map_location="cpu")
+            if not isinstance(payload, dict):
+                raise RuntimeError(f"Wan trainable 文件格式异常: {src}")
+            return {k: v for k, v in payload.items() if torch.is_tensor(v)}
+
+        training_artifacts = (
+            self.mq_encoder.verify_report.get("training_artifacts", {})
+            if isinstance(self.mq_encoder.verify_report, dict) else {}
+        )
+        training_args_excerpt = training_artifacts.get("training_args_excerpt", {})
+
+        total_missing = 0
+        total_unexpected = 0
+        flat_key_count = 0
+        total_state_tensors = 0
+        loaded_files = []
+
+        if lora_picked is not None:
+            lora_state = _load_tensor_state(lora_picked)
+            if not lora_state:
+                self._warn("wan_dit_lora.* 为空，跳过 LoRA 加载")
+            else:
+                cfg = {}
+                try:
+                    cfg_path = ckpt_dir / "config.json"
+                    if cfg_path.exists():
+                        cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
+                except Exception:
+                    cfg = {}
+                wan_lora_cfg = cfg.get("wan_lora", {}) if isinstance(cfg, dict) else {}
+                rank = int(wan_lora_cfg.get("rank", training_args_excerpt.get("wan_lora_rank", 0) or infer_lora_rank_from_state(lora_state, default=16)))
+                alpha = float(wan_lora_cfg.get("alpha", training_args_excerpt.get("wan_lora_alpha", rank) or rank))
+                dropout = float(wan_lora_cfg.get("dropout", training_args_excerpt.get("wan_lora_dropout", 0.0) or 0.0))
+                targets = wan_lora_cfg.get("targets", training_args_excerpt.get("wan_lora_targets", "")) or infer_lora_targets_from_state_keys(lora_state.keys())
+                matched = apply_lora_to_wan_model(
+                    self.wan.model,
+                    rank=rank,
+                    alpha=alpha,
+                    dropout=dropout,
+                    target_types=targets,
+                )
+                if not matched:
+                    raise RuntimeError("检测到 wan_dit_lora.*，但推理图中未注入到任何 Wan Linear")
+                missing_lora, unexpected_lora = self.wan.model.load_state_dict(lora_state, strict=False)
+                print(
+                    f"[Pipeline] 已加载 Wan LoRA 权重: {lora_picked} "
+                    f"(tensors={len(lora_state)}, missing={len(missing_lora)}, unexpected={len(unexpected_lora)})"
+                )
+                total_state_tensors += int(len(lora_state))
+                self._record_runtime_metric("wan_lora_loaded", 1)
+                self._record_runtime_metric("wan_lora_state_tensors", int(len(lora_state)))
+                self._record_runtime_metric("wan_lora_missing", int(len(missing_lora)))
+                self._record_runtime_metric("wan_lora_unexpected", int(len(unexpected_lora)))
+                self._record_runtime_metric("wan_lora_path", str(lora_picked))
+                total_missing += int(len(missing_lora))
+                total_unexpected += int(len(unexpected_lora))
+                loaded_files.append(str(lora_picked))
+
+        if picked is not None:
+            state = _load_tensor_state(picked)
+            if not state:
+                self._warn("wan_dit_trainable.* 为空，跳过加载")
+            else:
+                flat_key_count = int(sum(1 for k in state.keys() if "_flat_param" in str(k)))
+                self._record_runtime_metric("wan_finetune_flat_key_count", flat_key_count)
+                if flat_key_count > 0:
+                    self._warn(
+                        "wan_dit_trainable.* 含 FSDP flat 参数键(_flat_param)。"
+                        "该 checkpoint 可能无法在当前非FSDP推理图上正确加载。"
+                    )
+
+                missing, unexpected = self.wan.model.load_state_dict(state, strict=False)
+                print(
+                    f"[Pipeline] 已加载 Wan 微调权重: {picked} "
+                    f"(tensors={len(state)}, missing={len(missing)}, unexpected={len(unexpected)})"
+                )
+                total_state_tensors += int(len(state))
+                if unexpected:
+                    self._warn(
+                        f"Wan 微调权重出现 unexpected keys({len(unexpected)})，"
+                        f"前8个: {unexpected[:8]}"
+                    )
+                total_missing += int(len(missing))
+                total_unexpected += int(len(unexpected))
+                loaded_files.append(str(picked))
+
+        if not loaded_files:
+            self._record_runtime_metric("wan_finetune_loaded", 0)
+            self._record_runtime_metric("wan_finetune_reason", "empty_state")
+            return
+
+        training_args_excerpt = (
+            self.mq_encoder.verify_report.get("training_artifacts", {}).get("training_args_excerpt", {})
+            if isinstance(self.mq_encoder.verify_report, dict) else {}
+        )
+        wan_mode = str(training_args_excerpt.get("wan_train_mode", "")).strip().lower()
+        if wan_mode == "full" and total_missing:
+            self._warn(
+                f"训练记录 wan_train_mode=full，但推理加载出现 missing keys({total_missing})，"
+                "这通常表示 Wan 权重键名不兼容（例如 FSDP flat key）。"
+            )
+        if wan_mode == "cond_only" and total_missing:
+            self._warn(
+                f"训练记录 wan_train_mode=cond_only，但推理加载出现 missing keys({total_missing})，"
+                "请检查 wan_cond_name_pattern 与当前 Wan 模型键名是否兼容。"
+            )
+        effective_ok = int(not (total_unexpected or (wan_mode in {"full", "cond_only"} and total_missing)))
+        self._record_runtime_metric("wan_finetune_loaded", 1)
+        self._record_runtime_metric("wan_finetune_effective_loaded", effective_ok)
+        self._record_runtime_metric("wan_finetune_state_tensors", int(total_state_tensors))
+        self._record_runtime_metric("wan_finetune_missing", int(total_missing))
+        self._record_runtime_metric("wan_finetune_unexpected", int(total_unexpected))
+        self._record_runtime_metric("wan_finetune_path", " | ".join(loaded_files))
+
+    def _warn(self, msg: str) -> None:
+        self.verify_report["warnings"].append(msg)
+        print(f"[VERIFY][WARN] {msg}")
+        if self.verify_fail_on_warning:
+            raise RuntimeError(f"[VERIFY] {msg}")
+
+    def _record_runtime_metric(self, key: str, value: Any) -> None:
+        self.verify_report["runtime"][key] = value
+
+    @staticmethod
+    def _use_cfg(guide_scale: float) -> bool:
+        # MQ-only 训练默认未显式训练 uncond 分支，低 guide_scale 或关闭 CFG 更稳定。
+        return float(guide_scale) > 1.0 + 1e-6
+
+    def _verify_context_plugged(
+        self,
+        mq_feat: torch.Tensor,
+        aug_feat: torch.Tensor,
+        tag: str,
+    ) -> None:
+        if not self.verify_enabled:
+            return
+        mq_len = mq_feat.shape[0]
+        if aug_feat.shape[0] != mq_len:
+            raise RuntimeError(
+                f"[VERIFY] {tag} MQ-only context 长度异常: aug={aug_feat.shape[0]}, mq={mq_len}"
+            )
+        mq_ok = torch.allclose(
+            aug_feat.float(),
+            mq_feat.float(),
+            atol=1e-3,
+            rtol=1e-3,
+        )
+        self._record_runtime_metric(f"{tag}_mq_tokens", int(mq_len))
+        self._record_runtime_metric(f"{tag}_t5_tokens", 0)
+        self._record_runtime_metric(f"{tag}_aug_tokens", int(aug_feat.shape[0]))
+        if not mq_ok:
+            raise RuntimeError(f"[VERIFY] {tag} MQ-only context 未正确注入")
+
+    def _verify_mq_feature_sensitivity(
+        self,
+        prompt: str,
+        negative_prompt: str,
+        ref_image: Image.Image | None,
+        mq_feat: torch.Tensor,
+        mq_feat_null: torch.Tensor,
+        tag: str,
+    ) -> None:
+        if not self.verify_enabled:
+            return
+        cond_norm = float(mq_feat.float().norm().item())
+        uncond_norm = float(mq_feat_null.float().norm().item())
+        diff_norm = float((mq_feat - mq_feat_null).float().norm().item())
+        diff_ratio = diff_norm / (cond_norm + 1e-8)
+        self._record_runtime_metric(f"{tag}_mq_cond_norm", cond_norm)
+        self._record_runtime_metric(f"{tag}_mq_uncond_norm", uncond_norm)
+        self._record_runtime_metric(f"{tag}_mq_cond_uncond_diff_norm", diff_norm)
+        self._record_runtime_metric(f"{tag}_mq_cond_uncond_diff_ratio", diff_ratio)
+        if cond_norm <= 0:
+            raise RuntimeError("[VERIFY] MQ 条件特征范数为 0，编码器可能未正常工作")
+        if uncond_norm <= 0:
+            # 关闭 CFG 时允许 uncond=0（zero-null），不视为异常。
+            self._record_runtime_metric(f"{tag}_mq_uncond_zero_ok", 1)
+        elif diff_ratio <= 1e-3:
+            self._warn("MQ 条件/无条件特征几乎无差异，CFG 的 MQ 分支可能无效")
+
+        if self.verify_level == "full":
+            alt_prompt = prompt + " [mq_probe_variant]"
+            mq_feat_alt = self.mq_encoder.encode(alt_prompt, ref_image)[0].to(
+                self.device, dtype=torch.bfloat16
+            )
+            prompt_diff = float((mq_feat - mq_feat_alt).float().norm().item())
+            prompt_ratio = prompt_diff / (cond_norm + 1e-8)
+            self._record_runtime_metric(f"{tag}_mq_prompt_sensitivity_diff_norm", prompt_diff)
+            self._record_runtime_metric(f"{tag}_mq_prompt_sensitivity_diff_ratio", prompt_ratio)
+            if prompt_ratio <= 1e-3:
+                self._warn("MQ 对 prompt 的敏感性过低（full 验证）")
+
+            if ref_image is not None:
+                mq_noimg = self.mq_encoder.encode(prompt, None)[0].to(
+                    self.device, dtype=torch.bfloat16
+                )
+                image_diff = float((mq_feat - mq_noimg).float().norm().item())
+                image_ratio = image_diff / (cond_norm + 1e-8)
+                self._record_runtime_metric(f"{tag}_mq_image_sensitivity_diff_norm", image_diff)
+                self._record_runtime_metric(f"{tag}_mq_image_sensitivity_diff_ratio", image_ratio)
+                if image_ratio <= 1e-3:
+                    self._warn("MQ 对参考图不敏感（full 验证）")
+
+    def _verify_mq_influence_on_wan(
+        self,
+        pred_cond: torch.Tensor,
+        latent_input: list[torch.Tensor],
+        timestep_masked: torch.Tensor,
+        seq_len: int,
+        mq_feat: torch.Tensor,
+        tag: str,
+    ) -> None:
+        if not self.verify_enabled:
+            return
+        zero_mq_context = [torch.zeros_like(mq_feat)]
+        pred_zero_mq = self.wan.model(
+            latent_input,
+            t=timestep_masked,
+            context=zero_mq_context,
+            seq_len=seq_len,
+        )[0]
+        diff_norm = float((pred_cond - pred_zero_mq).float().norm().item())
+        cond_norm = float(pred_cond.float().norm().item())
+        ratio = diff_norm / (cond_norm + 1e-8)
+        self._record_runtime_metric(f"{tag}_mq_influence_diff_norm", diff_norm)
+        self._record_runtime_metric(f"{tag}_mq_influence_ratio", ratio)
+        print(
+            f"[VERIFY] {tag} 首步对照: ||pred(mq)-pred(zero_mq)||={diff_norm:.6f}, "
+            f"ratio={ratio:.6e}"
+        )
+        if ratio <= 1e-3:
+            raise RuntimeError(
+                "[VERIFY] MQ 置零前后 Wan 预测几乎无差异，说明 checkpoint 可能未真实参与去噪"
+            )
+
+    def dump_verify_report(self, report_path: str) -> None:
+        if not self.verify_enabled:
+            return
+        if not report_path:
+            return
+        warnings = self.verify_report.get("warnings", [])
+        self.verify_report["summary"] = {
+            "status": "pass_with_warnings" if warnings else "pass",
+            "warning_count": len(warnings),
+        }
+        _write_json(Path(report_path), self.verify_report)
+        print(f"[VERIFY] 报告已写入: {report_path}")
+
+    def generate_i2v(
+        self,
+        prompt: str,
+        ref_image: Image.Image,
+        negative_prompt: str = "",
+        max_area: int = 480 * 832,
+        frame_num: int = 81,
+        shift: float = 5.0,
+        sample_solver: str = "unipc",
+        sampling_steps: int = 50,
+        guide_scale: float = 5.0,
+        seed: int = 42,
+    ):
+        """
+        MQ-only i2v：
+        仅将参考图/文本编码到 MetaQuery，不做 hard-lock/animate-like 首帧注入。
+        i2v 在此仅用于根据参考图自动计算输出尺寸，底层复用 t2v 去噪路径。
+        """
+        from wan.utils.utils import best_output_size
+
+        ih, iw = ref_image.height, ref_image.width
+        dh = self.wan_config.patch_size[1] * self.wan_config.vae_stride[1]
+        dw = self.wan_config.patch_size[2] * self.wan_config.vae_stride[2]
+        if self.args.i2v_force_size:
+            req_w, req_h = int(self.args.size[0]), int(self.args.size[1])
+            if req_w < dw or req_h < dh:
+                raise ValueError(
+                    f"i2v_force_size 要求的尺寸过小: {req_w}x{req_h}, 最小应 >= {dw}x{dh}"
+                )
+            # 保证满足 patch/vae 对齐（32 对齐）
+            ow = (req_w // dw) * dw
+            oh = (req_h // dh) * dh
+            if ow != req_w or oh != req_h:
+                print(
+                    f"[Generate][i2v] i2v_force_size 对齐修正: {req_w}x{req_h} -> {ow}x{oh} "
+                    f"(align {dw}x{dh})"
+                )
+        else:
+            ow, oh = best_output_size(iw, ih, dw, dh, max_area)
+        self._record_runtime_metric("i2v_mode_effective", "mq_only_t2v_path")
+        self._record_runtime_metric("i2v_ref_explicit_in_dit", 0)
+        self._record_runtime_metric("i2v_text_explicit_in_dit", 0)
+        print(
+            f"[Generate][i2v][MQ-only] output_size={ow}x{oh} "
+            f"(input_ref={iw}x{ih}, force_size={self.args.i2v_force_size}, max_area={max_area})"
+        )
+
+        return self.generate_t2v(
+            prompt=prompt,
+            ref_image=ref_image,
+            negative_prompt=negative_prompt,
+            size=(ow, oh),
+            frame_num=frame_num,
+            shift=shift,
+            sample_solver=sample_solver,
+            sampling_steps=sampling_steps,
+            guide_scale=guide_scale,
+            seed=seed,
+        )
+
+    def generate_t2v(
+        self,
+        prompt: str,
+        ref_image: Image.Image = None,
+        negative_prompt: str = "",
+        size: tuple = (832, 480),
+        frame_num: int = 81,
+        shift: float = 5.0,
+        sample_solver: str = "unipc",
+        sampling_steps: int = 50,
+        guide_scale: float = 5.0,
+        seed: int = 42,
+    ):
+        """
+        MetaQuery 增强的 t2v 生成。
+
+        参考图仅用于 MetaQuery 编码 (角色理解)，
+        视频完全从噪声生成 (无第一帧约束)。
+        """
+        from wan.utils.fm_solvers import (
+            FlowDPMSolverMultistepScheduler,
+            get_sampling_sigmas,
+            retrieve_timesteps,
+        )
+        from wan.utils.fm_solvers_unipc import FlowUniPCMultistepScheduler
+        from wan.utils.utils import masks_like
+
+        device = self.device
+
+        use_cfg = self._use_cfg(guide_scale)
+        self._record_runtime_metric("t2v_use_cfg", int(use_cfg))
+        mq_cfg_scale = float(getattr(self.args, "mq_cfg_scale", 1.0))
+        mq_context_scale = float(getattr(self.args, "mq_context_scale", 1.0))
+        cfg_uncond_mode = str(getattr(self.args, "cfg_uncond_mode", "encode_negative")).strip().lower()
+        if cfg_uncond_mode not in {"encode_negative", "zero_mq"}:
+            cfg_uncond_mode = "encode_negative"
+        self._record_runtime_metric("t2v_guide_scale", float(guide_scale))
+        self._record_runtime_metric("t2v_mq_cfg_scale", float(mq_cfg_scale))
+        self._record_runtime_metric("t2v_mq_context_scale", float(mq_context_scale))
+        self._record_runtime_metric("t2v_cfg_uncond_mode", cfg_uncond_mode)
+        if use_cfg and not negative_prompt:
+            negative_prompt = self.wan.sample_neg_prompt
+
+        # ── 1. MetaQuery 编码 ────────────────────────────────────────────
+        print("[Generate] MetaQuery 编码...")
+        mq_feat = self.mq_encoder.encode(prompt, ref_image)  # [1, 256, 4096]
+        mq_feat = mq_feat[0].to(device, dtype=torch.bfloat16)  # [256, 4096]
+        if use_cfg:
+            if cfg_uncond_mode == "zero_mq":
+                mq_feat_null = torch.zeros_like(mq_feat)
+            else:
+                null_prompt = negative_prompt
+                null_ref_image = Image.new("RGB", ref_image.size) if ref_image is not None else None
+                mq_feat_null = self.mq_encoder.encode(null_prompt, null_ref_image)[0].to(
+                    device, dtype=torch.bfloat16
+                )
+        else:
+            mq_feat_null = torch.zeros_like(mq_feat)
+        # 仅缩放条件分支：围绕 uncond 基线放大/减弱 cond 差异。
+        mq_feat_effective = mq_feat_null + float(mq_context_scale) * (mq_feat - mq_feat_null)
+
+        # ── 2. MQ-only context ──────────────────────────────────────────
+        aug_context = [mq_feat_effective]
+        aug_null = [mq_feat_null]
+        self._verify_mq_feature_sensitivity(
+            prompt=prompt,
+            negative_prompt=negative_prompt,
+            ref_image=ref_image,
+            mq_feat=mq_feat_effective,
+            mq_feat_null=mq_feat_null,
+            tag="t2v",
+        )
+        self._verify_context_plugged(mq_feat_effective, aug_context[0], tag="t2v")
+
+        # ── 4. 计算尺寸 ─────────────────────────────────────────────────
+        W, H = size
+        vae_stride = self.wan_config.vae_stride
+        patch_size = self.wan_config.patch_size
+
+        F = frame_num
+        z_dim = self.wan.vae.model.z_dim
+        target_shape = (
+            z_dim,
+            (F - 1) // vae_stride[0] + 1,
+            H // vae_stride[1],
+            W // vae_stride[2],
+        )
+
+        seq_len = math.ceil(
+            (target_shape[2] * target_shape[3]) /
+            (patch_size[1] * patch_size[2]) * target_shape[1])
+
+        seed_g = torch.Generator(device=device)
+        seed_g.manual_seed(seed if seed >= 0 else random.randint(0, sys.maxsize))
+        noise = torch.randn(*target_shape, dtype=torch.float32,
+                            device=device, generator=seed_g)
+
+        # ── 5. 去噪循环 ─────────────────────────────────────────────────
+        aug_text_len = self._aug_text_len
+        self.wan.model.text_len = aug_text_len
+        self._record_runtime_metric("t2v_text_len_before", int(self._orig_text_len))
+        self._record_runtime_metric("t2v_text_len_after", int(self.wan.model.text_len))
+        if self.wan.model.text_len != aug_text_len:
+            raise RuntimeError(
+                f"[VERIFY] t2v text_len 设置失败: current={self.wan.model.text_len}, expected={aug_text_len}"
+            )
+
+        @contextmanager
+        def noop_no_sync():
+            yield
+        no_sync = getattr(self.wan.model, 'no_sync', noop_no_sync)
+
+        with (
+            torch.amp.autocast('cuda', dtype=self.wan.param_dtype),
+            torch.no_grad(),
+            no_sync(),
+        ):
+            if sample_solver == 'unipc':
+                scheduler = FlowUniPCMultistepScheduler(
+                    num_train_timesteps=self.wan.num_train_timesteps,
+                    shift=1, use_dynamic_shifting=False)
+                scheduler.set_timesteps(sampling_steps, device=device, shift=shift)
+                timesteps = scheduler.timesteps
+            elif sample_solver == 'dpm++':
+                scheduler = FlowDPMSolverMultistepScheduler(
+                    num_train_timesteps=self.wan.num_train_timesteps,
+                    shift=1, use_dynamic_shifting=False)
+                sigmas = get_sampling_sigmas(sampling_steps, shift)
+                timesteps, _ = retrieve_timesteps(
+                    scheduler, device=device, sigmas=sigmas)
+            else:
+                raise NotImplementedError(f"Unknown solver: {sample_solver}")
+
+            self.wan.model.to(device)
+            torch.cuda.empty_cache()
+
+            latents = [noise]
+            mask1, mask2 = masks_like(latents, zero=False)
+
+            print(f"[Generate] 开始 t2v 去噪 ({len(timesteps)} steps)...")
+            for step_idx, t in enumerate(tqdm(timesteps)):
+                latent_input = latents
+                timestep = torch.stack([t])
+
+                temp_ts = (mask2[0][0][:, ::2, ::2] * timestep).flatten()
+                temp_ts = torch.cat([
+                    temp_ts,
+                    temp_ts.new_ones(seq_len - temp_ts.size(0)) * timestep
+                ])
+                timestep_masked = temp_ts.unsqueeze(0)
+
+                pred_cond = self.wan.model(
+                    latent_input, t=timestep_masked,
+                    context=aug_context, seq_len=seq_len)[0]
+
+                if use_cfg:
+                    pred_uncond = self.wan.model(
+                        latent_input, t=timestep_masked,
+                        context=aug_null, seq_len=seq_len)[0]
+                    pred = pred_uncond + (guide_scale * float(mq_cfg_scale)) * (pred_cond - pred_uncond)
+                else:
+                    pred = pred_cond
+
+                if step_idx == 0:
+                    self._verify_mq_influence_on_wan(
+                        pred_cond=pred_cond,
+                        latent_input=latent_input,
+                        timestep_masked=timestep_masked,
+                        seq_len=seq_len,
+                        mq_feat=mq_feat_effective,
+                        tag="t2v",
+                    )
+
+                temp_x0 = scheduler.step(
+                    pred.unsqueeze(0), t, latents[0].unsqueeze(0),
+                    return_dict=False, generator=seed_g)[0]
+                latents = [temp_x0.squeeze(0)]
+
+            x0 = latents
+
+            if self.args.offload_model:
+                self.wan.model.cpu()
+                torch.cuda.synchronize()
+                torch.cuda.empty_cache()
+
+            print("[Generate] VAE 解码...")
+            videos = self.wan.vae.decode(x0)
+
+        self.wan.model.text_len = self._orig_text_len
+        self._record_runtime_metric("t2v_text_len_restored", int(self.wan.model.text_len))
+        if self.wan.model.text_len != self._orig_text_len:
+            raise RuntimeError(
+                f"[VERIFY] t2v text_len 未恢复: current={self.wan.model.text_len}, expected={self._orig_text_len}"
+            )
+
+        del noise, latents, x0
+        gc.collect()
+        torch.cuda.empty_cache()
+
+        return videos[0]
+
+
+# =============================================================================
+# 视频保存
+# =============================================================================
+def save_video(video_tensor, output_path, fps=24):
+    """
+    保存视频 tensor 为 mp4。
+
+    Args:
+        video_tensor: [3, T, H, W], 值域 [0, 1] 或 [-1, 1]
+        output_path: 输出路径
+        fps: 帧率
+    """
+    import cv2
+
+    # 归一化到 [0, 255]
+    video = video_tensor.cpu().float()
+    if video.min() < 0:
+        video = (video + 1.0) / 2.0
+    video = video.clamp(0, 1) * 255
+    video = video.byte()
+
+    # [3, T, H, W] → [T, H, W, 3]
+    video = video.permute(1, 2, 3, 0).numpy()
+
+    T, H, W, _ = video.shape
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+    writer = cv2.VideoWriter(output_path, fourcc, fps, (W, H))
+    for frame in video:
+        writer.write(cv2.cvtColor(frame, cv2.COLOR_RGB2BGR))
+    writer.release()
+    print(f"✅ 视频已保存: {output_path} ({T} frames, {W}x{H}, {fps}fps)")
+
+
+# =============================================================================
+# Main
+# =============================================================================
+if __name__ == "__main__":
+    args = parse_args()
+
+    pipeline = MetaQueryWanPipeline(args)
+    verify_report_path = args.verify_report_path.strip()
+    if args.verify_level != "none" and not verify_report_path:
+        verify_report_path = f"{args.output_path}.verify.json"
+
+    # 加载参考图
+    ref_image = None
+    if args.ref_image and os.path.exists(args.ref_image):
+        ref_image = Image.open(args.ref_image).convert("RGB")
+        print(f"[Main] 参考图: {args.ref_image} ({ref_image.size})")
+
+    try:
+        # 生成
+        if args.mode == "i2v":
+            if ref_image is None:
+                raise ValueError("i2v 模式需要 --ref_image!")
+            video = pipeline.generate_i2v(
+                prompt=args.prompt,
+                ref_image=ref_image,
+                negative_prompt=args.negative_prompt,
+                max_area=args.max_area,
+                frame_num=args.frame_num,
+                shift=args.shift,
+                sample_solver=args.sample_solver,
+                sampling_steps=args.sampling_steps,
+                guide_scale=args.guide_scale,
+                seed=args.seed,
+            )
+        else:
+            video = pipeline.generate_t2v(
+                prompt=args.prompt,
+                ref_image=ref_image,
+                negative_prompt=args.negative_prompt,
+                size=tuple(args.size),
+                frame_num=args.frame_num,
+                shift=args.shift,
+                sample_solver=args.sample_solver,
+                sampling_steps=args.sampling_steps,
+                guide_scale=args.guide_scale,
+                seed=args.seed,
+            )
+
+        # 保存
+        save_video(video, args.output_path)
+    finally:
+        pipeline.dump_verify_report(verify_report_path)

@@ -1,0 +1,618 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      74,
+      467,
+      444
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon bulldog with a red collar stands on a sidewalk, looking upward with a content expression, surrounded by greenery and a yellow wall.",
+    "timestamp": "2026-02-24 01:57:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      74,
+      467,
+      444
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown bulldog with a red collar stands on a stone path, eyes closed, appearing relaxed or sleepy. Behind him, a yellow wall and green bushes frame the scene. The dog’s posture suggests calmness, with no significant movement or emotional expression visible.",
+    "timestamp": "2026-02-24 01:57:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      74,
+      467,
+      444
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon bulldog with a red collar strolls leisurely on a sidewalk, eyes closed in contentment. Its ears flop gently, tail sways, and paws move rhythmically. The scene exudes calmness, with the dog enjoying a peaceful walk past a yellow wall and greenery, embodying tranquility and satisfaction.",
+    "timestamp": "2026-02-24 01:57:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      74,
+      467,
+      444
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown bulldog with a white chest and a red collar adorned with yellow studs stands on a stone path, eyes closed, appearing content. Behind him, a yellow wall and green bushes with red flowers frame the scene. The dog’s ears perk slightly, and his tail curls gently, suggesting calmness or satisfaction. He remains stationary, basking in the moment, embodying peaceful stillness with a serene, almost dreamy expression.",
+    "timestamp": "2026-02-24 01:57:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      279,
+      63,
+      476,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, holding a pie, faces a growling bulldog. He throws the pie, then uses a bat to fend off the dog, who bites the bat, scattering crumbs.",
+    "timestamp": "2026-02-24 01:58:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      279,
+      63,
+      476,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, holds a pie, then uses various objects—frisbees, a hat, and a bat—to fend off a barking, leashed bulldog. Tom smiles confidently, while the dog growls and lunges, showing exaggerated expressions of aggression and frustration.",
+    "timestamp": "2026-02-24 01:58:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      279,
+      63,
+      476,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, holds a pie, then dodges a dog’s attack. He throws a hat, a baseball bat, and a rolling pin, each time deflecting the dog’s rage. The dog growls, snarls, and lunges, but Tom remains calm, amused, and victorious. Their antics unfold with slapstick humor in a sunny backyard.",
+    "timestamp": "2026-02-24 01:58:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      279,
+      63,
+      476,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, holding a pie, stands confidently as a large, aggressive dog lunges at him. Tom dodges, then uses a baseball bat to fend off the dog, who growls and snarls. Tom swings the bat, scattering crumbs, while the dog’s expression shifts from rage to surprise. The scene ends with Tom triumphantly holding the bat, the dog defeated, and a stick lying on the grass. The cartoonish chaos and exaggerated expressions highlight their comedic battle.",
+    "timestamp": "2026-02-24 01:58:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      39,
+      244,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, taunts a large, aggressive dog with a pie, then uses various objects to distract and defeat it, showcasing his cunning and playful nature.",
+    "timestamp": "2026-02-24 01:59:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      39,
+      244,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, taunts a brown bulldog with a pie, then uses a baseball bat to fend off the dog. The dog growls and lunges, but Tom dodges, laughing. The scene ends with Tom triumphantly holding the bat, while the dog is left panting and confused.",
+    "timestamp": "2026-02-24 01:59:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      39,
+      244,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog, leashed and growling, confronts Tom, the blue cat. Tom, holding a pie, throws it at the dog, causing a mess. He then tosses a hat, a baseball bat, and a rolling pin, each time amusingly dodging the dog’s furious barks and snarls. Their antics unfold with slapstick humor.",
+    "timestamp": "2026-02-24 01:59:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      39,
+      244,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A bulldog, leashed and growling, confronts Tom the cat. Tom, holding a pie, douses the dog with sauce, then tosses a hat, a bat, and a rolling pin—each time the dog reacts with exaggerated shock. Tom smiles triumphantly, while the dog’s expressions shift from rage to confusion. The scene is comedic, filled with slapstick, set against a green lawn under a clear sky.",
+    "timestamp": "2026-02-24 01:59:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      128,
+      194,
+      434,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a suit, carries a tray with covered dishes, glancing slyly, suggesting mischief or anticipation as he moves through a room.",
+    "timestamp": "2026-02-24 01:59:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      128,
+      194,
+      434,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a suit, carries a tray with covered dishes, eyes narrowed in mischief. He enters a room, glances around, then places the tray on a table beside a window with flowers. His expression suggests he’s plotting something, perhaps a trick or a meal.",
+    "timestamp": "2026-02-24 01:59:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      128,
+      194,
+      434,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a formal black suit, carries a tray with covered dishes, eyes narrowed in mischief. He enters a room, glances around, then places the tray on a table beside a window with flowers. His expression is smug, suggesting he’s up to something devious or playful.",
+    "timestamp": "2026-02-24 01:59:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      128,
+      194,
+      434,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a formal black suit, carries a tray laden with covered dishes, eyes narrowed in mischief. He enters a room with teal walls, pauses near a window with flowers, and glances sideways, perhaps plotting his next move. His expression is smug and determined, hinting at a scheme or playful intent. The scene exudes classic cartoon charm, with Tom’s poised demeanor suggesting he’s about to serve—or perhaps trick—his unsuspecting prey.",
+    "timestamp": "2026-02-24 02:00:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      332,
+      12,
+      511,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a bat, aiming at a tied-up dog. The dog is tied to a post, looking up with a surprised expression. Tom then drops the bat, looking confused.",
+    "timestamp": "2026-02-24 02:00:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      332,
+      12,
+      511,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, swings a bat at a brown dog tied to a leash, causing the dog to recoil in pain. The dog lies on the grass, while Tom looks smugly satisfied. A rabbit peeks from its doghouse nearby, watching the scene unfold.",
+    "timestamp": "2026-02-24 02:00:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      332,
+      12,
+      511,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wields a bat, striking a tied-up brown dog, who lies defeated. Tom then drops the bat, revealing his playful smirk. The dog, still tied, lies on the grass, panting. A yellow doghouse nearby hints at a domestic setting, contrasting the chaos.",
+    "timestamp": "2026-02-24 02:00:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      332,
+      12,
+      511,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, holds a baseball bat, smiling mischievously. He swings it, striking a brown bulldog tied to a leash, who yelps and falls. Tom then drops the bat, standing over the dog with a smug grin. The dog lies on the grass, panting, while Tom walks away, his tail swishing. The scene ends with Tom near a yellow doghouse, suggesting he’s planning his next prank. The setting is a sunny, green backyard.",
+    "timestamp": "2026-02-24 02:00:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      1,
+      63,
+      284,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat wields a bat, striking a brown dog on a leash. The dog lies defeated, while Tom stands triumphantly, holding the bat and smiling.",
+    "timestamp": "2026-02-24 02:01:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      1,
+      63,
+      284,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown dog with a red collar is tied to a leash, looking panicked. A blue cat, Tom, swings a baseball bat at the dog, causing it to recoil. The dog lies defeated near a doghouse as Tom walks away, smirking. The scene is set in a grassy yard under a clear sky.",
+    "timestamp": "2026-02-24 02:01:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      1,
+      63,
+      284,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown bulldog, leashed, is startled by a blue cat holding a bat. The cat swings, causing the dog to recoil. The dog lies down, panting, as the cat walks away, bat in hand, with a mischievous grin. The scene ends with the dog curled up in a doghouse, looking exhausted.",
+    "timestamp": "2026-02-24 02:01:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      1,
+      63,
+      284,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown bulldog, wearing a red collar and leash, is startled by a blue cat, Tom, wielding a baseball bat. Tom swings, causing the dog to recoil in pain, then lie down. Tom, smug and triumphant, walks away, bat in hand, as the dog groans. The scene shifts to the dog curled up inside a yellow doghouse, still groaning, as Tom’s shadow looms nearby, suggesting a comedic, mischievous chase.",
+    "timestamp": "2026-02-24 02:01:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      68,
+      160,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, angry, holds a bell and scroll, confronting Jerry on a covered dish. A bulldog joins, also holding a scroll, as Tom yells, showing frustration and dominance.",
+    "timestamp": "2026-02-24 02:01:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      68,
+      160,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, angry, grabs a bell and a scroll, confronting Jerry atop a cloche. A bulldog joins, also holding a scroll. Tom’s expression shifts from rage to amusement as he taunts Jerry, who remains defiantly perched. The scene is tense, filled with cartoonish energy and classic rivalry.",
+    "timestamp": "2026-02-24 02:02:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      68,
+      160,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, furious, grabs a bell and a scroll, confronting Jerry atop a covered dish. A bulldog joins, holding a scroll, both glaring. Tom’s anger peaks as he swings the bell, while Jerry remains defiantly perched, embodying mischief and cunning in the tense, animated showdown.",
+    "timestamp": "2026-02-24 02:02:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      68,
+      160,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, angrily grabs a bell and a rolled-up scroll, confronting Jerry, the mouse, perched atop a cloche. Tom’s expression shifts from rage to triumphant smirk as he holds the bell aloft. Suddenly, a bulldog enters, also clutching a scroll, glaring at Tom. The scene suggests a comedic chase or showdown, with Tom’s antics and the bulldog’s presence adding tension and humor to the animated tableau.",
+    "timestamp": "2026-02-24 02:02:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      45,
+      164,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Spike the bulldog angrily throws a scroll, knocking Tom the cat off his chair. Jerry the mouse watches from a cloche, surprised as Tom's feet fly into the air.",
+    "timestamp": "2026-02-24 02:02:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      45,
+      164,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A grumpy bulldog with a red collar angrily throws a rolled-up paper, sending Tom, the cat, flying. Tom lands on a table with a blue cloche, while Jerry, the mouse, watches from atop it. The scene is chaotic, filled with motion and comedic tension between the characters.",
+    "timestamp": "2026-02-24 02:02:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      45,
+      164,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A grumpy bulldog, wearing a red collar, angrily rolls a scroll, sending Tom, a blue cat, flying off his chair. A tiny mouse stands atop a cloche, watching. The scene is chaotic, with motion blur indicating swift movement and the bulldog’s furious expression.",
+    "timestamp": "2026-02-24 02:02:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      45,
+      164,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A grumpy bulldog with a red collar snarls, tossing a rolled-up scroll. Tom, the cat, lies on a green couch, startled by the motion. A tiny mouse perches atop a cloche on the table, watching. The bulldog’s angry eyes and clenched fists convey irritation. Tom’s expression shifts from surprise to alarm as the scroll flies, scattering papers and sending a bell into the air. The scene is chaotic, filled with motion and comedic tension between the characters.",
+    "timestamp": "2026-02-24 02:02:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      482,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Dog with red collar looks annoyed, then delighted as mouse appears on cloche. Dog grabs a bell, then leaps excitedly, showing joy and surprise at the mouse’s antics.",
+    "timestamp": "2026-02-24 02:03:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      482,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog, wearing a red collar, sits at a table, glaring at a tiny mouse perched atop a cloche. The mouse, holding a yellow bell, surprises the dog, who reacts with a mix of annoyance and sudden delight, raising his arms in exasperation. The scene is comedic and full of classic cartoon energy.",
+    "timestamp": "2026-02-24 02:03:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      482,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog, wearing a red collar, sits at a table, glaring at a tiny mouse perched atop a cloche. The mouse, holding a yellow bell, tricks the dog into thinking it’s a bell. The dog’s expression shifts from annoyance to delight as he claps, then leaps in excitement.",
+    "timestamp": "2026-02-24 02:03:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      482,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A bulldog, wearing a red collar, sits at a table, glaring at a tiny mouse perched atop a cloche. The mouse, mischievous and bold, holds a yellow bell. The dog’s expression shifts from annoyance to delight as he claps, then suddenly recoils in shock as the bell rings. His wide eyes and open mouth convey surprise, while the mouse remains calm, enjoying the chaos. The scene captures their classic comedic rivalry in a richly detailed, cartoonish setting.",
+    "timestamp": "2026-02-24 02:03:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      101,
+      244,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a rolled-up paper, smiling mischievously. Jerry, the mouse, emerges from a doghouse, tied with a rope, looking surprised as Tom watches him.",
+    "timestamp": "2026-02-24 02:03:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      101,
+      244,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds a scroll, smiling mischievously. A mouse, tied to a rope, emerges from a doghouse. Tom’s expression shifts to delight as he watches, suggesting he’s plotting something. The scene implies a classic chase or prank, with Tom’s cunning grin hinting at his next move.",
+    "timestamp": "2026-02-24 02:04:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      101,
+      244,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds a rolled-up paper, smiling mischievously. A mouse emerges from a doghouse, tied by a rope, then disappears. Tom’s expression shifts to satisfaction as he walks away, hinting at his cunning plan, while the mouse’s escape suggests a comedic chase ahead.",
+    "timestamp": "2026-02-24 02:04:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      0,
+      101,
+      244,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a rolled-up paper, smiling mischievously. He walks indoors, then pauses, eyes widening in surprise. A mouse, Jerry, appears in a doghouse, tied with a rope, looking annoyed. Tom’s expression shifts to smug delight as he continues reading. The scene contrasts Tom’s cunning with Jerry’s frustration, set against a vibrant garden backdrop. Their classic rivalry is evident in their expressions and actions.",
+    "timestamp": "2026-02-24 02:04:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      30,
+      33,
+      356,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, swings a croquet mallet, chasing Jerry, the mouse. Jerry scurries away, while Tom displays a mischievous grin, determined to catch his prey.",
+    "timestamp": "2026-02-24 02:04:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      30,
+      33,
+      356,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, swings a croquet mallet with determination, chasing Jerry, the mouse, who scurries away. Tom’s expression shifts from focused to triumphant as he prepares to strike. Jerry dodges, evading Tom’s pursuit with agile movements, showcasing their classic chase dynamic.",
+    "timestamp": "2026-02-24 02:04:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      30,
+      33,
+      356,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, swings a croquet mallet with determination, chasing Jerry, the brown mouse. Jerry scurries away, dodging obstacles. Tom’s expression shifts from focused to triumphant as he prepares to strike, while Jerry’s looks terrified, anticipating capture in this classic chase.",
+    "timestamp": "2026-02-24 02:04:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E23 - Fit To Be Tied (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      30,
+      33,
+      356,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully swings a croquet mallet, chasing Jerry, the brown mouse. Jerry scurries away, dodging Tom’s attempts. Tom’s expression shifts from playful to determined, eyes gleaming with mischief. The scene unfolds on a green lawn, with croquet equipment scattered nearby. Jerry’s frantic escape contrasts with Tom’s confident, almost theatrical stance, capturing their classic dynamic of pursuit and evasion. The backdrop is simple, emphasizing their animated antics.",
+    "timestamp": "2026-02-24 02:04:54"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "video_path": "/home/liuzhirui/video_demo/segment_0003.mp4",
+    "video_name": "segment_0003",
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines",
+    "caption": "Tom the cat is sitting in a barn, looking nervous and then suddenly excited. He raises his paws in the air, then covers his face with one paw, revealing a mischievous grin. He then points forward with his paws, and finally stands up and runs off to the right, leaving the barn.",
+    "timestamp": "2026-02-23 12:14:30"
+  },
+  {
+    "video_path": "/home/liuzhirui/video_demo/segment_0003.mp4",
+    "video_name": "segment_0003",
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines",
+    "caption": "In a dimly lit barn with wooden beams and hay scattered around, a gray cat with white paws and a white belly, known as Tom, is seen in a comical state of excitement. His eyes glow green, and his expression shifts from wide-eyed surprise to a mischievous grin as he claps his paws together in a celebratory gesture. He then raises one paw triumphantly, as if he has just accomplished something remarkable, before bringing both paws to his face in a playful, almost theatrical pose. His mouth opens wide in a joyful, almost manic laugh, revealing his teeth in a grin that suggests he’s",
+    "timestamp": "2026-02-23 12:14:37"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      3,
+      1,
+      500,
+      408
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in yellow pants, red-striped socks, and blue shoes sits, then stands, adjusting their clothing with a playful, mischievous expression.",
+    "timestamp": "2026-02-23 15:57:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      3,
+      1,
+      500,
+      408
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in yellow pants, red-and-white striped socks, and blue shoes sits on the floor, then stands up, adjusting their clothing. Their large hands gesture as they move, suggesting playful or clumsy behavior. The scene conveys lightheartedness and whimsy typical of animated cartoons.",
+    "timestamp": "2026-02-23 15:57:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      3,
+      1,
+      500,
+      408
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in yellow pants, red-and-white striped socks, and blue shoes sits on the floor, then stands up, adjusting their clothing. Their large hands and expressive posture suggest playful or comedic intent, with no visible facial expressions due to the close-up focus on their lower body and movements.",
+    "timestamp": "2026-02-23 15:57:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      3,
+      1,
+      500,
+      408
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character, dressed in a yellow outfit with red-and-white striped socks and blue shoes, is shown bending over. Their hands grip their own legs, adjusting their clothing. The character’s posture suggests discomfort or an attempt to straighten up. The scene is static, with no facial expressions visible, emphasizing the physical action rather than emotion. The background is simple, keeping focus on the character’s movement and attire.",
+    "timestamp": "2026-02-23 15:57:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      107,
+      47,
+      447,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds Jerry in his paw, then opens a fridge, revealing food. He looks surprised as Jerry scurries away, leaving Tom alone with the fridge door open.",
+    "timestamp": "2026-02-23 15:57:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      107,
+      47,
+      447,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the mouse, in his paw, smiling mischievously. He then opens a fridge, revealing food items. Tom’s expression shifts to shock as he realizes Jerry is inside, causing him to recoil in surprise, his mouth wide open.",
+    "timestamp": "2026-02-23 15:57:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      107,
+      47,
+      447,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the mouse, in his paw. He peers into a fridge, eyes gleaming with mischief. A sudden shock sends him reeling backward, his expression turning to surprise as the fridge door swings shut behind him, leaving Jerry safely inside.",
+    "timestamp": "2026-02-23 15:58:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      107,
+      47,
+      447,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the mouse, in his paw, then opens a refrigerator, revealing a feast. He peers inside with a mischievous grin, eyes wide with anticipation. As he closes the fridge, he jumps back in surprise, mouth agape, revealing his delight and sudden shock. The scene captures Tom’s playful, predatory nature and Jerry’s tiny, defiant presence, set against a colorful, cartoonish kitchen backdrop.",
+    "timestamp": "2026-02-23 15:58:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      81,
+      0,
+      412,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a yellow dress, white apron, and blue slippers opens a door, stepping into a room with red-and-white striped socks. She appears cheerful and animated.",
+    "timestamp": "2026-02-23 15:58:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      81,
+      0,
+      412,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a yellow dress, white apron, and striped socks enters through a door, stepping carefully. Her hands gesture as she moves, suggesting cautiousness or surprise. The scene is indoors, with muted colors and a simple background. Her expression is not visible, but her posture implies attentiveness.",
+    "timestamp": "2026-02-23 15:58:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      81,
+      0,
+      412,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a yellow dress, white apron, and striped socks enters a room, pushing open a door. She wears blue slippers and moves with a cheerful, animated gait, her hands gesturing as she steps in, suggesting lively energy and purposeful movement.",
+    "timestamp": "2026-02-23 15:58:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      81,
+      0,
+      412,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, animated character in a yellow dress, white apron, and red-striped socks enters through a door. She wears blue slippers and has dark skin. Her hands gesture as she steps forward, appearing cheerful or animated. The scene is indoors, with soft lighting and a patterned rug visible. Her movements suggest she’s entering with purpose or excitement, possibly to greet someone or perform a task. The animation style is classic, with bold outlines and vibrant colors.",
+    "timestamp": "2026-02-23 15:58:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      16,
+      93,
+      325,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat peers into a fridge, eyes wide with delight, then eagerly grabs a sausage, his expression shifting to pure hunger and excitement as he chomps happily.",
+    "timestamp": "2026-02-23 15:59:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      16,
+      93,
+      325,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a fridge door, eyes wide with excitement. He eagerly grabs a sausage, then gasps in delight, revealing his sharp teeth. His joyful expression and animated gestures show his hunger and delight at the tasty treat.",
+    "timestamp": "2026-02-23 15:59:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      16,
+      93,
+      325,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a fridge door, eyes wide with excitement. He eagerly grabs a sausage, then gasps in delight, clutching it close. His expression shifts to pure joy as he savors the treat, surrounded by colorful food items on shelves.",
+    "timestamp": "2026-02-23 15:59:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      16,
+      93,
+      325,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat peers into a fridge, eyes wide with delight, clutching a sausage in his paws. He eagerly bites into it, eyes gleaming with satisfaction, as he revels in his snack. His joyful expression and animated movements convey pure, unbridled hunger. The fridge shelves, stocked with colorful treats, serve as his backdrop, emphasizing his culinary delight. Tom’s antics highlight his insatiable appetite and playful mischief.",
+    "timestamp": "2026-02-23 15:59:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      87,
+      2,
+      459,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a yellow dress and apron, holding a milk bowl, walks through a messy kitchen, dodging spilled milk and broken dishes.",
+    "timestamp": "2026-02-23 16:00:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      87,
+      2,
+      459,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a yellow dress and apron, holding a milk bowl, walks through a messy kitchen. Milk drips from the bowl and spills on the floor. The character appears focused, navigating the chaos with determination, ignoring the scattered dishes and spilled liquids around her.",
+    "timestamp": "2026-02-23 16:00:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      87,
+      2,
+      459,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout woman in a yellow dress and apron carries a milk bowl, dodging spilled milk and broken dishes. She walks past a fridge with dripping yellow liquid, her blue slippers stepping over scattered debris. Her focused expression suggests determination amid the chaos.",
+    "timestamp": "2026-02-23 16:00:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      87,
+      2,
+      459,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, animated woman in a yellow dress and white apron, holding a milk bowl, walks through a messy kitchen. She’s wearing red-and-white striped socks and blue slippers. As she moves, spilled milk drips from the bowl, splashing onto the floor. The kitchen is cluttered with broken dishes and a tipped-over bucket. Her expression is focused, suggesting she’s determined to clean up the mess despite the chaos around her.",
+    "timestamp": "2026-02-23 16:00:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      81,
+      50,
+      451,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat eagerly grabs cheese, then reacts with shock and disgust, dropping it, as he surveys the fridge's tempting food offerings with a mix of hunger and dismay.",
+    "timestamp": "2026-02-23 16:00:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      81,
+      50,
+      451,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully grabs cheese, then recoils in shock as it melts. He looks distressed, eyes wide, as he drops the cheese, startled by its unexpected behavior. His expression shifts from delight to panic as he stares at the melting cheese in disbelief.",
+    "timestamp": "2026-02-23 16:00:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      81,
+      50,
+      451,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, inside a fridge, gleefully grabs a large cheese slice, then recoils in horror. His eyes widen, mouth agape, as he drops the cheese, visibly startled. He sits back, trembling, overwhelmed by the sheer size of the cheese, his expression a mix of shock and dismay.",
+    "timestamp": "2026-02-23 16:00:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      81,
+      50,
+      451,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands in a refrigerator, gleefully grabbing a large slice of cheese. He savors it, then suddenly recoils in horror, eyes wide, as if the cheese is unexpectedly spicy or vile. His expression shifts from delight to disgust, and he shakes his head, dropping the cheese. He looks around nervously, perhaps fearing discovery, his paws trembling slightly. The fridge shelves overflow with food, but Tom’s focus remains on his failed snack.",
+    "timestamp": "2026-02-23 16:01:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      128,
+      0,
+      428,
+      301
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in a yellow robe and striped pants sits on a stool, adjusting their clothing while wearing blue shoes, appearing contemplative or preparing for an activity.",
+    "timestamp": "2026-02-23 16:01:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      128,
+      0,
+      428,
+      301
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a yellow robe, red-and-white striped pants, and blue shoes sits on a stool, adjusting their outfit. They appear focused, pulling at their clothing with hands, possibly preparing for a performance or event. The scene is calm, with no visible expressions or emotions.",
+    "timestamp": "2026-02-23 16:01:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      128,
+      0,
+      428,
+      301
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a yellow robe, red-and-white striped pants, and blue shoes sits on a stool, adjusting their clothing. Their hands move as they pull at their robe, revealing colorful patterns. The character appears focused, possibly preparing for an event or performance, with no visible expressions.",
+    "timestamp": "2026-02-23 16:01:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      128,
+      0,
+      428,
+      301
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character, dressed in a yellow robe, red-and-white striped pants, and blue shoes, sits atop a wooden stool. Their dark skin and expressive hands suggest playful mischief. They adjust their robe, revealing a checkered pattern beneath, then shift position, bending forward with a mischievous grin. The scene is set against a softly lit, muted background, emphasizing the character’s vibrant attire and animated movements, conveying lightheartedness and whimsy.",
+    "timestamp": "2026-02-23 16:01:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      55,
+      52,
+      366,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps excitedly, then sits on a stool before the fridge, eyes wide with anticipation, mouth agape, as if about to steal food.",
+    "timestamp": "2026-02-23 16:02:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      55,
+      52,
+      366,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps excitedly, eyes wide with hunger. He lands on a stool, then drops to the floor, mouth agape in delight as he spots a pizza in the fridge. His expression shifts from eager anticipation to pure joy, showcasing his classic, mischievous appetite.",
+    "timestamp": "2026-02-23 16:02:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      55,
+      52,
+      366,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, eyes wide with excitement, as he discovers a pizza in the fridge. He sits on a stool, mouth agape in delight, then drops to the floor, still giddy. His expression shifts to eager anticipation, tail flicking, as he prepares to indulge in his prize.",
+    "timestamp": "2026-02-23 16:02:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      55,
+      52,
+      366,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically, eyes wide with surprise or excitement, tail high. He lands on a stool, then sits upright, hands clasped near his mouth, eyes gleaming with anticipation. He looks toward a refrigerator, his expression shifting to eager delight as he spots a loaf of bread inside. His posture and facial expression convey pure, unbridled joy and hunger, capturing a classic cartoon moment of feline mischief and appetite.",
+    "timestamp": "2026-02-23 16:02:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      264,
+      17,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, gleefully holds cheese, eyes gleaming. Jerry, the mouse, nervously watches from afar, tail twitching, as Tom's grin suggests imminent capture or mischief.",
+    "timestamp": "2026-02-23 16:02:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      264,
+      17,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a large slice of cheese with a smug grin. Jerry, the brown mouse, scurries nervously, eyes wide, as Tom taunts him. Jerry’s expression shifts from fear to determination as he faces the cheese, ready for a classic chase. The scene captures their iconic rivalry.",
+    "timestamp": "2026-02-23 16:02:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      264,
+      17,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a large slice of cheese, eyes gleaming with delight. Jerry, the brown mouse, stands in awe, eyes wide and mouth agape, as he watches Tom’s antics. The scene captures their classic rivalry, with Tom’s mischief and Jerry’s innocent terror.",
+    "timestamp": "2026-02-23 16:03:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      264,
+      17,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a large slice of cheese, eyes gleaming with satisfaction. Jerry, the brown mouse, stands nervously beside a blue bowl, eyes wide with fear as he watches Tom. Tom’s grin suggests he’s about to pounce, while Jerry’s posture conveys panic and anticipation. The scene captures their classic dynamic: Tom’s greed and Jerry’s clever evasion, set against a simple kitchen backdrop. Their expressions and body language vividly convey the tension and humor of their eternal chase.",
+    "timestamp": "2026-02-23 16:03:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      161,
+      73,
+      389,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, with glowing eyes, leaps and climbs a cabinet, startled by Jerry the mouse atop it, then drops down with a surprised expression.",
+    "timestamp": "2026-02-23 16:03:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      161,
+      73,
+      389,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with glowing green eyes, leaps and climbs a cabinet, his expression shifting from focused to surprised. He pauses, then leaps again, showing agility and determination. His tail flicks as he navigates the space, embodying classic cartoon mischief and energy.",
+    "timestamp": "2026-02-23 16:03:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      161,
+      73,
+      389,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with glowing green eyes, leaps and clutches a ladder, then drops, startled. He looks up, panting, as if caught in a chase. His expressions shift from surprise to determination, capturing his classic mischievous energy as he navigates the room’s purple-hued walls.",
+    "timestamp": "2026-02-23 16:03:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E02 - The Midnight Snack (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      161,
+      73,
+      389,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, perches on a cabinet, eyes glowing green with anticipation. He spots Jerry, the mouse, atop a tall object. Tom leaps, claws outstretched, but slips, tumbling down the cabinet’s edge. He lands with a startled yelp, tail flailing. His expression shifts from determination to shock as he scrambles to regain balance, his paws gripping the edge, eyes wide with panic. The scene captures Tom’s classic chase-fueled chaos and comedic misfortune.",
+    "timestamp": "2026-02-23 16:03:51"
+  }
+]

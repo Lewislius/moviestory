@@ -1,0 +1,1010 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      49,
+      37,
+      428,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, sits on a couch, initially calm, then suddenly excitedly jumps up with arms raised, showing joy and enthusiasm.",
+    "timestamp": "2026-02-23 18:35:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      49,
+      37,
+      428,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, sits on a couch, initially appearing thoughtful. He then suddenly erupts in joy, arms raised, mouth wide open, as if celebrating. His expression shifts from contemplative to ecstatic, showcasing his classic animated enthusiasm.",
+    "timestamp": "2026-02-23 18:35:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      49,
+      37,
+      428,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, sits on a couch, initially appearing thoughtful. He then suddenly erupts in joy, arms raised, mouth wide open, as if celebrating. His expressions shift from contemplative to ecstatic, showcasing his playful, animated personality.",
+    "timestamp": "2026-02-23 18:35:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      49,
+      37,
+      428,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat with a red bowtie, sits on a couch, initially looking thoughtful, then suddenly erupts in joyful excitement, arms raised and mouth wide open. His eyes gleam with delight, and he thrashes happily, embodying pure elation. The scene captures his spontaneous, exaggerated glee, a classic Tom-and-Jerry moment of comedic over-the-top emotion. His animated expressions and movements convey unbridled happiness.",
+    "timestamp": "2026-02-23 18:36:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      118,
+      78,
+      384,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, dressed in a tuxedo, displays exaggerated expressions—smiling, sneering, and grinning—with a red face, suggesting mischief or triumph, while seated on a green couch.",
+    "timestamp": "2026-02-23 18:36:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      118,
+      78,
+      384,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dressed in a tuxedo, displays exaggerated expressions—smiling, frowning, and grimacing—with a red scarf around his neck. He stands confidently, fists clenched, against a green couch backdrop, showcasing his playful, mischievous personality in classic cartoon style.",
+    "timestamp": "2026-02-23 18:36:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      118,
+      78,
+      384,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dressed in a tuxedo, initially smirks confidently. He then grimaces, clutching his nose, before bursting into a red-faced, triumphant grin, fists clenched. His expressions shift from smug to ecstatic, showcasing his playful, mischievous personality in classic cartoon style.",
+    "timestamp": "2026-02-23 18:36:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      118,
+      78,
+      384,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat in a tuxedo, stands smugly, fists clenched. He sneers, eyes narrowed, as his face turns red with rage. His whiskers twitch, and he glares defiantly. The scene shifts to him sitting on a green couch, still fuming, with a white bandage wrapped around his neck. He’s clearly annoyed or injured, yet maintains an arrogant, triumphant expression, as if he’s just won a battle.",
+    "timestamp": "2026-02-23 18:36:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      222,
+      334,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a suit and top hat, holds a tiny mouse in his paw. The mouse, also in a top hat, holds a telegram. Tom smiles, amused by the tiny mouse's antics.",
+    "timestamp": "2026-02-23 18:37:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      222,
+      334,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a top hat and suit, holds a tiny mouse, also in a top hat, who holds a telegram. Tom reads it, then smiles triumphantly. The mouse looks up, curious. Their expressions shift from serious to amused, hinting at a playful, mischievous dynamic.",
+    "timestamp": "2026-02-23 18:37:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      222,
+      334,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a top hat and suit, holds Jerry, also in a top hat, who proudly holds a telegram. Tom’s expression shifts from stern to amused as he reads the message. Jerry beams, confident. Their playful dynamic contrasts with the formal setting, highlighting their classic rivalry with comedic flair.",
+    "timestamp": "2026-02-23 18:37:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      222,
+      334,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears a top hat and suit, smiling as he holds a tiny mouse, Jerry, also in a top hat and holding a cane. Jerry, looking proud, raises a telegram that reads “EVEN A MOUSE.” Tom’s expression shifts from amused to delighted as he watches Jerry’s antics. The scene captures their classic dynamic—Tom’s playful arrogance and Jerry’s clever defiance—set against a simple, light background. Their expressions convey humor and mischief.",
+    "timestamp": "2026-02-23 18:37:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      244,
+      95,
+      400,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stands by a door, holding a pink brush and green towel, looking annoyed or determined, with a stern expression and crossed arms.",
+    "timestamp": "2026-02-23 18:37:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      244,
+      95,
+      400,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands near a door, holding a pink brush and a green towel. He looks annoyed, then smirks mischievously. His tail wags slightly as he shifts his stance, clearly plotting something. The room is softly lit, emphasizing his sly expression and playful demeanor.",
+    "timestamp": "2026-02-23 18:37:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      244,
+      95,
+      400,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands near a door, clutching a pink brush and a green towel. He appears smug and self-satisfied, occasionally glancing around. His expression shifts from contentment to mild annoyance, suggesting he’s preparing for or enjoying a grooming routine. The room is cozy, with soft furnishings and warm lighting.",
+    "timestamp": "2026-02-23 18:38:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      244,
+      95,
+      400,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat stands in a room, holding a pink brush and a light green towel with pink edges. He appears contemplative, eyes narrowed, as if pondering his next move. His posture is tense, paws gripping the towel and brush tightly. The room’s soft lighting and classic furnishings suggest a domestic setting. Tom’s expression shifts subtly, hinting at mischief or anticipation, as if preparing for a playful or mischievous act. His stance remains fixed, emphasizing his thoughtful, slightly sly demeanor.",
+    "timestamp": "2026-02-23 18:38:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      3,
+      43,
+      389,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, reads a telegram with a smug grin, while Jerry, the brown mouse, scurries nearby, appearing mischievous and alert to Tom’s antics.",
+    "timestamp": "2026-02-23 18:38:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      3,
+      43,
+      389,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, reads a telegram with a smug expression while Jerry, the brown mouse, scampers nearby. Tom leaps dramatically, clutching the telegram, as Jerry playfully grabs a nearby object, hinting at their classic chase. Their expressions convey mischief and anticipation, capturing their timeless rivalry.",
+    "timestamp": "2026-02-23 18:38:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      3,
+      43,
+      389,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the grumpy black cat, holds a telegram, glaring at Jerry, the tiny brown mouse. Jerry, mischievously, climbs a box nearby. Tom leaps, startled, as Jerry scurries away. Tom’s expression shifts from annoyance to surprise, capturing their classic rivalry and comedic chaos.",
+    "timestamp": "2026-02-23 18:38:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      3,
+      43,
+      389,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the grumpy black cat, holds a yellow telegram, eyes narrowed in annoyance. Jerry, the brown mouse, scampers beside him, peeking mischievously. Tom leaps dramatically, flipping the telegram, revealing its contents: “THERE’S A MOUSE.” Jerry, delighted, grabs a nearby object, perhaps a box, as Tom’s expression shifts to one of exaggerated shock, his tail flicking with frustration. Their classic rivalry shines through in their exaggerated movements and expressions.",
+    "timestamp": "2026-02-23 18:38:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      58,
+      309,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat eagerly reads a telegram, then drops it in shock, standing upright with wide eyes, revealing his startled and confused expression.",
+    "timestamp": "2026-02-23 18:39:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      58,
+      309,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, excitedly reads a telegram, then drops it in surprise. He stands upright, flailing his paws, mouth agape, as if startled or alarmed. His expression shifts from curiosity to shock, conveying sudden, dramatic emotion.",
+    "timestamp": "2026-02-23 18:39:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      58,
+      309,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits holding a telegram, eyes wide with excitement. He reads it, then leaps up, arms flailing, as if startled. He drops the paper, which falls to the floor, revealing his shock or surprise. His expression shifts from eager to alarmed, capturing his animated reaction.",
+    "timestamp": "2026-02-23 18:39:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      58,
+      309,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits holding a telegram, his eyes wide with excitement. He reads it, then drops it dramatically, his body tensing in surprise. He leaps to his feet, paws flailing, as if reacting to urgent news. His expression shifts from eager anticipation to startled alarm. The scene captures his animated reaction, hinting at a thrilling or alarming message, as he stands ready to act, tail twitching with anticipation.",
+    "timestamp": "2026-02-23 18:39:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      164,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon mouse in a blue hat sits on a bed, smiling and waving. A black-and-white cat suddenly appears, startling the mouse, who jumps back in surprise.",
+    "timestamp": "2026-02-23 18:40:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      164,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse in a blue hat sits on a snowy hill, looking around with curiosity. Suddenly, a black-and-white cat appears behind it, startling the mouse, who jumps back in surprise. The cat seems calm, while the mouse shows startled fear.",
+    "timestamp": "2026-02-23 18:40:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      164,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse in a blue hat sits on a bed, looking surprised. It jumps up, then a black-and-white cat appears, startling the mouse. The mouse flinches back, eyes wide with fear, as the cat looms nearby, creating a playful, tense moment.",
+    "timestamp": "2026-02-23 18:40:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      164,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A small brown mouse wearing a blue hat sits on a bed, looking anxious and fidgeting. It clutches its paws, then suddenly jumps back as a black-and-white cat appears behind it, startling the mouse. The cat’s tail sweeps across the frame, and the mouse freezes in fear, eyes wide and ears perked. The scene conveys tension and surprise, with the mouse’s startled expression contrasting against the cat’s looming presence.",
+    "timestamp": "2026-02-23 18:40:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      114,
+      86,
+      375,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat in a tuxedo, smirks confidently with clenched fists. Suddenly, a red cat appears, equally smug, suggesting a playful rivalry or impending mischief in their classic cartoon dynamic.",
+    "timestamp": "2026-02-23 18:40:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      114,
+      86,
+      375,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat in a tuxedo, smirks confidently with fists clenched. Suddenly, his face turns red and angry, eyes blazing, as if startled or provoked. The scene captures his dramatic emotional shift from smug to furious, hinting at a tense confrontation or unexpected twist.",
+    "timestamp": "2026-02-23 18:40:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      114,
+      86,
+      375,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat in a tuxedo, smirks confidently with clenched fists. Suddenly, his expression shifts to a startled, wide-eyed look as he turns, revealing a red cat in a similar outfit. Both characters display exaggerated, cartoonish emotions, suggesting a comedic or mischievous interaction.",
+    "timestamp": "2026-02-23 18:40:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      114,
+      86,
+      375,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat in a tuxedo, stands confidently with fists clenched, eyes gleaming with mischief. Suddenly, his fur turns red, and his expression shifts to a sinister grin, suggesting a sudden transformation or rage. The scene captures his dramatic shift in demeanor, from poised to furious, highlighting his classic comedic villainy. The background remains muted, keeping focus on Tom’s exaggerated emotions and sudden color change.",
+    "timestamp": "2026-02-23 18:41:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      64,
+      83,
+      487,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, playfully chases Jerry, the mouse, in a room. Jerry tricks Tom into falling, then taunts him with a mischievous grin, showcasing their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 18:41:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      64,
+      83,
+      487,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the grumpy cat, playfully chases Jerry, the mischievous mouse, through a room. Jerry leaps onto Tom’s back, causing him to tumble. Tom’s expressions shift from annoyance to amusement as he tries to regain control, while Jerry laughs triumphantly, showcasing their classic rivalry.",
+    "timestamp": "2026-02-23 18:41:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      64,
+      83,
+      487,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, playfully chases Jerry, the brown mouse, across a room. Tom leaps, grabs Jerry, and flips him into the air. Jerry laughs triumphantly. Tom, grinning, then falls backward, arms flailing, as Jerry dances nearby, their antics filled with mischief and joy.",
+    "timestamp": "2026-02-23 18:41:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      64,
+      83,
+      487,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, playfully grabs Jerry, the brown mouse, in a room with wooden floors and a rug. Tom, with a mischievous grin, flips Jerry into the air, then drops him. Jerry laughs joyfully, while Tom pounces and playfully swats at him. Tom’s expressions shift from gleeful to exasperated as Jerry dodges. Their antics highlight their classic rivalry, full of slapstick humor and exaggerated emotions, capturing the essence of their timeless cartoon dynamic.",
+    "timestamp": "2026-02-23 18:41:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      129,
+      88,
+      327,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat eagerly retrieves a telegram from a mailbox, reads it with surprise, then sits back, looking intrigued and slightly puzzled by its contents.",
+    "timestamp": "2026-02-23 18:42:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      129,
+      88,
+      327,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat discovers a telegram, leaps excitedly, and reads it with wide eyes. His expression shifts from surprise to curiosity as he examines the message, sitting upright with paws clasped around the paper, fully engrossed in its contents.",
+    "timestamp": "2026-02-23 18:42:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      129,
+      88,
+      327,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly retrieves a telegram from the mailbox, his eyes wide with anticipation. He sits, unfolds the paper, and reads with intense focus, his expression shifting from curiosity to surprise as he processes the message, revealing his playful yet determined nature.",
+    "timestamp": "2026-02-23 18:42:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      129,
+      88,
+      327,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, eagerly leaps from a doorway, eyes wide with excitement as he spots a yellow telegram. He crouches, sniffs, and then joyfully grabs the paper, reading it with intense focus. His ears perk up, tail swishes, and he smiles broadly, clearly thrilled by the message. The scene is set indoors, near a wooden table leg and a door with a mail slot, emphasizing Tom’s curiosity and playful anticipation.",
+    "timestamp": "2026-02-23 18:42:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      164,
+      73,
+      389,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat eagerly grabs a door handle, then joyfully leaps through, his expression shifting from determined to delighted as he enters.",
+    "timestamp": "2026-02-23 18:42:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      164,
+      73,
+      389,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, eagerly pries open a door with his paws, his expression shifting from determined to joyful as he succeeds. His white paws grip the brass handle, and he leaps through the doorway with a triumphant grin, showcasing his playful mischief.",
+    "timestamp": "2026-02-23 18:42:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      164,
+      73,
+      389,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, eagerly pries open a door with his paws, smiling triumphantly. His determined expression shifts to joy as he succeeds, showcasing his mischievous nature and playful antics in this classic cartoon scene.",
+    "timestamp": "2026-02-23 18:42:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      164,
+      73,
+      389,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly grips a golden door handle, his expression shifting from determined to triumphant as he pulls. His paws grip the door firmly, body straining as he leans back, eyes wide with excitement. A mischievous grin spreads across his face, revealing his playful intent. The scene captures his classic cartoon energy—persistent, joyful, and full of mischief as he prepares to enter, embodying his relentless pursuit of adventure.",
+    "timestamp": "2026-02-23 18:43:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      4,
+      457,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, angrily smashes banana peels from a plate, then leaps away, while Jerry, the mouse, watches calmly from a saucer.",
+    "timestamp": "2026-02-23 18:43:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      4,
+      457,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, reacts angrily to a telegram about a mouse, then violently smashes a plate of banana chips, scattering them. Jerry, the mouse, watches calmly from his seat, seemingly unfazed by the chaos. Tom’s rage and Jerry’s indifference create a classic comedic contrast.",
+    "timestamp": "2026-02-23 18:43:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      4,
+      457,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, angrily smashes banana peels at a table, while Jerry the mouse watches from a plate. Tom’s expression shifts from rage to surprise as peels fly, then he sits back, smugly ignoring Jerry’s presence. The scene is chaotic yet comical, capturing their classic rivalry.",
+    "timestamp": "2026-02-23 18:43:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      4,
+      457,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits angrily at a table, glaring at a telegram. He suddenly lunges, crashing into the couch and scattering banana peels. His expression shifts from rage to shock as he’s covered in peel fragments. Meanwhile, Jerry, the mouse, calmly sips tea beside a plate of bananas, seemingly unfazed by Tom’s chaos. The scene captures Tom’s frustration and Jerry’s mischievous calm, highlighting their classic rivalry.",
+    "timestamp": "2026-02-23 18:43:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      182,
+      35,
+      352,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings on a lemon tree, then crashes into a fishbowl, splashing water, before leaping away with a triumphant grin.",
+    "timestamp": "2026-02-23 18:44:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      182,
+      35,
+      352,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings on a rope, then leaps to grab a lemonade pitcher, splashing water. He happily carries a basket of lemons, walking cheerfully across the room, lemons bouncing off his head. His expression is gleeful, embodying playful mischief and delight.",
+    "timestamp": "2026-02-23 18:44:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      182,
+      35,
+      352,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings on a rope, collecting lemons. He leaps, splashes water from a fishbowl, then happily carries the lemons, bouncing with delight. His playful antics and mischievous grin reflect his energetic, humorous nature as he navigates the cozy room.",
+    "timestamp": "2026-02-23 18:44:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      182,
+      35,
+      352,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black and white, joyfully swings on a rope, leaping with delight. He grabs a basket of lemons, tossing them with glee. As he dances, lemons fly through the air. Suddenly, he crashes into a fishbowl, splashing water dramatically. His expression shifts to shock, then delight as he grabs a lemon, smiling triumphantly. The room, warm and cozy, witnesses his playful chaos.",
+    "timestamp": "2026-02-23 18:44:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      157,
+      0,
+      417,
+      371
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps dramatically, then lands on a tray with tea and food, looking surprised and slightly dazed as steam rises from the hot beverage.",
+    "timestamp": "2026-02-23 18:44:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      157,
+      0,
+      417,
+      371
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, performs acrobatic flips in a room, then lands near a tea tray. He appears startled, sweating profusely, and gestures nervously. His expression shifts from shock to annoyance as he stares at the tray, suggesting he’s disturbed by the tea setup.",
+    "timestamp": "2026-02-23 18:44:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      157,
+      0,
+      417,
+      371
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, leaps energetically in a room, then lands dramatically near a tea tray. He’s startled, steam rising from the tea, as he stares with wide eyes. His expression shifts to smug satisfaction as he gestures proudly, enjoying his tea and buttered toast.",
+    "timestamp": "2026-02-23 18:44:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      157,
+      0,
+      417,
+      371
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, performs a dramatic backflip in a cozy room, landing with a startled expression. He then approaches a tea tray, his face contorted in shock as steam rises from the hot beverage. His wide eyes and open mouth convey surprise or discomfort. The room features a fireplace, elegant furniture, and soft lighting, adding to the whimsical, classic cartoon atmosphere. Tom’s antics suggest mischief or comedic chaos.",
+    "timestamp": "2026-02-23 18:44:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      76,
+      94,
+      493,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lounges on a couch, holding bananas, laughing joyfully as he tosses them up and down, displaying playful delight in his animated antics.",
+    "timestamp": "2026-02-23 18:45:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      76,
+      94,
+      493,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges on a pink couch, holding bananas. He joyfully tosses them in the air, laughing with delight. His playful antics and exaggerated expressions convey pure, cartoonish happiness as he enjoys his snack.",
+    "timestamp": "2026-02-23 18:45:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      76,
+      94,
+      493,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges on a pink couch, holding bananas. He joyfully tosses them into the air, laughing with delight. His eyes sparkle with excitement as he enjoys his snack, embodying carefree happiness in his cozy, warmly lit living room setting.",
+    "timestamp": "2026-02-23 18:45:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      76,
+      94,
+      493,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lounges on a pink couch, holding a bunch of bananas. He gleefully tosses them into the air, laughing with delight. His eyes sparkle with mischief, and his paws bounce with excitement. A lamp on a side table illuminates the cozy room, enhancing the playful, cartoonish atmosphere. Tom’s joyous expressions and animated movements convey pure, unbridled happiness as he revels in his banana-fueled fun.",
+    "timestamp": "2026-02-23 18:45:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      92,
+      64,
+      428,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, ecstatically reads a telegram, his eyes transforming into money bags. He laughs wildly, joyfully reveling in the news, embodying pure, cartoonish glee over the message.",
+    "timestamp": "2026-02-23 18:46:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      92,
+      64,
+      428,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reads a telegram, his eyes swelling with dollar signs. He laughs joyfully, then suddenly gasps in shock as the telegram slips from his grasp, revealing his surprise and delight at the unexpected fortune.",
+    "timestamp": "2026-02-23 18:46:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      92,
+      64,
+      428,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully reads a telegram, eyes transforming into money bags. His ecstatic grin and wide-open mouth convey pure delight. He sits upright, fully absorbed in the news, radiating excitement as he revels in the unexpected fortune, oblivious to any impending chaos.",
+    "timestamp": "2026-02-23 18:46:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      92,
+      64,
+      428,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reads a telegram, his eyes transforming into money bags with dollar signs, reflecting pure greed. He laughs ecstatically, mouth wide open, as he revels in the news. His joyful expression and animated gestures emphasize his delight. The scene captures his sudden, whimsical obsession with wealth, highlighting his comedic, cartoonish personality. The setting remains simple, focusing entirely on Tom’s exaggerated reaction to the telegram’s contents.",
+    "timestamp": "2026-02-23 18:46:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      69,
+      426,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, with a yellow eye patch, stands in a room, arms outstretched, smiling mischievously, suggesting playful mischief or a trick he's about to pull.",
+    "timestamp": "2026-02-23 18:46:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      69,
+      426,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, stands with a yellow banana stuck in his mouth, eyes closed, and a smug grin. He appears content, possibly enjoying the banana. His red bow tie and white chest contrast with his dark fur. The background is a simple, muted teal and gray.",
+    "timestamp": "2026-02-23 18:46:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      69,
+      426,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, stands with a yellow bandage over one eye, wearing a red bowtie. He appears dazed or amused, smiling slightly as he leans against a couch. His posture suggests he’s recovering from an injury or a playful mishap, exuding a mischievous, resilient vibe despite the bandage.",
+    "timestamp": "2026-02-23 18:46:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      69,
+      426,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat with a red bowtie, stands in a comically exaggerated pose, eyes closed, mouth open in a grin, as if enjoying a moment of bliss. His body sways slightly, suggesting playful or drunken movement. The background is a simple gradient of muted tones, emphasizing Tom’s expressive, carefree demeanor. His tail flicks upward, adding to the sense of whimsical joy. The scene radiates lightheartedness, capturing Tom’s mischievous and contented spirit.",
+    "timestamp": "2026-02-23 18:46:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      172,
+      13,
+      405,
+      394
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps joyfully, arms outstretched, then flips backward in delight. He appears playful and energetic, embodying classic cartoon mischief in a cozy, sunlit room.",
+    "timestamp": "2026-02-23 18:47:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      172,
+      13,
+      405,
+      394
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, arms outstretched, in a cozy living room. He lands near a fishbowl, then dances with glee. His expression is playful and triumphant, showcasing his mischievous spirit. The scene captures his classic cartoon energy and delight in playful antics.",
+    "timestamp": "2026-02-23 18:47:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      172,
+      13,
+      405,
+      394
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, joyfully leaps and stretches, arms outstretched, in a cozy living room. He appears delighted, eyes wide and tail high. Nearby, a fishbowl sits on a table, and a fireplace adds warmth to the scene. His playful energy radiates through the animated space.",
+    "timestamp": "2026-02-23 18:47:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E14 - The Million Dollar Cat (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      172,
+      13,
+      405,
+      394
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black with white paws and chest, joyfully leaps and twirls in a cozy room, arms outstretched. He’s ecstatic, eyes wide, mouth open in delight. A fishbowl sits nearby, and a fireplace and curtains frame the background. His playful energy is contagious, as he dances with unbridled glee, embodying pure cartoon mischief and charm. The scene radiates whimsy and delight, capturing Tom’s infectious enthusiasm.",
+    "timestamp": "2026-02-23 18:47:36"
+  }
+]

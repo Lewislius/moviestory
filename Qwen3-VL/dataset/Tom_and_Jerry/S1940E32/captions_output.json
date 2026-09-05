@@ -1,0 +1,1906 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      88,
+      168,
+      450,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat holds mouse, grinning. Gray cat confronts him, fists raised, eyes narrowed. Both cats stand tense, ready for a showdown, displaying rivalry and anticipation.",
+    "timestamp": "2026-02-23 21:43:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      88,
+      168,
+      450,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, with a mischievous grin, holds a tiny mouse in its paw, leaping across a room. A gray cat, Tom, stands nearby, fists clenched, glaring with yellow eyes. The black cat’s playful energy contrasts Tom’s tense, annoyed demeanor as they engage in their classic chase.",
+    "timestamp": "2026-02-23 21:43:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      88,
+      168,
+      450,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, holding a tiny mouse, leaps across a room, while a gray cat watches with narrowed eyes. The black cat’s expression shifts from playful to annoyed. The gray cat stands rigidly, fists clenched, as if ready to confront. Their dynamic tension suggests a classic chase or standoff.",
+    "timestamp": "2026-02-23 21:43:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      88,
+      168,
+      450,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, with a mischievous grin, holds a tiny mouse in its paw, leaping across a room. A gray cat, Tom, stands nearby, fists clenched, eyes glowing with fury. The black cat taunts him, then turns away, tail flicking. Tom growls, ready to pounce. The scene is set in a cozy living room with a lamp, armchair, and framed picture. The black cat’s playful arrogance contrasts Tom’s intense, defeated stance as he watches the mouse being held aloft.",
+    "timestamp": "2026-02-23 21:43:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      39,
+      17,
+      473,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry face off, Tom raising a fist, Jerry holding a tiny mouse. Both display intense expressions, hinting at a tense standoff or playful rivalry in their classic cartoon dynamic.",
+    "timestamp": "2026-02-23 21:44:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      39,
+      17,
+      473,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry face off in a tense standoff. Tom, gray and angry, raises his fist, while Jerry, black and determined, holds a tiny mouse in his paw. Their expressions convey rivalry and anticipation, set against a cozy, colorful room. The scene captures classic cartoon tension and humor.",
+    "timestamp": "2026-02-23 21:44:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      39,
+      17,
+      473,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a playful standoff. Tom, gray with yellow eyes, raises a fist, while Jerry, black with white paws, holds a tiny mouse. Both display determined expressions, poised for action. The scene captures their classic rivalry, filled with mischief and anticipation, set against a cozy, colorful room.",
+    "timestamp": "2026-02-23 21:44:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      39,
+      17,
+      473,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a cozy room, black cat Butch holds a tiny mouse in his paw, glaring at gray cat Tom, who stands defiantly with fists raised. Tom’s yellow eyes flash with anger as he growls, while Butch smirks, seemingly taunting him. The scene captures their classic rivalry—Butch’s cunning dominance versus Tom’s frustrated aggression. The room’s soft colors and classic furniture frame their animated standoff, emphasizing the timeless comedic tension between predator and prey.",
+    "timestamp": "2026-02-23 21:44:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      167,
+      145,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Two cats, one gray, one black, playfully wrestle a tiny mouse. They hold guns, laugh, and mock each other, displaying mischievous joy and rivalry in a cozy room.",
+    "timestamp": "2026-02-23 21:45:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      167,
+      145,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in playful combat, with Tom holding Jerry in his paws. Tom, gray with pink ears, looks determined. Jerry, black with white paws, wields toy guns. Their expressions shift from playful to surprised as they interact near a fireplace, showcasing classic cartoon mischief.",
+    "timestamp": "2026-02-23 21:45:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      167,
+      145,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Two cats, one gray and one black, engage in a playful standoff. The black cat holds a toy gun, while the gray cat, with a mischievous grin, holds a small mouse. Their expressions shift from playful to surprised as the mouse is tossed atop a green candlestick.",
+    "timestamp": "2026-02-23 21:45:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      167,
+      145,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a classic cartoon scene, Tom and Jerry engage in a playful, tense standoff. Tom, gray with pink ears, holds Jerry, the tiny brown mouse, while Jerry, black and menacing, wields two blue pistols. Their expressions shift from mischievous to startled as Jerry aims the guns upward. The setting features a fireplace with crossed pistols and a green candlestick, adding to the comedic chaos. Their exaggerated movements and expressions highlight their timeless rivalry.",
+    "timestamp": "2026-02-23 21:45:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      3,
+      35,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry engage in a chase; Jerry aims a gun at Tom, who reacts with shock and fear, both displaying frantic, comedic expressions as they dart across the room.",
+    "timestamp": "2026-02-23 21:46:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      3,
+      35,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic chase. Jerry, black, wields a blue gun, aiming at Tom, gray with wide eyes. Tom, startled, leaps backward. Their expressions shift from playful to startled as they dart across the room, embodying classic cartoon chaos and rivalry.",
+    "timestamp": "2026-02-23 21:46:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      3,
+      35,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, gray with pink ears, panics as Jerry, black, aims a blue gun. Jerry fires, sending red sparks. Tom leaps backward, eyes wide, mouth open in shock. Jerry smirks, triumphant. The scene captures their classic chase, with Jerry’s mischief and Tom’s fear.",
+    "timestamp": "2026-02-23 21:46:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      3,
+      35,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a classic cartoon scene, Tom the grey cat, with wide eyes and a startled expression, is being aimed at by Jerry the black cat, who holds a blue gun with a mischievous grin. Tom lunges forward, arms outstretched, as Jerry fires, causing red splashes. Tom recoils in shock, while Jerry stands triumphantly, his tail flicking. The scene captures their timeless rivalry, filled with slapstick humor and exaggerated expressions.",
+    "timestamp": "2026-02-23 21:46:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      82,
+      267,
+      454
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry face off, with Jerry lunging and Tom reacting in surprise. Their expressions shift from playful to startled, capturing their classic comedic rivalry in a lively, animated showdown.",
+    "timestamp": "2026-02-23 21:46:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      82,
+      267,
+      454
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a playful fight. Jerry, black and agile, strikes with a stick, causing Tom, gray and grumpy, to react with exaggerated flinches and expressions. Their antics highlight classic cartoon chaos, with each character displaying comedic reactions to the other’s antics in a vibrant, animated setting.",
+    "timestamp": "2026-02-23 21:46:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      82,
+      267,
+      454
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic showdown. Jerry, black and agile, strikes with a stick, causing Tom, gray and startled, to react with exaggerated flailing and surprise. Their expressions shift rapidly between mischief and shock, capturing classic cartoon chaos in a cozy, colorful room.",
+    "timestamp": "2026-02-23 21:46:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      82,
+      267,
+      454
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a classic cartoon scene, black cat Butch and gray cat Tom engage in a playful, exaggerated fight. Butch, with a mischievous grin, lunges forward, while Tom, wide-eyed and startled, dodges. Their expressions shift from surprise to playful aggression. The room’s decor—lamp, couch, and framed horse painting—adds charm. The animation captures their dynamic energy, with exaggerated movements and expressions, embodying the timeless rivalry between these iconic feline characters.",
+    "timestamp": "2026-02-23 21:46:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      157,
+      131,
+      473,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry confront each other; Tom sneers, Jerry growls. Tom flinches, then strikes back with a punch. Jerry leaps, both cats display exaggerated, cartoonish expressions of anger and surprise.",
+    "timestamp": "2026-02-23 21:48:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      157,
+      131,
+      473,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a playful fight. Tom, gray with yellow eyes, reacts to Jerry’s antics with exaggerated expressions. Jerry, black with white paws, strikes with a stick, causing Tom to flinch and dodge. Their antics showcase classic cartoon chaos, filled with slapstick humor and comedic timing.",
+    "timestamp": "2026-02-23 21:48:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      157,
+      131,
+      473,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic showdown. Tom, gray with yellow eyes, reacts to Jerry’s antics with exaggerated expressions. Jerry, black and agile, strikes with a stick, causing Tom to recoil. Their playful rivalry is evident in their exaggerated movements and facial expressions, highlighting their classic, slapstick dynamic.",
+    "timestamp": "2026-02-23 21:48:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0003_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      157,
+      131,
+      473,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands defiantly as Jerry, the black cat, lunges with a stick, striking Tom’s nose. Tom recoils, clutching his face in pain, while Jerry, triumphant, raises his paws in victory. Tom’s eyes widen in shock, then he grins, feigning calm. The room’s cozy decor—lamp, couch, framed horse painting—remains unchanged as the cats’ playful rivalry unfolds with exaggerated expressions and comedic slapstick.",
+    "timestamp": "2026-02-23 21:48:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      231,
+      98,
+      461,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat holds tiny mouse, smiling triumphantly. Gray cat looks surprised, then annoyed, as he walks away. Classic cartoon rivalry in a cozy room with a lamp and clock.",
+    "timestamp": "2026-02-23 21:49:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      231,
+      98,
+      461,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Smudge, holds a tiny mouse, smiling triumphantly. A gray cat, Tom, looks shocked, then retreats. Smudge remains confident, posing with the mouse. The scene is set in a cozy room with a lamp and table, capturing classic cartoon mischief and rivalry.",
+    "timestamp": "2026-02-23 21:49:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      231,
+      98,
+      461,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Smokey, holds a tiny mouse, grinning triumphantly. A gray cat, Tom, stands nearby, initially surprised, then visibly defeated as Smokey’s antics escalate. Their expressions shift from playful to exasperated, capturing classic cartoon mischief and rivalry.",
+    "timestamp": "2026-02-23 21:50:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      231,
+      98,
+      461,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Smudge, holds a tiny mouse, looking smug. Beside him, gray cat Tom stands, initially surprised, then annoyed as Smudge gestures triumphantly. Tom’s eyes widen, then narrow in frustration as he turns away, stomping off. Smudge beams with pride, tail swishing, while the mouse clutches his paw, seemingly unharmed. The scene exudes classic cartoon mischief and rivalry.",
+    "timestamp": "2026-02-23 21:50:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      174,
+      506,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry engage in a tug-of-war, pulling a rope with intense expressions. Tom's determined face contrasts Jerry's mischievous grin as they strain, showcasing classic cartoon rivalry and comedic tension.",
+    "timestamp": "2026-02-23 21:50:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      174,
+      506,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a tug-of-war, pulling a rope with intense expressions. Tom, gray with pink ears, and Jerry, black, strain against each other. Their determined faces and dynamic poses convey rivalry and effort as they battle for control, showcasing classic cartoon chaos and comedic tension.",
+    "timestamp": "2026-02-23 21:50:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      174,
+      506,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a chaotic tug-of-war, their expressions fierce and determined. Tom, gray with a red collar, pulls with gritted teeth, while Jerry, black, fights back with equal vigor. Their limbs stretch dramatically as they strain, showcasing classic cartoon antics and relentless rivalry, set against a simple, colorful backdrop.",
+    "timestamp": "2026-02-23 21:50:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      174,
+      506,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry engage in a frantic tug-of-war, their bodies stretched taut as they grip a rope. Tom, gray with pink ears, grimaces in exertion, while Jerry, black with white paws, strains with a determined expression. Their limbs twist and stretch dramatically against a simple indoor backdrop. The scene captures their classic rivalry, filled with comedic chaos and physical comedy as they battle for dominance, their expressions conveying intense effort and playful aggression.",
+    "timestamp": "2026-02-23 21:50:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      66,
+      101,
+      285,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, Tom, holds a blue feather duster, runs down stairs, then pauses, looking back with a mischievous grin, ready to pounce.",
+    "timestamp": "2026-02-23 21:51:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      66,
+      101,
+      285,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, holding a blue feather duster, runs down a staircase, then turns, startled. He pauses, looking back with wide eyes, then continues running, clutching the duster. His expression shifts from surprise to determination as he moves swiftly through the hallway.",
+    "timestamp": "2026-02-23 21:51:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      66,
+      101,
+      285,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, holding a blue brush, walks briskly down a staircase, then turns, startled, as a small mouse appears in the doorway. The cat’s expression shifts from focused to alarmed, reacting to the unexpected visitor with wide eyes and a startled leap backward.",
+    "timestamp": "2026-02-23 21:51:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      66,
+      101,
+      285,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, with white paws and a determined expression, wields a blue feather duster. He sprints across a wooden floor, dodging a staircase’s ornate banister. His eyes widen in panic as he narrowly avoids a wooden table, then leaps sideways, clutching the duster tightly. His tail sways with urgency, suggesting he’s chasing something—perhaps a mouse—or fleeing a threat. The scene bursts with cartoonish energy and comedic chaos.",
+    "timestamp": "2026-02-23 21:51:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      139,
+      81,
+      364,
+      380
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat and gray cat engage in playful, exaggerated boxing. Black cat raises fist, gray cat reacts with surprise. Their expressions show playful rivalry in a cozy room.",
+    "timestamp": "2026-02-23 21:51:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      139,
+      81,
+      364,
+      380
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat and gray cat engage in playful wrestling. Black cat lifts gray cat, then drops him with a comical thud. Gray cat looks surprised, while black cat grins mischievously. Their antics unfold in a cozy living room, filled with vibrant furniture and cheerful decor.",
+    "timestamp": "2026-02-23 21:51:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      139,
+      81,
+      364,
+      380
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat and gray cat engage in a playful, boxing-style fight in a cozy living room. Black cat throws punches, while gray cat reacts with surprise and determination. Their expressions shift from playful to intense, showcasing their dynamic, humorous rivalry amidst colorful furniture and soft lighting.",
+    "timestamp": "2026-02-23 21:51:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      139,
+      81,
+      364,
+      380
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a cozy living room, black cat Butch and gray cat Tom engage in a playful, exaggerated fight. Butch, with a mischievous grin, grabs Tom’s paw, lifting him off the ground. Tom, wide-eyed and surprised, struggles with a mix of amusement and mock fear. The scene is vibrant, with soft purple carpet and pink furniture. Their cartoonish expressions and dynamic poses capture classic slapstick humor, highlighting their timeless rivalry and comedic antics.",
+    "timestamp": "2026-02-23 21:52:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      142,
+      4,
+      506,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in chef's attire, holds a pot and a mouse, smiling. He stumbles, causing a splash. A black cat watches, startled. Tom's expression shifts from joy to surprise.",
+    "timestamp": "2026-02-23 21:52:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      142,
+      4,
+      506,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a green apron and red hat, joyfully holds a mouse while pouring water. A black cat, startled, recoils. Tom’s expression shifts from delight to surprise as the water splashes, capturing the slapstick chaos of their kitchen antics.",
+    "timestamp": "2026-02-23 21:52:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      142,
+      4,
+      506,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a green apron and red hat, gleefully holds a mouse and a purple bowl. He stumbles backward, startling a black cat with wide eyes. Tom’s expression shifts from joy to shock as the cat reacts, capturing a comedic kitchen mishap.",
+    "timestamp": "2026-02-23 21:52:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      142,
+      4,
+      506,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a green apron and red hat, gleefully holds a small mouse while pouring liquid from a purple pot. His expression is joyful, eyes wide, as he stands on a stool. Suddenly, a black cat with a mischievous grin appears, startling Tom, who reacts with surprise and a comical stumble. The scene captures playful chaos, with Tom’s exaggerated emotions and the cats’ contrasting personalities creating comedic tension.",
+    "timestamp": "2026-02-23 21:52:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      170,
+      51,
+      452,
+      402
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat leaps, grabs Tom, who’s stuck in a jar. Tom escapes, then chases black cat, who’s now in the jar. Tom’s eyes gleam with mischief as he pursues.",
+    "timestamp": "2026-02-23 21:53:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      170,
+      51,
+      452,
+      402
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat strikes, Tom hides in trash can, then leaps out, chasing Jerry. Tom’s eyes glow yellow, showing anger. Jerry scurries away, then Tom chases him. Tom’s expression shifts from rage to surprise as he looks at the can. The scene is full of classic cartoon chaos and slapstick comedy.",
+    "timestamp": "2026-02-23 21:53:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      170,
+      51,
+      452,
+      402
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat leaps dramatically, arms raised, as a gray cat peers from behind a curtain. The gray cat then dives into a trash can, startling the black cat who chases after him. A tiny mouse scurries nearby, adding to the chaotic, playful energy of their antics.",
+    "timestamp": "2026-02-23 21:54:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      170,
+      51,
+      452,
+      402
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, with white paws and tail, leaps dramatically, arms raised, as a gray cat (Tom) peeks from behind a curtain. Tom, eyes wide and yellow, emerges from a cylindrical container, then lunges toward the black cat. The black cat, startled, dives away, scattering dust. Tom, triumphant, holds a small brown mouse in his paw, smiling mischievously. The scene ends with Tom’s victorious grin as he stands atop the container, ready for more antics.",
+    "timestamp": "2026-02-23 21:54:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      217,
+      0,
+      481,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a green apron washes dishes. A black cat with white paws and a small mouse stand nearby, watching. The cat gestures, then turns to the woman, who looks annoyed.",
+    "timestamp": "2026-02-23 21:54:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      217,
+      0,
+      481,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a green apron washes dishes, unaware as a black cat, holding a mouse, approaches. The cat smirks, then playfully taps her shoulder. The woman turns, startled, revealing a mischievous grin. The cat winks, teasing her with the mouse in hand.",
+    "timestamp": "2026-02-23 21:54:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      217,
+      0,
+      481,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a teal apron and red headscarf washes dishes at the sink. A black cat, holding a small mouse, approaches, smirking. The cat then playfully pokes the woman’s back, causing her to turn, revealing a mischievous grin. The scene is lighthearted and comedic.",
+    "timestamp": "2026-02-23 21:54:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      217,
+      0,
+      481,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a kitchen, a red-headed cat in a green apron washes dishes, oblivious to a black cat with white paws sneaking up, holding a mouse. The black cat grins mischievously, then suddenly leaps back, startled by the red-headed cat’s sudden turn. The red-headed cat, now with a startled expression, drops the dish. The black cat smirks, amused, as the red-headed cat fumbles, revealing a mischievous, playful dynamic between them.",
+    "timestamp": "2026-02-23 21:54:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      164,
+      1,
+      494,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A maid in teal dress walks away, while a black cat with a mirror chases her, smiling mischievously, then leaps to catch up, holding the mirror.",
+    "timestamp": "2026-02-23 21:55:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      164,
+      1,
+      494,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A maid in teal and white walks briskly, while a mischievous black cat with a purple mirror chases her. The cat leaps playfully, holding the mirror, as the maid turns, unaware. Their antics unfold in a cozy, colorful home setting, full of slapstick humor and classic cartoon energy.",
+    "timestamp": "2026-02-23 21:55:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      164,
+      1,
+      494,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A maid in a teal dress and apron walks briskly, while a black cat with a purple mirror chases her, leaping with playful mischief. The cat’s grin suggests mischief, and the maid’s determined stride implies she’s escaping. Their antics unfold in a cozy, warmly lit home interior.",
+    "timestamp": "2026-02-23 21:55:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      164,
+      1,
+      494,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A maid in a teal dress and apron walks briskly down a hallway, carrying a white cloth. A black cat, Tom, follows closely, holding a purple mirror. He leaps playfully, then chases after her, his expression mischievous. The maid turns, unaware, as Tom dashes past, his tail flicking with delight. The scene is lively, filled with cartoonish energy and comedic pursuit.",
+    "timestamp": "2026-02-23 21:55:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      2,
+      0,
+      355,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in a blue floral robe and red slippers walks away from the kitchen, hands behind back, then turns slightly, showing a relaxed demeanor.",
+    "timestamp": "2026-02-23 21:55:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      2,
+      0,
+      355,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue floral robe, red slippers, and brown gloves walks away from a kitchen. They turn slightly, then walk toward a door, moving with a casual, unhurried gait. No facial expressions visible, but their posture suggests calmness or mild purpose.",
+    "timestamp": "2026-02-23 21:56:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      2,
+      0,
+      355,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue floral robe, orange socks, and red slippers walks through a kitchen. They turn, adjust their robe, and walk away. Their movements are slow and deliberate, suggesting a calm, unhurried demeanor as they navigate the room.",
+    "timestamp": "2026-02-23 21:56:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      2,
+      0,
+      355,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character in a blue robe with yellow flowers, orange socks, and red slippers walks through a kitchen. Their brown gloves are clasped behind their back as they move, then they turn to face the camera. The character’s posture suggests mild annoyance or determination. The kitchen features beige cabinets and a countertop with glasses and a bowl. The scene is static, with no facial expressions visible, emphasizing the character’s movement and attire.",
+    "timestamp": "2026-02-23 21:56:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      248,
+      99,
+      500,
+      377
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in a comical tumble, chases Jerry the mouse, who dashes away. Their expressions show playful pursuit, with Tom's determination and Jerry's evasion.",
+    "timestamp": "2026-02-23 21:56:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      248,
+      99,
+      500,
+      377
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with black markings, lies on his back, eyes wide, while Jerry the mouse scurries away. Tom’s expression shows surprise or frustration. Jerry runs past a curtain, dodging Tom’s attempts to catch him, showcasing their classic chase dynamic.",
+    "timestamp": "2026-02-23 21:56:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      248,
+      99,
+      500,
+      377
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies upside-down on the floor, eyes wide with surprise. Jerry, the brown mouse, scurries past him, alert and cautious. Tom’s expression shifts to annoyance as Jerry moves away, leaving Tom sprawled in a comical, defeated pose.",
+    "timestamp": "2026-02-23 21:56:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      248,
+      99,
+      500,
+      377
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies sprawled on his back, eyes wide with surprise or exhaustion, as Jerry, the brown mouse, scurries past him. The scene shifts to Jerry running across a room with pink curtains, then back to Tom’s comical flop. Tom’s expression is one of bewildered defeat, while Jerry appears determined and agile, showcasing their classic chase dynamic with humor and slapstick energy.",
+    "timestamp": "2026-02-23 21:56:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      31,
+      142,
+      257,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat holds toy gun, black cat aims toy gun at him. Gray cat startled, jumps back. Black cat smiles, then disappears. Scene ends with empty room.",
+    "timestamp": "2026-02-23 21:57:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      31,
+      142,
+      257,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Gray Tom holds a toy gun, startled as black cat with a toy gun aims at him. Tom leaps back, shocked. Black cat lunges forward, then vanishes. The scene ends with an empty room and a purple box on a wooden table.",
+    "timestamp": "2026-02-23 21:57:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      31,
+      142,
+      257,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Gray Tom holds a toy gun, startled as black cat Jerry aims a similar toy gun at him. Jerry lunges forward, firing, causing Tom to recoil in shock. The scene ends with an empty room, emphasizing the comedic chaos of their playful, gun-toting antics.",
+    "timestamp": "2026-02-23 21:57:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      31,
+      142,
+      257,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, gray with white paws, holds a blue toy gun, eyes wide in surprise. A black cat, also armed with a toy gun, lunges forward menacingly. Tom recoils, startled, as the black cat aims. The scene ends with both cats vanishing, leaving only a purple box on a wooden table. The pink wall and wooden floor remain static, emphasizing the sudden, chaotic action between the two felines.",
+    "timestamp": "2026-02-23 21:57:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      259,
+      129,
+      511,
+      445
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat aims gun at gray cat, who holds a gun and screams. Black cat lunges, then vanishes. Room empty, only a purple box remains.",
+    "timestamp": "2026-02-23 21:58:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      259,
+      129,
+      511,
+      445
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat aims a toy gun at a gray cat, who holds a similar gun and appears startled. The black cat lunges forward, then vanishes, leaving the gray cat stunned and holding his gun. The scene ends with an empty room, hinting at a sudden, chaotic interruption.",
+    "timestamp": "2026-02-23 21:58:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      259,
+      129,
+      511,
+      445
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, holding a blue toy gun, confronts a gray cat also wielding a gun. The black cat advances menacingly, while the gray cat reacts with shock and fear. Their expressions convey tension and urgency, set against a simple pink wall and wooden floor. A purple box rests nearby, adding to the scene’s surreal, cartoonish atmosphere.",
+    "timestamp": "2026-02-23 21:58:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      259,
+      129,
+      511,
+      445
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, armed with a blue toy gun, confronts a gray cat in a tense standoff. The black cat aims the gun, eyes wide with mischief, while the gray cat, clutching a similar gun, looks terrified and recoils. The gray cat’s expression shifts to shock as the black cat lunges forward, then vanishes in a blur. The scene ends with an empty room, leaving only a purple box on a wooden table. The black cat’s playful aggression contrasts with the gray cat’s panic.",
+    "timestamp": "2026-02-23 21:58:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      128,
+      133,
+      381,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, leaps from a red armchair, startled by Jerry, the brown mouse, who emerges from below. Tom’s expression shifts from surprise to annoyance.",
+    "timestamp": "2026-02-23 21:59:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      128,
+      133,
+      381,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps from a red armchair, startled by Jerry, the brown mouse, peeking out. Tom’s eyes widen in surprise as Jerry scurries away, leaving Tom momentarily stunned and confused, his tail flicking in disbelief.",
+    "timestamp": "2026-02-23 21:59:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      128,
+      133,
+      381,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for a red armchair, only to be startled by Jerry, the brown mouse, appearing beneath it. Tom stumbles backward, eyes wide with surprise, while Jerry playfully scampers away, leaving Tom bewildered and momentarily defeated in their classic chase.",
+    "timestamp": "2026-02-23 21:59:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      128,
+      133,
+      381,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, playfully leaps from a red armchair, landing on a yellow rug. He turns, eyes wide with surprise, as Jerry, the brown mouse, scurries beneath the chair. Tom’s expression shifts from delight to alarm as he realizes Jerry’s escape. The cozy room, with bookshelves and a cabinet, frames their antics. Tom’s exaggerated movements and Jerry’s quick getaway capture their classic chase, full of mischief and slapstick humor.",
+    "timestamp": "2026-02-23 21:59:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      55,
+      176,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry playfully chase each other around a dresser. Tom opens drawers, while Jerry scurries atop, dodging. Their antics show classic mischievousness and comedic energy.",
+    "timestamp": "2026-02-23 22:00:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      55,
+      176,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry playfully chase each other. Tom leaps onto a dresser, while Jerry hides behind it. Tom opens a drawer, searching for his prey. Jerry, ever clever, peeks out, then darts away, leaving Tom puzzled and slightly frustrated as he continues his pursuit.",
+    "timestamp": "2026-02-23 22:00:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      55,
+      176,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray and determined, chases Jerry the mouse, brown and agile, across a dresser. Jerry hides behind a lamp, while Tom pulls drawers, searching. Their expressions shift from playful to frustrated, capturing classic cartoon mischief and pursuit in a cozy, colorful room.",
+    "timestamp": "2026-02-23 22:00:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      55,
+      176,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps toward a dresser where Jerry, the brown mouse, hides. Jerry scurries under a lamp, then peeks out. Tom, frustrated, opens a drawer, searching for Jerry. Jerry, clever, remains hidden, watching Tom’s antics. The scene captures their classic chase, with Tom’s determined expression and Jerry’s mischievous, cautious demeanor, set against a cozy, warmly lit room.",
+    "timestamp": "2026-02-23 22:01:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      97,
+      101,
+      352,
+      420
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, Tom, stealthily carries a green cloth and red object, eyes narrowed in determination, as he moves through a kitchen, evading detection.",
+    "timestamp": "2026-02-23 22:01:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      97,
+      101,
+      352,
+      420
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, in a kitchen, holds a green towel and a red object, possibly a shoe. He leaps energetically, displaying determination or mischief. His expression is focused, with eyes narrowed, suggesting intent or playful aggression. The scene captures his dynamic movement and animated personality.",
+    "timestamp": "2026-02-23 22:01:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      97,
+      101,
+      352,
+      420
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, stealthily carries a teal cloth while clutching a red object. He moves cautiously across a kitchen, eyes alert, tail swishing. His expression is focused, hinting at mischief or pursuit. The scene suggests a classic chase or playful trap, typical of cartoon antics.",
+    "timestamp": "2026-02-23 22:01:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      97,
+      101,
+      352,
+      420
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, energetically leaps across a kitchen, clutching a teal cloth and a red-and-yellow object. His expression is determined, eyes narrowed as he moves with purpose. The kitchen features beige cabinets, a blue stool, and a red floor. Tom’s tail sways dynamically, emphasizing his swift motion. The scene captures his playful, mischievous intent, likely in pursuit of a goal or prey, embodying classic cartoon antics with exaggerated motion and vivid colors.",
+    "timestamp": "2026-02-23 22:01:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      215,
+      139,
+      483,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat stretches dramatically on a red couch, then leaps off, startled. Gray cat watches from a table, eyes wide with surprise as the black cat lands on the floor.",
+    "timestamp": "2026-02-23 22:02:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      215,
+      139,
+      483,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, leaps dramatically from a red couch, arms raised in excitement. He lands on a rug, then sprints across the room, chasing a green object. His expression is determined, eyes wide with focus, as he dashes toward the left, leaving a trail of motion.",
+    "timestamp": "2026-02-23 22:02:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      215,
+      139,
+      483,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, with white paws and a mischievous grin, leaps energetically across a red sofa, arms raised triumphantly. In the background, a gray mouse peers from under a table, eyes wide with surprise. The scene bursts with cartoonish energy and playful chaos, capturing a classic chase in a vibrant, animated world.",
+    "timestamp": "2026-02-23 22:02:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      215,
+      139,
+      483,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, with white paws and a mischievous grin, stretches dramatically on a red couch, then leaps off with arms outstretched. In the background, a gray mouse with yellow eyes peeks from under a table, holding a green object. The room features a red rug, ornate lamps, and a cozy ambiance. The cat’s playful energy contrasts with the mouse’s cautious observation, capturing classic cartoon mischief and anticipation.",
+    "timestamp": "2026-02-23 22:02:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      225,
+      117,
+      481,
+      485
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry in kitchen, Tom excitedly reaches for oven, Jerry watches with wide eyes. Tom jumps in, Jerry reacts with surprise, both cats show playful, mischievous energy.",
+    "timestamp": "2026-02-23 22:02:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      225,
+      117,
+      481,
+      485
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, dances joyfully while black cat, Jerry, eagerly reaches for a kitchen appliance. Tom then leaps into the oven, startling Jerry, who reacts with surprise. Their playful antics showcase classic cartoon chaos, with exaggerated expressions and slapstick humor in a cozy kitchen setting.",
+    "timestamp": "2026-02-23 22:02:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      225,
+      117,
+      481,
+      485
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, dances joyfully beside a black cat, who appears startled and wide-eyed. They both leap toward an oven, with Tom leaping into it while the black cat watches, seemingly alarmed. Their expressions convey playful chaos, capturing classic cartoon antics in a kitchen setting.",
+    "timestamp": "2026-02-23 22:02:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      225,
+      117,
+      481,
+      485
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a retro kitchen, gray Tom the cat and black Jerry the mouse engage in playful chaos. Tom, with wide eyes and a grin, leaps toward Jerry, who stands defiantly, arms outstretched, mouth agape in surprise. As Tom lunges, Jerry ducks behind the oven, leaving Tom momentarily stunned. The scene bursts with classic cartoon energy, capturing their timeless rivalry and comedic antics in a vibrant, animated setting.",
+    "timestamp": "2026-02-23 22:02:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      112,
+      221,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom dances, then lunges at black cat Jerry, who laughs. Jerry opens oven, Tom jumps inside, both characters displaying playful, mischievous energy in classic cartoon style.",
+    "timestamp": "2026-02-23 22:04:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      112,
+      221,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Gray Tom cat, with wide eyes, eagerly reaches for a kitchen appliance, while black cat Jerry, smiling mischievously, stands nearby. Tom's excitement turns to surprise as Jerry playfully blocks his path, their antics hinting at classic cartoon mischief and rivalry in a cozy kitchen setting.",
+    "timestamp": "2026-02-23 22:04:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      112,
+      221,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully opens a kitchen oven, while Jerry, the black mouse, watches with a mischievous grin. Tom's playful energy contrasts with Jerry's cunning smirk as they engage in their classic chase, showcasing their timeless rivalry in a cozy, cartoonish kitchen setting.",
+    "timestamp": "2026-02-23 22:04:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0022_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      112,
+      221,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a retro kitchen, gray Tom the cat, with wide eyes and a mischievous grin, dances excitedly beside black Jerry, who looks amused and playful. Tom leaps toward an oven, opening its door with a gleeful expression, while Jerry watches, arms outstretched, as if anticipating a chase. Their dynamic, full of classic cartoon energy, captures their timeless rivalry and comedic antics as they engage in their usual antics, filled with anticipation and delight.",
+    "timestamp": "2026-02-23 22:04:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      313,
+      70,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat aims gun at gray cat, who reacts with fear, then laughter, then calm. Black cat fires, gun sparks, gray cat smiles confidently, arms crossed, as black cat looks amused.",
+    "timestamp": "2026-02-23 22:04:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      313,
+      70,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds a gun to Jerry's head, who looks terrified. Jerry screams, then laughs, and Tom's expression shifts to annoyance. Jerry crosses his arms, smirking. Tom looks frustrated, gun still pointed. The scene is comedic, capturing their classic rivalry.",
+    "timestamp": "2026-02-23 22:05:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      313,
+      70,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat holds a blue gun, aiming at a gray cat. The gray cat, startled, opens its mouth wide. The black cat fires, but the gray cat laughs, shrugs, and crosses arms confidently, showing no fear despite the gun. Their expressions shift from tension to amusement.",
+    "timestamp": "2026-02-23 22:05:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      313,
+      70,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat holds a blue revolver, aiming it at a gray cat. The gray cat, initially terrified, opens his mouth wide in shock. He then points at the black cat, who remains focused, then laughs triumphantly. The black cat fires the gun, but the gray cat dodges, smiling confidently. The black cat’s expression shifts from serious to amused, ending with a smirk as he holds the gun aloft. Their dynamic is humorous and exaggerated, typical of classic cartoon antics.",
+    "timestamp": "2026-02-23 22:05:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      225,
+      113,
+      486,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry clash in a kitchen, fists raised, eyes wide with intensity. Tom's determined stance contrasts Jerry's sneaky, mischievous grin as they prepare for a chaotic showdown.",
+    "timestamp": "2026-02-23 22:05:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      225,
+      113,
+      486,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, and a black cat engage in a playful, exaggerated fight in a kitchen. Tom appears surprised or startled, while the black cat looks mischievous. Their expressions and gestures convey comedic chaos, typical of their classic antics.",
+    "timestamp": "2026-02-23 22:05:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      225,
+      113,
+      486,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry clash in a kitchen, Tom’s eyes glowing yellow as he lunges, while Jerry, black and agile, dodges with a startled expression. Their antics spark red energy bursts, capturing their classic chase. The scene bursts with comedic chaos as they fight over a kitchen appliance, embodying their timeless rivalry.",
+    "timestamp": "2026-02-23 22:05:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      225,
+      113,
+      486,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a retro kitchen, Tom the gray cat and a black cat engage in a comedic standoff. Tom, with wide eyes and a smirk, paws at the black cat, who looks annoyed, arms outstretched. Red energy bursts flash as they clash, then fade. Both cats stand frozen, eyes locked, as if mid-fight. The kitchen’s vintage appliances and warm tones frame their slapstick tension, capturing classic cartoon chaos with expressive, exaggerated features and playful aggression.",
+    "timestamp": "2026-02-23 22:05:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      0,
+      107,
+      222,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry fight in a kitchen, with Tom grabbing a spoon and Jerry dodging. Both show determined expressions, their antics highlighting classic cartoon chaos and rivalry.",
+    "timestamp": "2026-02-23 22:06:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      0,
+      107,
+      222,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, gray cat, gleefully opens a cabinet, while black cat, with a mischievous grin, stands ready. They face off, fists raised, in a kitchen, as red energy bursts around them, hinting at playful chaos. Their expressions convey rivalry and anticipation, classic Tom and Jerry antics.",
+    "timestamp": "2026-02-23 22:06:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      0,
+      107,
+      222,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully opens a cabinet, startling a black cat who flinches back. Both cats display exaggerated expressions—Tom’s eyes wide with mischief, the black cat’s with surprise. Their playful, cartoonish antics unfold in a retro kitchen, capturing classic slapstick humor and their enduring rivalry.",
+    "timestamp": "2026-02-23 22:06:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0024_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      0,
+      107,
+      222,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands in a kitchen, eyes glowing green, clutching a spoon. He confronts a black cat, who gestures defensively. A sudden burst of red energy erupts between them, suggesting a comedic clash. The black cat looks startled, while Tom appears determined. The scene captures their classic rivalry, filled with slapstick energy and exaggerated expressions, typical of animated cartoon antics. The kitchen setting remains static, emphasizing the characters' dynamic interaction.",
+    "timestamp": "2026-02-23 22:06:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      241,
+      209,
+      458,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry engage in playful chaos. Tom holds Jerry aloft, while another Tom leaps, both displaying mischievous expressions. The scene bursts with classic cartoon energy and slapstick humor.",
+    "timestamp": "2026-02-23 22:07:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      241,
+      209,
+      458,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the grey cat, and a black cat chase Jerry, the mouse, across a room. Jerry clutches a green bottle, dodging Tom’s grasp. The black cat grimaces in frustration, while Tom’s eyes gleam with determination. Their antics unfold with classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 22:07:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      241,
+      209,
+      458,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps to grab Jerry, the brown mouse, while a black cat also reaches for him. Jerry, holding a green bottle, appears startled. The black cat shows frustration, while Tom’s expression is determined. Their antics unfold in a cozy, warmly lit room with a fireplace and decorative items.",
+    "timestamp": "2026-02-23 22:07:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      241,
+      209,
+      458,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, and a black cat chase Jerry, the mouse, across a room. Tom leaps, grabbing Jerry with his paws, while the black cat joins in, also holding Jerry. Their expressions show determination and mischief. The scene is set in a cozy, warmly lit room with a fireplace and decorative items on the mantel. The chase is energetic, with exaggerated movements and playful tension as the cats try to catch the elusive mouse.",
+    "timestamp": "2026-02-23 22:07:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      48,
+      163,
+      420,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the grey cat, chases Jerry, the brown mouse, through a hallway. Tom leaps with determination, eyes wide, while Jerry scurries away, peeking from behind a green bin.",
+    "timestamp": "2026-02-23 22:07:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      48,
+      163,
+      420,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps toward a door, eyes wide with determination, while Jerry the mouse watches from the corner, seemingly amused. Tom’s swift motion suggests pursuit, while Jerry’s stillness implies he’s strategizing or waiting for the perfect moment to escape. The scene captures classic chase dynamics with comedic tension.",
+    "timestamp": "2026-02-23 22:07:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      48,
+      163,
+      420,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat dashes across the room, eyes wide with determination, chasing Jerry the mouse. Jerry stands nervously near a green umbrella stand, watching Tom’s frantic pursuit. The scene captures classic cartoon chaos, with Tom’s urgency contrasting Jerry’s calm, mischievous stance.",
+    "timestamp": "2026-02-23 22:07:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      48,
+      163,
+      420,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sprints across the room with determined eyes, chasing Jerry, the small brown mouse, who scurries near a green umbrella stand. Tom’s expression is intense, mouth open as if yelling. Jerry, wide-eyed and alert, ducks behind the stand. Tom’s paws leave motion trails, emphasizing speed. The scene captures classic cartoon chase energy, with Tom’s pursuit and Jerry’s evasive maneuvers unfolding in a cozy, pastel-hued interior.",
+    "timestamp": "2026-02-23 22:08:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      79,
+      146,
+      310,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom and black cat Butch hold guns, playfully threatening each other. Tom grins menacingly; Butch looks startled, then surprised as they move closer, guns aimed.",
+    "timestamp": "2026-02-23 22:08:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      79,
+      146,
+      310,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry, cartoon cats, engage in a playful gunfight. Tom, gray with white paws, smiles mischievously while aiming his blue pistol. Jerry, black, reacts with surprise and fear as they confront each other near a fireplace, showcasing their classic rivalry with exaggerated expressions.",
+    "timestamp": "2026-02-23 22:08:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      79,
+      146,
+      310,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a playful gunfight, each holding blue pistols. Tom grins mischievously, while Jerry reacts with surprise and fear. Their exaggerated expressions and dynamic poses convey comedic tension, capturing their classic rivalry in a cartoonish, animated showdown.",
+    "timestamp": "2026-02-23 22:09:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      79,
+      146,
+      310,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, and a black cat stand in a room, both holding blue guns. Tom smiles menacingly, advancing toward the black cat, who recoils in fear. The black cat, startled, jumps back, then turns to face Tom, eyes wide with terror. Tom continues to aim, his expression gleeful. The scene captures their playful yet tense standoff, with Tom’s mischievous grin contrasting the black cat’s panic. The fireplace and room decor add to the cartoon’s classic charm.",
+    "timestamp": "2026-02-23 22:09:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      8,
+      301,
+      371,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lies exhausted, then sits up, scowls, and leaps toward a green barrel, clutching a blue object, displaying annoyance and determination.",
+    "timestamp": "2026-02-23 22:10:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      8,
+      301,
+      371,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies on the floor, then sits up, looking annoyed. He leaps toward a green washing machine, clutching a blue object, possibly a sponge. His expression shifts from frustration to determination as he prepares to confront the machine, tail swishing with urgency.",
+    "timestamp": "2026-02-23 22:10:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      8,
+      301,
+      371,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies on the floor, grinning mischievously. He sits up, then leaps with a blue ball in paw, aiming at a green washing machine. His expression shifts to focused determination as he charges forward, tail flicking, ready for action.",
+    "timestamp": "2026-02-23 22:10:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      8,
+      301,
+      371,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat lies on his back, grinning mischievously, then sits up, eyes narrowing in determination. He leaps toward a green washing machine, clutching a blue sponge, ready to strike. His expression shifts to focused intensity as he prepares to pounce, tail flicking. The scene captures his playful, mischievous energy and the classic slapstick humor of his antics, set against a simple, domestic backdrop.",
+    "timestamp": "2026-02-23 22:10:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      196,
+      122,
+      467,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, angry and determined, swings a fly swatter, then falls backward, landing on his back, before springing up to strike again with renewed vigor.",
+    "timestamp": "2026-02-23 22:11:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      196,
+      122,
+      467,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, holds a yellow fly swatter, then flips over a chair, landing on his back. He sits up, smugly, then stands, swatting air. His green eyes gleam with mischief as he prepares for another mischievous endeavor.",
+    "timestamp": "2026-02-23 22:11:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      196,
+      122,
+      467,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a mischievous grin, wields a yellow fly swatter, leaping onto a chair. He flips backward, landing on his back, then stands, smirking triumphantly. His playful antics and exaggerated movements highlight his comedic, mischievous nature in this classic cartoon scene.",
+    "timestamp": "2026-02-23 22:11:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      196,
+      122,
+      467,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully swings a yellow fly swatter, then trips over a chair, landing on his back. He sits up, eyes narrowed in anger, then leaps onto the chair, swinging the swatter again. His expression shifts from frustration to playful determination as he prepares for another attack, tail flicking, ears perked, ready to chase his next target. The scene is filled with comedic chaos and classic cartoon energy.",
+    "timestamp": "2026-02-23 22:11:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      72,
+      24,
+      321,
+      432
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry clash with spatulas, Tom smirks, Jerry yells. A green-clad figure stands between them, startled. Chaos ensues as they swing, dodging, and laughing.",
+    "timestamp": "2026-02-23 22:12:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      72,
+      24,
+      321,
+      432
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry clash with kitchen tools, Tom wielding a yellow spatula, Jerry a purple pan. They swing, collide, and tumble, laughing. A green-clad figure in a bow tie stands amused. Their antics are chaotic, playful, and full of slapstick energy, showcasing their classic rivalry with exaggerated expressions and dynamic movements.",
+    "timestamp": "2026-02-23 22:12:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      72,
+      24,
+      321,
+      432
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat and a gray cat confront each other, wielding spatulas. The black cat holds a purple one, the gray a yellow. They clash mid-air, then freeze, glaring. Behind them, a green-clad figure with a bow stands, watching. Their expressions shift from playful to annoyed, then to surprise as they collide.",
+    "timestamp": "2026-02-23 22:12:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      72,
+      24,
+      321,
+      432
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat and a gray cat confront each other, wielding a purple and yellow spatula. The black cat, wearing red shoes and a green dress with a white bow, stands defiantly. The gray cat, Tom, grins mischievously. They clash in a playful, exaggerated fight, with Tom leaping to grab the black cat, who yelps in surprise. Their expressions shift from playful aggression to startled shock, capturing classic cartoon chaos and rivalry.",
+    "timestamp": "2026-02-23 22:12:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      318,
+      91,
+      500,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry clash with spatulas, Tom grinning, Jerry frantic. A maid in green stands between them, startled. Chaos erupts as they swing, then pause, eyes locked in rivalry.",
+    "timestamp": "2026-02-23 22:12:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      318,
+      91,
+      500,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry clash with kitchen utensils, Tom wielding a yellow spatula, Jerry a purple pan. They swing, collide, and tumble backward. Their expressions shift from aggression to surprise. A green-clad figure in a bow tie stands behind them, watching the chaos unfold.",
+    "timestamp": "2026-02-23 22:12:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      318,
+      91,
+      500,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry clash with spatulas, their expressions shifting from playful to furious. A woman in a green dress stands between them, caught in the chaos. Tom lunges, Jerry dodges, and they tumble into a comedic, slapstick battle, their antics escalating with each motion.",
+    "timestamp": "2026-02-23 22:13:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/references/segment_0030_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E32 - A Mouse In The House (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      318,
+      91,
+      500,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic showdown, each wielding a spatula. Tom, gray with a white belly, grins mischievously, while Jerry, black with white paws, looks defiant. They clash near a door, dodging each other’s blows. A green-clad figure with a large bow stands behind them, seemingly oblivious. Their expressions shift from playful aggression to surprise as they tumble backward, highlighting their classic rivalry and slapstick humor.",
+    "timestamp": "2026-02-23 22:13:09"
+  }
+]

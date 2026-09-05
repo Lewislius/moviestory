@@ -1,0 +1,1010 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      104,
+      21,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds Jerry, who looks defiant. Tom’s eyes widen in surprise as Jerry grips his paw, both displaying classic cartoon tension and playful rivalry.",
+    "timestamp": "2026-02-23 23:28:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      104,
+      21,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, in his paw. Jerry looks up at Tom with a mischievous grin, while Tom's eyes widen in surprise. Jerry then playfully grabs Tom’s ear, causing Tom to squint and react with exaggerated shock, capturing their classic dynamic of rivalry and comedy.",
+    "timestamp": "2026-02-23 23:28:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      104,
+      21,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, in his paw. Jerry looks defiant, eyes wide, while Tom’s expression shifts from surprise to amusement. Their classic rivalry is evident, with Jerry’s playful defiance contrasting Tom’s mischievous grin, capturing their timeless comedic dynamic.",
+    "timestamp": "2026-02-23 23:28:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      104,
+      21,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat with yellow eyes, holds Jerry, the small brown mouse, in his paw. Tom looks surprised, mouth open, as Jerry squirms and scowls, his tiny paws gripping Tom’s fur. Jerry’s expression shifts from annoyance to playful defiance. Tom’s ears twitch, and his whiskers quiver, indicating both confusion and amusement. The scene captures their classic rivalry, filled with tension and comedic energy, set against a plain backdrop.",
+    "timestamp": "2026-02-23 23:28:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      222,
+      144,
+      477,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, angry and determined, chases Jerry, then grabs a book, reads it intensely while ignoring a pie nearby, showing focused, frustrated energy.",
+    "timestamp": "2026-02-23 23:29:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      222,
+      144,
+      477,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark blue with white paws, leaps and lands near a pie, then raises a book, reading intently. His expression shifts from focused to annoyed. The pie, labeled \"To Jerry,\" sits nearby, hinting at his pursuit of the mouse.",
+    "timestamp": "2026-02-23 23:29:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      222,
+      144,
+      477,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark blue with white paws, leaps and grabs a red book, then stands triumphantly, reading it while ignoring a pie labeled \"To Jerry\" on the floor. His expression is smug and determined, showing his playful mischief and disdain for Jerry’s antics.",
+    "timestamp": "2026-02-23 23:29:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      222,
+      144,
+      477,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue-gray cat, leaps with a determined expression, then lands beside a pie labeled \"To Jerry.\" He grabs a red book, raises it triumphantly, then opens it, reading intently. His focused gaze and clenched fists suggest he’s strategizing. The pie, untouched, lies nearby, hinting at his intent to outwit Jerry. His posture and expression convey playful aggression, typical of his mischievous nature.",
+    "timestamp": "2026-02-23 23:29:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      124,
+      48,
+      407,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, joyfully swings a golf club, while Jerry, a small brown mouse, sits nearby, looking up at him with a surprised expression.",
+    "timestamp": "2026-02-23 23:29:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      124,
+      48,
+      407,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully swings a golf club, his wide grin showing excitement. A small brown mouse, likely Jerry, cowers nearby as a sparkly explosion erupts, hinting at chaos. The scene captures Tom’s playful aggression and Jerry’s fearful reaction in a classic cartoon showdown.",
+    "timestamp": "2026-02-23 23:29:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      124,
+      48,
+      407,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully swings a golf club, eyes wide with excitement. A small brown mouse, Jerry, crouches nervously nearby, watching the impending blast. The scene captures Tom’s playful aggression and Jerry’s wary anticipation, set against a sunny, grassy backdrop.",
+    "timestamp": "2026-02-23 23:29:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      124,
+      48,
+      407,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully swings a golf club with a wide grin, his eyes gleaming. Below him, Jerry, the brown mouse, crouches nervously, clutching a tiny golf club, eyes wide with fear. A dramatic spark effect bursts near Jerry as Tom’s swing sends a powerful impact. The scene captures Tom’s triumphant, mischievous energy against Jerry’s startled, anxious posture, set against a bright, sunny golf course backdrop.",
+    "timestamp": "2026-02-23 23:29:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      4,
+      470,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the mouse, in his paw. Tom initially laughs, then looks surprised as Jerry sits calmly, showcasing their classic rivalry dynamic.",
+    "timestamp": "2026-02-23 23:30:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      4,
+      470,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, gently in his paw. Tom's expression shifts from joy to surprise, eyes widening as he looks at Jerry. Jerry appears calm and unafraid, sitting comfortably in Tom’s hand, suggesting a moment of unexpected peace between the usual adversaries.",
+    "timestamp": "2026-02-23 23:30:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      4,
+      470,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, gently in his paw. Tom’s expression shifts from playful to surprised, eyes widening. Jerry appears calm, sitting upright. The scene captures their classic dynamic—Tom’s mischief versus Jerry’s resilience, set against a soft, textured background.",
+    "timestamp": "2026-02-23 23:30:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      4,
+      470,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, holds a tiny brown mouse in his paw, smiling mischievously. He then covers his mouth, eyes widening in surprise or delight. His expression shifts to playful excitement as he looks at the mouse, who appears calm and unafraid. The scene captures Tom’s classic charm and the mouse’s innocent demeanor, hinting at a humorous or tender moment in their ongoing chase. The animation style is vintage, with bold lines and expressive faces.",
+    "timestamp": "2026-02-23 23:30:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      5,
+      0,
+      400,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, reads a book while Jerry, the mouse, watches. Tom yawns, then closes the book, causing Jerry to jump away in surprise as Tom sits back, smiling.",
+    "timestamp": "2026-02-23 23:31:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      5,
+      0,
+      400,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, reads a book while Jerry, the brown mouse, watches. Tom yawns, then sneezes, startling Jerry. Tom laughs, closes the book, and playfully swats Jerry, who scurries away. Tom smiles, amused by his antics, as Jerry hides behind the book.",
+    "timestamp": "2026-02-23 23:31:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      5,
+      0,
+      400,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, lounging with a book, yawns and sneezes. Jerry the mouse, curious, approaches, then climbs onto Tom’s back. Tom, startled, flips the book shut, then turns, bewildered, as Jerry playfully hops away, leaving Tom mid-sneeze, bewildered and amused.",
+    "timestamp": "2026-02-23 23:31:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      5,
+      0,
+      400,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits on the floor reading a book, yawning widely. Jerry, the brown mouse, sneaks near, curious. Tom, amused, closes the book and stands, then sits back down, still smiling. Jerry playfully jumps on Tom’s back, causing Tom to laugh. The scene captures their classic dynamic: Tom’s boredom and Jerry’s mischief, all in a cozy, wooden-floored room with soft pastel walls.",
+    "timestamp": "2026-02-23 23:31:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      4,
+      54,
+      337,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat screams wildly while holding a stick, his expression frantic. Later, he’s silhouetted, calmly reading a book, contrasting his earlier chaos.",
+    "timestamp": "2026-02-23 23:31:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      4,
+      54,
+      337,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds a cane, screaming with exaggerated facial expressions. His fur stands on end, eyes wide. The scene shifts to a dark silhouette of Tom reading, contrasting his earlier frantic energy with a calm, quiet moment.",
+    "timestamp": "2026-02-23 23:31:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      4,
+      54,
+      337,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the animated cat, holds a stick, screaming with wide eyes and an open mouth. His fur stands on end, and drool drips from his chin. The scene shifts to a dark silhouette of Tom reading a book, contrasting his earlier frantic expression.",
+    "timestamp": "2026-02-23 23:31:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      4,
+      54,
+      337,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the iconic cartoon cat, holds a golf club, eyes wide with exaggerated surprise or shock. His mouth opens wide, revealing teeth and tongue, as if screaming or reacting dramatically. His fur stands on end, and he appears sweaty or distressed. The scene shifts to a dark silhouette of Tom reading a book, suggesting a quiet, contrasting moment. The transitions imply a comedic or dramatic shift in Tom’s mood or situation.",
+    "timestamp": "2026-02-23 23:31:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      0,
+      505,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a large black cat, reads a book while Jerry, a small brown mouse, stands on the page. Tom's expression shifts from calm to angry, showing his frustration with Jerry's presence.",
+    "timestamp": "2026-02-23 23:32:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      0,
+      505,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a large black cat, reads a book while Jerry, a small brown mouse, stands on the page, looking up at him. Tom's expression shifts from calm to angry as Jerry jumps on the book, causing Tom to snap and close it in frustration. The scene captures their classic rivalry.",
+    "timestamp": "2026-02-23 23:32:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      0,
+      505,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, sits reading a book, initially smiling. Jerry, the brown mouse, sneaks onto the page, causing Tom to jump in surprise. Tom’s expression shifts from amusement to shock as Jerry’s antics trigger his reaction, capturing their classic mischievous dynamic.",
+    "timestamp": "2026-02-23 23:32:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      0,
+      505,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a large black cat, sits proudly reading a book, his expression shifting from smug to delighted. Tiny Jerry, a brown mouse, perches atop the pages, initially peeking out with curiosity, then jumping up with a startled expression. Tom’s eyes gleam with amusement as Jerry scurries around, causing Tom to chuckle and lean back, clearly enjoying the chaos. The scene captures their classic dynamic: Tom’s patience and Jerry’s mischief, all within a cozy, sunlit room.",
+    "timestamp": "2026-02-23 23:32:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      19,
+      8,
+      445,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, sits cross-legged with a book, then leaps up excitedly, fists clenched, eyes wide with enthusiasm, clearly thrilled by the content.",
+    "timestamp": "2026-02-23 23:33:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      19,
+      8,
+      445,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits cross-legged, holding a large book, then suddenly leaps up with a joyful, excited expression. His wide eyes and open mouth convey delight, suggesting he’s thrilled by the book’s content or a sudden realization. The scene captures his playful, animated energy.",
+    "timestamp": "2026-02-23 23:33:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      19,
+      8,
+      445,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, sits cross-legged with a large book, eyes wide in surprise. He flips pages, then bursts into laughter, fists clenched, mouth open. His expression shifts from curiosity to delight, showcasing his playful, mischievous nature as he enjoys his reading adventure.",
+    "timestamp": "2026-02-23 23:33:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      19,
+      8,
+      445,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits cross-legged on a wooden floor, engrossed in a large turquoise book. His eyes widen with delight as he reads, then he bursts into a joyful, exaggerated grin, fists clenched in excitement. His paws rest on the book’s pages, and his tail curls playfully behind him. The scene captures his pure, animated enthusiasm for reading, showcasing his expressive face and lively demeanor in this classic cartoon moment.",
+    "timestamp": "2026-02-23 23:33:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      173,
+      13,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, screams in agony as Jerry, the brown mouse, leaps away. Tom's expression shows intense pain, while Jerry escapes with a determined leap.",
+    "timestamp": "2026-02-23 23:33:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      173,
+      13,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, screams in agony as Jerry, the brown mouse, leaps away. Tom’s paws clutch his head, eyes wide with panic. Jerry dashes off-screen, leaving Tom in a state of distress, his mouth agape and body contorted in exaggerated pain, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-23 23:33:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      173,
+      13,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, screams in agony as Jerry, the brown mouse, leaps away. Tom’s eyes widen, mouth agape, claws extended, while Jerry scurries off-screen, leaving Tom visibly distressed and furious, his body contorted in exaggerated pain.",
+    "timestamp": "2026-02-23 23:33:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      173,
+      13,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, screams in agony as Jerry, the brown mouse, leaps away. Tom’s eyes bulge, tongue out, and paws flail wildly, clutching his head in pain. Jerry, small and agile, dashes off-screen, leaving Tom’s comically exaggerated distress. The scene captures their classic chase dynamic, with Tom’s dramatic suffering contrasting Jerry’s mischievous escape, all rendered in vibrant, classic animation.",
+    "timestamp": "2026-02-23 23:34:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      92,
+      7,
+      345,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat sits in a bathtub, surrounded by shattered dishes. Its paws are raised, and it appears startled or confused as debris flies around.",
+    "timestamp": "2026-02-23 23:34:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      92,
+      7,
+      345,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws sits in a bathtub, surrounded by shattered dishes. It stretches its arms upward, seemingly startled or amused. The cat’s expression is one of bewildered delight as it looks up, surrounded by chaos from its mischievous antics.",
+    "timestamp": "2026-02-23 23:34:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      92,
+      7,
+      345,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, with white paws and belly, sits in a bathtub filled with shattered dishes. Its back is to the viewer, arms outstretched, as if in surprise or defeat. The scene is chaotic, with broken china scattered around, and the cat appears bewildered or exhausted.",
+    "timestamp": "2026-02-23 23:34:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      92,
+      7,
+      345,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, sits in a bathtub, surrounded by shattered dishes. His paws are raised, and he looks up with a surprised expression as dishes fly around him. The scene is chaotic, with broken ceramic pieces scattered everywhere. Tom appears startled and slightly confused, as if caught mid-movement. The bathroom setting, with its tiled walls and sink, adds to the comedic absurdity of the situation.",
+    "timestamp": "2026-02-23 23:34:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      162,
+      10,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, gently in his paws. Jerry looks up with wide eyes, appearing surprised or scared as Tom's expression shifts from calm to alert.",
+    "timestamp": "2026-02-23 23:35:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      162,
+      10,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gently cradles Jerry, the brown mouse, in his paws. Jerry appears calm and slightly amused, while Tom looks tenderly at him, eyes wide with softness. Their expressions suggest a rare moment of peace, contrasting their usual rivalry.",
+    "timestamp": "2026-02-23 23:35:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      162,
+      10,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, gently in his paws. Tom's eyes widen with surprise as Jerry looks up, appearing calm and unafraid. Their expressions contrast: Tom's curiosity and Jerry's serene demeanor, hinting at a moment of unexpected peace between the classic adversaries.",
+    "timestamp": "2026-02-23 23:35:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      162,
+      10,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, gently cradles Jerry, the small brown mouse, in his paws. Jerry appears calm, perhaps even content, nestled against Tom’s chest. Tom’s eyes widen slightly, suggesting surprise or affection. His ears perk up, and his whiskers twitch, indicating attentiveness. The scene captures a tender, unexpected moment of quiet companionship between the classic adversaries, hinting at a softer side beneath their usual rivalry.",
+    "timestamp": "2026-02-23 23:35:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      141,
+      0,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, on his paw. Jerry appears startled or scared, while Tom looks amused or mischievous, showcasing their classic dynamic.",
+    "timestamp": "2026-02-23 23:35:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      141,
+      0,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, in his paw. Jerry appears terrified, eyes wide, as Tom’s expression shifts from smug to startled. Tom’s mouth opens in surprise, suggesting a sudden, comedic twist in their classic chase. The scene captures their iconic dynamic with exaggerated cartoon expressions.",
+    "timestamp": "2026-02-23 23:35:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      141,
+      0,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, in his paw with a mischievous grin. Jerry, visibly startled, leaps away, his tiny paws flailing. Tom’s eyes gleam with delight, capturing the classic chase dynamic—playful tension, classic cartoon energy, and the timeless rivalry between predator and prey.",
+    "timestamp": "2026-02-23 23:35:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      141,
+      0,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, gently in his paw. Jerry looks mischievous, eyes wide, as he peeks out from Tom’s grasp. Tom’s expression shifts from amused to slightly startled as Jerry suddenly leaps away, causing Tom to flinch. The scene captures their classic dynamic—playful tension and comedic timing, with exaggerated expressions and fluid motion typical of classic animation. Their interaction is full of energy and humor, hinting at the ongoing chase and antics to come.",
+    "timestamp": "2026-02-23 23:36:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      82,
+      108,
+      500,
+      414
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom reads a book, annoyed by Jerry's presence. Jerry sneaks up, causing Tom to jump, yell, and flail. Tom’s frustration grows as Jerry watches him with mischief.",
+    "timestamp": "2026-02-23 23:36:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      82,
+      108,
+      500,
+      414
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, reads a book, annoyed by Jerry, the brown mouse. Jerry sneaks past, causing Tom to jump, yawn, and react with frustration. Tom flips pages, then rolls over, annoyed, while Jerry watches with mischief, ready to pounce. Their classic chase begins.",
+    "timestamp": "2026-02-23 23:36:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      82,
+      108,
+      500,
+      414
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, reads intently, then yawns and stretches. Jerry, the brown mouse, sneaks nearby, watching. Tom suddenly leaps, startled, then lies back, panting. Jerry scurries away, amused. Tom’s expressions shift from focused to exhausted, then annoyed.",
+    "timestamp": "2026-02-23 23:36:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      82,
+      108,
+      500,
+      414
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, lounges reading a book, eyes gleaming with boredom. Jerry, the brown mouse, sneaks nearby, curious. Tom yawns, then suddenly jumps up, startled. He slams the book shut, flailing wildly. Jerry scurries away, amused. Tom, now frantic, spins around, tail twitching, eyes wide with panic. The scene bursts into chaotic energy as Tom’s over-the-top reaction contrasts Jerry’s mischievous calm.",
+    "timestamp": "2026-02-23 23:36:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      61,
+      54,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, reads a red book intently, eyes narrowed in concentration, then flips pages with a focused, slightly annoyed expression.",
+    "timestamp": "2026-02-23 23:37:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      61,
+      54,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, intently reads a red book, his expression stern and focused. He turns pages with white paws, eyes narrowed in concentration. The scene captures his serious demeanor as he engages with the text, suggesting deep thought or determination.",
+    "timestamp": "2026-02-23 23:37:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      61,
+      54,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, intently reads a red book, his expression serious and focused. His eyes narrow slightly, suggesting concentration or mild annoyance. He holds the book with both paws, turning pages with deliberate movements, immersed in his reading against a plain, warm-toned background.",
+    "timestamp": "2026-02-23 23:37:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      61,
+      54,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a red book with intense focus, eyes narrowed in concentration. His expression shifts from stern to slightly annoyed as he flips pages, suggesting frustration or deep engagement. His ears twitch, and whiskers quiver, indicating his heightened attention. The scene captures his intellectual or perhaps impatient demeanor as he reads, embodying classic cartoon mischief and determination.",
+    "timestamp": "2026-02-23 23:37:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      311,
+      19,
+      470,
+      391
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, swings a golf club at Jerry, the brown mouse, who holds a golf ball. Tom appears determined, while Jerry looks defiant, both in a cartoonish outdoor setting.",
+    "timestamp": "2026-02-23 23:37:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      311,
+      19,
+      470,
+      391
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat, swings a golf club with determination, while Jerry, a small brown mouse, holds a golf ball, looking defiant. Tom’s expression shifts from focused to angry as he swings, showing his playful yet competitive nature in this classic cartoon showdown.",
+    "timestamp": "2026-02-23 23:37:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      311,
+      19,
+      470,
+      391
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, swings a golf club with determination, while Jerry, the brown mouse, holds a golf ball, looking defiant. Tom's expression shifts from focused to angry as he swings, showcasing his competitive spirit. The scene captures their classic rivalry in a playful, exaggerated cartoon style.",
+    "timestamp": "2026-02-23 23:37:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      311,
+      19,
+      470,
+      391
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, swings a golf club with fierce determination, while Jerry, the small brown mouse, holds a golf ball, looking defiant. Tom’s expression shifts from focused to startled as he swings, sending the ball flying. The scene captures their classic rivalry—Tom’s aggression versus Jerry’s cunning. The backdrop of autumn trees and a bright sky adds a whimsical contrast to their intense, comedic confrontation. Their exaggerated movements and expressions highlight the cartoon’s playful, slapstick humor.",
+    "timestamp": "2026-02-23 23:37:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      1,
+      508,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps over a wooden crate, startled by a red firecracker on the floor, his expression shifting from surprise to frantic motion as sparks fly.",
+    "timestamp": "2026-02-23 23:38:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      1,
+      508,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps over a wooden crate, startled by a red firecracker on the floor. He grabs it, eyes wide with surprise, then throws it away. His expression shifts to annoyance as sparks fly from the ignited firecracker, revealing his mischievous yet startled demeanor.",
+    "timestamp": "2026-02-23 23:38:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      1,
+      508,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps from a wooden crate, startled by a lit red fuse on the ground. He grabs the fuse, eyes wide with alarm, as sparks fly. His body tenses, anticipating danger, while barrels and a trash can loom nearby, hinting at a chaotic, high-stakes chase.",
+    "timestamp": "2026-02-23 23:38:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      1,
+      508,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, leaps from a wooden crate, eyes wide with mischief. He grabs a red firecracker, igniting it with a spark. His expression shifts to gleeful anticipation as he prepares to throw it, tail twitching. Sparks fly as the firecracker ignites, and Tom’s body tenses mid-air, ready to launch it with a mischievous grin. The scene is set in a dim, industrial alley, with barrels and a trash can nearby, adding to the comedic chaos.",
+    "timestamp": "2026-02-23 23:38:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      219,
+      4,
+      476,
+      392
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, angry and determined, carries a book while leaping over a pie and gift box, showcasing his mischievous, focused energy in a classic cartoon scene.",
+    "timestamp": "2026-02-23 23:38:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      219,
+      4,
+      476,
+      392
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the mischievous black cat, carries a red book with fierce determination. He leaps over a pie and gift box, eyes glowing with mischief. His expression is intense, suggesting he's on a mission—perhaps to escape or hide something. The scene captures his playful, chaotic energy.",
+    "timestamp": "2026-02-23 23:39:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      219,
+      4,
+      476,
+      392
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the mischievous cat, carries a red book, eyes gleaming with mischief. He leaps, book open, toward a pie and gift box on the floor. His expression is determined, almost eager, as he prepares to pounce, embodying classic cartoon antics and playful chaos.",
+    "timestamp": "2026-02-23 23:39:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      219,
+      4,
+      476,
+      392
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with fierce yellow eyes and a determined expression, carries a red book while leaping across a room. His paws grip the book tightly as he moves swiftly. Below him, a pie labeled “To Jerry” and a gift box with a red bow lie on the floor. Tom’s posture suggests urgency or mischief, possibly chasing Jerry. The scene captures his playful, mischievous energy as he navigates the space, hinting at an impending chase or prank.",
+    "timestamp": "2026-02-23 23:39:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      105,
+      158,
+      372,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom reads a book, then transforms into a red, angry version of himself, visibly stressed. He quickly reverts to his normal form, showing frustration and annoyance.",
+    "timestamp": "2026-02-23 23:39:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      105,
+      158,
+      372,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, reads a book intently. Suddenly, he transforms into a red, angry version of himself, sweating profusely. He then angrily drops the book, showing frustration or annoyance. The scene captures his dramatic emotional shift from calm to rage.",
+    "timestamp": "2026-02-23 23:39:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      105,
+      158,
+      372,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, reads intently, then suddenly transforms into a furious red version, sweating and scowling. He slams the book shut, showing anger. The scene captures his intense emotional shift from calm reading to rage, highlighting his classic comedic frustration.",
+    "timestamp": "2026-02-23 23:39:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E45 - Jerry's Diary (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      105,
+      158,
+      372,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, initially reads a red book with focused intent. Suddenly, his expression shifts to rage as his fur turns red, eyes widen, and steam rises from his head—indicating frustration or anger. He slams the book shut, his body tensing and posture rigid, conveying intense emotion. The scene captures a dramatic transformation from calm reading to explosive irritation, highlighting Tom’s volatile personality.",
+    "timestamp": "2026-02-23 23:39:46"
+  }
+]

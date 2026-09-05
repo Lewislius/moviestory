@@ -1,0 +1,16 @@
+[
+  {
+    "video_path": "/home/liuzhirui/video_demo/segment_0010.mp4",
+    "video_name": "segment_0010",
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines",
+    "caption": "Tom the cat is joyfully leaping through a room, arms raised and legs flailing, as he carries an enormous stack of bacon-wrapped sandwiches. His eyes are wide with delight, and his mouth is open in a happy grin, suggesting he’s thrilled with his culinary haul. The room features a wooden desk with a vase of flowers and a doorway leading to a kitchen, adding context to the scene. The bacon sandwiches are stacked high, with some slices falling slightly as Tom moves, emphasizing the absurdity and humor of the moment.",
+    "timestamp": "2026-02-23 12:14:18"
+  },
+  {
+    "video_path": "/home/liuzhirui/video_demo/segment_0010.mp4",
+    "video_name": "segment_0010",
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines",
+    "caption": "In this animated scene, Tom the cat is depicted in a comically exaggerated and chaotic state. He is suspended in mid-air, seemingly propelled by an unseen force, with stacks of bacon and slices of bread stacked precariously on his head, arms, and legs. His body is contorted in a way that suggests he is either being launched or is in a state of frantic motion. Tom’s face is expressive, with wide eyes and an open mouth, conveying a mix of surprise, amusement, and perhaps a hint of panic. His paws are flailing, and his tail is whipping around, adding to the sense of disarray",
+    "timestamp": "2026-02-23 12:14:25"
+  }
+]

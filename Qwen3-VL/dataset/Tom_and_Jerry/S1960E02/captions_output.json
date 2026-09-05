@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      165,
+      38,
+      466,
+      396
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, flips backward in panic, trailing smoke. Jerry, the mouse, stands atop him, wearing a red polka-dot hat, laughing triumphantly as Tom's startled expression shows his distress.",
+    "timestamp": "2026-02-24 03:12:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      165,
+      38,
+      466,
+      396
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, is upside down, tumbling backward with a startled expression, his paws flailing. A red polka-dotted object, likely Jerry, is atop him, also upside down. They’re in a field, with a house and trees in the background. Motion lines suggest rapid movement, conveying chaos and surprise.",
+    "timestamp": "2026-02-24 03:12:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      165,
+      38,
+      466,
+      396
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is upside down, tumbling backward with a red polka-dotted shirt, arms flailing. His expression shows panic and surprise. Behind him, a blue cloud trails, indicating rapid motion. The background features a simple landscape with distant buildings and hills under a clear sky.",
+    "timestamp": "2026-02-24 03:12:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E02 - Down and Outing (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      165,
+      38,
+      466,
+      396
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, is upside down, tumbling backward with a startled expression, his paws flailing. Jerry, the gray mouse in a red polka-dot shirt, is perched atop Tom, also upside down, appearing amused. They tumble across a dusty field, leaving a trail of dust behind. The background features rolling hills and distant buildings under a warm, sunset sky. Their chaotic, comedic motion suggests a playful chase or slapstick mishap, capturing classic cartoon energy and slapstick humor.",
+    "timestamp": "2026-02-24 03:12:21"
+  }
+]

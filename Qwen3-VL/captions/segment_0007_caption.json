@@ -1,0 +1,16 @@
+[
+  {
+    "video_path": "/home/liuzhirui/video_demo/segment_0007.mp4",
+    "video_name": "segment_0007",
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines",
+    "caption": "A black cat with a red bowtie sits at a piano, playing with focused determination. He taps his fingers on the keys, occasionally glancing at the sheet music. His expression shifts from concentration to mild frustration as he struggles with the notes, then he smiles with satisfaction as he successfully plays a note. The cat’s tail sways slightly as he continues to play, showing his enjoyment and passion for music.",
+    "timestamp": "2026-02-23 12:14:58"
+  },
+  {
+    "video_path": "/home/liuzhirui/video_demo/segment_0007.mp4",
+    "video_name": "segment_0007",
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines",
+    "caption": "In this animated scene, the character Tom, a black cat with white paws and a red bowtie, is seated at a green upright piano, engrossed in playing. He is dressed in a formal black suit with blue trim, suggesting a serious or sophisticated demeanor. His ears are perked up, and his eyes are focused intently on the sheet music placed on the piano’s music stand, which features musical notes and clefs. Tom’s expression is concentrated, with his whiskers twitching slightly as he moves his paws across the keys. He appears to be playing with precision and care, occasionally glancing up and adjusting",
+    "timestamp": "2026-02-23 12:15:06"
+  }
+]

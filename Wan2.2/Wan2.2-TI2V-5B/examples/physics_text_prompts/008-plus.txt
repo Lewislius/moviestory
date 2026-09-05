@@ -1,0 +1,35 @@
+[Original prompt]
+The video captures a serene beach scene at sunset. The sky is painted with vibrant hues of orange, yellow, and blue, with scattered clouds reflecting these colors. The sun is partially visible on the horizon, casting a warm glow over the ocean. Gentle waves roll onto the shore, creating a rhythmic pattern of white foam against the wet sand. The water reflects the sky's colors, adding depth to the scene. The overall atmosphere is tranquil and picturesque, emphasizing the natural beauty of the coastal landscape. There are no animals or characters present; the focus remains solely on the natural elements of the beach and the sky. The camera remains stationary throughout the video, allowing viewers to fully absorb the peaceful and breathtaking view.
+
+Relevant physical states:
+
+* The beach, ocean, sky, clouds, sun, shoreline, and wet sand must remain present and visually consistent throughout the sequence.
+* The sun should remain partially visible near the horizon, consistent with a sunset setting.
+* The sky should display warm sunset colors, including orange, yellow, and blue.
+* The scattered clouds should remain present and reflect the sunset colors.
+* The ocean surface should reflect the colors of the sky and sunlight.
+* Gentle waves should move continuously toward the shore.
+* White foam should appear where the waves meet the shore and wet sand.
+* The shoreline and wet sand should remain spatially consistent as waves wash in and recede.
+* No animals, people, or other characters should appear in the scene.
+* The camera must remain stationary throughout the video.
+
+Physical event order:
+
+1. The stationary camera presents a beach scene at sunset with the sun near the horizon.
+2. The sky and clouds display warm sunset colors, and the ocean reflects these colors.
+3. Gentle waves move across the ocean surface toward the shore.
+4. The waves reach the shoreline and form white foam against the wet sand.
+5. The water recedes while the tranquil beach scene remains visually consistent.
+6. This wave motion repeats rhythmically, maintaining the peaceful sunset atmosphere.
+
+Cause-effect constraints:
+
+* The beach, ocean, sky, clouds, shoreline, and sun must exist before the wave scene can be observed.
+* The sun's low position near the horizon must occur before or during the sunset-colored illumination of the sky and water.
+* The ocean must reflect the sky and sunlight only when those visual elements are present.
+* Wave motion toward the shore must happen before foam forms at the shoreline.
+* White foam must result from waves reaching the shore rather than appearing spontaneously.
+* The rhythmic repetition of wave arrival and recession must remain physically continuous and visually coherent.
+* No animals, humans, or unrelated objects may appear during the scene.
+* The camera viewpoint must remain fixed; no camera motion, cuts, or viewpoint jumps should occur.

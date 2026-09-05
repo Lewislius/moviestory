@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      77,
+      45,
+      398,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, is entangled in a whirlwind of tape, spinning wildly with wide eyes and an open mouth, displaying frantic, exaggerated motion and surprise amidst the chaotic scene.",
+    "timestamp": "2026-02-24 03:36:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      77,
+      45,
+      398,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat is entangled in a whirlwind of sticky tape, his expression frantic and exaggerated. His limbs flail wildly as he struggles against the adhesive chaos, eyes wide with panic. The scene captures his comedic, helpless predicament as tape spirals around him in a dizzying, cartoonish dance.",
+    "timestamp": "2026-02-24 03:36:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      77,
+      45,
+      398,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is entangled in a whirlwind of sticky tape, his limbs and body distorted by the chaos. His wide eyes and open mouth convey shock and panic as he struggles, limbs flailing wildly against the adhesive. The scene is a frantic, cartoonish depiction of his entrapment.",
+    "timestamp": "2026-02-24 03:36:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E47 - Purr-Chance to Dream (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      77,
+      45,
+      398,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with wide eyes and an open mouth, spins wildly in a whirlwind of motion, surrounded by fragmented, glitching versions of himself. His limbs and body parts multiply and distort, creating a chaotic, energetic swirl. The background remains static—pink wall, green floor—highlighting Tom’s frenetic, almost ecstatic movement. His expression conveys exhilaration or panic, as if caught in a surreal, looping dance of self-replication. The animation emphasizes speed and distortion, capturing a moment of pure, cartoonish chaos.",
+    "timestamp": "2026-02-24 03:36:52"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      46,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog named Spike, wearing a spiked collar, sits outside his green doghouse. He looks annoyed, then suddenly jumps up excitedly, revealing a bone nearby.",
+    "timestamp": "2026-02-24 03:02:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      46,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Spike, a bulldog with a red spiked collar, sits in his green doghouse, looking annoyed. He suddenly stands up, snarling with a fierce expression. A bone lies nearby, and another doghouse labeled \"TYKE\" is visible in the background. Spike’s mood shifts from grumpy to aggressive.",
+    "timestamp": "2026-02-24 03:02:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      46,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog named Spike, wearing a red spiked collar, sits outside his green doghouse. He looks annoyed, then suddenly leaps up with a joyful expression, revealing his teeth. A bone lies nearby, and another doghouse labeled \"TYKE\" is visible in the background.",
+    "timestamp": "2026-02-24 03:02:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E59 - Tops With Pops (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      46,
+      428,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Spike, a large, brown bulldog with a red spiked collar, sits outside his green doghouse labeled \"SPIKE.\" He looks annoyed, then suddenly leaps up with a joyful, wide-eyed grin. A bone lies nearby in a blue bowl. To his right, a smaller doghouse marked \"TYKE\" is visible. Spike’s expression shifts from grumpy to excited, suggesting a playful or mischievous mood. The scene is set in a colorful, cartoonish backyard.",
+    "timestamp": "2026-02-24 03:02:49"
+  }
+]

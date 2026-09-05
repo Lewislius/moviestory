@@ -1,0 +1,226 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      40,
+      176,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry in a dark dungeon; Tom sneaks up, grabs Jerry, then stands proudly beside a bone can with Jerry atop, both grinning mischievously.",
+    "timestamp": "2026-02-24 03:08:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      40,
+      176,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry in a dark stone corridor. Tom, grinning, playfully pats Jerry’s head while Jerry stands on a dog food can with a bone. Tom’s expression shifts from mischievous to smug as he holds a piece of food, showcasing their classic rivalry in a spooky setting.",
+    "timestamp": "2026-02-24 03:09:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      40,
+      176,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry playfully interact in a dimly lit stone corridor. Tom, gray and mischievous, stands beside a can labeled \"DOG FOOD\" with a bone on top, while Jerry, the brown mouse, perches atop it. Tom smiles, gesturing with his paw, as Jerry looks up, seemingly amused by the situation. Their antics unfold with classic cartoon charm.",
+    "timestamp": "2026-02-24 03:09:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      40,
+      176,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a dim, stone-walled dungeon, Tom the cat and Jerry the mouse engage in a playful, mischievous dance. Tom, gray and smug, leaps joyfully, while Jerry, small and clever, perches atop a “DOG FOOD” can with a bone. Tom’s exaggerated grin and Jerry’s mischievous eyes convey their classic rivalry-turned-entertainment. Their antics unfold with comedic energy, highlighting their timeless dynamic of chase and trickery, set against a spooky, atmospheric backdrop.",
+    "timestamp": "2026-02-24 03:09:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      108,
+      227,
+      394,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry fight fiercely, grappling and kicking in a dark stone setting. Their expressions show aggression and determination, highlighting their classic rivalry with dynamic, cartoonish movements.",
+    "timestamp": "2026-02-24 03:09:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      108,
+      227,
+      394,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a frantic chase through a dark stone corridor. Tom, blue with white paws, lunges and grapples with Jerry, the orange cat, who dodges and counters with agility. Both display intense expressions, their movements fast and chaotic, highlighting their classic rivalry in this animated skirmish.",
+    "timestamp": "2026-02-24 03:09:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      108,
+      227,
+      394,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a frantic chase through a dimly lit stone corridor. Tom, blue with white paws, lunges and grapples Jerry, the orange mouse, who dodges and counters with agility. Their expressions convey intense determination and playful aggression, capturing the classic slapstick comedy of their rivalry.",
+    "timestamp": "2026-02-24 03:09:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      108,
+      227,
+      394,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a dark, stone-walled setting, Tom the blue cat and Jerry the brown mouse engage in a frantic, slapstick chase. Tom, with wide eyes and a determined expression, lunges at Jerry, who dodges and counters with agile movements. Their expressions shift from playful to frantic as they sprint, dodging walls and corners. The scene captures their classic rivalry, filled with exaggerated motion and comedic tension, highlighting their enduring, chaotic dance of pursuit and evasion.",
+    "timestamp": "2026-02-24 03:10:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      75,
+      92,
+      307,
+      440
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a mouse, then drops it. The mouse climbs a dog food can, lifting a bone. Tom falls backward, shocked.",
+    "timestamp": "2026-02-24 03:10:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      75,
+      92,
+      307,
+      440
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the orange cat, holds a small red object, then drops it. A mouse appears, leaps onto a dog food can, and lifts a giant bone. Tom reacts with shock and falls backward. The scene ends with Tom upside down, stunned.",
+    "timestamp": "2026-02-24 03:10:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      75,
+      92,
+      307,
+      440
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the orange cat, eagerly holds a tiny mouse, then drops it. The mouse leaps onto a dog food can, lifting a giant bone. Tom reacts in shock, falling backward. The scene ends with Tom’s startled expression as the mouse triumphantly holds the bone aloft.",
+    "timestamp": "2026-02-24 03:10:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      75,
+      92,
+      307,
+      440
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the orange cat, holds a tiny mouse, then drops it as it scurries away. He reacts with surprise as a bone emerges from a dog food can. The mouse, now atop the can, lifts the bone dramatically, causing Tom to tumble backward in shock. The scene ends with Tom upside down, eyes wide, while the mouse triumphantly balances on the can, showcasing their classic chase dynamic.",
+    "timestamp": "2026-02-24 03:10:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      232,
+      92,
+      413,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry fight in a spooky room. Tom holds a hammer, Jerry hides. They exchange glances, showing surprise and mischief. The scene ends with Tom triumphantly holding the hammer.",
+    "timestamp": "2026-02-24 03:11:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      232,
+      92,
+      413,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry confront each other in a spooky cellar. Tom, holding a mallet, appears triumphant, while Jerry, small and cautious, watches. Their expressions shift from tense to playful, hinting at a classic chase. The eerie setting with a skull and flask adds to the cartoon’s charm.",
+    "timestamp": "2026-02-24 03:11:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      232,
+      92,
+      413,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a mischievous showdown in a spooky dungeon. Tom, holding a mallet, confronts Jerry, who dodges with agility. Their expressions shift from surprise to delight, hinting at playful rivalry. A small mouse adds to the chaos, while eerie shelves and a skull set the dark, whimsical tone.",
+    "timestamp": "2026-02-24 03:11:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E01 - Switchin' Kitten (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      232,
+      92,
+      413,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a spooky stone room, Tom the gray cat and Jerry the brown mouse face off, with a menacing orange cat nearby. Tom holds a wooden mallet, then hands it to the orange cat, who proudly lifts it. Both cats show playful, mischievous expressions, while Jerry watches nervously. The scene is eerie, with a skull and flask on a shelf, adding to the mysterious, comedic tension as they prepare for an impending showdown.",
+    "timestamp": "2026-02-24 03:11:30"
+  }
+]

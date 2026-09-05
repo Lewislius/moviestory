@@ -1,0 +1,1066 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      2,
+      0,
+      485,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog growls menacingly at Tom, who holds his paw up in a playful, defiant pose. Tom's expression shifts from surprised to smug as the bulldog bares his teeth.",
+    "timestamp": "2026-02-23 18:48:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      2,
+      0,
+      485,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog growls menacingly at Tom, the cat, who holds his paw to his face, appearing annoyed and defiant. The bulldog's expression shifts between anger and frustration, while Tom maintains a smug, unimpressed demeanor, suggesting a tense standoff between the two.",
+    "timestamp": "2026-02-23 18:48:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      2,
+      0,
+      485,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog growls menacingly, gripping Tom the cat by the neck. Tom, with wide eyes and a startled expression, struggles against the dog's grip. The dog's aggressive stance contrasts with Tom's fearful, trembling demeanor as they face off against a green backdrop.",
+    "timestamp": "2026-02-23 18:48:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      2,
+      0,
+      485,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A bulldog, wearing a red collar, growls menacingly at Tom the cat, who stands defiantly beside him. Tom, with wide yellow eyes and a smug grin, holds the bulldog’s paw, seemingly taunting or controlling him. The bulldog’s expression shifts from rage to frustration, his mouth open in a snarl. Tom’s demeanor remains calm and confident, contrasting the bulldog’s agitation. Their interaction suggests a tense, comedic standoff, classic in their animated rivalry.",
+    "timestamp": "2026-02-23 18:48:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      24,
+      45,
+      442,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A muscular grey bulldog stands menacingly, crushing a striped cat with his foot. The cat is compressed into a tiny, flattened form, eyes wide with shock.",
+    "timestamp": "2026-02-23 18:48:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      24,
+      45,
+      442,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A muscular grey bulldog confronts a cat, Tom, who is stuck in a green door frame. The bulldog flexes, growling menacingly, while Tom, trapped and terrified, peeks out with wide eyes. The bulldog’s expression is fierce, showing dominance over the trapped feline.",
+    "timestamp": "2026-02-23 18:48:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      24,
+      45,
+      442,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A muscular grey bulldog stands menacingly, flexing its muscles, while a small grey cat with yellow eyes is compressed into a stack of bricks beside a green door. The bulldog's expression is angry and threatening, while the cat looks startled and trapped.",
+    "timestamp": "2026-02-23 18:48:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      24,
+      45,
+      442,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog stands menacingly beside a green door, flexing muscles with an angry expression. Suddenly, a cat emerges from behind the door, appearing crushed and wrapped in a spiral of black-and-white stripes. The bulldog growls, then towers over the compressed cat, who looks up with wide, terrified eyes. The bulldog’s expression shifts to smug satisfaction as he looms over his captive. The scene is cartoonish, with exaggerated expressions and movements.",
+    "timestamp": "2026-02-23 18:48:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      76,
+      457,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog grabs Tom by the neck, shaking him. Tom looks surprised and alarmed. The bulldog appears determined, while Tom shows fear and confusion.",
+    "timestamp": "2026-02-23 18:49:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      76,
+      457,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog grins, gripping Tom by the neck, while Tom looks terrified. The bulldog’s expression shifts from playful to stern. Tom’s eyes widen in fear, his mouth agape. The scene captures their dynamic tension, with Tom’s vulnerability contrasting the bulldog’s imposing presence.",
+    "timestamp": "2026-02-23 18:49:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      76,
+      457,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog grabs Tom by the neck, forcing him against a green door. Tom looks terrified, eyes wide, mouth open in shock. The bulldog, grinning with teeth bared, seems amused. Their expressions contrast sharply—bulldog’s dominance versus Tom’s fear.",
+    "timestamp": "2026-02-23 18:49:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      76,
+      457,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A bulldog, wearing a red collar, grabs Tom the cat by the neck, holding him against a green door. Tom looks terrified, eyes wide, mouth open in shock. The bulldog appears aggressive yet slightly amused, teeth bared. In a quick cut, Tom is now calmly eating cake with a fork and knife, seemingly unfazed. The scene shifts from chaos to calm, highlighting Tom’s resilience and the bulldog’s unexpected gentleness.",
+    "timestamp": "2026-02-23 18:49:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      216,
+      15,
+      420,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, digs a hole, then lifts a stone, crashes down, and lies defeated. He looks up with a tired, grumpy expression as dirt flies around him.",
+    "timestamp": "2026-02-23 18:49:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      216,
+      15,
+      420,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lifts a large stone, then drops it, causing a landslide. He falls backward, stunned, then sits up, looking dazed. The scene is set in a sunny, grassy yard with a house and trees in the background. His expression shifts from surprise to mild confusion.",
+    "timestamp": "2026-02-23 18:50:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      216,
+      15,
+      420,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, lifts a large stone, then drops it, causing a pile of dirt to explode. He falls backward, stunned, then sits up, looking dazed and slightly amused, as the scene ends with him panting, surrounded by dirt and stones in a sunny yard.",
+    "timestamp": "2026-02-23 18:50:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      216,
+      15,
+      420,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands atop a dug hole, lifting a large stone overhead with determination. He drops it, causing a chaotic splash of dirt. The stone lands on his head, sending him tumbling backward. He lies stunned, then sits up, looking dazed and slightly amused. His expression shifts from shock to a grin as he gazes at the stone, now resting beside him, with a pile of dirt nearby and a quaint house in the background.",
+    "timestamp": "2026-02-23 18:50:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      80,
+      18,
+      390,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, laughs joyfully, hand near mouth, eyes wide, showing excitement or amusement in a cozy, wooden-framed room setting.",
+    "timestamp": "2026-02-23 18:50:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      80,
+      18,
+      390,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, laughs gleefully, hand near mouth, eyes wide. He leans against a red-framed window, smiling broadly, conveying pure joy and mischief. His playful expression suggests he’s enjoying a humorous moment or trick.",
+    "timestamp": "2026-02-23 18:50:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      80,
+      18,
+      390,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, laughs joyfully, mouth wide open, eyes gleaming. He leans against a wooden frame, one paw raised in delight. His expression radiates pure mirth and mischief, capturing a classic cartoon moment of playful triumph.",
+    "timestamp": "2026-02-23 18:50:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      80,
+      18,
+      390,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, peers from behind a red shelf, eyes wide and grin broad, exuding playful mischief. His white paws gesture animatedly as he chuckles, ears perked, whiskers twitching. His joyful expression suggests he’s reveling in a mischievous triumph or anticipating a prank. The scene captures his classic cartoon charm—sly, energetic, and delightfully mischievous, embodying the essence of his beloved animated persona.",
+    "timestamp": "2026-02-23 18:50:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      12,
+      28,
+      355,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, lounges near a mailbox. Jerry, the mouse, dances nearby. A bulldog charges, startling Tom, who reacts with shock and fear, then returns to his relaxed pose.",
+    "timestamp": "2026-02-23 18:51:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      12,
+      28,
+      355,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges near a mailbox, smirking. A bulldog charges, striking Tom with a yellow flash. Tom recoils, then resumes his smug pose. Jerry, the brown mouse, watches from afar, arms crossed, seemingly amused by the chaos.",
+    "timestamp": "2026-02-23 18:51:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      12,
+      28,
+      355,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges by a mailbox, smugly smiling. Jerry, the brown mouse, dances excitedly nearby. Suddenly, a giant bulldog charges, knocking Tom back with a flash of light. Tom recoils in shock, while Jerry cheers, oblivious to the chaos.",
+    "timestamp": "2026-02-23 18:51:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      12,
+      28,
+      355,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, lounging by a mailbox, smirks as Jerry the mouse dances nearby. Suddenly, a giant bulldog charges, delivering a punch that sends Tom flying backward. Tom lands dramatically, still smirking, while Jerry watches in delight. The bulldog’s angry expression contrasts with Tom’s playful arrogance, highlighting their classic rivalry. The scene bursts with cartoon chaos and comedic timing, capturing the timeless slapstick energy of the Tom and Jerry series.",
+    "timestamp": "2026-02-23 18:51:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      0,
+      508,
+      449
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, eagerly cuts a cake, delighted. Jerry, the mouse, sneaks out, causing Tom to jump in surprise, then resume eating with joy.",
+    "timestamp": "2026-02-23 18:51:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      0,
+      508,
+      449
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat eagerly cuts into a cake, eyes wide with delight. Jerry the mouse scurries past, then appears on the cake, causing Tom to gasp in surprise. Tom’s expression shifts from joy to shock as he realizes his snack is now occupied.",
+    "timestamp": "2026-02-23 18:51:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      0,
+      508,
+      449
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, eagerly slices a cake, eyes gleaming with delight. A mouse, Jerry, scurries past, startling Tom, who flinches and drops his utensils. Tom’s expression shifts from joy to shock as he realizes Jerry’s presence, then he quickly grabs his fork and knife, ready to resume his dessert feast.",
+    "timestamp": "2026-02-23 18:52:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      0,
+      508,
+      449
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat sits happily, eagerly cutting a slice of cake adorned with olives and a tiny mouse. He gleefully holds utensils, eyes wide with delight. Suddenly, a tiny mouse scurries past, startling Tom. He reacts with shock, eyes widening and mouth agape. He then quickly grabs the fork and knife, determined to finish his treat, oblivious to the mouse’s mischief. The scene captures Tom’s playful, greedy nature and the comedic chaos of his interactions.",
+    "timestamp": "2026-02-23 18:52:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      192,
+      31,
+      497,
+      364
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, lounges, then leaps excitedly as Jerry, the mouse, approaches. Tom extends a paw, smiling triumphantly, while Jerry holds a yellow object, appearing wary.",
+    "timestamp": "2026-02-23 18:52:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      192,
+      31,
+      497,
+      364
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lounges, then leaps excitedly as Jerry the mouse approaches. Tom smiles, extending a paw. Jerry, holding a yellow object, looks up at Tom with a mix of fear and curiosity, as Tom’s playful demeanor contrasts with Jerry’s cautious stance.",
+    "timestamp": "2026-02-23 18:52:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      192,
+      31,
+      497,
+      364
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges, then leaps with a grin as Jerry, the brown mouse, approaches. Tom extends a paw, offering a yellow object. Jerry, surprised, takes it, and Tom beams with delight, showcasing their classic chase-and-give dynamic in a playful, cartoonish moment.",
+    "timestamp": "2026-02-23 18:52:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      192,
+      31,
+      497,
+      364
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lounges on the floor, smirking as he holds a yellow object. Jerry, the brown mouse, approaches cautiously, then gleefully grabs the object. Tom, surprised, leaps up, eyes wide, then smirks again, extending a paw as if offering it. Jerry, triumphant, holds the object close, eyes gleaming. Tom’s expression shifts from playful to amused as he watches Jerry’s antics, embodying classic cartoon mischief and rivalry.",
+    "timestamp": "2026-02-23 18:52:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      35,
+      6,
+      511,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, holds a pipe while a bulldog with tusks grips Jerry, a small mouse. Tom laughs as Jerry stands on the dog's belly, both characters displaying mischievous expressions.",
+    "timestamp": "2026-02-23 18:53:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      35,
+      6,
+      511,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds a pipe while facing a large bulldog with tusks. Jerry, the mouse, perches on the dog’s chest, smiling. Tom laughs, then looks surprised as the dog growls. Jerry winks, then hugs himself, while Tom grins mischievously.",
+    "timestamp": "2026-02-23 18:53:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      35,
+      6,
+      511,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, grins mischievously as he holds a pipe, while the bulldog growls, clutching Jerry, the mouse. Jerry, tiny and agile, climbs the dog’s chest, taunting Tom. Tom’s expression shifts from smug to surprised as Jerry’s antics unfold, capturing their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 18:53:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      35,
+      6,
+      511,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a pipe, smiling mischievously as he watches Jerry, the brown mouse, perched on a bulldog’s chest. The bulldog, large and grumpy with tusks, growls while Jerry playfully wiggles. Tom’s expression shifts from smug to delighted as he leans in, seemingly plotting. Jerry’s antics spark Tom’s amusement, highlighting their classic chase-and-escape dynamic, full of slapstick humor and cartoon charm.",
+    "timestamp": "2026-02-23 18:53:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      142,
+      142,
+      419,
+      396
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat runs joyfully, then crashes through a wooden fence, laughing. He lands on grass, still excited, with a house and tree in the background.",
+    "timestamp": "2026-02-23 18:53:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      142,
+      142,
+      419,
+      396
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, then crashes through a wooden fence, scattering leaves. He lands in surprise, clutching a leaf, eyes wide. The scene shifts to him running, panting, in a grassy field with a house and tree in the background, embodying classic cartoon chaos and determination.",
+    "timestamp": "2026-02-23 18:54:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      142,
+      142,
+      419,
+      396
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, then crashes through a wooden fence, scattering leaves. He lands with a startled expression, eyes wide and mouth agape. The scene ends with him crouching, panting, in a grassy field near a stone, with a house and tree in the background.",
+    "timestamp": "2026-02-23 18:54:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      142,
+      142,
+      419,
+      396
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat leaps energetically across a grassy field, eyes wide with excitement. He crashes through a wooden fence, scattering leaves as he lands. His expression shifts to surprise, then joy, as he bounces happily. A stone with a small flower rests nearby. Behind him, a quaint house and tree frame the pastoral scene. Tom’s playful antics and expressive face convey pure, unbridled delight in his mischievous adventure.",
+    "timestamp": "2026-02-23 18:54:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      240,
+      12,
+      464,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large grey bulldog growls menacingly at a tiny mouse. The mouse scurries away. A cat, holding a pipe, lunges out from behind a wall.",
+    "timestamp": "2026-02-23 18:54:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      240,
+      12,
+      464,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, grumpy bulldog roars at a tiny mouse, who scurries away. The scene shifts to a cat, Tom, wielding a pipe, leaping dramatically. The bulldog’s anger fades as the mouse escapes, leaving Tom in a comical, startled pose. Classic cartoon chaos ensues.",
+    "timestamp": "2026-02-23 18:54:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      240,
+      12,
+      464,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, grumpy bulldog growls at a tiny mouse, who nervously flees. Suddenly, a cat leaps in, wielding a pipe, then vanishes. The scene ends with the bulldog’s shadow looming over the empty space, hinting at impending chaos.",
+    "timestamp": "2026-02-23 18:54:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      240,
+      12,
+      464,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, grinning bulldog stands menacingly, then growls, as a tiny brown mouse scurries away. The mouse, startled, flees across a plain, sandy terrain. Suddenly, a dark gray cat with white paws leaps into view, holding a blue pipe, appearing furious and ready to strike. The bulldog vanishes, leaving the cat and mouse in a tense standoff, the cat’s glare suggesting imminent action. The scene is filled with cartoonish energy and classic slapstick tension.",
+    "timestamp": "2026-02-23 18:54:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      44,
+      90,
+      330,
+      404
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse, who carries a plank. Jerry dodges, and Tom pursues near a U.S. Mail box, showing classic chase dynamics with comedic expressions.",
+    "timestamp": "2026-02-23 18:56:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      44,
+      90,
+      330,
+      404
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, startled near a U.S. Mailbox, watches Jerry the mouse carry a plank. Jerry, confident, walks away. Tom, alarmed, chases after him, eyes wide. Their classic chase begins, with Jerry’s mischief and Tom’s pursuit.",
+    "timestamp": "2026-02-23 18:56:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      44,
+      90,
+      330,
+      404
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray and mischievous, chases Jerry the mouse, who carries a plank. Jerry dodges, then triumphantly walks away. Tom, frustrated, stands near a U.S. Mail box, eyes wide with determination. Their classic chase begins anew, full of comedic tension and slapstick antics.",
+    "timestamp": "2026-02-23 18:56:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      44,
+      90,
+      330,
+      404
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sprints past a U.S. Mailbox, eyes wide with pursuit. Meanwhile, Jerry, the brown mouse, confidently carries a wooden plank, dodging Tom’s chase. A large bulldog looms nearby, playfully swatting at Jerry, who scurries away, amused. Jerry’s grin suggests he’s outsmarting Tom, while Tom’s frantic expression shows his determination to catch him. Their classic chase continues, full of slapstick humor and mischievous antics.",
+    "timestamp": "2026-02-23 18:56:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      157,
+      34,
+      473,
+      359
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lounges, joyfully chewing a red ball, then laughs, drools, and smiles contentedly, embodying playful mischief and satisfaction.",
+    "timestamp": "2026-02-23 18:57:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      157,
+      34,
+      473,
+      359
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies on the floor, joyfully chewing a red ball, then drops it. He laughs, pats his belly, and smiles contentedly, eyes gleaming with delight. His playful antics and satisfied expression convey pure happiness and mischief, embodying classic cartoon charm.",
+    "timestamp": "2026-02-23 18:58:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      157,
+      34,
+      473,
+      359
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, playfully tossing a red ball. He laughs joyfully, eyes wide with delight, as he dances with the ball, occasionally catching it. His expression shifts from gleeful to relaxed, showcasing his playful, carefree spirit. The scene exudes pure, cartoonish fun.",
+    "timestamp": "2026-02-23 18:58:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      157,
+      34,
+      473,
+      359
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, joyfully holding a red ball. He laughs, opens his mouth wide, and playfully tosses the ball in the air, catching it with delight. His eyes sparkle with mischief, and he smiles broadly, reveling in the simple pleasure. As he rolls slightly, his expression shifts to contentment, then a mischievous grin. The scene captures his playful, carefree spirit in a cozy, warmly lit room.",
+    "timestamp": "2026-02-23 18:58:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      75,
+      148,
+      315,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, pushes a baby carriage with determination, then leaps backward, startled by something unseen, his expression shifting from focused to surprised.",
+    "timestamp": "2026-02-23 18:58:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      75,
+      148,
+      315,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, pushes a blue baby carriage with determination. He leaps off a curb, spinning mid-air, then lands with a tumble. His expression shifts from focused to startled, revealing his comedic, chaotic nature as he struggles with the carriage in a whimsical outdoor setting.",
+    "timestamp": "2026-02-23 18:58:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      75,
+      148,
+      315,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, pushes a blue stroller with determination, his eyes focused ahead. As he moves, he leaps off the curb, spinning mid-air with a mischievous grin. The scene captures his playful energy and the whimsical, cartoonish nature of his antics, set against a serene, sunlit backyard backdrop.",
+    "timestamp": "2026-02-23 18:58:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      75,
+      148,
+      315,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, pushes a blue stroller with a determined stride, his expression focused. He suddenly leaps backward, flipping mid-air as the stroller spins wildly, revealing his playful, mischievous grin. The scene unfolds on a sunny sidewalk beside a wooden fence and tree, capturing Tom’s comedic, energetic antics as he enjoys his whimsical, cartoonish adventure.",
+    "timestamp": "2026-02-23 18:58:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      145,
+      56,
+      359,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a pipe, confronts a large bulldog, and then runs away. The bulldog stands angrily, while Jerry sits in a stroller nearby, watching the scene unfold.",
+    "timestamp": "2026-02-23 18:59:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      145,
+      56,
+      359,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds a pipe and gestures to a bulldog, who stands sternly beside a stroller with Jerry, the mouse. Tom then turns away, while the bulldog maintains a grumpy expression, suggesting a tense or comedic standoff between the characters.",
+    "timestamp": "2026-02-23 18:59:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      145,
+      56,
+      359,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog stands sternly beside a blue stroller with a tiny mouse inside. A gray cat, Tom, holds a blue pipe, initially appearing cheerful, then shifts to a serious expression. He moves away, leaving the bulldog and stroller behind, hinting at an impending confrontation or comedic twist.",
+    "timestamp": "2026-02-23 18:59:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      145,
+      56,
+      359,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog stands sternly beside a blue stroller, where a tiny mouse sits. A gray cat, Tom, holds a blue pipe, appearing mischievous. He gestures toward the bulldog, then turns away, seemingly taunting him. The bulldog scowls, arms crossed, as Tom walks off, leaving the bulldog fuming. The scene suggests a playful, comedic tension between the characters, typical of classic cartoon antics.",
+    "timestamp": "2026-02-23 18:59:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      362,
+      144,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, holding a pipe, confronts a large bulldog beside a stroller with Jerry. Tom gestures, then runs off, while the bulldog scowls, showing annoyance.",
+    "timestamp": "2026-02-23 18:59:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      362,
+      144,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, holds a blue pipe and dances near a large bulldog, who stands with arms crossed. A baby mouse sits in a stroller nearby. Tom appears cheerful, while the bulldog looks annoyed. The scene is set outdoors by a wooden fence.",
+    "timestamp": "2026-02-23 18:59:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      362,
+      144,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, holds a blue pipe and dances with a large gray bulldog, who stands with arms crossed. A small mouse sits in a blue stroller nearby. Tom twirls, then exits as the bulldog watches, expression shifting from annoyed to amused. The scene is playful and cartoonish, set against a wooden fence.",
+    "timestamp": "2026-02-23 19:00:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0016_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      362,
+      144,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a blue pipe, initially posing with a bulldog and a baby mouse in a stroller. The bulldog, grumpy and muscular, stands with arms crossed. Tom then raises the pipe to his ear, pretending to listen, before turning away. The mouse in the stroller looks up, curious. The scene captures Tom’s playful mischief and the bulldog’s stern demeanor, set against a sunny backyard fence.",
+    "timestamp": "2026-02-23 19:00:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      5,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, grinning, holds a tiny mouse in his paws. His expression shifts from gleeful to surprised as he gazes at the mouse, who looks up at him with wide eyes.",
+    "timestamp": "2026-02-23 19:01:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      5,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a tiny, frightened Jerry in his paws. Tom’s expression shifts from mischievous delight to surprise as he gazes at Jerry, who looks terrified and trapped. The scene captures their classic dynamic of predator and prey, with Tom’s playful dominance contrasting Jerry’s anxious escape.",
+    "timestamp": "2026-02-23 19:01:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      5,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a small, frightened mouse in his paws, smiling triumphantly. His eyes gleam with mischief as he gazes down at his prey. The mouse looks up, wide-eyed and terrified, trapped in Tom’s grasp. The scene is set against a dark, shadowy backdrop, emphasizing their dramatic confrontation.",
+    "timestamp": "2026-02-23 19:01:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      5,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the small brown mouse, wrapped in his paws. Tom’s eyes gleam with mischief, his grin wide and teeth bared. Jerry, tiny and frightened, peeks out with wide, terrified eyes. The scene unfolds in a dim, industrial alley, with looming metal structures. Tom’s expression shifts from triumphant to slightly surprised, hinting at a sudden realization or shift in plan. Their dynamic—predator and prey—remains tense and humorous, classic Tom and Jerry antics.",
+    "timestamp": "2026-02-23 19:01:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      106,
+      153,
+      433,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, eagerly grabs bubble gum, then reaches for a bucket of paste, laughing mischievously as he plans his next scheme.",
+    "timestamp": "2026-02-23 19:02:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      106,
+      153,
+      433,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for bubble gum, then grabs a red piece, gleefully licking it. He looks pleased, then suddenly drops it, his expression shifting to surprise as he notices a bucket labeled \"PASTE\" nearby. His antics reveal his playful, mischievous nature.",
+    "timestamp": "2026-02-23 19:02:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      106,
+      153,
+      433,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for bubble gum, then grins triumphantly. He pulls a red gum, delighted, but then frowns, pondering. He stretches upward, grabbing dripping paste from a bucket, his expression shifting to mischievous glee as he revels in his antics.",
+    "timestamp": "2026-02-23 19:03:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      106,
+      153,
+      433,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for bubble gum from a gumball machine, his eyes gleaming with delight. He pulls a red gumball, then grins triumphantly. Suddenly, he’s startled—his paw gets stuck in the machine’s slot. He yelps, then laughs, joyfully pulling out the gum. Behind him, a \"PASTE\" bucket drips, hinting at mischief. Tom’s playful, mischievous spirit shines through his antics, capturing the classic cartoon charm.",
+    "timestamp": "2026-02-23 19:03:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      245,
+      25,
+      505,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, sits smugly as Jerry, the brown mouse, approaches. Tom extends a paw, but Jerry remains small and unafraid, hinting at their classic chase dynamic.",
+    "timestamp": "2026-02-23 19:03:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      245,
+      25,
+      505,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits smugly, extending paws toward Jerry, the small brown mouse. Jerry, curious and bold, approaches, reaching out. Tom’s expression shifts from smug to slightly startled as Jerry’s tiny paws touch his. Their classic rivalry teases a playful, tense moment.",
+    "timestamp": "2026-02-23 19:03:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      245,
+      25,
+      505,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits smugly, extending a paw toward Jerry, the small brown mouse. Jerry, curious and bold, reaches up, playfully interacting with Tom. Tom’s expression shifts from smug to amused, hinting at their classic, playful rivalry. Their dynamic showcases mischief and charm, classic cartoon antics.",
+    "timestamp": "2026-02-23 19:03:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E15 - The Bodyguard (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      245,
+      25,
+      505,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits smugly, eyes gleaming with mischief, as Jerry, the tiny brown mouse, approaches him. Tom extends a paw, seemingly offering a handshake or a playful gesture. Jerry, with a determined expression, reaches up, mirroring Tom’s gesture. Their interaction suggests a comedic, yet tense, dynamic, hinting at the classic chase-and-trickster relationship between the two. The scene is set against a simple backdrop, emphasizing their animated expressions and playful confrontation.",
+    "timestamp": "2026-02-23 19:03:49"
+  }
+]

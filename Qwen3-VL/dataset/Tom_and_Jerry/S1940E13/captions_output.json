@@ -1,0 +1,842 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      2,
+      402,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large cat in a red dress holds a small mouse in a shoebox, smiling. The mouse, in a red outfit, laughs joyfully, while the cat looks amused and pleased.",
+    "timestamp": "2026-02-23 18:25:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      2,
+      402,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, dressed-up cat holds a small mouse in a box, both smiling. The cat looks delighted, while the mouse appears excited, waving its paw. Their expressions convey joy and playful interaction, suggesting a lighthearted, affectionate moment between the characters.",
+    "timestamp": "2026-02-23 18:25:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      2,
+      402,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, expressive cat in a red dress holds a small, joyful mouse in a shoebox. The cat looks surprised or amused, while the mouse giggles happily, arms raised. Their expressions convey playful delight, capturing a whimsical, animated moment of affection and humor.",
+    "timestamp": "2026-02-23 18:25:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      2,
+      402,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, brown cat in a red dress holds a shoebox, smiling as a small brown mouse in a matching outfit joyfully dances inside. The cat’s eyes widen with delight, whiskers twitching, as she gently cradles the box. The mouse, exuberant and energetic, leaps and twirls, clearly thrilled. Their expressions convey playful affection and shared excitement, set against a simple, muted background, emphasizing their animated interaction.",
+    "timestamp": "2026-02-23 18:25:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      61,
+      486,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, joyfully holds scissors, then wields a knife, smiling mischievously as he playfully interacts with a chess piece.",
+    "timestamp": "2026-02-23 18:26:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      61,
+      486,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a mischievous grin, holds four clamps in his mouth, then drops them. He proudly displays a tiny blue object, waving it with a sly, triumphant expression, as if he’s just outsmarted his foe. His playful antics continue with a mischievous twinkle in his eyes.",
+    "timestamp": "2026-02-23 18:26:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      61,
+      486,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a mischievous grin, wields four clamps in his mouth, then drops them. He gleefully picks up a glass bottle, raises it triumphantly, and dances with joy, eyes wide and paws in the air, reveling in his playful, chaotic antics.",
+    "timestamp": "2026-02-23 18:26:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      61,
+      486,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black with white paws and chest, gleefully holds four red-tipped clamps in his mouth. He raises his paws, then drops them, revealing a tiny blue bottle in his right paw. His eyes gleam with mischief as he twirls the bottle, smiling triumphantly. His expression shifts from playful to sly, suggesting he’s up to no good. The scene is lighthearted, filled with cartoonish energy and Tom’s signature mischievous charm.",
+    "timestamp": "2026-02-23 18:26:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      0,
+      392,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom lies reading, then startled as Jerry leaps with a corn cob. Tom jumps up in alarm, chasing Jerry, who escapes with the corn.",
+    "timestamp": "2026-02-23 18:27:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      0,
+      392,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, lounges reading a book, unaware as Jerry, the mouse, sneaks up with a corn cob. Jerry’s playful antics trigger Tom’s sudden alarm, causing him to leap away in startled motion, his expression shifting from relaxed to startled.",
+    "timestamp": "2026-02-23 18:27:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      0,
+      392,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges reading a book, oblivious as Jerry, the brown mouse, sneaks up with a corn cob. Jerry playfully tosses it at Tom, who jumps startled. Their classic chase begins, with Tom’s surprise and Jerry’s mischievous grin as the corn lands beside him.",
+    "timestamp": "2026-02-23 18:27:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      103,
+      0,
+      392,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lounges reading a book, blissfully unaware. Suddenly, Jerry, the brown mouse, appears, holding a corn cob. Jerry playfully tosses it toward Tom, who reacts with startled surprise. Tom’s eyes widen, and he leaps up in alarm, abandoning his book. The scene captures their classic chase dynamic—Tom’s obliviousness and Jerry’s mischievous delight, set against a serene, grassy backdrop.",
+    "timestamp": "2026-02-23 18:27:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      218,
+      228,
+      510,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a straw hat, interacts with a smiling, bow-wearing cat lounging on a piano. Their expressions shift from playful to surprised, showcasing their classic animated antics.",
+    "timestamp": "2026-02-23 18:27:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      218,
+      228,
+      510,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a straw hat and striped shirt, leans over a piano where Tippy, a cat in a red dress, lounges. Tippy smiles and laughs, then settles into a relaxed pose as Tom watches her with a mix of amusement and surprise, their playful dynamic evident.",
+    "timestamp": "2026-02-23 18:27:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      218,
+      228,
+      510,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat in a red dress lounges on a piano, smiling. A gray cat in a straw hat and striped shirt approaches, then reacts with surprise and annoyance as the first cat playfully gestures. Their expressions shift from playful to exasperated, capturing a classic comedic dynamic.",
+    "timestamp": "2026-02-23 18:27:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      218,
+      228,
+      510,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon cat in a red dress and bow rests on a grand piano, smiling contentedly. Suddenly, a gray cat in a straw hat and striped shirt appears beside her, looking amused. He leans in, grinning widely, then suddenly yawns dramatically, startling the first cat, who now looks surprised and slightly annoyed. Their playful interaction suggests a comedic, lighthearted scene.",
+    "timestamp": "2026-02-23 18:28:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      71,
+      79,
+      440,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in an orange suit and straw hat, reacts with surprise and excitement amidst smoke. A small kitten in red lies beside him, appearing calm.",
+    "timestamp": "2026-02-23 18:28:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      71,
+      79,
+      440,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in an orange suit and wide-brimmed hat, stands tense with smoke swirling around him. His expression shifts from shock to a mischievous grin. A small cat in red lies beside him, smiling contentedly, contrasting Tom’s dramatic flair. The scene exudes playful chaos.",
+    "timestamp": "2026-02-23 18:28:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      71,
+      79,
+      440,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in an orange suit and straw hat, stands with a surprised expression, hands clenched. Smoke swirls around him. A smaller cat in red leans beside him, smiling. Tom’s eyes widen, mouth agape, as if startled or amused by the smoky, dramatic scene unfolding around them.",
+    "timestamp": "2026-02-23 18:28:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      71,
+      79,
+      440,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, wearing a straw hat and an orange suit with green stripes, stands nervously amidst swirling smoke. His expression shifts from alarm to a mischievous grin, suggesting playful defiance. Behind him, a smaller cat in a red outfit appears, peeking curiously from the shadows. The scene exudes comedic tension, with Tom’s exaggerated facial expressions and the smoky, dimly lit background enhancing the cartoonish chaos. The characters’ dynamic interaction hints at an impending, humorous confrontation.",
+    "timestamp": "2026-02-23 18:28:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      30,
+      38,
+      378,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cat in a red dress and bow waves cheerfully while holding a small box with a tiny mouse peeking out, smiling happily.",
+    "timestamp": "2026-02-23 18:29:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      30,
+      38,
+      378,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat in a red dress and white bow waves cheerfully, holding a small red box with a tiny mouse inside. Her expression is joyful and animated, suggesting excitement or celebration as she moves with lively energy. The mouse appears content, nestled in the box.",
+    "timestamp": "2026-02-23 18:29:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      30,
+      38,
+      378,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat in a red dress and red bow, holding a small red box with a tiny mouse inside, waves cheerfully. Her expression is joyful and animated, suggesting excitement or greeting. The mouse appears small and content, nestled in the box. The scene conveys playful, lighthearted energy.",
+    "timestamp": "2026-02-23 18:29:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      30,
+      38,
+      378,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon cat, dressed in a red dress with a white bow, holds a red box while smiling cheerfully. Tiny Tom, the mouse, peeks out from the box. The cat waves her paw excitedly, eyes sparkling with joy. Her expression shifts to playful surprise as she moves slightly, suggesting anticipation or delight. The scene exudes lightheartedness, with the cat’s animated gestures and Tom’s mischievous peek adding charm and humor to the moment.",
+    "timestamp": "2026-02-23 18:29:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      102,
+      54,
+      298,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cheerful cat in a red top and skirt dances, then joins a dancing mouse in a sombrero and orange suit, both smiling and moving energetically.",
+    "timestamp": "2026-02-23 18:29:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      102,
+      54,
+      298,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cheerful cat in a red top and beige skirt dances joyfully, waving arms. A black cat in an orange suit and straw hat joins, dancing with her. Both characters exude happiness, laughing and moving energetically, creating a playful, lively scene.",
+    "timestamp": "2026-02-23 18:29:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      102,
+      54,
+      298,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cheerful brown cat in a red top and yellow skirt dances joyfully, waving arms and smiling. A black cat in an orange suit and straw hat joins, dancing with her, laughing and holding hands. Their expressions radiate happiness and playful energy in a cozy room with pink curtains.",
+    "timestamp": "2026-02-23 18:30:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      102,
+      54,
+      298,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cheerful brown cat in a red top and beige skirt, adorned with a red bow, dances joyfully near a pink curtain. She extends her arms, smiling widely. Suddenly, a black-and-white cat in an orange striped suit and straw hat enters, laughing. They dance together, holding hands, their movements synchronized and full of delight. The scene exudes playful energy and camaraderie between the two animated felines.",
+    "timestamp": "2026-02-23 18:30:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      282,
+      12,
+      506,
+      365
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a hat, watches Jerry on a window ledge. Jerry leaps, grabs Tom's hat, and escapes. Tom's expression shifts from calm to startled, then to frustration as the hat flies away.",
+    "timestamp": "2026-02-23 18:30:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      282,
+      12,
+      506,
+      365
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a straw hat and orange outfit, watches Jerry on a windowsill. Jerry leaps onto Tom’s hat, then escapes as Tom yells. The yellow curtain swings dramatically, obscuring the scene as Tom’s expression shifts from surprise to frustration.",
+    "timestamp": "2026-02-23 18:30:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      282,
+      12,
+      506,
+      365
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a straw hat and orange outfit, watches Jerry on a windowsill. Jerry leaps onto Tom’s hat, causing it to fly off. Tom yelps in surprise, then chases Jerry as he darts away. Their antics unfold with classic cartoon energy and comedic timing.",
+    "timestamp": "2026-02-23 18:30:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      282,
+      12,
+      506,
+      365
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, wearing a straw hat and orange outfit, peers from a couch, startled as Jerry, a brown mouse, leaps from a window ledge. Jerry grabs the hat’s brim, then darts away, leaving Tom’s eyes wide with shock. The hat flies off, and Tom’s expression shifts to dismay. The scene captures their classic chase, with Jerry’s mischievous energy and Tom’s comedic, helpless reaction.",
+    "timestamp": "2026-02-23 18:30:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      190,
+      159,
+      455,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lies exhausted, then sits up, rubs his eyes, stands, and stretches. He appears tired and relieved after a long, tiring chase.",
+    "timestamp": "2026-02-23 18:31:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      190,
+      159,
+      455,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies exhausted on a porch, then sits up, rubbing his head in frustration. He stands, stretches, and paces, clearly annoyed or defeated. His expression shifts from weary to determined as he prepares to confront whatever challenge lies ahead.",
+    "timestamp": "2026-02-23 18:31:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      190,
+      159,
+      455,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, lies exhausted on a porch, then sits up, rubbing his head in frustration. He stands, stretches, and paces, showing exasperation. His expression shifts from weary to determined, hinting at his classic chase-and-escape antics, even in defeat.",
+    "timestamp": "2026-02-23 18:31:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      190,
+      159,
+      455,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black and white, lies on a porch, then sits up, rubbing his eyes with a weary expression. He stands, stretching arms wide, then turns, pouncing with a determined leap. His eyes gleam with mischief and energy, hinting at a playful chase. The scene captures his classic blend of exhaustion and sudden, mischievous enthusiasm, typical of his animated antics. The porch and window frame provide a simple backdrop to his lively, expressive movements.",
+    "timestamp": "2026-02-23 18:31:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      214,
+      75,
+      419,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry dance joyfully. Tom wears a straw hat and orange suit; Jerry, in a red top and white skirt, laughs. They twirl, kick, and hold hands, displaying playful energy and delight.",
+    "timestamp": "2026-02-23 18:31:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      214,
+      75,
+      419,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cheerful brown cat in a red dress and bow dances joyfully. A black cat in an orange outfit and straw hat joins, dancing with her. They twirl and leap, laughing, as their playful energy fills the room. Their expressions radiate delight and mischief, capturing a lighthearted, animated dance party.",
+    "timestamp": "2026-02-23 18:31:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      214,
+      75,
+      419,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat in a red dress and bow dances joyfully. A black cat in an orange outfit and straw hat joins, laughing. They dance together, arms linked, then spin wildly, their movements exaggerated and playful, capturing a lighthearted, energetic moment of cartoonish delight.",
+    "timestamp": "2026-02-23 18:31:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      214,
+      75,
+      419,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cheerful brown cat in a red dress and white bow dances joyfully. Suddenly, a black-and-white cat in an orange outfit and straw hat enters, smiling. They dance together, holding hands, then Tom playfully kicks the girl cat, causing her to stumble. Both cats laugh, their expressions full of delight, as they continue their playful, exaggerated dance routine in a simple room with a curtain.",
+    "timestamp": "2026-02-23 18:32:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      97,
+      229,
+      511,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray and white, lunges after Jerry the mouse, who scurries away. Tom’s determined expression shows his pursuit, while Jerry’s small size contrasts with Tom’s larger, aggressive form.",
+    "timestamp": "2026-02-23 18:32:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      97,
+      229,
+      511,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, crouches low, eyes wide with surprise or fear as Jerry, the small brown mouse, approaches. Tom leaps backward in alarm, his body stretching mid-air, revealing a startled expression. The scene captures their classic chase dynamic, filled with tension and comedic anticipation.",
+    "timestamp": "2026-02-23 18:32:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      97,
+      229,
+      511,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, crouches low, eyes wide with surprise as Jerry, the brown mouse, approaches. Tom leaps backward in alarm, his body arched mid-air, while Jerry watches with mischievous glee, their classic chase dynamic unfolding with comedic tension and playful rivalry.",
+    "timestamp": "2026-02-23 18:32:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      97,
+      229,
+      511,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, crouches low, eyes narrowed in suspicion as he sniffs a small red object on the floor. Suddenly, he leaps forward with a startled expression, his body stretching mid-air as he attempts to pounce. The scene shifts to him leaping off a porch railing, his tail flailing, eyes wide with surprise. His determined chase is interrupted by a sudden, comical fall, revealing his playful yet frustrated nature in classic cartoon chaos.",
+    "timestamp": "2026-02-23 18:32:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      0,
+      354,
+      384
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps dramatically, then lands with a startled expression. Jerry the mouse scurries away, peeking from behind a porch railing, eyes wide with mischief.",
+    "timestamp": "2026-02-23 18:33:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      0,
+      354,
+      384
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically across a porch, showcasing his agility. He lands with a startled expression, eyes wide. A small mouse, Jerry, scurries nearby, seemingly unbothered by Tom’s antics. The scene captures their classic chase dynamic, full of comedic tension and cartoonish energy.",
+    "timestamp": "2026-02-23 18:33:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      0,
+      354,
+      384
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps dynamically across a porch, his body stretched mid-air with white paws trailing. He lands with a dramatic flourish, eyes wide and tail twitching, embodying classic cartoon energy and playful mischief as he pursues his elusive mouse companion.",
+    "timestamp": "2026-02-23 18:33:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0011_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      0,
+      354,
+      384
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically across a porch, his body stretched mid-air with white paws trailing. His expression is one of focused determination. Below, Jerry, the small brown mouse, peeks from behind a green railing, eyes wide with mischief. The scene captures their classic chase dynamic, with Tom’s athleticism contrasting Jerry’s cunning. The setting—a sunlit porch with hanging clothes—adds to the playful, timeless cartoon charm of their antics.",
+    "timestamp": "2026-02-23 18:33:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      62,
+      79,
+      291,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in an orange robe and straw hat, yawns widely, then sneezes, sending a black puff of smoke. He looks startled, then amused, as he stands upright.",
+    "timestamp": "2026-02-23 18:33:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      62,
+      79,
+      291,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in an orange robe and straw hat, yawns widely, then stumbles backward, dropping his hat. He stands upright, eyes wide with surprise, as a dark smudge appears on the floor. His expression shifts from yawning to startled confusion.",
+    "timestamp": "2026-02-23 18:33:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      62,
+      79,
+      291,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, in an orange robe and straw hat, yawns widely, then drops to his knees, panting. He looks exhausted, eyes half-closed, as smoke curls from his tail. His expression shifts to surprise as he stands, revealing a comically oversized hat. The scene is whimsical and exaggerated, capturing his tiredness and sudden alertness.",
+    "timestamp": "2026-02-23 18:34:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      62,
+      79,
+      291,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the cat, wears an orange robe with green stripes and a straw hat, dramatically yawning as he stumbles forward. His eyes widen in surprise, then close as he continues his unsteady walk, leaving a dark smudge on the floor. The scene suggests comedic chaos, with Tom’s exaggerated expressions and clumsy movements hinting at a mischievous or startled state, possibly after a mishap or sudden realization. The background features a pink curtain and a table, adding to the cartoonish setting.",
+    "timestamp": "2026-02-23 18:34:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      107,
+      88,
+      269,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon cat in a red dress and hat dances joyfully, arms raised, mouth open in excitement, as she steps forward in a room with a round rug.",
+    "timestamp": "2026-02-23 18:34:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      107,
+      88,
+      269,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat in a red top, white skirt, and red bow dances joyfully in a doorway, arms raised, mouth open in delight. Her expression is ecstatic, eyes wide, as she twirls and moves energetically, conveying pure happiness and enthusiasm in this animated scene.",
+    "timestamp": "2026-02-23 18:34:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      107,
+      88,
+      269,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat in a red top, white skirt, and red bow dances joyfully in a doorway, arms raised, mouth open in delight. Her expressive face shows excitement, and she twirls with energy, conveying pure happiness and playful enthusiasm in a cozy, warmly lit room.",
+    "timestamp": "2026-02-23 18:34:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      107,
+      88,
+      269,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon cat, dressed in a red top, beige skirt, and a red bow, dances joyfully in a doorway. Her eyes widen, mouth open in delight, as she twirls and moves with exaggerated enthusiasm. Her white paws and tail contrast against her brown fur. The room behind her features a lamp and curtains, suggesting a cozy interior. Her animated expression conveys pure, unbridled excitement, embodying playful energy and charm.",
+    "timestamp": "2026-02-23 18:34:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      135,
+      211,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in red, laughs while reaching for Jerry, who scurries away. Jerry's determined expression contrasts with Tom's playful excitement, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 18:35:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      135,
+      211,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat in red, laughs joyfully while reaching toward Jerry, the mouse, who dances away from him. Jerry’s playful expression contrasts with Tom’s delight. The scene captures their classic chase, filled with humor and animated energy, set against a cozy, minimalist interior.",
+    "timestamp": "2026-02-23 18:35:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      135,
+      211,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, laughs joyfully while extending his paw toward Jerry, the mouse, who leaps away from him. Jerry, in a playful stance, dodges Tom’s reach near a fireplace. Their expressions convey mischief and delight, capturing their classic animated chase dynamic with exaggerated, cartoonish energy.",
+    "timestamp": "2026-02-23 18:35:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E13 - The Zoot Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      135,
+      211,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the brown cat in a red shirt and white shorts, joyfully extends his paw toward Jerry, the small brown mouse. Jerry, agile and mischievous, leaps away from Tom’s grasp, dodging his reach. Tom’s expression is one of delight and playful pursuit, while Jerry’s is a mix of surprise and quick evasion. The scene unfolds in a cozy room with a fireplace, capturing their classic chase dynamic with vibrant animation and expressive characters.",
+    "timestamp": "2026-02-23 18:35:24"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      129,
+      82,
+      377,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large dog joyfully leaps, holding a small puppy. The puppy looks scared, while the dog appears excited. They're in a backyard with a baby carriage nearby.",
+    "timestamp": "2026-02-24 02:40:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      129,
+      82,
+      377,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, grinning bulldog leaps, carrying a small, frightened kitten. The kitten, wearing a red collar, looks terrified. The bulldog appears playful and mischievous, while the kitten’s wide eyes and open mouth show panic. The scene is set in a sunny backyard with a baby carriage and house in the background.",
+    "timestamp": "2026-02-24 02:41:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      129,
+      82,
+      377,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, playful dog leaps joyfully, carrying a small, startled cat in its arms. The cat, wearing a red collar, looks terrified. The scene unfolds in a sunny backyard with a blue baby carriage and a yellow doghouse nearby, suggesting a lighthearted, cartoonish chase.",
+    "timestamp": "2026-02-24 02:41:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E36 - Hic-cup Pup (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      129,
+      82,
+      377,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, purple dog joyfully leaps, carrying a small, frightened pink puppy in its arms. The puppy, wearing a red collar, looks terrified with wide eyes. The dog’s expression is playful and determined. The scene shifts to a backyard with a blue baby carriage and a yellow doghouse, where the puppy sits alone, looking up with a startled expression. The dog’s antics suggest a playful chase or rescue, set against a sunny, suburban backdrop.",
+    "timestamp": "2026-02-24 02:41:16"
+  }
+]

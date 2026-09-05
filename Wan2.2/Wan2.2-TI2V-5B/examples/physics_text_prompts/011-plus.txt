@@ -1,0 +1,41 @@
+[Original prompt]
+The video depicts a close-up view of two hands holding a syringe filled with a blue liquid. The syringe is being manipulated by the person's fingers, which are carefully adjusting the plunger to draw or inject the liquid. The background is blurred but appears to be an indoor setting with a white surface and some text partially visible, suggesting a medical or laboratory environment. The focus remains on the syringe and the hands throughout the sequence, emphasizing the precision and care involved in handling the syringe. There are no other objects or characters present in the frame, and the camera maintains a steady position, capturing the detailed movements of the hands and the syringe. The video does not show any significant changes in the environment or additional actions beyond the manipulation of the syringe.
+
+Relevant physical states:
+
+* Both hands must remain present and visually consistent throughout the sequence.
+* The syringe must remain present, intact, and consistently held by the hands.
+* The blue liquid must remain contained within the syringe unless visibly displaced by plunger motion.
+* The fingers must maintain physically plausible contact with the syringe and plunger while manipulating them.
+* The plunger position should change continuously in response to the person's finger motion.
+* The amount and position of the blue liquid inside the syringe should remain consistent with the movement of the plunger.
+* If the plunger is pulled backward, the available internal volume of the syringe should increase.
+* If the plunger is pushed forward, the available internal volume should decrease and the liquid should be displaced accordingly.
+* The syringe body, plunger, hands, and fingers should preserve their geometry and spatial relationships during manipulation.
+* The blurred indoor background and white surface should remain visually stable throughout the sequence.
+* No additional objects, hands, or characters should spontaneously appear.
+* The camera must remain steady and focused primarily on the hands and syringe.
+
+Physical event order:
+
+1. Two hands hold a syringe containing blue liquid.
+2. The fingers establish and maintain contact with the syringe body and plunger.
+3. The fingers apply controlled motion to the plunger.
+4. The plunger moves gradually forward or backward within the syringe barrel.
+5. The blue liquid responds consistently to the resulting change in internal syringe volume.
+6. The hands continue making small, precise adjustments while maintaining control of the syringe.
+7. The syringe and hands remain stable in the close-up view as the manipulation concludes or continues without any major environmental change.
+
+Cause-effect constraints:
+
+* The hands, syringe, plunger, and blue liquid must exist before any manipulation can occur.
+* Finger contact with the plunger must occur before or during the plunger's movement.
+* The plunger must not move independently without corresponding hand or finger motion.
+* Changes in the position or volume occupied by the blue liquid must follow the movement of the plunger rather than occurring spontaneously.
+* Pulling the plunger backward must increase the available syringe volume before or while liquid is drawn inward.
+* Pushing the plunger forward must decrease the available syringe volume before or while liquid is displaced outward.
+* The blue liquid must remain physically associated with the syringe and must not disappear, duplicate, leak, or change volume without a corresponding physical action.
+* The fingers must not pass through the syringe or plunger and should maintain physically plausible contact during manipulation.
+* The syringe, hands, and fingers must not disappear, duplicate, or undergo abrupt geometric changes.
+* No unrelated objects or characters may spontaneously appear in the frame.
+* The camera viewpoint and background must remain stable throughout the sequence.

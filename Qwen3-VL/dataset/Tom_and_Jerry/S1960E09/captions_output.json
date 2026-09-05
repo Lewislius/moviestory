@@ -1,0 +1,114 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      67,
+      85,
+      225,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in boxing gear, punches a black drop. He then turns, eyes glowing red, showing aggression. His determined stance and fierce expression highlight his boxing readiness against the red backdrop.",
+    "timestamp": "2026-02-24 03:22:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      67,
+      85,
+      225,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a blue cat in a sweater and boxing gloves, punches a black drop suspended above. His eyes glow red with determination. He moves dynamically, showcasing athletic stance and focused aggression against the stark red background.",
+    "timestamp": "2026-02-24 03:22:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      67,
+      85,
+      225,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dons boxing gloves and a sweater, stepping forward with fierce determination. His eyes glow red, and he swings a punch at a floating black drop, showcasing his boxing prowess against a vivid red backdrop, embodying aggression and focus in a classic cartoon showdown.",
+    "timestamp": "2026-02-24 03:22:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      67,
+      85,
+      225,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dons boxing gloves and a sweater, stepping forward with determined stance. His eyes glow yellow, showing fierce focus. He throws a punch at a floating black drop, which appears to be a target. The scene is set against a vibrant red background, emphasizing the intensity of the moment. Tom’s posture and expression convey aggression and readiness, as if preparing for a boxing match against an unseen opponent. The simplicity of the setting highlights his solitary, determined action.",
+    "timestamp": "2026-02-24 03:22:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      8,
+      33,
+      174,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a blue cat in boxing gear, punches a black teardrop. He shifts stance, eyes glowing red, showing determination. His expression is focused and intense as he prepares for the next move.",
+    "timestamp": "2026-02-24 03:22:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      8,
+      33,
+      174,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat in boxing gear, wearing red gloves and white shoes, punches a black drop suspended above. His eyes glow red with determination. The scene is stark against a red background, emphasizing his focused, aggressive stance as he delivers a powerful strike.",
+    "timestamp": "2026-02-24 03:22:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      8,
+      33,
+      174,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a blue cat in a navy sweater and boxing gloves, punches a black teardrop-shaped object floating above a blue platform. His eyes glow red with intensity, showing determination. He moves forward, focused, against a stark red background, embodying fierce resolve in his boxing stance.",
+    "timestamp": "2026-02-24 03:22:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E09 - The Tom and Jerry Cartoon Kit (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      8,
+      33,
+      174,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dons boxing gloves and a sweater, standing ready with a determined stance. He swings his fist at a floating black tear, his eyes glowing red with intensity. The tear hovers above him, suspended in the air, as Tom’s motion suggests a powerful punch. His expression is fierce, focused, and slightly mischievous, hinting at playful aggression. The red background emphasizes his dynamic energy and the surreal, cartoonish nature of the scene.",
+    "timestamp": "2026-02-24 03:22:50"
+  }
+]

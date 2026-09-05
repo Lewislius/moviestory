@@ -1,0 +1,1402 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      37,
+      155,
+      385,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays piano with joy, then suddenly startled, his expression shifts to surprise as he looks up, startled by something unseen.",
+    "timestamp": "2026-02-23 21:12:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      37,
+      155,
+      385,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with focus, then suddenly stops, startled. He looks up with wide eyes, then back to the keys, showing surprise or confusion. His expression shifts from concentration to bewilderment as he reacts to an unseen event.",
+    "timestamp": "2026-02-23 21:12:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      37,
+      155,
+      385,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with joy, his paws dancing over keys. He smiles, eyes closed in delight, then suddenly startled, his expression shifting to surprise as he looks up. The scene captures his playful, musical spirit and sudden reaction, set against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:12:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      37,
+      155,
+      385,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a formal black tuxedo, sits at a grand piano, playing with evident joy and concentration. His whiskers twitch, eyes gleam, and he smiles as he fingers glide over the keys. Suddenly, he pauses, looks up with a mischievous glint, then resumes playing with renewed vigor. His playful demeanor suggests he’s enjoying the music, perhaps even improvising a tune. The scene radiates charm and whimsy, capturing Tom’s flair for performance and musical delight.",
+    "timestamp": "2026-02-23 21:13:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      61,
+      2,
+      433,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, plays piano with focused intensity, his body poised over keys. His expression shows determination as he performs, showcasing his musical talent and concentration.",
+    "timestamp": "2026-02-23 21:14:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      61,
+      2,
+      433,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, playfully paws at a piano, then leaps onto it. He strikes keys with his paws, showing delight. His expression is focused and amused as he enjoys his musical performance, oblivious to the small mouse peeking from behind.",
+    "timestamp": "2026-02-23 21:14:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      61,
+      2,
+      433,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, plays the piano with focused intensity. His paws press keys rhythmically, eyes glowing yellow. He’s determined, slightly bent, as if composing a masterpiece. The scene is dark, emphasizing his solitary performance. His expression is serious, yet playful, capturing his iconic charm and musical flair.",
+    "timestamp": "2026-02-23 21:14:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      61,
+      2,
+      433,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, leans over a piano, eyes gleaming with mischief. He stretches, then playfully taps keys with his paws, his expression shifting from focused to amused. As he stands, he glances sideways, perhaps spotting Jerry. The scene captures Tom’s cunning and playful nature, hinting at his classic pursuit of the mouse, all set against the dark, elegant backdrop of the piano. His movements are smooth, deliberate, and full of comedic anticipation.",
+    "timestamp": "2026-02-23 21:14:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      33,
+      137,
+      336,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, dressed in a tuxedo, plays piano with focused expression. His hands move gracefully over keys, showcasing his musical talent against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:15:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      33,
+      137,
+      336,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with focused expression. His fingers move gracefully over keys, occasionally pausing or adjusting his posture. He appears concentrated, occasionally glancing up, suggesting deep engagement with his performance. The scene exudes a calm, artistic atmosphere.",
+    "timestamp": "2026-02-23 21:15:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      33,
+      137,
+      336,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with focused expression. His paws move gracefully over keys, eyes closed in concentration. He occasionally glances up, smiling, as if enjoying the music. The scene captures his passion and charm as he performs, set against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:15:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      33,
+      137,
+      336,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a black tuxedo, sits gracefully at a grand piano, fingers dancing over keys. His expression is focused, occasionally smirking with satisfaction. He plays with flair, occasionally glancing up, perhaps enjoying his performance. The vibrant green backdrop contrasts with his formal attire, emphasizing his elegant, musical persona. His movements are fluid and confident, showcasing his passion for piano playing.",
+    "timestamp": "2026-02-23 21:15:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      84,
+      49,
+      320,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, sits at a piano, adjusting his posture and clasping hands, appearing nervous or contemplative before playing.",
+    "timestamp": "2026-02-23 21:15:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      84,
+      49,
+      320,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, sits at a grand piano, adjusting his posture and clasping hands nervously. His expression shifts from focused to anxious, suggesting he's preparing for or nervous about a performance. The vibrant green curtain behind him adds a theatrical ambiance.",
+    "timestamp": "2026-02-23 21:15:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      84,
+      49,
+      320,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, sits nervously at a piano, adjusting his bowtie and clasping hands. His expression shifts from anxious to focused, suggesting preparation for a performance. The vibrant green curtain behind him adds theatrical ambiance, emphasizing his poised yet uneasy demeanor before playing.",
+    "timestamp": "2026-02-23 21:16:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      84,
+      49,
+      320,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a formal tuxedo, sits at a grand piano, visibly nervous. He fidgets, adjusts his bow tie, and nervously clasps his paws together. His eyes dart around, showing anxiety. The yellow curtain backdrop contrasts with his serious demeanor, emphasizing his stage fright. He seems poised to play but is overwhelmed by the pressure, embodying classic cartoon tension before a performance.",
+    "timestamp": "2026-02-23 21:16:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      27,
+      23,
+      376,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays piano with expressive gestures, eyes closed in concentration, occasionally glancing up with a satisfied smile against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:16:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      27,
+      23,
+      376,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with expressive hands and joyful facial expressions. His eyes sparkle, and he occasionally looks up, smiling. The vibrant green background highlights his performance, capturing his passion and delight as he plays.",
+    "timestamp": "2026-02-23 21:16:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      27,
+      23,
+      376,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with expressive gestures, eyes closed in concentration. His paws move rhythmically over keys, occasionally pausing or gesturing dramatically. His focused, slightly smug expression suggests he’s performing with flair, embodying a musical virtuoso in this animated scene.",
+    "timestamp": "2026-02-23 21:16:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      27,
+      23,
+      376,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a formal black tuxedo with a white bow tie, sits at a grand piano, playing with focused expression. His paws move rhythmically across the keys, eyes closed in concentration. Occasionally, he glances up with a satisfied smile, then returns to his performance. The vibrant green background highlights his elegant posture and the musical intensity of his playing, suggesting a refined, perhaps comedic, musical escapade.",
+    "timestamp": "2026-02-23 21:16:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      128,
+      63,
+      405,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays piano with exaggerated gestures, smiling confidently. His expressions shift from focused to playful, showcasing his charismatic and mischievous personality.",
+    "timestamp": "2026-02-23 21:18:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      128,
+      63,
+      405,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, stands behind a piano, smiling confidently. He gestures with both hands, then points forward with a playful, mischievous grin. His expression shifts to a satisfied smirk as he leans slightly, exuding charm and confidence, as if conducting a musical performance.",
+    "timestamp": "2026-02-23 21:18:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      128,
+      63,
+      405,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, stands confidently behind a piano, gesturing with his hands as if conducting. His expression shifts from smug to playful, eyes twinkling with mischief. The vibrant green backdrop enhances his theatrical flair, capturing a moment of charm and humor in his classic animated persona.",
+    "timestamp": "2026-02-23 21:18:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      128,
+      63,
+      405,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dressed in a tuxedo, stands behind a piano, smiling confidently. He gestures with both hands, pointing forward, then clasps them together, exuding charm and theatrical flair. His expression remains cheerful and composed, suggesting he’s performing or conducting a musical piece. The vibrant yellow-green backdrop enhances his elegant demeanor, capturing a moment of playful sophistication as he engages the audience with his charismatic presence.",
+    "timestamp": "2026-02-23 21:18:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      25,
+      361,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a black suit, plays piano with intense focus, then suddenly stops, looks shocked, and gestures wildly, displaying frustration or surprise.",
+    "timestamp": "2026-02-23 21:19:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      25,
+      361,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in a black suit, plays a grand piano with intense focus. His expressions shift from concentration to frustration as he struggles with the keys, occasionally slamming his hands on the piano lid. His fur stands on end, and his eyes widen in exasperation, reflecting his growing annoyance.",
+    "timestamp": "2026-02-23 21:20:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      25,
+      361,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in a black suit, plays a grand piano with intense focus. His eyes widen, and he leaps with surprise as papers fly off the keys. He reacts with exaggerated shock, clutching his chest, then resumes playing with renewed vigor, showcasing his musical passion and comedic chaos.",
+    "timestamp": "2026-02-23 21:20:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      7,
+      25,
+      361,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a black suit, plays a grand piano with intense focus. His eyes widen, and he occasionally leaps back, startled by his own performance. Papers scatter across the keys as he plays energetically, showing both concentration and surprise. His expressions shift from determination to mild panic, reflecting his passion and occasional overzealousness. The scene captures his musical fervor and comedic chaos.",
+    "timestamp": "2026-02-23 21:20:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      54,
+      46,
+      237,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, sits at a piano, playing with focused expression. His paws move over keys as he concentrates, showcasing his musical talent in a classic cartoon style.",
+    "timestamp": "2026-02-23 21:20:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      54,
+      46,
+      237,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, sits at a grand piano, eyes closed, seemingly lost in music. His expression shifts from focused to slightly bored as he plays. The scene captures his elegant yet comically earnest attempt at piano performance, highlighting his characteristic charm and slight absurdity.",
+    "timestamp": "2026-02-23 21:20:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      54,
+      46,
+      237,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a formal black tuxedo, sits at a grand piano, eyes closed, as if deeply immersed in playing. His expression shifts from concentration to a slight smile, suggesting enjoyment. The scene captures his elegant, musical performance against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:20:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      54,
+      46,
+      237,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a formal black tuxedo, sits at a grand piano, eyes closed in concentration. He begins playing with earnestness, fingers dancing over keys. His expression shifts from focused to slightly smug as he continues. The scene captures his passion for music, contrasting his usual mischievousness with this refined, composed performance. The vibrant green background adds a theatrical flair to his elegant piano recital.",
+    "timestamp": "2026-02-23 21:20:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      1,
+      0,
+      306,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano, accidentally knocking over a mouse. The mouse, startled, scurries across the keys, revealing a hidden staircase beneath. Tom watches with a mischievous grin.",
+    "timestamp": "2026-02-23 21:21:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      1,
+      0,
+      306,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano while Jerry, wearing a tiny hat, hides among the keys. Tom’s expression shifts from focused to annoyed as Jerry emerges, causing chaos. The scene captures their classic rivalry, with Tom’s frustration and Jerry’s mischievous antics.",
+    "timestamp": "2026-02-23 21:21:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      1,
+      0,
+      306,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano, eyes gleaming. Jerry, in a tiny chef’s hat, emerges from keys, startled. Tom smacks him with a gloved hand, sending Jerry tumbling backward. Jerry scurries away, leaving a trail of crumbs. Tom watches, smugly satisfied.",
+    "timestamp": "2026-02-23 21:21:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      1,
+      0,
+      306,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with focused intensity. Jerry, peeking from behind keys, looks startled. Tom’s paw smacks Jerry, who’s now trapped under a stack of paper cups. Jerry struggles, climbing the cups as Tom watches with a smug grin. The scene is dark, spotlighting their antics. Tom’s green eyes gleam with mischief; Jerry’s expression shifts from panic to determination. Their classic rivalry shines through in this humorous, slapstick moment.",
+    "timestamp": "2026-02-23 21:21:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      108,
+      309,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, plays piano with focused intensity, his paws moving rhythmically over keys, eyes narrowed in concentration against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:22:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      108,
+      309,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays a grand piano with intense focus, his paws moving swiftly across keys. His expression is concentrated, eyes narrowed, as he leans into the music. The scene captures his passion and skill, showcasing his dedication to the art of piano playing.",
+    "timestamp": "2026-02-23 21:22:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      108,
+      309,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, sits at a grand piano, playing with intense focus. His paws move rhythmically over the keys, eyes fixed ahead. His expression is concentrated, occasionally glancing up with a hint of determination, showcasing his dedication to the music despite his usual mischievous nature.",
+    "timestamp": "2026-02-23 21:22:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      108,
+      309,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, sits at a grand piano, eyes closed, fingers dancing over keys. He plays with focused intensity, occasionally glancing up with a smug expression. The piano’s lid is open, revealing its inner workings. His movements are fluid and precise, suggesting he’s deeply immersed in his performance. The scene radiates concentration and artistic passion, capturing Tom’s dedication to his musical endeavor.",
+    "timestamp": "2026-02-23 21:23:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      101,
+      297,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, passionately plays piano, showing intense focus and emotion, with exaggerated facial expressions and energetic hand movements.",
+    "timestamp": "2026-02-23 21:24:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      101,
+      297,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, plays the piano with intense focus. His expressions shift from concentration to surprise as a white mouse appears, startling him. Tom reacts with alarm, his eyes widening and body tensing in sudden fright.",
+    "timestamp": "2026-02-23 21:24:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      101,
+      297,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, passionately plays the piano, eyes wide and whiskers twitching. His hands move swiftly over keys, occasionally pausing with expressive faces. A white mouse appears, peeking curiously, adding comedic tension to Tom’s intense performance.",
+    "timestamp": "2026-02-23 21:24:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      101,
+      297,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, passionately plays a grand piano. His eyes widen with concentration, and his paws move swiftly across the keys. He occasionally leans forward, showing intense focus, then suddenly flinches as if startled. His expression shifts from determination to surprise, revealing a playful, mischievous side. The vibrant green background contrasts with the dark piano, highlighting Tom’s animated performance. His exaggerated movements and expressions suggest a humorous, energetic musical endeavor.",
+    "timestamp": "2026-02-23 21:24:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      40,
+      211,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a suit, watches Jerry on a piano. He grabs a wrench, then Jerry flips over, smiling mischievously, as Tom looks on with a mix of annoyance and amusement.",
+    "timestamp": "2026-02-23 21:25:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      40,
+      211,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, watches from above as Jerry, inside a piano, dodges a falling object. Tom grabs a tool, smirking. Jerry, startled, sits upright, then flips upside-down, smiling mischievously, as the piano’s interior gleams with golden hues.",
+    "timestamp": "2026-02-23 21:25:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      40,
+      211,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a suit, peers over a piano, holding a wrench. Jerry, a brown mouse, scurries on the piano’s inner mechanism, startled. Tom smirks, then pulls the wrench, causing Jerry to tumble backward, landing upside-down with a surprised expression. The scene captures their classic chase dynamic.",
+    "timestamp": "2026-02-23 21:25:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      40,
+      211,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a tuxedo, peers over a piano’s edge, holding a wrench, smirking as he watches Jerry, the mouse, trapped beneath the keys. Jerry, initially panicked, then laughs mischievously as he flips upside down, seemingly unbothered by Tom’s threat. Tom’s expression shifts from amused to frustrated as he prepares to strike, but Jerry’s antics continue, defying Tom’s plans with comedic flair.",
+    "timestamp": "2026-02-23 21:25:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      7,
+      69,
+      311,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with delight. Jerry, peeking from behind, smiles mischievously. Their expressions convey playful mischief and charm, capturing a classic cartoon dynamic.",
+    "timestamp": "2026-02-23 21:25:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      7,
+      69,
+      311,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with focused expression. He turns, smiling, as Jerry appears peeking from behind the piano lid, looking mischievous. The scene captures their classic dynamic: Tom’s concentration versus Jerry’s playful sabotage.",
+    "timestamp": "2026-02-23 21:26:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      7,
+      69,
+      311,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a black tuxedo, plays the piano with focused expression. He turns, smiling, as Jerry peeks from behind the piano, playful and mischievous. Tom’s confident demeanor contrasts Jerry’s sly grin, hinting at their classic chase. The scene captures their dynamic, full of humor and anticipation.",
+    "timestamp": "2026-02-23 21:26:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      7,
+      69,
+      311,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a black tuxedo, plays the piano with focused intensity, eyes wide and whiskers twitching. Suddenly, Jerry, in his usual mischievous grin, peeks from behind the piano lid, arms raised in playful defiance. Tom turns, startled, his expression shifting from concentration to surprise. The scene captures their classic dynamic: Tom’s elegance versus Jerry’s cunning, set against a vibrant green backdrop. Their expressions convey humor and tension, hinting at an impending chase or comedic showdown.",
+    "timestamp": "2026-02-23 21:26:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      127,
+      42,
+      462,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with focused expression. His eyes close slightly, suggesting concentration or enjoyment. The scene captures his elegant, musical performance.",
+    "timestamp": "2026-02-23 21:26:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      127,
+      42,
+      462,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with focused expression. His eyes close slightly as he concentrates, fingers moving gracefully over keys. A serene, almost proud smile graces his face, suggesting enjoyment and mastery of his musical performance. The scene exudes calm elegance and refined artistry.",
+    "timestamp": "2026-02-23 21:26:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      127,
+      42,
+      462,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a black tuxedo, plays the piano with focused expression. His ears perk up, eyes closed in concentration, as fingers move gracefully over keys. A subtle smile hints at enjoyment, capturing his elegant, musical performance against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:26:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      127,
+      42,
+      462,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dressed in a black tuxedo with a white shirt and bow tie, sits gracefully at a grand piano. His ears perk up, eyes gleaming with focused concentration as he plays. His fingers move delicately over the keys, suggesting a skilled performance. The background’s vibrant green gradient adds a lively, theatrical ambiance. Tom’s expression shifts from focused to slightly smug, hinting at his confidence and enjoyment in his musical endeavor.",
+    "timestamp": "2026-02-23 21:26:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      98,
+      0,
+      436,
+      483
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, gleefully holds a mousetrap, then grimaces as it snaps shut, revealing his startled, annoyed expression.",
+    "timestamp": "2026-02-23 21:27:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      98,
+      0,
+      436,
+      483
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, gleefully holds a mousetrap, eyes glowing with mischief. He then drops it, causing a dramatic explosion effect. His expression shifts from triumphant to startled as the trap snaps shut, revealing his shock and surprise at his own cleverness.",
+    "timestamp": "2026-02-23 21:27:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      98,
+      0,
+      436,
+      483
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, gleefully holds a mousetrap, eyes wide with mischief. He drops it, triggering a sudden explosion of orange energy. His expression shifts to shock as the trap snaps shut, revealing a startled, round object inside—likely Jerry, the mouse, trapped and terrified.",
+    "timestamp": "2026-02-23 21:27:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      98,
+      0,
+      436,
+      483
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a tuxedo, gleefully holds a mousetrap, eyes gleaming with mischief. He smiles wickedly, then abruptly shifts to a look of surprise as the trap snaps shut. The scene cuts to a close-up of the trap’s spring snapping shut with explosive force, indicating a sudden, dramatic turn of events. Tom’s expression shifts from triumphant to startled, hinting at an impending chase or mishap. The animation captures his playful yet chaotic nature.",
+    "timestamp": "2026-02-23 21:27:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      141,
+      83,
+      391,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays piano with flair, then dramatically gestures, adjusting his bowtie and striking poses, exuding confidence and theatrical flair against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:29:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      141,
+      83,
+      391,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, sits at a piano, playing with flair. He gestures dramatically, adjusts his bow tie, and strikes poses, exuding confidence and showmanship. His expressions shift from focused to proud, embodying a performer in a spotlight, all while maintaining his iconic cartoon charm.",
+    "timestamp": "2026-02-23 21:29:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      141,
+      83,
+      391,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with flair, then pauses to adjust his bow tie, smiling confidently. He gestures dramatically, as if conducting an orchestra, before returning to the keys, embodying a poised, theatrical performance with expressive facial movements and elegant hand gestures.",
+    "timestamp": "2026-02-23 21:29:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      141,
+      83,
+      391,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a formal tuxedo, sits at a piano, initially poised to play. He adjusts his bow tie, then gestures dramatically, as if conducting an orchestra. His expressions shift from focused to amused, with a wink and a playful smirk. He taps his foot, leans back, and finally stands, arms outstretched, as if presenting his performance. The vibrant green curtain backdrop enhances the theatrical ambiance, highlighting Tom’s confident, comedic flair.",
+    "timestamp": "2026-02-23 21:29:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      1,
+      0,
+      329,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with focus. Jerry, in a pile of bricks, appears startled. Tom’s expression shifts from concentration to annoyance as Jerry’s antics interrupt his performance.",
+    "timestamp": "2026-02-23 21:29:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      1,
+      0,
+      329,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with focused intensity. His eyes gleam with determination as he presses keys. Suddenly, Jerry, the mouse, appears on the piano keys, startled by Tom’s performance, adding a comedic twist to the scene.",
+    "timestamp": "2026-02-23 21:30:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      1,
+      0,
+      329,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with focused intensity. His green eyes gleam as he presses keys. Suddenly, Jerry, a small brown mouse, appears on the keys, startled. Tom’s expression shifts to surprise as he reacts to Jerry’s sudden intrusion.",
+    "timestamp": "2026-02-23 21:30:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      1,
+      0,
+      329,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a black tuxedo, plays the piano with focused intensity, his green eyes gleaming. His paws move deftly over the keys, suggesting mastery. Suddenly, Jerry, a brown mouse, appears on the piano keys, startled and defensive. Tom swiftly grabs Jerry, lifting him off the keys with a playful, triumphant expression. The scene captures their classic chase, blending humor and musical flair in a dynamic, animated showdown.",
+    "timestamp": "2026-02-23 21:30:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      120,
+      370,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, holds Jerry in his paw, glaring with yellow eyes. He smiles sinisterly, then looks away, suggesting a plan to trap or deceive Jerry.",
+    "timestamp": "2026-02-23 21:30:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      120,
+      370,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, holds Jerry in his paw, glaring with yellow eyes. He leans over a grand piano, then turns to face the camera with a mischievous grin, revealing sharp teeth. His expression shifts from intense to playful as he holds Jerry close, suggesting a mix of dominance and amusement.",
+    "timestamp": "2026-02-23 21:30:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      120,
+      370,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, holds Jerry in his paw, eyes narrowed in menace. He leans over a grand piano, fingers poised above keys, ready to strike. Jerry looks up, wide-eyed and fearful. The scene captures Tom’s predatory focus and Jerry’s anxious anticipation as the cat prepares to play his next move.",
+    "timestamp": "2026-02-23 21:30:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      120,
+      370,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a black tuxedo, holds Jerry, a small brown mouse, tenderly in his gloved hand. His yellow eyes gleam with mischief and satisfaction as he leans in, smiling broadly. The scene unfolds beside a grand piano, with Tom’s other hand resting on the keys, suggesting a moment of playful dominance. Jerry appears calm, perhaps even amused, nestled in Tom’s grasp. The dark background contrasts with the vibrant green wall, emphasizing their interaction and Tom’s theatrical charm.",
+    "timestamp": "2026-02-23 21:30:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      78,
+      52,
+      498,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, holds Jerry in his gloved hand, scowling with narrowed eyes. Jerry looks terrified, his eyes wide as he's caught in Tom's grasp, hinting at impending trouble or a game.",
+    "timestamp": "2026-02-23 21:31:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      78,
+      52,
+      498,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, holds Jerry in his gloved hand, eyes narrowed in annoyance. Jerry looks up, wide-eyed and scared. Tom’s expression shifts to a smug, satisfied smirk, indicating his triumph over the tiny mouse. The scene captures their classic rivalry with comedic tension.",
+    "timestamp": "2026-02-23 21:31:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      78,
+      52,
+      498,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, holds Jerry in his gloved hand, eyes narrowed in disdain. Jerry, tiny and terrified, clutches his ears. Tom’s expression is smug and contemptuous, as if mocking Jerry’s plight. The green background emphasizes their dramatic standoff, capturing the classic feline-mouse rivalry.",
+    "timestamp": "2026-02-23 21:31:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      78,
+      52,
+      498,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a tuxedo, holds a tiny, frightened mouse in his gloved hand. His expression is smug and satisfied, eyes narrowed with pride. The mouse, brown with wide, terrified eyes, looks up at Tom, trembling. The background glows green, emphasizing the contrast between Tom’s confidence and the mouse’s anxiety. Tom’s posture is dominant, suggesting he’s about to indulge in his usual mischief. The scene captures a classic, tense dynamic of predator and prey.",
+    "timestamp": "2026-02-23 21:31:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      110,
+      103,
+      412,
+      358
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, angrily gestures at Jerry, who leaps away. Tom’s furious expression and flailing arms show his frustration as Jerry escapes from behind the piano.",
+    "timestamp": "2026-02-23 21:31:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      110,
+      103,
+      412,
+      358
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, angrily gestures at Jerry, who scurries away. Tom’s fierce expression and flailing arms show his frustration. Jerry, small and brown, dodges Tom’s attacks, leaping away with agility. The scene captures their classic chase, with Tom’s rage contrasting Jerry’s mischievous escape.",
+    "timestamp": "2026-02-23 21:31:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      110,
+      103,
+      412,
+      358
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, angrily gestures at Jerry, who peeks from behind a piano. Tom’s furious expression and clenched fists convey aggression. Jerry, small and agile, dodges Tom’s attempts to grab him, showcasing his cleverness and evasion. The scene highlights their classic chase dynamic with comedic tension.",
+    "timestamp": "2026-02-23 21:32:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      110,
+      103,
+      412,
+      358
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a tuxedo, stands behind a grand piano, arms outstretched with an angry glare. He appears to be chasing Jerry, a small brown mouse, who scurries away from him. Tom’s fists are clenched, and his expression is fierce, showing his frustration. Jerry leaps across the piano’s edge, evading Tom’s grasp. The scene is set against a vibrant green backdrop, emphasizing the comedic chase and Tom’s determined pursuit.",
+    "timestamp": "2026-02-23 21:32:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      7,
+      160,
+      342,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a suit, peers over a piano, eyeing Jerry, who's stuck inside, smiling mischievously. Tom gestures with a gloved hand, showing playful annoyance at Jerry's antics.",
+    "timestamp": "2026-02-23 21:33:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      7,
+      160,
+      342,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, peers over a dark surface at Jerry, who's playfully dangling upside down. Tom’s expression is one of smug amusement, while Jerry beams with mischievous delight, showcasing their classic dynamic of pursuit and playful defiance.",
+    "timestamp": "2026-02-23 21:33:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      7,
+      160,
+      342,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a black suit, leans over a piano, eyes narrowed with mischief, gesturing toward Jerry, who lies upside-down on the lid, grinning mischievously. Their classic rivalry is alive, with Tom’s playful dominance and Jerry’s cheeky defiance, set against a vibrant green backdrop.",
+    "timestamp": "2026-02-23 21:33:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      7,
+      160,
+      342,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a sleek black suit, peers intently over a dark surface, his yellow eyes narrowed with suspicion. Behind him, Jerry, the brown mouse, gleefully leaps and gestures with his paws, seemingly taunting Tom. Tom’s expression shifts from wary to amused as he watches Jerry’s antics. The scene captures their classic rivalry—Tom’s predatory focus versus Jerry’s mischievous, triumphant spirit, set against a vibrant green backdrop. Their dynamic energy pulses with comedic tension.",
+    "timestamp": "2026-02-23 21:33:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      85,
+      45,
+      451,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays piano with enthusiasm, then reacts with surprise and delight, showcasing his expressive, animated personality.",
+    "timestamp": "2026-02-23 21:33:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      85,
+      45,
+      451,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with flair, smiling confidently. His expressions shift from joyful to startled as he plays, showcasing his comedic flair. The vibrant yellow backdrop highlights his animated performance, capturing his playful, musical antics in this classic cartoon scene.",
+    "timestamp": "2026-02-23 21:33:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      85,
+      45,
+      451,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, plays the piano with joy, his paws dancing over keys. He smiles, then gasps in surprise, eyes wide, as if startled by his own performance. His expressive face and animated gestures convey delight and sudden shock, capturing his playful, theatrical spirit.",
+    "timestamp": "2026-02-23 21:33:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      85,
+      45,
+      451,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dressed in a tuxedo, plays the piano with exaggerated, joyful gestures. His eyes gleam with delight as he strikes keys, then suddenly freezes mid-performance, eyes wide and mouth agape in surprise or shock. His paws hover mid-air, frozen in a dramatic pose, suggesting a comedic interruption or unexpected twist. The vibrant yellow-green backdrop highlights his animated expressions and the whimsical, cartoonish energy of the scene.",
+    "timestamp": "2026-02-23 21:33:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      2,
+      0,
+      302,
+      206
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a suit, holds Jerry, who looks frightened. Tom then drops Jerry into a piano, where Jerry peeks out, wide-eyed and startled, as the keys roll beneath him.",
+    "timestamp": "2026-02-23 21:34:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      2,
+      0,
+      302,
+      206
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a suit, holds Jerry in his gloved hand, looking annoyed. Jerry, trapped in a piano roll, peeks out with wide eyes. Tom’s expression shifts to frustration as he leans over, the scene capturing their classic chase dynamic with comedic tension.",
+    "timestamp": "2026-02-23 21:34:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      2,
+      0,
+      302,
+      206
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a suit, holds Jerry, who looks alarmed. Tom’s expression shifts to annoyance as he drops Jerry onto a piano’s keys. Jerry, trapped in a wriggling bandage, peers out with wide eyes, terrified, as the piano’s lid looms overhead, hinting at impending chaos.",
+    "timestamp": "2026-02-23 21:34:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      2,
+      0,
+      302,
+      206
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a suit, holds a tiny, panicked Jerry, the mouse, in his gloved hand. He then drops Jerry onto a piano keyboard, where Jerry peeks out, wide-eyed and terrified. Tom leans over, frowning with annoyance, as Jerry’s tiny body is now trapped among the piano’s keys, looking up with a mix of fear and desperation. The scene captures their classic chase dynamic, with Tom’s irritation and Jerry’s frantic survival instinct.",
+    "timestamp": "2026-02-23 21:34:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      1,
+      11,
+      321,
+      492
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a suit, plays piano angrily. Jerry appears, then Tom flails hands, startled. Tom’s expression shifts from annoyance to surprise as Jerry’s antics unfold.",
+    "timestamp": "2026-02-23 21:35:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      1,
+      11,
+      321,
+      492
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a suit, plays piano with intensity. Jerry, a mouse, appears suddenly, startling him. Tom’s expression shifts from focused to annoyed, fists clenched. The scene captures their classic rivalry, with Tom’s frustration and Jerry’s mischievous surprise as the core dynamics.",
+    "timestamp": "2026-02-23 21:35:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      1,
+      11,
+      321,
+      492
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a black suit, plays piano with intense focus. Suddenly, Jerry leaps from behind, startling him. Tom’s eyes widen in surprise, then he swiftly grabs Jerry, displaying a mix of annoyance and playful aggression. Their classic chase begins with a burst of comedic energy.",
+    "timestamp": "2026-02-23 21:35:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      1,
+      11,
+      321,
+      492
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a black suit, plays the piano with intense focus, his hands moving swiftly. Suddenly, Jerry the mouse appears, perched on the piano’s edge, looking mischievous. Tom’s expression shifts to annoyance as he glares at Jerry, who seems amused. Tom’s fingers fly across the keys, perhaps in frustration or to chase Jerry. The scene captures their classic rivalry, with Tom’s aggression contrasting Jerry’s cheeky defiance.",
+    "timestamp": "2026-02-23 21:35:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      273,
+      373,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with intensity. Jerry appears startled, peeking from behind the piano, then vanishes as Tom's hands strike the keys with forceful, dramatic motion.",
+    "timestamp": "2026-02-23 21:35:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      273,
+      373,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with intense focus. Jerry, in a red bowtie, sneaks behind him, peeking through the piano's curve. Tom turns, startled, eyes wide as Jerry vanishes. Tom’s expression shifts to annoyance, hands poised over keys, ready to retaliate.",
+    "timestamp": "2026-02-23 21:35:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      273,
+      373,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, plays piano with intense focus. Suddenly, Jerry emerges from behind, startled, as Tom’s hands strike keys with force. Tom’s expression shifts from concentration to annoyance, revealing his frustration. The scene captures their classic chase dynamic, filled with comedic tension and animated expressions.",
+    "timestamp": "2026-02-23 21:35:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E29 - The Cat Concerto (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      273,
+      373,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a black tuxedo, plays the piano with intense focus, his eyes glowing yellow. Suddenly, Jerry, a small brown mouse, pops out from behind the piano, startled. Tom’s expression shifts to surprise and annoyance as he flinches, hands mid-air, startled by Jerry’s sudden appearance. The scene captures their classic rivalry, with Tom’s formal attire contrasting Jerry’s mischievous intrusion.",
+    "timestamp": "2026-02-23 21:35:55"
+  }
+]

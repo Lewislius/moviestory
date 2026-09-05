@@ -1,0 +1,2018 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      48,
+      275,
+      410,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in blue hat lies on floor, startled. Gray cat joins, holding gas canister, releasing green smoke. Both cats show surprise and mischief.",
+    "timestamp": "2026-02-23 20:27:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      48,
+      275,
+      410,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat lies on the floor, shocked. A gray cat enters, holding a \"GAS\" bottle, spraying green smoke. Both cats look alarmed, with the black cat’s expression shifting from surprise to fear as the gas billows.",
+    "timestamp": "2026-02-23 20:27:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      48,
+      275,
+      410,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat lies on the floor, startled. Tom, the gray cat, joins him, holding a \"GAS\" bottle. They both look concerned as green gas escapes, suggesting mischief or a prank. Their expressions shift from shock to cautious curiosity as they observe the situation.",
+    "timestamp": "2026-02-23 20:28:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      48,
+      275,
+      410,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a blue hat lies on its back, startled and grinning. Suddenly, a green gas cloud erupts from a bottle held by a gray cat, Tom, who sneaks up behind the black cat, Smudge. Tom holds the gas bottle, eyes gleaming with mischief, as Smudge looks terrified. The scene is comedic, with exaggerated expressions and cartoonish physics, capturing classic slapstick humor in a cozy, pastel-colored room.",
+    "timestamp": "2026-02-23 20:28:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      24,
+      243,
+      393
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in hat dances, while gray cat holds hammer, looking annoyed. They're in a room with pink walls and a hole in the floor. The black cat gestures wildly.",
+    "timestamp": "2026-02-23 20:28:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      24,
+      243,
+      393
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat dances energetically, gesturing wildly, while a gray cat with yellow eyes holds a hammer, looking surprised. The black cat’s exaggerated movements contrast with the gray cat’s stunned expression as they face off in a cartoonish indoor setting.",
+    "timestamp": "2026-02-23 20:28:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      24,
+      243,
+      393
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat dances energetically, gesturing wildly, while a gray cat with yellow eyes holds a hammer, looking surprised. The black cat’s playful antics contrast with the gray cat’s startled expression, set against a pink wall with a small hole. Their dynamic interaction suggests a comedic chase or confrontation.",
+    "timestamp": "2026-02-23 20:28:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      24,
+      243,
+      393
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue hat dances energetically, gesturing wildly, while a gray cat with yellow eyes holds a hammer, looking annoyed. The black cat leaps and spins, seemingly playful or chaotic, as the gray cat stands rigidly, frustrated. The scene is set against a pink wall with a small hole, suggesting a domestic setting. Their expressions convey contrasting emotions—playful mischief versus exasperated determination. The interaction hints at a comedic chase or confrontation.",
+    "timestamp": "2026-02-23 20:28:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      87,
+      43,
+      495,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a blue cap holds a yellow nut and a red tube, smiling mischievously, seemingly plotting a scheme with a playful, scheming expression.",
+    "timestamp": "2026-02-23 20:29:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      87,
+      43,
+      495,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap holds a yellow nut and a red-tipped object, smiling mischievously. He twirls the nut, eyes gleaming with scheming delight, as if plotting a clever trick. His playful expression suggests he’s up to something amusing or devious, likely involving the objects in his paws.",
+    "timestamp": "2026-02-23 20:29:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      87,
+      43,
+      495,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap holds a yellow hexagon and a red tube, smiling mischievously. He twirls the hexagon, eyes gleaming with cunning delight, as if plotting a scheme. His playful expression suggests mischief, with a hint of pride in his cleverness, all while seated near a wooden table.",
+    "timestamp": "2026-02-23 20:29:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      87,
+      43,
+      495,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap, sits confidently, holding a yellow hexagonal object in one paw and a red-and-white cigar in the other. He smiles broadly, eyes gleaming with mischief, as he twirls the object. His tail curls playfully behind him. The background is a plain pink wall, emphasizing his animated expressions and the whimsical, cartoonish nature of his actions. He exudes charm and cunning, as if preparing for a clever prank or trick.",
+    "timestamp": "2026-02-23 20:29:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      109,
+      91,
+      362,
+      437
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a blue cap and yellow gloves, holding a red tool, confidently poses with a \"Mouse Exterminator\" bag, smiling mischievously.",
+    "timestamp": "2026-02-23 20:29:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      109,
+      91,
+      362,
+      437
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap and gloves, proudly holds a red tool and a \"Mouse Exterminator\" bag. He strikes a confident pose, smiling and gesturing with his paws, exuding a sense of readiness and smugness as if prepared for a mouse-catching mission.",
+    "timestamp": "2026-02-23 20:30:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      109,
+      91,
+      362,
+      437
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap and yellow gloves, holding a red tool, confidently poses with a \"Mouse Exterminator\" bag. He dances playfully, smiling mischievously, as he prepares for a mission, exuding pride and readiness to tackle mice. His tail wags, and he strikes a heroic stance, embodying his role with flair.",
+    "timestamp": "2026-02-23 20:30:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      109,
+      91,
+      362,
+      437
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap and yellow gloves, confidently strides with a \"Mouse Exterminator\" bag. He holds a red tool, smiling smugly, then dramatically raises his paw as if presenting his profession. His tail wags proudly, and he poses with exaggerated flair, clearly proud of his role. The room’s simple decor contrasts his flamboyant demeanor, highlighting his cheerful, self-assured personality as a pest control expert.",
+    "timestamp": "2026-02-23 20:30:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      143,
+      105,
+      406,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, wearing a blue hat, aggressively punches a yellow wall panel, causing it to break. He then reacts with shock and confusion as the panel falls away.",
+    "timestamp": "2026-02-23 20:30:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      143,
+      105,
+      406,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat punches a yellow vent, causing it to break. The cat reacts with surprise, then turns away, looking frustrated. The scene is set in a room with a pink lamp and wooden table, emphasizing the cat’s comedic antics and exaggerated expressions.",
+    "timestamp": "2026-02-23 20:30:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      143,
+      105,
+      406,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat paws at a yellow wall panel, which opens to reveal a mouse. The cat reacts with surprise, then joy, as it retrieves the mouse. The cat’s expressions shift from focused to delighted, showcasing playful mischief in a classic cartoon style.",
+    "timestamp": "2026-02-23 20:30:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      143,
+      105,
+      406,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a blue hat and white paws bursts into a room, knocking over a golden lamp. He eagerly grabs a yellow wall-mounted panel, pulling it off with a determined expression. As he pulls, the panel reveals a dark hole, and he reacts with surprise, dropping his paws in shock. His wide eyes and open mouth suggest confusion or alarm as he stares at the newly exposed hole in the wall.",
+    "timestamp": "2026-02-23 20:30:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      33,
+      52,
+      392,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a blue cap holds a paintbrush and a small blue block, smiling mischievously as it prepares to paint or create something.",
+    "timestamp": "2026-02-23 20:31:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      33,
+      52,
+      392,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap, holding a paintbrush and a small blue cube, appears focused and playful. He leans over a table, eyes wide with determination, as if about to paint or create something. His expression is curious and slightly mischievous, hinting at an upcoming artistic endeavor.",
+    "timestamp": "2026-02-23 20:31:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      33,
+      52,
+      392,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap and red tie, enthusiastically paints with a brush while holding a small blue cube. His eyes widen in delight, showcasing playful mischief. He’s seated at a table, fully immersed in his creative endeavor, radiating joy and concentration as he brings his art to life.",
+    "timestamp": "2026-02-23 20:31:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      33,
+      52,
+      392,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue cap, with a red cigar in his mouth, sits at a desk, holding a paintbrush and a small blue cube. He appears focused and slightly smug, eyes narrowed as if concentrating on his work. His expression shifts to one of surprise or realization as he raises the cube, revealing a mischievous gleam. The scene captures his playful, cunning nature as he prepares to create something amusing or disruptive.",
+    "timestamp": "2026-02-23 20:31:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      1,
+      80,
+      248,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat with blue hat peeks from wall, Tom watches with smirk. Jerry hides beneath, peeking out. Tom smiles, cat looks surprised as wall cracks. Classic chase setup.",
+    "timestamp": "2026-02-23 20:31:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      1,
+      80,
+      248,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat, wearing a blue hat, stands with arms outstretched, startling Tom. Tom, gray and smug, watches with wide eyes. A tiny mouse peeks from under the furniture, looking up at them. The scene is playful, filled with cartoonish surprise and mischief.",
+    "timestamp": "2026-02-23 20:31:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      1,
+      80,
+      248,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat stands on its hind legs, scratching a wall. Tom, the gray cat, watches with a grin. Jerry the mouse peeks out from under the wall, looking up at them. The scene captures their classic chase, with Tom’s playful mischief and Jerry’s clever escape.",
+    "timestamp": "2026-02-23 20:32:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      1,
+      80,
+      248,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue hat, stands with arms outstretched, seemingly startled or defensive. A gray cat, Tom, watches with wide, gleeful eyes, standing beside him. Suddenly, a tiny mouse, Jerry, peeks out from under the black cat’s legs, looking up with a mischievous grin. The scene suggests playful tension, with Tom’s amusement contrasting Jerry’s daring escape attempt, all set against a cozy, cracked wall backdrop.",
+    "timestamp": "2026-02-23 20:32:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      59,
+      66,
+      387,
+      445
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in blue hat lunges, then sits back, smiling. Mouse in red suit climbs wooden wall, startled. Cat's expression shifts from mischievous to smug, enjoying the chase.",
+    "timestamp": "2026-02-23 20:32:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      59,
+      66,
+      387,
+      445
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat, Tom, lunges forward, then sits back, looking smug. A tiny mouse, Jerry, hangs from a wooden beam above, holding a trumpet. Tom’s expression shifts from determined to satisfied, hinting at his successful pursuit.",
+    "timestamp": "2026-02-23 20:32:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      59,
+      66,
+      387,
+      445
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat, Tom, crouches eagerly, eyes wide with anticipation. He leaps forward, then pauses, looking back with a mischievous grin. His tail swishes as he prepares for action, embodying classic cartoon mischief and playful tension.",
+    "timestamp": "2026-02-23 20:32:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      59,
+      66,
+      387,
+      445
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a blue hat, eyes wide and mouth agape, lunges forward on a blue carpet, paws extended. He stumbles, losing his hat, then sits back, panting, looking annoyed. A small brown mouse with a trumpet, perched on a wooden beam, watches from above, seemingly amused. The scene is indoors, with a lamp and toy box nearby, suggesting a playful, comedic chase. The cat’s expressions shift from excitement to frustration.",
+    "timestamp": "2026-02-23 20:32:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      87,
+      246,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with a blue cap holds a red tube, splashes water into a fishbowl, then dries off, smiling mischievously as yellow curtains sway behind.",
+    "timestamp": "2026-02-23 20:33:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      87,
+      246,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue cap holds a red thermometer, then plunges it into a fishbowl. Water splashes as he pulls it out, dripping. He looks surprised, then amused, as the fishbowl remains unchanged. The cat's expression shifts from curiosity to delight.",
+    "timestamp": "2026-02-23 20:33:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      87,
+      246,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A mischievous black cat, wearing a blue cap, holds a red-tipped object, then plunges it into a fishbowl, causing splashes. The cat gleefully watches, dripping wet, as water cascades down his fur. His expression shifts from delight to surprise as he recoils, startled by the sudden splash.",
+    "timestamp": "2026-02-23 20:33:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      87,
+      246,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cartoon cat, wearing a blue cap, holds a red thermometer. He dips it into a fishbowl, causing water to splash. The cat looks delighted, then startled as water drips from his paws. He wipes his face with a paw, then turns away, smiling mischievously. The background features striped wallpaper and a yellow curtain. His expressions shift from playful to surprised, capturing a comedic, slapstick moment.",
+    "timestamp": "2026-02-23 20:33:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      62,
+      350,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with a blue cap holds a red thermometer, dips it in a fishbowl, and reacts with surprise as water splashes, then dries off, showing playful mischief.",
+    "timestamp": "2026-02-23 20:33:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      62,
+      350,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue cap holds a red thermometer, dipping it into a fishbowl. Water splashes as he pulls it out, dripping. He looks pleased, then startled as water cascades from his paws. He retreats, shaking off water, with a mischievous grin.",
+    "timestamp": "2026-02-23 20:34:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      62,
+      350,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue cap holds a red thermometer, dipping it into a fishbowl. Water splashes as he pulls it out, dripping. He looks pleased, then startled as the water pours over his face. He jumps back, startled, as the fishbowl remains untouched.",
+    "timestamp": "2026-02-23 20:34:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      62,
+      350,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap, holds a red thermometer and dips it into a fishbowl. Water splashes as he pulls it out, then he looks surprised and shakes his head. He steps back, dripping wet, while the yellow curtain behind him sways slightly. His expression shifts from curiosity to mild shock as he watches the water’s reaction. The scene is playful and exaggerated, capturing his comedic misadventure.",
+    "timestamp": "2026-02-23 20:34:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      1,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat with blue hat smirks, holding red object. He shifts stance, revealing a hex nut in hand, eyes wide with mischievous intent as he leans over a tool box.",
+    "timestamp": "2026-02-23 20:34:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      1,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat and red nose, holding a red object, leans over a counter. He smiles mischievously, then raises a hexagonal object, eyes wide with playful intent. His expression shifts from smug to intrigued, suggesting he’s up to a clever trick or scheme.",
+    "timestamp": "2026-02-23 20:34:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      1,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and a blue hat smirks while holding a red object, possibly a cigar, in its mouth. It leans over a wooden surface, one paw resting on it, the other holding a small tool. Its expression is mischievous and confident, suggesting playful mischief or scheming.",
+    "timestamp": "2026-02-23 20:34:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      1,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with white paws and a blue cap smirks while holding a red object, possibly a cigar, in its mouth. Its tail sways as it leans forward, one paw resting on a wooden surface, the other gripping a small tool. The cat’s eyes gleam with mischief, suggesting cunning or playful intent. Its expression is confident and mischievous, hinting at an impending prank or scheme. The scene exudes classic cartoon charm with bold lines and vibrant colors.",
+    "timestamp": "2026-02-23 20:34:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      97,
+      97,
+      261,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in hat, labeled \"Mouse Exterminator,\" grabs a hammer, then confronts gray cat. Both show determined expressions, suggesting a comedic showdown.",
+    "timestamp": "2026-02-23 20:35:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      97,
+      97,
+      261,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat, labeled \"Mouse Exterminator,\" grabs a red mallet from his bag. He strikes a gray cat, who looks surprised. The black cat then stands triumphantly, holding the mallet, as the gray cat watches with wide eyes.",
+    "timestamp": "2026-02-23 20:35:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      97,
+      97,
+      261,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat, labeled \"Mouse Exterminator,\" excitedly grabs a red mallet from his bag. He strikes a pose, then turns as a gray cat, Tom, appears with wide eyes. The black cat looks smug, ready for action, while Tom watches, amused or wary.",
+    "timestamp": "2026-02-23 20:35:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      97,
+      97,
+      261,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue hat, labeled \"Mouse Exterminator,\" excitedly grabs a red mallet from his yellow toolbox. He swings it with gusto, then pauses, eyes widening in surprise. A gray cat, Tom, appears, watching with a mischievous grin. The black cat’s expression shifts to one of playful determination, ready to tackle the unseen mouse problem. The scene is comedic, with exaggerated expressions and slapstick energy.",
+    "timestamp": "2026-02-23 20:35:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      38,
+      446,
+      391
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry hold a gas can, watching a tiny mouse. Tom smiles, Jerry grins. Suddenly, Tom lunges, gas can explodes, sending them both flying backward in surprise.",
+    "timestamp": "2026-02-23 20:36:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      38,
+      446,
+      391
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry, with Jerry in a blue hat, hold a gas canister. Tom looks smug, Jerry grins. A tiny mouse in a helmet appears. They both react with surprise and laughter as the gas canister sprays, causing them to tumble backward. Their expressions shift from mischief to shock.",
+    "timestamp": "2026-02-23 20:36:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      38,
+      446,
+      391
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry, with Jerry in a blue hat, hold a gas canister, laughing mischievously. A tiny mouse in a helmet appears, then vanishes. Tom and Jerry react with surprise and delight, their expressions shifting from playful to startled as green smoke billows from a nearby bush.",
+    "timestamp": "2026-02-23 20:36:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      38,
+      446,
+      391
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry, in a classic cartoon scene, hold a giant \"GAS\" canister. Tom, gray and smug, winks as Jerry, in a blue hat, looks nervous. Suddenly, a tiny mouse in a helmet appears, startling them. Tom and Jerry react with exaggerated expressions—Tom grins, Jerry panics. They both leap back, gasping, as green smoke billows from the canister. Their antics are comically chaotic, embodying their timeless rivalry and slapstick humor.",
+    "timestamp": "2026-02-23 20:36:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      26,
+      197,
+      359,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom hammers a hole, revealing a cat with a hat. The cat smirks, then the hat grows into a long red cone, startling Tom. Both cats show surprise and amusement.",
+    "timestamp": "2026-02-23 20:36:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      26,
+      197,
+      359,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, holding a hammer, strikes a hole in the floor where a black cat with a blue hat is stuck. The cat, smug and smirking, watches as his hat gets stuck on a red stick, then floats away, leaving him in a comical predicament. Tom looks surprised and amused.",
+    "timestamp": "2026-02-23 20:36:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      26,
+      197,
+      359,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, holding a hammer, strikes a hole in the floor, startling a black cat with a blue hat. The cat, startled, looks up as the hat flies off, revealing a red cone. Tom watches with a mix of surprise and amusement, while the cat remains startled and bewildered.",
+    "timestamp": "2026-02-23 20:37:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      26,
+      197,
+      359,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue hat, emerges from a hole in the floor, looking smug and confident. Tom, the gray cat, stands beside him, holding a red mallet, his expression shifting from surprise to annoyance. As Tom hammers, the hat grows taller, eventually transforming into a towering red cone. The black cat remains unbothered, while Tom looks increasingly frustrated, his eyes wide with disbelief at the absurdity of the situation.",
+    "timestamp": "2026-02-23 20:37:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      102,
+      37,
+      270,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in blue hat stands tall, glaring. Gray cat laughs, then jumps away. Mouse in yellow suit runs scared, dodging their antics. Classic cartoon chaos ensues.",
+    "timestamp": "2026-02-23 20:37:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      102,
+      37,
+      270,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat stands tall, glaring. A gray cat, Tom, leaps with a grin, chasing a small yellow mouse. The mouse scurries away, dodging Tom’s pursuit. The scene captures classic cartoon chaos, with exaggerated expressions and frantic movements.",
+    "timestamp": "2026-02-23 20:37:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      102,
+      37,
+      270,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat stands tall, glaring angrily. A gray cat, Tom, jumps nearby, laughing. A small yellow mouse, Jerry, scurries away beneath a curtain, holding a blue hammer. The scene captures classic cartoon chaos, with exaggerated expressions and slapstick antics.",
+    "timestamp": "2026-02-23 20:37:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      102,
+      37,
+      270,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue hat stands tall, glaring angrily. A gray cat, Tom, leaps joyfully beside him, laughing. Below, a tiny mouse in yellow scurries away, holding a blue hammer. The scene is set indoors with a pink wall and blue floor. The black cat’s expression is furious, while Tom’s is gleeful, capturing their classic rivalry. The mouse’s frantic escape adds comedic tension to the moment.",
+    "timestamp": "2026-02-23 20:37:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      206,
+      84,
+      509,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat with blue hat sits, then startled by gray cat peeking through door, both displaying exaggerated expressions of surprise and amusement in classic cartoon style.",
+    "timestamp": "2026-02-23 20:38:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      206,
+      84,
+      509,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat sits on a wooden floor, looking smug. A gray cat, Tom, peers in from a doorway, surprised. The black cat turns, revealing a mischievous grin. Their expressions convey playful tension, hinting at a classic chase or prank about to unfold.",
+    "timestamp": "2026-02-23 20:38:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      206,
+      84,
+      509,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap sits on a wooden floor, looking smug. A gray cat with yellow eyes peeks from behind a door, smiling mischievously. The black cat turns, revealing a playful, slightly surprised expression as the gray cat leans in, creating a humorous, classic cartoon dynamic.",
+    "timestamp": "2026-02-23 20:38:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      206,
+      84,
+      509,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a blue cap sits on a wooden floor, looking smug. A gray cat, Tom, appears from behind a door, startling the black cat, who jumps back in surprise. Tom peers curiously, eyes wide and mouth agape, while the black cat’s expression shifts to shock and annoyance. The scene captures their classic rivalry, with the black cat’s smugness contrasting Tom’s startled reaction, set against a simple, cozy room backdrop.",
+    "timestamp": "2026-02-23 20:38:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      98,
+      247,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, Tom, in blue hat, dramatically leaps and crashes into wall, causing it to crack and crumble. He looks shocked and dismayed as debris flies around him.",
+    "timestamp": "2026-02-23 20:38:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      98,
+      247,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat leaps, crashing into a wall, causing it to crack and crumble. The cat, mid-air, looks shocked and startled, mouth open, as debris flies. Its expression conveys surprise and dismay at the sudden destruction.",
+    "timestamp": "2026-02-23 20:38:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      98,
+      247,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue hat, leaps and crashes into a wall, causing it to crack and crumble. The cat’s expression shifts from surprise to shock as debris flies. Its paws and tail are visible amid the chaos, capturing a moment of frantic, cartoonish destruction in a brightly colored room.",
+    "timestamp": "2026-02-23 20:38:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      0,
+      98,
+      247,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap, stretches dramatically, then leaps with a startled expression. It crashes into a pink wall, causing it to crack and crumble. The cat, now on the floor, looks up in shock as debris flies. Its wide eyes and open mouth convey surprise and dismay. The scene captures a comedic, chaotic moment as the cat’s antics lead to destruction, highlighting its energetic, mischievous nature.",
+    "timestamp": "2026-02-23 20:38:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      111,
+      210,
+      438
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, gray cat, laughs as black cat with hat holds mouse magnetically. Black cat drops mouse, then swings hammer, startling Tom, who looks shocked.",
+    "timestamp": "2026-02-23 20:39:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      111,
+      210,
+      438
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, gray and grinning, faces a black cat in a mouse extermination uniform. The black cat gleefully holds a magnet with a mouse, then drops it. Tom reacts with surprise as the black cat raises a hammer, ready to strike. Their expressions shift from playful to tense.",
+    "timestamp": "2026-02-23 20:39:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      111,
+      210,
+      438
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, laughs as a black cat, dressed as a mouse exterminator, proudly holds a magnet with a tiny mouse. The exterminator then drops the magnet, revealing a hammer. Tom’s expression shifts to surprise as the exterminator prepares to strike, creating a comedic tension.",
+    "timestamp": "2026-02-23 20:39:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      111,
+      210,
+      438
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands in surprise as a black cat, dressed as a mouse exterminator, gleefully holds a magnet with a tiny mouse. The exterminator then drops the magnet, revealing a hammer. Tom’s expression shifts from joy to shock as the mouse lies on the floor. The exterminator, smug and triumphant, raises the hammer, ready to strike—highlighting their comedic rivalry and Tom’s predicament.",
+    "timestamp": "2026-02-23 20:39:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      263,
+      74,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, wearing a hat, holds a mouse with a magnet, then drops it. Gray cat laughs, then looks shocked as the black cat raises a hammer.",
+    "timestamp": "2026-02-23 20:39:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      263,
+      74,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap holds a magnet, pulling a small mouse toy. A gray cat reacts with surprise, then joy. The black cat switches to a sledgehammer, striking the toy. Both cats display exaggerated expressions, highlighting their playful, mischievous antics in a classic cartoon style.",
+    "timestamp": "2026-02-23 20:40:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      263,
+      74,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat, holding a magnet, triumphantly lifts a small mouse. A gray cat, Tom, watches with surprise. The black cat then drops the magnet, revealing a hammer, and swings it menacingly, while Tom looks on with wide-eyed shock.",
+    "timestamp": "2026-02-23 20:40:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0018_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      263,
+      74,
+      511,
+      416
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap and holding a magnet, triumphantly lifts a tiny mouse. He then switches to a sledgehammer, striking the mouse. A gray cat, Tom, watches with surprise, then joy as he sees the mouse. The black cat, gleeful, holds up the magnet again, while Tom’s expression shifts from shock to delight. The scene ends with the black cat laughing as he proudly displays his “mouse extermination” tools.",
+    "timestamp": "2026-02-23 20:40:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      21,
+      27,
+      251,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with a blue hat wields a screwdriver, chasing a mouse. The cat's expression shifts from determination to surprise as he struggles with the tool, revealing a comical, chaotic pursuit.",
+    "timestamp": "2026-02-23 20:40:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      21,
+      27,
+      251,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat wields a screwdriver, chasing a mouse. The cat, grinning mischievously, drills into a wall, revealing a hole. The mouse scurries away, while the cat’s expression shifts from determination to delight as he successfully “captures” his prey.",
+    "timestamp": "2026-02-23 20:40:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      21,
+      27,
+      251,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a blue hat wields a screwdriver, chasing a mouse near a hole. The cat's expressions shift from determined to surprised as he struggles with the tool. The mouse scurries away, evading capture, while the cat's antics highlight classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 20:40:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      21,
+      27,
+      251,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a blue hat wields a screwdriver, gleefully drilling into a wall near a mouse hole. The mouse scurries away, then reappears, startled. The cat, initially focused, pauses, then smiles triumphantly as he continues drilling, revealing a golden chain. His expression shifts from determination to delight as he proudly displays his prize, embodying playful mischief and cunning. The scene captures classic cartoon antics with exaggerated expressions and whimsical physics.",
+    "timestamp": "2026-02-23 20:40:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      268,
+      121,
+      446,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry in a classic chase. Jerry holds a bomb, Tom reacts with panic. They both show exaggerated expressions of fear and surprise, typical of their cartoon antics.",
+    "timestamp": "2026-02-23 20:41:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      268,
+      121,
+      446,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat holds a bomb, looking terrified. A gray cat, Tom, approaches, startled, then grabs the bomb, shouting. Both cats react with panic, Tom fleeing while the black cat covers his face in fear, their expressions conveying chaos and urgency.",
+    "timestamp": "2026-02-23 20:41:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      268,
+      121,
+      446,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat holds a bomb, terrified. A gray cat, Tom, reacts with shock, then grabs the bomb, laughing. They both sit, panicked, as the bomb sparks. Tom’s expression shifts from fear to mischievous delight, while the black cat remains visibly terrified.",
+    "timestamp": "2026-02-23 20:41:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      268,
+      121,
+      446,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue cap holds a lit bomb, looking panicked. A gray cat, Tom, approaches, startled, then grabs the bomb, his eyes wide with shock. Both cats react dramatically—Tom’s eyes bulge, his mouth agape. The black cat covers his head in terror. They’re in a cozy room with a yellow armchair. The scene is chaotic, filled with exaggerated expressions and frantic movements, capturing their comedic panic as the bomb’s fuse sparks.",
+    "timestamp": "2026-02-23 20:41:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      200,
+      7,
+      462,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a blue cap, smiling, kneels beside a \"Mouse Exterminator\" box, then stands, holding a magnet, ready to catch a mouse peeking from behind the wall.",
+    "timestamp": "2026-02-23 20:41:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      200,
+      7,
+      462,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap, smiling mischievously, kneels beside a \"Mouse Exterminator\" box. He pulls out a magnet, grinning as he prepares to trap a mouse. The mouse peeks from behind the wall, unaware of the impending capture. The cat’s expression radiates confidence and playful intent.",
+    "timestamp": "2026-02-23 20:42:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      200,
+      7,
+      462,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue cap, smiling mischievously, kneels beside a \"Mouse Exterminator\" bag. He pulls out a magnet, then playfully waves it, eyes gleaming. A small mouse peeks from behind the wall, unaware. The cat’s expression radiates cunning delight as he prepares his trap.",
+    "timestamp": "2026-02-23 20:42:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      200,
+      7,
+      462,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap and a confident grin, kneels beside a yellow \"Mouse Exterminator\" bucket. He pulls out a magnet, holding it triumphantly. Behind him, a small brown mouse peeks from under the floorboard, appearing startled. The cat’s expression shifts from smug satisfaction to playful mischief as he winks, ready to pursue his prey with magnetic flair. The scene is lighthearted, showcasing the cat’s cunning and comedic charm.",
+    "timestamp": "2026-02-23 20:42:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      124,
+      271,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat with blue hat vomits green goo, scattering orange crumbs. He looks distressed, eyes wide, as blue sparkles fly around him. His tail sways, showing panic or discomfort.",
+    "timestamp": "2026-02-23 20:42:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      124,
+      271,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat chases a blue toy, spitting out green goo. It’s determined, with wide eyes and a frantic expression. The toy, with red and blue parts, lies near a small hole. The cat’s tail flicks as it lunges, showing playful chaos and comedic urgency.",
+    "timestamp": "2026-02-23 20:42:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      124,
+      271,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat, with white paws and a red button, chases a blue toy. It’s panting, eyes wide with determination, as it lunges forward, leaving a trail of sparkles. The cat’s tail swishes, and its expression shows intense focus and playful urgency in the cartoonish room.",
+    "timestamp": "2026-02-23 20:42:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      124,
+      271,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue hat, chases a blue toy with a red heart, its tail high and eyes wide with determination. As it lunges, the toy emits a swirling blue energy, causing sparks and confetti to explode around it. The cat’s expression shifts from focused to surprised, then to delight as it grabs the toy, its paws gripping it tightly. The scene is set in a cozy room with pink walls and a small hole in the floor, adding whimsy to the chase.",
+    "timestamp": "2026-02-23 20:42:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      55,
+      64,
+      245,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in blue hat lifts red mallet, grinning. Gray cat watches, holding yellow stick, eyes wide. Both cats in cartoonish room, one with \"Terminator\" bag nearby.",
+    "timestamp": "2026-02-23 20:43:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      55,
+      64,
+      245,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat lifts a red mallet, looking determined. A gray cat with yellow eyes watches, holding a yellow stick. Both cats are in a room with pink walls, and a yellow bucket labeled \"TERMINATOR\" sits nearby. Their expressions show focus and readiness for action.",
+    "timestamp": "2026-02-23 20:43:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      55,
+      64,
+      245,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat grips a red mallet, glaring at a gray cat holding a yellow stick. The gray cat looks wary, eyes wide. A yellow \"House Terminator\" box sits nearby. Their expressions convey tension, hinting at an impending confrontation or playful showdown.",
+    "timestamp": "2026-02-23 20:43:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      55,
+      64,
+      245,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue hat grips a red mallet, poised to strike, while a gray cat with yellow eyes holds a yellow stick, appearing wary. The black cat, labeled \"House Terminator,\" stands ready, eyes narrowed in determination. The gray cat watches, tail flicking, eyes wide with apprehension. Their expressions convey rivalry and tension, set against a pink wall and blue floor, hinting at impending chaos. The scene captures a classic cartoon showdown, full of anticipation and mischief.",
+    "timestamp": "2026-02-23 20:43:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      319,
+      113,
+      509,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, gray cat, holds a yellow stick, eyes wide with surprise. Black cat with blue hat lifts red hammer, looking determined. Both cats stand in a room with pink walls.",
+    "timestamp": "2026-02-23 20:43:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      319,
+      113,
+      509,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, gray with white paws, holds a yellow stick, looking surprised. A black cat in a blue hat lifts a red mallet, grinning. They stand in a room with pink walls, a yellow box labeled \"TERMINATOR\" nearby. Their expressions shift from determination to shock as they face each other.",
+    "timestamp": "2026-02-23 20:44:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      319,
+      113,
+      509,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a yellow stick, eyes wide with surprise. A black cat in a blue hat lifts a red mallet, grinning. They stand in a room with pink walls, Tom’s expression shifting from wary to amused as he watches the black cat’s antics, hinting at impending chaos.",
+    "timestamp": "2026-02-23 20:44:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      319,
+      113,
+      509,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, holds a yellow stick, looking surprised as a black cat, dressed in a blue hat, lifts a red mallet. The black cat, with a determined expression, stands beside a yellow box labeled \"TERMINATOR.\" Tom watches, eyes wide, as the black cat prepares to strike, creating a humorous, tense moment between the two cartoon felines. The scene is set against a pink wall with a bare tree branch, adding to the classic cartoon ambiance.",
+    "timestamp": "2026-02-23 20:44:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      14,
+      118,
+      363,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat in a blue hat, crashes through a wall, then crawls out, holding a broom, looking annoyed and determined.",
+    "timestamp": "2026-02-23 20:44:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      14,
+      118,
+      363,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat in a blue hat, crashes through a wall, then lies stunned. He quickly scrambles to his feet, holding a broom, looking determined. His expression shifts from shock to resolve as he prepares to clean up the mess.",
+    "timestamp": "2026-02-23 20:44:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      14,
+      118,
+      363,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat in a blue hat, sits in a hole in the wall, then flips backward, crashing into the wall. He emerges, looking dazed, then grabs a broom, sweeping debris. His expression shifts from confusion to determination as he cleans up the mess.",
+    "timestamp": "2026-02-23 20:44:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      14,
+      118,
+      363,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat in a blue hat, sits on a blue rug, looking annoyed as he’s surrounded by broken wall fragments. He flips over, landing upside down, then quickly rights himself, clutching a broom. His expression shifts from frustration to determination as he sweeps debris, seemingly trying to clean up the mess he caused. The scene suggests a comedic, chaotic aftermath of his antics, with a green box nearby adding to the cluttered, cartoonish atmosphere.",
+    "timestamp": "2026-02-23 20:44:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      166,
+      380,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom and black cat Jerry crawl side-by-side, eyes narrowed in rivalry. Jerry wears a blue hat, both displaying determined, focused expressions as they move across the floor.",
+    "timestamp": "2026-02-23 20:45:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      166,
+      380,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the gray cat and Jerry the black mouse, wearing a blue hat, stealthily crawl across a floor. Tom glares with yellow eyes, while Jerry looks determined. Their synchronized movement suggests a chase or escape, capturing classic cartoon tension and mischievous energy.",
+    "timestamp": "2026-02-23 20:45:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      166,
+      380,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the gray cat and Jerry the black mouse, wearing a blue hat, stealthily crawl along a floor. Tom’s eyes gleam with determination, while Jerry’s expression is focused and slightly mischievous, hinting at their classic chase dynamic in this animated scene.",
+    "timestamp": "2026-02-23 20:45:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      166,
+      380,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the grey cat and Jerry the black mouse, wearing a blue hat, crawl side by side on a blue floor. Tom’s eyes glow yellow, showing determination or annoyance. Jerry’s expression is focused, perhaps wary or playful. They move in sync, suggesting a chase or cooperative effort. The background shifts from a purple curtain to a plain pink wall, emphasizing their movement. Their paws and tails twitch slightly, indicating motion and tension in their interaction.",
+    "timestamp": "2026-02-23 20:45:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      5,
+      165,
+      274,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom and black cat Jerry run side by side, both determined. Tom’s eyes glow yellow, showing focus; Jerry wears a blue hat, looking alert. Their synchronized movement suggests a chase or race.",
+    "timestamp": "2026-02-23 20:45:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      5,
+      165,
+      274,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the gray cat and Jerry the black mouse, wearing a blue hat, sprint across a blue floor. Tom’s eyes gleam with determination, while Jerry’s expression shows focused urgency. Their chase continues, embodying classic cartoon rivalry and comedic tension.",
+    "timestamp": "2026-02-23 20:45:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      5,
+      165,
+      274,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the grey cat and Jerry the black mouse, wearing a blue hat, crawl cautiously across a blue floor. Tom’s eyes gleam with mischief, while Jerry’s expression is wary. They move in tandem, hinting at a chase or stealthy mission, their tails swaying as they navigate the simple, colorful room.",
+    "timestamp": "2026-02-23 20:46:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0025_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      5,
+      165,
+      274,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, and Jerry, the black mouse wearing a blue hat, crawl on all fours across a blue floor. Tom glares with yellow eyes, tense and predatory, while Jerry, peeking from behind, looks wary yet determined. Their expressions convey rivalry and anticipation as they move side by side, hinting at an impending chase or confrontation. The background’s soft pink and purple hues contrast their dynamic, cartoonish energy.",
+    "timestamp": "2026-02-23 20:46:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      63,
+      112,
+      334,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat, wearing a blue cap, leaps toward a wall, smashing through it with smoke billowing out. His expression is one of intense effort and surprise.",
+    "timestamp": "2026-02-23 20:46:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      63,
+      112,
+      334,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap, angrily smashes a wall, sending debris flying. Its expression is furious, claws extended. A lamp and table are nearby. The scene is chaotic, emphasizing the cat’s rage and destructive energy.",
+    "timestamp": "2026-02-23 20:46:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      63,
+      112,
+      334,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap, leaps with exaggerated panic, claws raised. Behind him, a wall hole bursts with smoke, suggesting chaos. The cat’s wide eyes and open mouth convey terror as he scrambles away, startled by the sudden, smoky explosion.",
+    "timestamp": "2026-02-23 20:46:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      63,
+      112,
+      334,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap, lunges forward with claws extended, eyes wide in panic. He crashes into a wall, causing a burst of gray smoke and debris to explode outward. The cat’s expression shifts to shock as he recoils, his body contorted mid-motion. A pink lamp and a yellow chair stand nearby, untouched. The scene captures a chaotic, cartoonish moment of sudden destruction and startled reaction.",
+    "timestamp": "2026-02-23 20:46:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      0,
+      0,
+      228,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat yells in shock as Jerry, wearing a blue hat, swings an axe. Tom leaps away, startled, while Jerry looks surprised and determined.",
+    "timestamp": "2026-02-23 20:47:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      0,
+      0,
+      228,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat screams in terror as Jerry, dressed in a blue cap and holding an axe, stands menacingly. Tom leaps away, startled, while Jerry grins triumphantly, ready to strike. Their expressions convey classic cartoon chaos and rivalry.",
+    "timestamp": "2026-02-23 20:47:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      0,
+      0,
+      228,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, screams in terror as a black cat, wearing a blue hat and holding an axe, swings it menacingly. Tom leaps backward in panic, his wide eyes and open mouth conveying fear. The black cat's determined expression contrasts with Tom's frantic escape.",
+    "timestamp": "2026-02-23 20:47:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      0,
+      0,
+      228,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, screams in terror as he leaps backward, startled by a black cat wielding a red axe. The black cat, wearing a blue hat, looks shocked and panicked, clutching the axe. Tom’s wide eyes and open mouth convey fear, while the black cat’s expression shows frantic determination. The scene captures a comedic chase, with Tom’s exaggerated reaction contrasting the black cat’s intense, almost comical aggression. Their dynamic highlights classic cartoon slapstick humor.",
+    "timestamp": "2026-02-23 20:47:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      260,
+      159,
+      480,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat with blue cap wields axe, menacingly. Gray cat reacts in shock, then leaps away. Black cat looks surprised, holding axe low. Classic cartoon chaos.",
+    "timestamp": "2026-02-23 20:47:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      260,
+      159,
+      480,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap, wields an axe with determination, while a gray cat reacts in shock. The black cat swings the axe, causing the gray cat to leap back in terror. Their expressions convey intense emotion—fear and aggression—highlighting a classic chase scene.",
+    "timestamp": "2026-02-23 20:47:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      260,
+      159,
+      480,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap, swings an axe menacingly. A gray cat, Tom, reacts with shock and fear, jumping backward. The black cat’s expression is determined and angry, while Tom’s is wide-eyed with alarm, capturing a classic chase scene filled with comedic tension.",
+    "timestamp": "2026-02-23 20:48:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0027_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      260,
+      159,
+      480,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a blue cap and holding a red axe, swings it with determination. A gray cat, Tom, reacts in shock, then leaps upward in terror as the axe swings. The black cat, startled, drops the axe and looks alarmed. Their expressions shift from aggression to panic, capturing a classic cartoon chase scene with exaggerated emotions and slapstick humor.",
+    "timestamp": "2026-02-23 20:48:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      274,
+      101,
+      498,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in hat runs past Tom, who holds a stick. Tom looks amused. They move quickly across a room, suggesting playful chase or escape.",
+    "timestamp": "2026-02-23 20:48:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      274,
+      101,
+      498,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, gray cat, holds a blue stick while black cat, wearing a blue hat, runs beside him. They appear determined, with Tom smiling and the black cat looking focused. Their expressions suggest playful mischief as they move through a room with a pink wall and a small hole in a white box.",
+    "timestamp": "2026-02-23 20:48:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      274,
+      101,
+      498,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a blue stick while black cat, wearing a blue hat, runs beside him. They leap across a room, Tom smiling mischievously. The black cat’s expression shifts from determined to startled as they approach a wall, hinting at impending chaos or surprise. Their playful antics suggest a classic cartoon chase.",
+    "timestamp": "2026-02-23 20:48:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      274,
+      101,
+      498,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a blue hat and a gray cat, Tom, run together, Tom holding a blue stick. The black cat leaps forward with determination, eyes wide, while Tom follows, grinning mischievously. They dash past a pink wall and a small animal shelter, their paws pounding the floor. The scene is lively, filled with playful energy as the two cats engage in their classic chase, their expressions radiating mischief and excitement.",
+    "timestamp": "2026-02-23 20:48:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      306,
+      84,
+      508,
+      456
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a blue cap and red tie, holding a \"Mouse Exterminator\" bag, confidently strides forward, smiling mischievously as he spots a hidden mouse.",
+    "timestamp": "2026-02-23 20:49:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      306,
+      84,
+      508,
+      456
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap and red goggles, proudly holds a \"Mouse Exterminator\" bag. He appears confident and ready for action, with a mischievous grin. A small mouse peeks from behind a wall, hinting at an impending chase. The cat's expression suggests he's about to embark on a comedic mission.",
+    "timestamp": "2026-02-23 20:49:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      306,
+      84,
+      508,
+      456
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wearing a blue cap and red tie, proudly carries a yellow \"Mouse Exterminator\" bag. He leaps into view, smiling confidently, while a small mouse peeks from behind a wall, anticipating trouble. The cat’s expression radiates mischief and determination as he prepares for his mission.",
+    "timestamp": "2026-02-23 20:49:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      306,
+      84,
+      508,
+      456
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, wearing a blue cap and red goggles, emerges from behind a curtain, proudly holding a yellow “Mouse Exterminator” bag. He strikes a confident pose, tail swishing, as he glances around. A small, brown mouse peeks from behind a wall, observing him. The cat’s expression is smug and determined, suggesting he’s ready to tackle the mouse problem with flair and flair. The scene is playful, set in a simple room with soft pastel walls.",
+    "timestamp": "2026-02-23 20:49:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      0,
+      203,
+      342,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat Tom leaps, startled, as a mouse escapes through a hole. He chases, panting, eyes wide with determination, while a \"Mice E XTERMINATOR\" box lies nearby.",
+    "timestamp": "2026-02-23 20:49:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      0,
+      203,
+      342,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws leaps toward a wall, then suddenly jumps backward in surprise as a mouse emerges from a hole. The cat's expression shifts to shock, eyes wide, as it recoils from the unexpected appearance of its prey.",
+    "timestamp": "2026-02-23 20:49:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      0,
+      203,
+      342,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws leaps toward a wall, its eyes wide with determination. It pounces, claws extended, as a small mouse peeks from a hole. The cat’s expression shifts to surprise as it realizes the mouse is inside a yellow “Mouses Eexterminator” trap, which has been set.",
+    "timestamp": "2026-02-23 20:49:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      0,
+      203,
+      342,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, leaps with frantic energy, claws extended, chasing a tiny mouse, Jerry, who scurries beneath a pink wall. Tom’s expression is one of intense pursuit, mouth open in a determined snarl. As he lunges, the wall cracks, revealing Jerry’s hiding spot. The scene captures Tom’s relentless chase, highlighting his classic cartoonish obsession with catching the mouse, while Jerry remains elusive, embodying the timeless chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 20:50:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      162,
+      45,
+      467,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in blue hat lights a match near a bomb, grinning mischievously. Gray cat beside him looks terrified, eyes wide, as the bomb's fuse smolders ominously.",
+    "timestamp": "2026-02-23 20:50:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      162,
+      45,
+      467,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat in a blue hat lights a match, grinning mischievously as gray cat Tom watches with wide, yellow eyes. A bomb sits nearby. Both cats appear gleeful, anticipating chaos, as the match ignites, smoke curling into the air. Their expressions radiate mischief and excitement.",
+    "timestamp": "2026-02-23 20:50:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      162,
+      45,
+      467,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a blue hat and a gray cat sit on the floor. The black cat lights a match, then ignites a bomb nearby. Both cats grin mischievously, anticipating chaos. The scene is playful, with exaggerated expressions and cartoonish motion, capturing their mischievous intent.",
+    "timestamp": "2026-02-23 20:50:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      162,
+      45,
+      467,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a classic cartoon scene, black cat, wearing a blue hat, gleefully lights a fuse on a bomb while gray cat, Tom, watches with wide-eyed surprise. Both cats sit on a blue floor, near a yellow curtain, as the black cat laughs maniacally, the bomb’s fuse sparking. Tom’s expression shifts from curiosity to alarm as the fuse smolders. The scene captures their comedic, chaotic dynamic, with the bomb adding tension to their mischievous antics.",
+    "timestamp": "2026-02-23 20:50:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      60,
+      410,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom chases Jerry, who scurries through a hole. Tom leaps, fails, then angrily pounces, knocking Jerry into the hole. Both show exaggerated expressions of frustration and surprise.",
+    "timestamp": "2026-02-23 20:51:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      60,
+      410,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, chases Jerry, the mouse, through a room. Jerry escapes under a couch, then flees through a hole. Tom, frustrated, pounces, but Jerry escapes again. Tom's expression shifts from determination to annoyance as he lies defeated on the floor.",
+    "timestamp": "2026-02-23 20:51:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      60,
+      410,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, chases Jerry, the brown mouse, through a room. Jerry scurries near a hole, while Tom leaps and pounces, showing determination. Tom’s expression shifts from joy to frustration. Jerry escapes, leaving Tom stunned and defeated, highlighting their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 20:51:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E25 - Trap Happy (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      60,
+      410,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat in a blue hat, chases Jerry, the brown mouse, through a room. Jerry scurries near a hole, dodging Tom’s frantic pursuit. Tom leaps, then dramatically falls backward, revealing a different, grumpy gray cat version of himself. The gray cat, eyes glowing yellow, lunges at Jerry, who squeaks in terror. The scene ends with the gray cat stunned, tail flicking, as Jerry escapes through the hole.",
+    "timestamp": "2026-02-23 20:51:37"
+  }
+]

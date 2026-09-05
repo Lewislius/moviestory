@@ -1,0 +1,6 @@
+checkpoint/
+tmp/
+inference_outputs/
+**/__pycache__/
+*.pyc
+*.pyo

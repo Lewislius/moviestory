@@ -1,0 +1,30 @@
+[Original prompt]
+A bowler's run-up, followed by the delivery of the ball.
+
+Relevant physical states:
+
+* The bowler must remain present and visually consistent throughout the sequence.
+* The ball must remain present and associated with the bowler before release.
+* The bowler's body position and forward motion should evolve continuously during the run-up.
+* The ball should remain in the bowler's hand during the run-up and delivery preparation.
+* The bowler's arm motion should progress toward the release action.
+* Physical contact between the hand and the ball must persist before release.
+* The ball should separate from the bowler's hand only at the release moment.
+* After release, the ball should move forward independently of the bowler.
+
+Physical event order:
+
+1. The bowler begins the run-up while holding the ball.
+2. The bowler moves forward and prepares the delivery motion.
+3. The bowling arm swings into the delivery action while the ball remains in the hand.
+4. The ball is released from the bowler's hand.
+5. The delivered ball moves forward away from the bowler.
+
+Cause-effect constraints:
+
+* The bowler and the ball must exist before the delivery can occur.
+* The ball must remain in the bowler's possession before release.
+* The run-up and delivery preparation must happen before the ball is released.
+* The release must happen before the ball begins independent forward motion.
+* The ball's forward motion after release must result from the bowler's delivery action.
+* The ball must not disappear, duplicate, or move independently before the release event.

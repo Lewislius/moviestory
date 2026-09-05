@@ -1,0 +1,43 @@
+[Original prompt]
+The video begins with a close-up shot of a hand interacting with a black rectangular block placed on a plain white surface. The block has several small, metallic objects scattered across its top surface. The hand, positioned on the left side of the frame, gently touches one of these metallic objects, causing it to move slightly. As the hand continues to interact with the metallic objects, they shift positions, demonstrating the magnetic properties of the block. The hand's movements are deliberate and controlled, suggesting an exploration or demonstration of the magnetic field's influence on the metallic objects. The background remains consistently white throughout the video, ensuring that the focus stays on the interaction between the hand and the metallic objects on the black block. There are no other objects or characters present in the scene, and the camera maintains a steady position, capturing the detailed movements and interactions without any noticeable changes in angle or zoom.
+
+Relevant physical states:
+
+* The hand must remain present and visually consistent throughout the interaction.
+* The black rectangular block must remain present, stationary, and spatially consistent on the white surface.
+* The small metallic objects must remain present on or near the top surface of the block.
+* The number and appearance of the metallic objects should remain consistent unless occluded by the hand.
+* The hand and fingers should move continuously and maintain physically plausible contact with the metallic objects when touching them.
+* A metallic object should shift position only after direct hand contact or due to interaction with the magnetic field near the block.
+* The positions of the metallic objects relative to the block should change continuously rather than abruptly.
+* Metallic objects influenced by the block should remain physically associated with the block's surface or magnetic region.
+* The black block itself should not move significantly as the hand manipulates the smaller objects.
+* The plain white surface and background must remain visually unchanged throughout the sequence.
+* No additional objects, hands, or characters should appear.
+* The camera must remain stationary without noticeable changes in angle, framing, or zoom.
+
+Physical event order:
+
+1. A hand, a black rectangular block, and several metallic objects are present in the scene.
+2. The hand approaches one of the metallic objects on the block.
+3. The finger makes physical contact with the metallic object.
+4. The contacted metallic object moves slightly in response to the hand's action.
+5. The hand continues to manipulate or move near the metallic objects.
+6. Additional metallic objects shift position through direct manipulation and/or the magnetic influence of the block.
+7. The metallic objects settle into new positions while remaining associated with the black block.
+8. The hand, block, metallic objects, background, and camera remain stable as the interaction continues or concludes.
+
+Cause-effect constraints:
+
+* The hand, black block, and metallic objects must exist before any interaction can occur.
+* The hand must approach a metallic object before direct physical contact with it.
+* Direct-contact-induced motion of a metallic object must happen after the finger touches or pushes it.
+* Any motion attributed to magnetic influence must occur only when the metallic object is within the effective magnetic region of the block.
+* Changes in the metallic objects' positions must result from hand manipulation or magnetic interaction rather than occurring spontaneously.
+* The metallic objects must move continuously between positions rather than teleporting, disappearing, or duplicating.
+* The metallic objects should remain on or near the block unless a visible physical action moves them away.
+* The black block must not spontaneously move, deform, disappear, or change shape during the demonstration.
+* The hand and fingers must not pass through the metallic objects or the block without physical interaction.
+* The white background and supporting surface must remain stable throughout the sequence.
+* No unrelated objects or characters may spontaneously appear.
+* The camera viewpoint must remain fixed, with no sudden cuts, zooms, or viewpoint changes.

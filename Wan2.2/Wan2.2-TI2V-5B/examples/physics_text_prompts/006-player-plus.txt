@@ -1,0 +1,33 @@
+[Original prompt]
+A player misses a shot, the cue ball gently rolling to a stop near a group of balls.
+
+Relevant physical states:
+
+* The player, cue stick, cue ball, and group of balls must remain present and visually consistent during the sequence.
+* The cue ball should begin moving only after being struck by the cue stick.
+* The cue ball's position should change continuously as it rolls across the table.
+* The cue ball should not successfully enter a pocket or complete the intended shot.
+* The cue ball's speed should gradually decrease as it rolls.
+* The group of balls should remain spatially consistent unless physically contacted.
+* The cue ball should approach the group of balls without requiring a strong collision.
+* The cue ball should eventually come to rest near the group of balls.
+
+Physical event order:
+
+1. The player strikes the cue ball with the cue stick.
+2. The cue ball begins rolling across the table.
+3. The attempted shot is missed, and the cue ball continues moving without achieving the intended result.
+4. The cue ball approaches the group of balls while gradually slowing down.
+5. The cue ball loses its remaining motion.
+6. The cue ball comes to a stop near the group of balls.
+
+Cause-effect constraints:
+
+* The cue ball must exist and be struck by the cue stick before it begins rolling.
+* Contact between the cue stick and the cue ball must happen before the cue ball's forward motion.
+* The cue ball must roll continuously toward its final position rather than teleporting there.
+* The cue ball must slow down before coming to a complete stop.
+* The cue ball must approach the group of balls before settling near them.
+* The stopping event must occur after the rolling and deceleration stages.
+* The cue ball must not disappear, duplicate, or change position discontinuously during the sequence.
+* The nearby group of balls should not move unless the cue ball or another object physically contacts them.

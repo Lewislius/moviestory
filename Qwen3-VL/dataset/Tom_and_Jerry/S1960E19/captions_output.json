@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      89,
+      0,
+      274,
+      432
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a purple dress and white heels stands at a red door, holding a white folder. She turns away, walking up the steps with poised confidence.",
+    "timestamp": "2026-02-24 03:29:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      89,
+      0,
+      274,
+      432
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a purple dress and white heels stands at a red door, holding a white clutch. She turns, walks away, and steps down the red brick steps. Her posture is poised, suggesting purposeful movement, with no visible emotions or expressions. The scene is static, focused on her departure.",
+    "timestamp": "2026-02-24 03:29:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      89,
+      0,
+      274,
+      432
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a magenta dress and white heels stands before a red door, holding a white clutch. She turns the golden knob, then steps back, smiling slightly as she prepares to enter. Her poised stance suggests confidence and readiness for the visit ahead.",
+    "timestamp": "2026-02-24 03:29:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E19 - The Unshrinkable Jerry Mouse (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      89,
+      0,
+      274,
+      432
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a magenta dress and white heels stands at a red front door, holding a white clutch. She turns the golden doorknob, then steps back, lifting her foot slightly as if to walk away. Her posture is poised and composed, suggesting purpose or anticipation. The scene is static, with no facial expressions visible, emphasizing her deliberate movement and the quiet tension of her approach to the door. The vibrant colors contrast with the calm, suburban setting.",
+    "timestamp": "2026-02-24 03:29:15"
+  }
+]

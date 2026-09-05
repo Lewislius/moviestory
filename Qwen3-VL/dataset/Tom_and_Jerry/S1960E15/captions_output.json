@@ -1,0 +1,170 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      148,
+      69,
+      352,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, dramatically poses on stage, then strikes a confident pose with a smirk, eyes closed, as if performing or showing off his theatrical flair.",
+    "timestamp": "2026-02-24 03:27:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      148,
+      69,
+      352,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, strikes a confident pose under a spotlight. He then dramatically raises his fist, eyes closed in triumph. The scene shifts to him looking down, appearing smug or contemplative, against a red curtain backdrop, suggesting a theatrical or performance setting.",
+    "timestamp": "2026-02-24 03:27:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      148,
+      69,
+      352,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, stands confidently on a stage under red spotlight, fists clenched. He grins mischievously, then suddenly recoils in surprise, eyes wide. His expression shifts from smug to startled, suggesting an unexpected interruption or event. The scene captures his theatrical flair and sudden reaction.",
+    "timestamp": "2026-02-24 03:27:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      148,
+      69,
+      352,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, stands on a stage under a spotlight, initially appearing confident. He clenches his fists, then suddenly freezes, eyes wide with shock or fear as he looks upward. His expression shifts to one of exaggerated alarm, mouth agape, as if startled by an unseen threat or event. The red backdrop and golden drapes emphasize the theatrical setting, highlighting Tom’s dramatic, comedic reaction to an unexpected situation.",
+    "timestamp": "2026-02-24 03:27:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      178,
+      134,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, performs on stage, smiling and gesturing with hands, showing confidence and charm under the spotlight against a red curtain backdrop.",
+    "timestamp": "2026-02-24 03:27:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      178,
+      134,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, stands on a stage under red curtains, smiling and gesturing with his hands. He appears confident and cheerful, occasionally adjusting his posture and smiling broadly, suggesting he’s performing or presenting with flair. His expressions convey enthusiasm and charm.",
+    "timestamp": "2026-02-24 03:27:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      178,
+      134,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tuxedo, stands on a stage under red spotlight, smiling confidently. He gestures with his hands, then suddenly freezes, eyes wide, as if startled. He shakes his head, laughs nervously, and continues to act, exuding playful nervousness despite his formal attire.",
+    "timestamp": "2026-02-24 03:27:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      178,
+      134,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a tuxedo, stands on a stage under red spotlight, smiling confidently. He gestures with his hands, then covers his face in mock surprise or embarrassment, revealing a playful, exaggerated expression. His eyes widen, and he appears to be performing or reacting to something amusing. The ornate red backdrop and golden curtains add theatrical flair, emphasizing his comedic, dramatic antics as he engages in a lively, animated performance.",
+    "timestamp": "2026-02-24 03:27:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      160,
+      170,
+      368,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a tuxedo, laughs joyfully, then suddenly freezes with wide eyes and a shocked expression, revealing his startled demeanor.",
+    "timestamp": "2026-02-24 03:28:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      160,
+      170,
+      368,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a tuxedo, laughs joyfully before his expression shifts to shock and fear. His eyes widen, and he looks around nervously, suggesting he’s startled by something unseen. The scene captures his quick emotional transition from mirth to alarm.",
+    "timestamp": "2026-02-24 03:28:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      160,
+      170,
+      368,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat in a tuxedo, laughs gleefully, then abruptly freezes with a startled, wide-eyed expression. His mouth drops open, revealing shock or fear. The scene is dimly lit, emphasizing his sudden change in demeanor from joy to alarm.",
+    "timestamp": "2026-02-24 03:28:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E15 - The Cat Above and the Mouse Below (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      160,
+      170,
+      368,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dressed in a tuxedo, initially laughs joyfully. Suddenly, his expression shifts to shock and fear as his eyes widen and he freezes. His mouth drops open, revealing a startled look. The scene suggests a sudden, unexpected turn of events, leaving Tom visibly alarmed despite his earlier amusement. The dim, spotlighted setting enhances his dramatic reaction.",
+    "timestamp": "2026-02-24 03:28:36"
+  }
+]

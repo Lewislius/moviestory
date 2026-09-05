@@ -1,0 +1,114 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      450,
+      359
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wearing a hat, sneaks under a woman's green heels, then leaps away as water sprays from a nearby fountain.",
+    "timestamp": "2026-02-23 19:39:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      450,
+      359
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A tiny mouse in a hat sneaks near giant green heels, then leaps away as water sprays from a nearby fountain. The mouse, startled, dashes toward a dark object, evading the water's splash. His expression shifts from cautious to frantic as he escapes the scene.",
+    "timestamp": "2026-02-23 19:39:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      450,
+      359
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A tiny mouse, wearing a tiny hat, tiptoes near a woman’s green high heels. He sneaks into the shoe, peeks out, then jumps away as water sprays from a nearby fountain, drenching the scene. The mouse laughs joyfully, escaping the wetness with a playful grin.",
+    "timestamp": "2026-02-23 19:39:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      450,
+      359
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A small brown mouse, wearing a tiny hat, dances playfully near a woman’s towering green heels. He peeks into the shoe, then leaps away as water sprays from a nearby fountain. His expressions shift from joy to surprise, then to delight as he escapes. The scene is whimsical, capturing the mouse’s mischievous energy and the comedic chaos of his antics, all set against a classic cartoon backdrop.",
+    "timestamp": "2026-02-23 19:39:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      256,
+      0,
+      440,
+      293
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in a paper boat, floats near women's legs. He laughs, then jumps, startled by their high heels. He’s playful and mischievous.",
+    "timestamp": "2026-02-23 19:39:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      256,
+      0,
+      440,
+      293
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a tiny hat, floats in a basket in a city street, surrounded by towering women’s legs in high heels. He looks up, excitedly, as the women’s feet pass by, their stylish shoes glinting under neon lights. Tom’s expression is one of joyful anticipation.",
+    "timestamp": "2026-02-23 19:39:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      256,
+      0,
+      440,
+      293
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a tiny hat, floats in a basket in a city street, surrounded by towering women's legs in high heels. He appears delighted, laughing and waving, as he bobs in the water, unaware of the towering fashion display above him.",
+    "timestamp": "2026-02-23 19:39:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E19 - Mouse In Manhattan (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      256,
+      0,
+      440,
+      293
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, wearing a tiny hat, floats in a basket in a city street, surrounded by towering women’s legs in high heels. He’s visibly excited and playful, waving and laughing as he drifts past storefronts. The scene is vibrant with neon signs and bustling city life, but Tom remains the cheerful, mischievous center, enjoying his whimsical, oversized adventure in the urban landscape.",
+    "timestamp": "2026-02-23 19:40:00"
+  }
+]

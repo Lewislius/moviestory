@@ -1,0 +1,2018 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      32,
+      151,
+      348,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry play tennis. Tom swings wildly, misses, then smiles as Jerry laughs. Their expressions show playful rivalry and amusement amidst the match.",
+    "timestamp": "2026-02-23 23:40:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      32,
+      151,
+      348,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, swings wildly at a ball, then fumbles. Jerry, in a hat, watches with a smirk. Tom’s frustration grows as he misses, while Jerry laughs, enjoying the chaos. Their tennis match turns into a comedic battle of wits and clumsiness.",
+    "timestamp": "2026-02-23 23:40:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      32,
+      151,
+      348,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, swings wildly at a ball, then stumbles backward. Jerry, in a hat, watches with a smirk. Tom’s expression shifts from determination to surprise as he fumbles his racket, while Jerry laughs, enjoying Tom’s clumsy efforts on the court.",
+    "timestamp": "2026-02-23 23:40:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      32,
+      151,
+      348,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a tennis outfit swings wildly, hitting a ball with exaggerated force. He stumbles backward, then turns to face Tom, who smirks with a tennis racket, clearly amused. The cat’s expression shifts from determination to surprise as the ball flies toward Tom. Their playful rivalry is evident in their exaggerated movements and expressions, set against a vibrant tennis court backdrop. The scene captures their classic comedic dynamic, full of slapstick energy and mischievous charm.",
+    "timestamp": "2026-02-23 23:40:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      195,
+      128,
+      449,
+      440
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a tennis outfit holds a ball, then drops it, bends down, picks it up, and smiles confidently, ready to serve.",
+    "timestamp": "2026-02-23 23:40:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      195,
+      128,
+      449,
+      440
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a tennis outfit prepares to serve, holding a tennis ball. He stretches, grimaces, and then smiles triumphantly as he tosses the ball. His confident expression suggests he’s ready for a match, exuding playful energy and determination.",
+    "timestamp": "2026-02-23 23:40:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      195,
+      128,
+      449,
+      440
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a tennis outfit joyfully holds a tennis ball, bouncing and posing with delight. He smiles, twirls, and strikes a confident stance, clearly enjoying his playful, sporty antics on the court. His energetic movements and cheerful expression convey pure fun and enthusiasm for the game.",
+    "timestamp": "2026-02-23 23:40:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      195,
+      128,
+      449,
+      440
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cartoon cat with spiky ears, wearing a light blue skirt and white shoes, stands on a green tennis court. He holds a tennis ball, smiling mischievously. He shifts his stance, bending slightly, then stands upright, eyes gleaming with playful intent. His expression changes from confident to smug as he grips the ball, suggesting he’s about to serve or trick someone. The scene is bright, with a pink wall and blue sky, emphasizing his playful, mischievous demeanor.",
+    "timestamp": "2026-02-23 23:41:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      92,
+      139,
+      346,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with intense focus, swinging his racket, leaping, and reacting to the ball with determination and playful energy on the court.",
+    "timestamp": "2026-02-23 23:41:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      92,
+      139,
+      346,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dressed in tennis gear, swings his racket with determination, sending a tennis ball flying. He leaps over the net, displaying agility and focus. His expression is intense, showcasing his competitive spirit as he engages in the game with vigor and enthusiasm.",
+    "timestamp": "2026-02-23 23:41:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      92,
+      139,
+      346,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with intense focus, swinging his racket to hit a glowing ball. His expression shifts from determination to surprise as he reacts to the ball’s trajectory, showcasing his comedic, exaggerated reactions typical of classic cartoons. The scene bursts with dynamic motion and vibrant colors.",
+    "timestamp": "2026-02-23 23:41:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      92,
+      139,
+      346,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with fierce determination, swinging his racket with exaggerated motion. His expression shifts from focused intensity to surprise as a bright, cartoonish flash erupts near the net. He stumbles backward, racket clutched tightly, eyes wide with shock. The scene captures his comedic struggle, highlighting his clumsy yet enthusiastic attempt at the sport, all set against a vibrant green court under a clear sky.",
+    "timestamp": "2026-02-23 23:41:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      41,
+      80,
+      393,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cartoon cat in light blue shorts and red shoes leaps across a tennis court, holding a racket, with joyful expression and motion lines indicating swift movement.",
+    "timestamp": "2026-02-23 23:42:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      41,
+      80,
+      393,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cartoon cat with spiky hair, wearing a black shirt and light blue shorts, leaps energetically on a tennis court, holding a racket. His joyful expression and dynamic pose suggest excitement and playful athleticism as he moves across the green court with white lines.",
+    "timestamp": "2026-02-23 23:42:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      41,
+      80,
+      393,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cartoon cat in a tennis outfit joyfully dives across a green court, racket in hand, mid-swing. His wide grin and energetic pose convey excitement and determination. Motion lines emphasize his swift movement, capturing the dynamic, playful spirit of a lively tennis match.",
+    "timestamp": "2026-02-23 23:42:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      41,
+      80,
+      393,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon cat, dressed in a black shirt and light blue shorts, energetically dives across a green tennis court, racket in hand. His spiky black fur and wide, joyful grin convey excitement. His body twists mid-air, feet trailing motion lines, as he leaps toward an unseen ball. The pink backdrop and blue sky frame his dynamic, playful movement, capturing a moment of high-energy, comedic athleticism. His expression radiates pure delight and determination.",
+    "timestamp": "2026-02-23 23:42:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      145,
+      94,
+      348,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry play tennis, both holding rackets. Tom smiles, Jerry looks surprised. They jump, then Tom kicks Jerry, causing a comical, tangled mess of rackets and limbs.",
+    "timestamp": "2026-02-23 23:42:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      145,
+      94,
+      348,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry play tennis, each holding a racket. Tom, in light blue shorts and a green cap, smiles confidently. Jerry, in black, mirrors him. They move energetically, then collide mid-air with comedic impact, showcasing their playful rivalry and classic cartoon antics.",
+    "timestamp": "2026-02-23 23:43:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      145,
+      94,
+      348,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry play tennis, both holding rackets. Tom, in light blue shorts, smiles confidently. Jerry, in black, looks determined. They dance playfully, then Tom kicks Jerry, causing a comedic blur effect. Their expressions shift from joy to surprise, highlighting their classic rivalry and playful antics on the court.",
+    "timestamp": "2026-02-23 23:43:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      145,
+      94,
+      348,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry, in tennis attire, play on a green court. Tom, in light blue shorts and a green cap, holds a racket with a focused expression. Jerry, in black, mirrors him, both smiling. They move dynamically, dodging and leaping. Tom kicks dramatically, sending rackets flying. Their playful rivalry shines through as they engage in slapstick tennis antics, showcasing classic cartoon energy and comedic timing. The scene bursts with motion and humor.",
+    "timestamp": "2026-02-23 23:43:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      34,
+      79,
+      284,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, swings racket with force, sending a ball flying. His determined expression shows focus and intensity as he plays the game with vigor on the court.",
+    "timestamp": "2026-02-23 23:43:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      34,
+      79,
+      284,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in yellow shorts and a cap, plays tennis with fierce determination. He swings his racket, sending a ball flying. His focused expression and dynamic pose show intense concentration. The scene captures his energetic, competitive spirit on the court.",
+    "timestamp": "2026-02-23 23:43:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      34,
+      79,
+      284,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in yellow shorts and a cap, plays tennis with fierce determination. He swings his racket with explosive energy, sending the ball soaring. His focused expression and dynamic pose convey intense concentration and athletic vigor, capturing a moment of high-stakes play on the vibrant green court.",
+    "timestamp": "2026-02-23 23:43:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      34,
+      79,
+      284,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dons a tennis outfit—yellow shorts, a cap—and grips a racket, poised on a green court. He swings with force, sending a tennis ball flying in a dynamic arc. His determined expression and athletic stance convey intense focus. The background features a peach-colored wall and blue sky, emphasizing the outdoor setting. His movement is swift and exaggerated, capturing the comedic energy typical of classic cartoons, as he engages in an over-the-top tennis match.",
+    "timestamp": "2026-02-23 23:43:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      201,
+      98,
+      392,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a tennis outfit swings wildly, misses the ball, and crashes into the wall. He's determined, energetic, and slightly clumsy in his enthusiastic play.",
+    "timestamp": "2026-02-23 23:44:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      201,
+      98,
+      392,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a tennis outfit joyfully hits a ball with a racket, leaping mid-air. His expression is ecstatic, eyes wide, tongue out. The scene captures his energetic, playful spirit as he dances with the ball, showcasing cartoonish enthusiasm and delight in the game.",
+    "timestamp": "2026-02-23 23:44:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      201,
+      98,
+      392,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a tennis outfit joyfully prepares to hit a ball, then leaps with a racket, striking it with force. His exaggerated movements and triumphant grin convey enthusiasm and skill, capturing the playful, energetic spirit of a cartoon tennis match.",
+    "timestamp": "2026-02-23 23:44:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      201,
+      98,
+      392,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cartoon cat, wearing a torn white skirt and red-soled shoes, plays tennis with exaggerated enthusiasm. He holds a tennis ball, then leaps, swinging his racket with joyful energy. His expression shifts from focused to ecstatic as he hits the ball, which flies off-screen. His dynamic motion, with flailing limbs and a joyful grin, conveys playful determination and delight in the game, set against a simple tennis court backdrop.",
+    "timestamp": "2026-02-23 23:44:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      5,
+      67,
+      313,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat in tennis attire, lunges to hit a ball, his expression focused and determined, showcasing his athletic effort on the court.",
+    "timestamp": "2026-02-23 23:44:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      5,
+      67,
+      313,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with fierce determination, swinging his racket and leaping to hit the ball. His focused expression and dynamic pose convey intense concentration. The scene captures his athletic effort and competitive spirit on the court.",
+    "timestamp": "2026-02-23 23:44:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      5,
+      67,
+      313,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with fierce determination, lunging toward the net. His expression is focused, eyes narrowed, as he swings his racket. His white gloves and light blue shorts contrast sharply against his dark fur. The scene captures his intense concentration and athletic movement on the green court.",
+    "timestamp": "2026-02-23 23:44:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      5,
+      67,
+      313,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with intense focus, swinging his racket at a ball. His expression is determined, eyes narrowed, as he lunges forward, body stretched. He wears a black shirt and white shorts, with white gloves. The tennis court’s green surface and net frame the scene. His motion is swift, suggesting a powerful swing. The background’s soft pink and blue hues add a cartoonish, vibrant atmosphere to the action.",
+    "timestamp": "2026-02-23 23:45:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      216,
+      24,
+      509,
+      420
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, chases a small brown mouse across a court, swinging his racket with determination, while the mouse scurries away.",
+    "timestamp": "2026-02-23 23:45:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      216,
+      24,
+      509,
+      420
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in tennis attire, chases a small brown mouse across a green court. He lunges, swings his racket, and leaps in pursuit, displaying determination. The mouse scurries away, evading Tom’s grasp, while Tom’s focused expression reveals his relentless pursuit.",
+    "timestamp": "2026-02-23 23:45:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      216,
+      24,
+      509,
+      420
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, dressed in tennis gear, charges after a small brown mouse rolling on a green court. He swings his racket with determination, displaying focused intensity. The mouse scurries away, dodging Tom’s aggressive pursuit, as the scene captures their classic chase dynamic with vibrant animation.",
+    "timestamp": "2026-02-23 23:45:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      216,
+      24,
+      509,
+      420
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dressed in yellow shorts, plays tennis with intense focus. He lunges, swings his racket, and chases a small, red, round object—likely a tennis ball—rolling across the green court. His expression shifts from determination to surprise as he tracks the ball. The scene captures his athletic movement and playful pursuit, highlighting his competitive spirit and quick reflexes against the backdrop of a pink wall and blue sky.",
+    "timestamp": "2026-02-23 23:45:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      122,
+      360,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, dressed in light blue shorts, holds tennis racket and bottle. He swings racket, causing explosive burst of yellow and red. His expression shows surprise or delight.",
+    "timestamp": "2026-02-23 23:46:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      122,
+      360,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, dressed in light blue shorts and white shoes, plays tennis with exaggerated flair. He swings his racket, then explodes into a fiery burst, holding a bottle. His expression shifts from focused to surprised as the explosion erupts, showcasing cartoonish chaos.",
+    "timestamp": "2026-02-23 23:46:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      122,
+      360,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat, dressed in light blue shorts and white shoes, holds a tennis racket and a bottle. He strikes a playful pose, then explodes in a burst of yellow and red sparks, suggesting a comedic, exaggerated action. His expression remains mischievous, embodying cartoonish energy and humor.",
+    "timestamp": "2026-02-23 23:46:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      122,
+      360,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, dressed in light blue shorts and white shoes, holds a tennis racket and a small bottle. He leaps into the air, racket raised, then explodes in a vibrant yellow and red burst, bottle flying from his grasp. His expression is one of exaggerated surprise or delight. The scene is set against a bright blue sky and a pink tennis court backdrop, capturing a comedic, cartoonish moment of sudden, explosive action.",
+    "timestamp": "2026-02-23 23:46:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      25,
+      270,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat serves tennis ball, Tom watches with surprise. Tom then swings racket, misses, and falls. Both cats show exaggerated expressions of effort and surprise during the chaotic match.",
+    "timestamp": "2026-02-23 23:46:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      25,
+      270,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, dressed in tennis gear, serves a ball with flair. Tom, in a yellow outfit, watches with a smirk. The cat then dives, hitting the ball with a racket, while Tom remains amused, holding his own racket, ready for the next play. Their expressions show playful rivalry.",
+    "timestamp": "2026-02-23 23:46:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      25,
+      270,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, dressed in tennis gear, serves a ball with flair. Tom, the gray cat, watches with a smug grin, holding his racket. The scene captures playful rivalry on a vibrant court, with exaggerated expressions and dynamic motion, hinting at a classic cartoon showdown.",
+    "timestamp": "2026-02-23 23:46:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      25,
+      270,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, dressed in a tennis outfit, serves a ball with dramatic flair, while Tom, the gray cat, watches with a smug grin. Tom, holding a tennis racket, appears amused as the server’s motion creates a blur. The scene shifts to Tom’s triumphant expression as he prepares to return the serve, his eyes gleaming with mischief. The tennis court’s vibrant green and pink backdrop contrasts with the characters’ playful antics, capturing their classic rivalry and comedic timing.",
+    "timestamp": "2026-02-23 23:47:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      200,
+      58,
+      481,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, Tom, runs on tennis court, holding racket, eyes closed, mouth open, appearing determined or excited, wearing light blue shorts and red-and-white shoes.",
+    "timestamp": "2026-02-23 23:47:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      200,
+      58,
+      481,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in light blue shorts and red shoes runs across a tennis court, holding a yellow racket. He appears focused, with a determined expression, eyes fixed ahead. His fur flares slightly as he sprints, showcasing energetic motion against the vibrant green court and blue sky.",
+    "timestamp": "2026-02-23 23:47:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      200,
+      58,
+      481,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in light blue shorts and red shoes sprints across a green tennis court, holding a yellow racket. His expression is focused, eyes wide, whiskers flared, as he moves with urgency, suggesting intense gameplay or pursuit. The background features a pink wall and blue sky.",
+    "timestamp": "2026-02-23 23:47:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      200,
+      58,
+      481,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, dressed in light blue shorts and red-and-white sneakers, sprints across a green tennis court, clutching a yellow racket. His whiskers quiver, eyes wide with determination, as he leaps forward, mouth open in exertion. His fur flares with motion, and his expression conveys intense focus and effort. The bright blue sky and pink boundary line frame his energetic, determined run, capturing a moment of high-stakes tennis action.",
+    "timestamp": "2026-02-23 23:48:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      112,
+      27,
+      261,
+      429
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with exaggerated enthusiasm, swinging rackets with comedic flair, displaying smug confidence and playful energy against a sunny backdrop.",
+    "timestamp": "2026-02-23 23:48:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      112,
+      27,
+      261,
+      429
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, plays tennis with exaggerated enthusiasm, holding two rackets and striking a confident pose. His expression is smug and playful, showcasing his mischievous nature. The scene captures his comedic, over-the-top sportsmanship against a bright, sunny backdrop.",
+    "timestamp": "2026-02-23 23:48:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      112,
+      27,
+      261,
+      429
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dressed in tennis gear, playfully swings a racket, then holds two rackets with a mischievous grin. He strikes a pose, arms raised, as if celebrating a victory. His expression radiates joy and confidence, embodying playful arrogance on the tennis court under a clear blue sky.",
+    "timestamp": "2026-02-23 23:48:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      112,
+      27,
+      261,
+      429
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, dressed in light blue shorts and white shoes, enthusiastically plays tennis. He holds a racket, smirking with pride, then switches to two rackets, spinning them dramatically. His confident, playful expression suggests he’s enjoying the game. The background shows a clear blue sky and green trees, emphasizing the sunny, cheerful outdoor setting. Tom’s exaggerated movements and joyful demeanor highlight his spirited, mischievous nature as he revels in his tennis antics.",
+    "timestamp": "2026-02-23 23:48:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      160,
+      120,
+      425,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis attire, chases Jerry across a court. Jerry clutches a giant racket, dodging Tom’s attempts to hit him. Both display playful, exaggerated expressions typical of their cartoon antics.",
+    "timestamp": "2026-02-23 23:49:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      160,
+      120,
+      425,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis attire, swings wildly at Jerry, who dodges a giant racket. Jerry, in red shorts, runs across the court, clutching a massive racket. Tom’s expression shifts from determination to shock as Jerry outmaneuvers him, highlighting their classic chase.",
+    "timestamp": "2026-02-23 23:49:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      160,
+      120,
+      425,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with a determined expression, wielding rackets. Jerry, the brown mouse, dodges and grabs a giant racket, then leaps triumphantly. Their antics unfold on a vibrant green court under a blue sky, capturing classic cartoon chaos and playful rivalry.",
+    "timestamp": "2026-02-23 23:49:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      160,
+      120,
+      425,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with a determined expression, swinging his racket. Jerry, the brown mouse, dodges a powerful shot, then grabs a giant racket, leaping joyfully. Tom reacts with shock and surprise as Jerry triumphantly holds the oversized racket, showcasing his cunning. The scene is filled with comedic chaos, highlighting their classic rivalry and Jerry’s cleverness. The vibrant colors and exaggerated movements emphasize the cartoon’s playful, slapstick humor.",
+    "timestamp": "2026-02-23 23:49:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      307,
+      200,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, joyfully hits a ball. Jerry, in a tennis outfit, leaps dramatically, causing a splash. Tom watches with delight, while Jerry lands with a splash of dirt.",
+    "timestamp": "2026-02-23 23:49:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      307,
+      200,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, excitedly gestures as a ball flies toward him. Jerry, in a tennis outfit, leaps over the net, causing a splash of dirt. Tom watches with amusement as Jerry lands awkwardly, showcasing their playful rivalry on the court.",
+    "timestamp": "2026-02-23 23:49:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      307,
+      200,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, excitedly prepares to serve. Jerry, dressed in a tennis outfit, leaps dramatically over the net, causing a splash of dirt. Tom watches with delight, while Jerry’s energetic jump highlights their playful rivalry on the court under a clear blue sky.",
+    "timestamp": "2026-02-23 23:49:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      307,
+      200,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in yellow shorts and a cap, joyfully gestures as a tennis ball flies toward him. Suddenly, Jerry, dressed in a white tennis outfit, leaps dramatically over the net, his racket swinging wildly. Tom watches, astonished, as Jerry’s antics cause a burst of dirt to erupt beneath him. Their expressions shift from excitement to surprise, capturing the comedic chaos of their tennis match. The scene is vibrant, filled with motion and slapstick humor.",
+    "timestamp": "2026-02-23 23:49:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      64,
+      255,
+      446
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, joyfully serves a ball. Jerry, in black, leaps dramatically, hitting the ball with his racket, while Tom watches with delight. Their playful rivalry shines through.",
+    "timestamp": "2026-02-23 23:50:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      64,
+      255,
+      446
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, joyfully hits a ball, while Jerry, in a black shirt and white shorts, leaps dramatically, missing the net. Tom watches with amusement as Jerry crashes into the ground, scattering dirt. Their expressions convey playful rivalry and comedic chaos on the court.",
+    "timestamp": "2026-02-23 23:50:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      64,
+      255,
+      446
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, leaps to hit a ball, but misses, causing him to tumble. Jerry watches with a grin, holding his racket. The scene captures their playful rivalry on a vibrant court, with Tom’s determined yet clumsy effort contrasting Jerry’s amused, confident stance.",
+    "timestamp": "2026-02-23 23:50:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      64,
+      255,
+      446
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in tennis attire, joyfully serves a ball, while Jerry, dressed in a black shirt and white shorts, leaps dramatically to return it, crashing into the net. Tom watches with a grin, amused by Jerry’s antics. The scene captures their classic rivalry, with Jerry’s energetic, clumsy effort contrasting Tom’s confident, playful demeanor. Their expressions convey mischief and delight, highlighting their enduring comedic dynamic on the tennis court.",
+    "timestamp": "2026-02-23 23:50:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      351,
+      69,
+      510,
+      470
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat in tennis gear, nervously watches a ball, then lunges forward with racket, displaying determination and focus as he attempts to hit the ball.",
+    "timestamp": "2026-02-23 23:50:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      351,
+      69,
+      510,
+      470
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in yellow shorts, plays tennis on a green court. He watches a ball, then lunges to hit it with his racket, showing determination. His expression shifts from focused to surprised as he moves dynamically, embodying playful energy and competitive spirit.",
+    "timestamp": "2026-02-23 23:51:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      351,
+      69,
+      510,
+      470
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, dressed in tennis gear, eagerly watches a tennis ball approach. He leaps, lunging forward with his racket, but misses, tumbling dramatically. His expression shifts from anticipation to surprise, capturing the comedic chaos of his failed attempt.",
+    "timestamp": "2026-02-23 23:51:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      351,
+      69,
+      510,
+      470
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands on a tennis court, wearing yellow shorts and holding a racket. He watches a tennis ball roll toward him, then lunges forward, swinging his racket with frantic energy. His expression shifts from focused to surprised as he misses the ball, tumbling backward with a comedic flop. The scene captures his playful, chaotic tennis attempt, highlighting his determination and comedic mishaps.",
+    "timestamp": "2026-02-23 23:51:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      176,
+      157,
+      415,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a grey cat in yellow shorts, plays tennis with enthusiasm, swinging his racket, jumping, and cheering, displaying joy and energy on the green court.",
+    "timestamp": "2026-02-23 23:51:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      176,
+      157,
+      415,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, plays tennis with enthusiasm, wearing a yellow outfit and cap. He leaps high, swinging his racket with excitement, then lands with a triumphant grin. His joyful expression and dynamic movements convey his passion for the game, despite the cartoonish exaggeration of his actions.",
+    "timestamp": "2026-02-23 23:51:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      176,
+      157,
+      415,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in yellow shorts, plays tennis with exaggerated enthusiasm. He leaps, swings his racket, and celebrates wildly after a powerful shot. His joyful, wide-eyed expressions convey excitement and triumph as he dances on the court under a bright blue sky.",
+    "timestamp": "2026-02-23 23:51:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      176,
+      157,
+      415,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dressed in yellow shorts and a tennis cap, energetically plays tennis on a vibrant green court. He swings his racket with enthusiasm, leaping high to hit the ball, then lands with a triumphant grin. His expression shifts from focused determination to joyful satisfaction as he celebrates his successful shot, embodying playful athleticism and spirited competition under the bright blue sky.",
+    "timestamp": "2026-02-23 23:51:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      11,
+      133,
+      388,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in tennis gear, swings his racket with intensity, eyes focused, as a bright yellow flash indicates a powerful hit on the tennis court.",
+    "timestamp": "2026-02-23 23:52:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      11,
+      133,
+      388,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with fierce determination, swinging his racket with exaggerated speed. His focused expression and dynamic motion convey intense concentration. The bright yellow tennis ball zips past him, capturing the energetic, cartoonish essence of the scene.",
+    "timestamp": "2026-02-23 23:52:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      11,
+      133,
+      388,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with fierce determination, swinging his racket with exaggerated motion. His focused expression and dynamic pose convey intense concentration. The vibrant court and motion lines emphasize speed and energy, capturing a classic cartoon moment of athletic effort and comedic flair.",
+    "timestamp": "2026-02-23 23:52:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      11,
+      133,
+      388,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, energetically plays tennis on a green court, wearing white shorts and sneakers. He swings his yellow racket with intense focus, eyes narrowed in determination. His body twists mid-swing, creating dynamic motion lines. The ball glows brightly as it flies toward him, suggesting a powerful shot. His expression is one of fierce concentration, embodying competitive spirit and athletic vigor. The scene captures his swift, agile movements and unwavering determination.",
+    "timestamp": "2026-02-23 23:52:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      94,
+      81,
+      427,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry engage in playful, exaggerated antics. Tom pulls Jerry with a leash, causing Jerry to tumble and react with surprise. Their expressions convey mischief and comedic tension typical of their classic rivalry.",
+    "timestamp": "2026-02-23 23:52:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      94,
+      81,
+      427,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic tug-of-war with a tennis racket. Tom, in yellow shorts, pulls Jerry, who wears a black shirt and light blue pants. Jerry resists, then gets pulled backward. Their expressions shift from determination to surprise as they struggle, showcasing classic cartoon antics.",
+    "timestamp": "2026-02-23 23:52:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      94,
+      81,
+      427,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in playful combat. Tom, in yellow shorts and a cap, pulls Jerry by a leash, causing him to tumble. Jerry, in black attire, retaliates with a slap, then both characters tumble and roll, ending in a comical, face-to-face standoff, their expressions full of mischief and determination.",
+    "timestamp": "2026-02-23 23:52:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      94,
+      81,
+      427,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic tennis match. Tom, in a yellow shirt and cap, swings a racket at Jerry, who dodges and retaliates with a slap. Tom, frustrated, pulls Jerry by his tail, causing Jerry to tumble. They then face off, each with exaggerated expressions—Tom’s eyes wide with determination, Jerry’s smug and defiant. The scene bursts with slapstick energy, classic cartoon chaos, and their timeless rivalry.",
+    "timestamp": "2026-02-23 23:53:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      290,
+      66,
+      511,
+      446
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, joyfully swings his racket at Jerry, who dodges. Tom’s exaggerated expressions show delight and determination as he plays the game.",
+    "timestamp": "2026-02-23 23:53:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      290,
+      66,
+      511,
+      446
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis attire, joyfully swings his racket, aiming at Jerry. Jerry, small and brown, scurries away. Tom's expression shifts from focused to triumphant as he hits the ball, showcasing his playful aggression and competitive spirit on the court.",
+    "timestamp": "2026-02-23 23:53:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      290,
+      66,
+      511,
+      446
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, dressed in yellow shorts and a white cap, joyfully swings a tennis racket, aiming at Jerry, the mouse. Jerry scurries away, while Tom exudes excitement and determination, showcasing his playful, competitive spirit on the green court under a clear blue sky.",
+    "timestamp": "2026-02-23 23:53:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      290,
+      66,
+      511,
+      446
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dons a tennis outfit and cap, joyfully swinging a racket on a green court. He chases a small brown mouse, who scurries away. Tom’s exaggerated expressions—wide eyes, open mouth—show delight and determination. The mouse, tiny and agile, dodges Tom’s powerful swings, creating a classic chase. The scene captures playful chaos, with Tom’s enthusiasm contrasting the mouse’s escape, set against a simple backdrop of a tennis court and sky.",
+    "timestamp": "2026-02-23 23:53:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      153,
+      61,
+      487,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis attire, swings his racket with vigor. Jerry, in red, dives under the net. Tom’s expression is intense, while Jerry appears determined, both engaged in a lively tennis match.",
+    "timestamp": "2026-02-23 23:54:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      153,
+      61,
+      487,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tennis outfit, swings his racket with determination. Jerry, in red shorts, dives under the net, startled. Tom follows, hitting the ball with force. Their expressions show focus and playful rivalry, capturing a classic cartoon tennis showdown.",
+    "timestamp": "2026-02-23 23:54:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      153,
+      61,
+      487,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a tennis outfit, swings his racket with vigor. Jerry, in a red outfit, dives under the net, then leaps up, startling Tom. Tom's expression shifts from focus to surprise. The scene captures their playful rivalry on a vibrant tennis court, full of exaggerated motion and comedic energy.",
+    "timestamp": "2026-02-23 23:54:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      153,
+      61,
+      487,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, plays tennis with fierce determination, swinging his racket with a joyful grin. He wears a yellow skirt and white gloves, mid-swing, eyes focused. Suddenly, Jerry, the brown mouse, dives under the net, catching a tennis ball mid-air. The scene captures their playful rivalry on a vibrant green court, with Tom’s energetic motion contrasting Jerry’s quick, agile escape. Their expressions radiate excitement and mischief, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-23 23:54:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      193,
+      95,
+      508,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, swings racket with determination. Jerry lies defeated nearby. Tom’s focused expression contrasts Jerry’s exhausted, defeated look as the tennis match concludes.",
+    "timestamp": "2026-02-23 23:54:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      193,
+      95,
+      508,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, leaps energetically with racket, while Jerry lies defeated. Tom’s determined expression contrasts Jerry’s exhausted look. The scene captures their classic rivalry, with Tom’s dynamic motion and Jerry’s stillness highlighting the comedic tension and playful conflict between the two.",
+    "timestamp": "2026-02-23 23:54:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      193,
+      95,
+      508,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, lunges with racket, mid-swing, eyes fierce. Jerry lies defeated, head down. Tom’s expression shifts to annoyance as he stomps, racket raised. The scene captures their classic rivalry—Tom’s aggression, Jerry’s submission—set against a vibrant, cartoonish court backdrop.",
+    "timestamp": "2026-02-23 23:54:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      193,
+      95,
+      508,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, energetically swings a tennis racket, mid-air, with a focused, determined expression. He’s dressed in light blue shorts and white shoes, mid-kick, showing athletic vigor. Below, Jerry, the gray mouse, lies defeated on the pink court, head tilted back, eyes closed, seemingly stunned or exhausted. The scene captures a dynamic, comedic tennis match, highlighting Tom’s aggression and Jerry’s vulnerability under the bright blue sky.",
+    "timestamp": "2026-02-23 23:55:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      137,
+      115,
+      353,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a ballet skirt holds a bottle, smoking, then raises it triumphantly as smoke rises. It looks surprised as clouds form around it.",
+    "timestamp": "2026-02-23 23:55:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      137,
+      115,
+      353,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a ballet skirt stands on ice, holding a bottle and a small object, steam rising from her. She appears startled or confused as clouds and smoke swirl around her, suggesting chaos or magical disruption. Her expression shifts from surprise to mild annoyance.",
+    "timestamp": "2026-02-23 23:55:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      137,
+      115,
+      353,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a white tutu stands on a snowy ledge, holding a banana and a red object, emitting smoke from its body. It appears startled or confused as smoke rises around it. The scene shifts to a bright, explosive sunburst, then back to the cat, now with a surprised expression.",
+    "timestamp": "2026-02-23 23:55:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      137,
+      115,
+      353,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat in a light blue tutu stands on a snowy ledge, holding a banana in one hand and a red object in the other. Smoke curls from her body, suggesting she’s overheating or magically affected. Her expression shifts from surprise to delight as she twirls, arms outstretched. Behind her, clouds and a tennis racket hint at a whimsical, cartoonish setting. The scene is vibrant, playful, and absurdly charming, capturing the cat’s mischievous energy.",
+    "timestamp": "2026-02-23 23:55:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      200,
+      145,
+      510,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with exaggerated expressions. He runs, swings, and reacts dramatically, showing determination and surprise as he competes on the green court.",
+    "timestamp": "2026-02-23 23:57:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      200,
+      145,
+      510,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with frantic energy, shouting and lunging. He wears a tennis outfit and holds a racket, displaying intense focus and determination. His exaggerated movements and expressive face convey his passion and competitive spirit on the court.",
+    "timestamp": "2026-02-23 23:57:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      200,
+      145,
+      510,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, in a tennis outfit, runs energetically across a green court, racket in hand, eyes wide with determination. His exaggerated expressions and dynamic poses convey intense focus and playful aggression, capturing the classic cartoon spirit of his tennis antics against a simple, vibrant backdrop.",
+    "timestamp": "2026-02-23 23:57:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      200,
+      145,
+      510,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, energetically plays tennis on a green court, holding a racket with a determined expression. He leaps and stretches, eyes wide with focus, as if chasing a ball. In a sudden shift, he dons a green cap and yellow shorts, sprinting with joyous abandon. His exaggerated movements and animated expressions convey playful enthusiasm, embodying classic cartoon dynamism as he dashes across the court, fully immersed in the game.",
+    "timestamp": "2026-02-23 23:57:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      81,
+      84,
+      271,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, runs with racket, then stops, looking determined. He's in a classic cartoon tennis scene, showcasing his competitive spirit and focused expression.",
+    "timestamp": "2026-02-23 23:58:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      81,
+      84,
+      271,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with a determined expression, wearing a green cap and yellow shorts. He runs across the court, swinging his racket with focus and energy, showcasing his athletic prowess and competitive spirit in this classic cartoon scene.",
+    "timestamp": "2026-02-23 23:58:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      81,
+      84,
+      271,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, plays tennis with determination, wearing a green cap and yellow shorts. He swings his racket with focus, then leaps joyfully, showcasing his playful spirit. His expressions shift from intense concentration to triumphant delight, embodying his competitive yet whimsical nature on the court.",
+    "timestamp": "2026-02-23 23:58:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0023_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      81,
+      84,
+      271,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, energetically plays tennis, donning a teal cap and yellow shorts. He swings his racket with focused determination, then sprints across the green court, eyes wide with playful intensity. His movements are swift and exaggerated, embodying cartoonish enthusiasm. The scene captures his competitive spirit and comedic flair as he dashes, racket in hand, against a simple backdrop of blue sky and pink wall, highlighting his spirited, mischievous character.",
+    "timestamp": "2026-02-23 23:58:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      52,
+      31,
+      406,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, swings a tennis racket aggressively. Jerry, the mouse, dodges and falls, then leaps back up, evading Tom’s powerful swing on the court.",
+    "timestamp": "2026-02-23 23:59:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      52,
+      31,
+      406,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, swings a tennis racket angrily at Jerry, the brown mouse, who dodges and falls. Tom chases him across the court, his expression furious. Jerry, small and agile, evades Tom’s attacks, showcasing their classic chase dynamic with comedic timing and exaggerated expressions.",
+    "timestamp": "2026-02-23 23:59:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      52,
+      31,
+      406,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, swings a tennis racket aggressively on a green court. Jerry, the brown mouse, dodges, then tumbles onto the grass. Tom chases, determined, while Jerry scurries away, evading capture with comedic flair, showcasing their classic chase-and-escape antics.",
+    "timestamp": "2026-02-23 23:59:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      52,
+      31,
+      406,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat in a tennis outfit, swings his racket with intensity, aiming at Jerry, the brown mouse. Jerry dodges, tumbling across the green court, then leaps toward the net. Tom follows, chasing after him with a determined expression. The scene captures their classic chase, filled with slapstick humor and dynamic movement, set against a vibrant tennis court backdrop. Their exaggerated expressions and fluid motion highlight the playful, competitive spirit of their antics.",
+    "timestamp": "2026-02-23 23:59:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      52,
+      382,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in yellow shorts and a green cap, sprints across a track, then leaps dramatically, arms outstretched, as white balls streak past him in the sky.",
+    "timestamp": "2026-02-23 23:59:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      52,
+      382,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in yellow shorts and a green cap, sprints across a track, eyes wide with determination. He leaps, arms outstretched, then falls backward as white balls streak past him. His expression shifts to shock as he tumbles, highlighting his frantic, comedic effort.",
+    "timestamp": "2026-02-23 23:59:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      52,
+      382,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, dashes across a track in yellow shorts, eyes wide with determination. He leaps, arms flailing, as white balls streak past him. His expression shifts to surprise as he vanishes, leaving only the sky and track behind. The scene captures his frantic, comedic chase.",
+    "timestamp": "2026-02-24 00:00:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      52,
+      382,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dashes across a track, wearing a green cap and yellow shorts, eyes wide with determination. He leaps, arms outstretched, as white balls streak past him in the sky. His expression shifts to surprise as he’s suddenly airborne, then vanishes from view, leaving only the track and sky behind. The scene captures his frantic motion and the surreal, cartoonish physics of his chase.",
+    "timestamp": "2026-02-24 00:00:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      112,
+      333,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing yellow shorts and a green hat, sprints across a tennis court, holding a racket, with determined focus and a slight smile, chasing a ball.",
+    "timestamp": "2026-02-24 00:00:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      112,
+      333,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, dashes across a tennis court in yellow shorts, holding a racket. His expression is focused, eyes forward, whiskers twitching. Motion lines blur his swift movement, emphasizing speed and determination as he races toward an unseen ball, embodying competitive spirit.",
+    "timestamp": "2026-02-24 00:00:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      112,
+      333,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, dashes across a tennis court in yellow shorts, gripping a racket with determination. His ears twitch, eyes focused ahead, tail flicking. Motion lines swirl behind him, emphasizing speed. He’s mid-stride, poised to strike, embodying urgency and competitive spirit under a clear blue sky.",
+    "timestamp": "2026-02-24 00:00:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      1,
+      112,
+      333,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dashes across a tennis court in a yellow skirt and white shoes, clutching a tennis racket. His green cap flies backward as he sprints with determination, eyes focused ahead. Motion lines swirl behind him, emphasizing speed. His expression is intense, showing concentration and effort. The bright blue sky and green court contrast with his energetic movement, capturing a moment of playful athleticism in this classic cartoon scene.",
+    "timestamp": "2026-02-24 00:00:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      77,
+      119,
+      348,
+      438
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in tennis gear, angrily swats at Jerry, who dodges and holds a tennis ball. Tom’s rage intensifies as Jerry taunts him with a playful smirk.",
+    "timestamp": "2026-02-24 00:01:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      77,
+      119,
+      348,
+      438
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, angrily swings his racket at Jerry, who dodges and holds a tennis ball. Tom’s expression is furious, while Jerry appears mischievous and triumphant, enjoying his escape from the feline’s wrath on the green court.",
+    "timestamp": "2026-02-24 00:01:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      77,
+      119,
+      348,
+      438
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in tennis gear, aggressively reaches for Jerry, who dodges with a tennis ball. Tom’s angry expression and outstretched arm show his frustration. Jerry, small and agile, evades capture, his red outfit contrasting with the green court. Their classic chase continues, full of slapstick energy and comedic tension.",
+    "timestamp": "2026-02-24 00:01:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      77,
+      119,
+      348,
+      438
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in yellow shorts and a visor, plays tennis with intense focus, swinging his racket. Jerry, a small brown mouse in red shorts, sneaks up, holding a tennis ball. Tom turns, eyes narrowed in suspicion, as Jerry playfully tosses the ball toward him. Tom’s expression shifts from concentration to annoyance, revealing his frustration at Jerry’s antics. The scene captures their classic rivalry, with Tom’s athletic stance contrasting Jerry’s mischievous charm on the vibrant green court.",
+    "timestamp": "2026-02-24 00:01:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      17,
+      97,
+      163,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with a cigarette smokes while holding a tennis racket, then lunges forward with a tennis ball in hand, displaying a focused, determined expression.",
+    "timestamp": "2026-02-24 00:02:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      17,
+      97,
+      163,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in tennis attire lunges, holding a racket, with a determined expression. Another cat, also in tennis gear, stands ready, eyes focused. The scene captures dynamic movement and competitive spirit, set against a vibrant outdoor court backdrop. Their expressions convey intensity and focus on the game.",
+    "timestamp": "2026-02-24 00:02:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      17,
+      97,
+      163,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, plays tennis with fierce determination, swinging his racket with intensity. He wears a black shirt, light blue shorts, and red shoes, displaying focused expression. The scene captures his dynamic motion against a vibrant outdoor court backdrop, emphasizing his competitive spirit and athletic prowess.",
+    "timestamp": "2026-02-24 00:02:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      17,
+      97,
+      163,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, in tennis attire, swings a racket with intense focus, eyes narrowed. He lunges forward, racket raised, as a tennis ball streaks past him. His expression shifts to determination, then surprise as the ball flies toward him. The background shows a vibrant tennis court under a clear blue sky, with trees and a pink wall. Tom’s posture and motion convey urgency and athleticism, capturing a dynamic moment of playful rivalry.",
+    "timestamp": "2026-02-24 00:03:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      71,
+      333,
+      382
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in white pants and red shoes sprints across a green track, arms outstretched, eyes wide with determination, as white motion lines blur behind him.",
+    "timestamp": "2026-02-24 00:03:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      71,
+      333,
+      382
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat, Tom, runs energetically across a track, arms outstretched, eyes wide with determination. He leaps over a hurdle, then vanishes into the sky, leaving behind a trail of white dots. The scene captures his swift, joyful motion against a vibrant blue backdrop.",
+    "timestamp": "2026-02-24 00:03:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      71,
+      333,
+      382
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat, wearing white pants and red shoes, sprints across a green track with a pink barrier. He leaps with arms outstretched, eyes wide in excitement, then vanishes mid-air, leaving only motion lines behind. His joyful expression suggests he’s racing with pure enthusiasm.",
+    "timestamp": "2026-02-24 00:03:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      71,
+      333,
+      382
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, wearing white pants and red shoes, sprints across a green track with a determined expression. He leaps and twists mid-air, arms flailing, as if chasing something. The background features a blue sky and a pink barrier. The cat’s exaggerated movements and wide eyes convey urgency and excitement, capturing a classic cartoon chase scene with dynamic motion and playful energy.",
+    "timestamp": "2026-02-24 00:03:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      49,
+      80,
+      315,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings a bat, launching a ball into a glowing ring. His grin and energetic motion convey excitement and playful determination in this classic cartoon scene.",
+    "timestamp": "2026-02-24 00:04:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      49,
+      80,
+      315,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings a bat, launching a ball into a golden, swirling portal. His expression is triumphant and exhilarated, eyes wide with delight as he leaps mid-air, embodying playful energy and cartoonish enthusiasm against a vibrant blue sky.",
+    "timestamp": "2026-02-24 00:04:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      49,
+      80,
+      315,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings a bat, eyes gleaming with excitement. His dynamic pose and wide grin convey enthusiasm. The background features a vibrant blue sky and a golden, swirling portal, hinting at magical or adventurous action. His energetic movement suggests a playful, high-spirited pursuit.",
+    "timestamp": "2026-02-24 00:04:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      49,
+      80,
+      315,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, joyfully swings a bat, eyes gleaming with excitement. He leaps energetically, arms outstretched, as a glowing golden ring spins behind him, hinting at a magical or comedic twist. His expression is one of pure delight and anticipation, suggesting he’s about to make a spectacular hit. The vibrant blue sky and pink ground frame his dynamic motion, emphasizing the playful, cartoonish energy of the scene.",
+    "timestamp": "2026-02-24 00:04:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      122,
+      25,
+      246,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wrapped in white bandages, stands upright on a tennis court, gripping a blue pole. He appears determined, eyes wide, as he prepares for an unusual athletic challenge.",
+    "timestamp": "2026-02-24 00:04:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      122,
+      25,
+      246,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, is wrapped in white bandages around a blue pole on a tennis court. He spins rapidly, then stops, looking upward with a surprised expression. His ears twitch, and his eyes widen as he stands still, bound and bewildered.",
+    "timestamp": "2026-02-24 00:04:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      122,
+      25,
+      246,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is wrapped in white bandages around a blue pole on a tennis court. He spins rapidly, eyes wide with surprise or panic, as the pole rotates. His expression shows frantic energy, suggesting he’s caught in a comical, chaotic situation, likely from a cartoon chase or prank.",
+    "timestamp": "2026-02-24 00:05:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      122,
+      25,
+      246,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is wrapped tightly in white bandages around a blue pole on a tennis court. His eyes are wide with surprise or frustration as he struggles to move. The scene transitions to him spinning rapidly, creating swirling motion lines, suggesting he’s being forced to rotate. His expression remains tense and determined, highlighting his comedic predicament as he’s immobilized by the pole, likely in a classic cartoon chase or trap scenario.",
+    "timestamp": "2026-02-24 00:05:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      65,
+      328,
+      404
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in yellow shorts, lunges on a tennis court, racket raised. He stumbles, then leaps, hitting a ball with force, showing determination and comedic chaos in his exaggerated motion.",
+    "timestamp": "2026-02-24 00:05:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      65,
+      328,
+      404
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in yellow shorts, lunges on a tennis court, racket raised, chasing a ball. His expression is determined, eyes fixed on the ball. The scene captures his dynamic motion as he dives, showcasing his playful, competitive spirit in this classic cartoon chase.",
+    "timestamp": "2026-02-24 00:05:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      65,
+      328,
+      404
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, in yellow shorts, lunges across a tennis court, racket raised. His determined expression shows focus as he swings, aiming for the ball. Motion lines emphasize speed. The scene captures his athletic effort and playful aggression in this classic cartoon pursuit.",
+    "timestamp": "2026-02-24 00:05:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      0,
+      65,
+      328,
+      404
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, in yellow shorts, lunges forward on a green tennis court, racket raised, eyes wide with determination. He dives low, sliding across the grass, then springs up, racket swinging wildly as he hits the ball. His expression is one of intense focus and playful aggression. The background shows a simple court with a net and bench, emphasizing the comedic, cartoonish nature of his exaggerated movements and the slapstick energy of the scene.",
+    "timestamp": "2026-02-24 00:05:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      144,
+      132,
+      293,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry play tennis, with Tom in yellow shorts and Jerry in black. They swing rackets, dodge, and react with surprise as the ball flies, showcasing their playful rivalry on the court.",
+    "timestamp": "2026-02-24 00:06:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      144,
+      132,
+      293,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry play tennis on a vibrant court. Tom, in yellow shorts, swings his racket with focus, while Jerry, in black, dashes and leaps, hitting the ball with energy. Their expressions show determination and playful rivalry, capturing classic cartoon antics under sunny skies.",
+    "timestamp": "2026-02-24 00:06:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      144,
+      132,
+      293,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry play tennis on a vibrant court. Tom, in yellow shorts and a blue cap, swings his racket with focus. Jerry, in black attire, leaps to return a shot. Their expressions shift from concentration to surprise as the ball zips through the air, capturing the playful chaos of their classic rivalry.",
+    "timestamp": "2026-02-24 00:06:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E46 - Tennis Chumps (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      144,
+      132,
+      293,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry play tennis on a vibrant green court. Tom, in yellow shorts and a blue cap, swings his racket with determination, while Jerry, in black and light blue attire, leaps energetically to return the ball. Their expressions shift from focused to surprised as the ball flies, with dynamic motion lines emphasizing speed. The scene captures their playful rivalry, filled with exaggerated movements and classic cartoon humor, set against a sunny backdrop with a striped tent in the distance.",
+    "timestamp": "2026-02-24 00:06:36"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "__name__": "Config: Transformer config for WanAnimateModel",
+  "_class_name": "WanAnimateModel",
+  "_diffusers_version": "0.33.1",
+  "_name_or_path": "Wan-animate",
+  "cross_attn_norm": true,
+  "dim": 5120,
+  "eps": 1e-06,
+  "ffn_dim": 13824,
+  "freq_dim": 256,
+  "in_dim": 36,
+  "motion_encoder_dim": 512,
+  "num_heads": 40,
+  "num_layers": 40,
+  "out_dim": 16,
+  "patch_size": [
+    1,
+    2,
+    2
+  ],
+  "qk_norm": true,
+  "text_dim": 4096,
+  "text_len": 512,
+  "use_context_parallel": false,
+  "use_img_emb": true,
+  "window_size": [
+    -1,
+    -1
+  ]
+}

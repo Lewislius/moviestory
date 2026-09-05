@@ -1,0 +1,55 @@
+# Credentials and local configuration
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+
+# Python and build caches
+**/__pycache__/
+*.py[cod]
+**/.cache/
+**/.hf_cache/
+**/._____temp/
+**/.venv/
+**/venv/
+**/node_modules/
+**/build/
+**/dist/
+**/*.egg-info/
+
+# Training and inference artifacts
+**/checkpoint/
+**/checkpoints/
+**/checkpoint-*/
+**/process_checkpoint/
+**/output/
+**/outputs/
+**/outputs_*/
+**/outputs-*/
+**/inference_outputs/
+**/demo_outputs*/
+**/quick_eval_outputs/
+**/wandb/
+**/log/
+**/logs/
+**/tmp/
+**/temp/
+*.out
+
+# Downloaded base models
+**/base_models/
+**/Qwen3-VL-*-Thinking/
+**/Sana_*_diffusers/
+**/google/
+**/xlm-roberta-large/
+
+# Model and optimizer weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.weight
+*.bias

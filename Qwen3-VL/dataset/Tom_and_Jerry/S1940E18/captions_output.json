@@ -1,0 +1,394 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      509,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in blue dress and red socks walks past. A mouse peeks out from behind a curtain, then leaps up, startled, as the woman passes.",
+    "timestamp": "2026-02-23 19:31:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      509,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A character in a blue dress and red tights walks past, revealing a surprised Tom, who peeks out from behind a curtain. He jumps up, startled, as the curtain sways slightly. His wide eyes and open mouth show shock or fear as he reacts to the sudden movement.",
+    "timestamp": "2026-02-23 19:31:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      509,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A character in a blue dress and red stockings walks, revealing a small mouse peeking from behind curtains. The mouse, startled, leaps upward with wide eyes, arms raised in panic, as the character continues walking past, unaware of the mouse’s sudden escape.",
+    "timestamp": "2026-02-23 19:31:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      102,
+      0,
+      509,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a blue dress and red stockings walks past, her yellow slippers visible. Behind a white curtain, Tom the cat peeks out, then leaps upward in surprise. His eyes widen, whiskers twitch, and he hangs mid-air, arms flailing. The curtain billows slightly as he ascends, hinting at playful mischief. The scene captures Tom’s startled, joyful reaction to the woman’s movement, emphasizing his classic comedic antics.",
+    "timestamp": "2026-02-23 19:31:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      47,
+      2,
+      444,
+      445
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in a suit and bowtie, sips soup with a spoon, then smiles broadly, eyes sparkling with delight as he enjoys his meal in a fancy chair.",
+    "timestamp": "2026-02-23 19:32:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      47,
+      2,
+      444,
+      445
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a bowtie, sits elegantly at a table, savoring soup with a spoon. His expression shifts from contentment to surprise as he lifts the spoon, then drops it dramatically, eyes wide with shock or delight. The scene captures his playful, exaggerated reactions.",
+    "timestamp": "2026-02-23 19:32:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      47,
+      2,
+      444,
+      445
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sips soup with a spoon, then dramatically lowers it, eyes wide with delight. He wears a red bow tie and sits elegantly in a pink chair, enjoying his meal. His expression shifts from contentment to surprise as he savors the soup, embodying classic cartoon charm.",
+    "timestamp": "2026-02-23 19:32:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      47,
+      2,
+      444,
+      445
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits elegantly in a pink chair, wearing a red bow tie, savoring soup with a spoon. He smiles contentedly, eyes closed in delight, then opens them with a satisfied grin. His whiskers twitch as he savors the flavor. The scene exudes charm and whimsy, capturing Tom’s playful indulgence in a classic cartoon setting, emphasizing his joy and the cozy, humorous atmosphere.",
+    "timestamp": "2026-02-23 19:32:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      221,
+      229,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a suit, smiles as he dangles a string with Jerry, who scurries away. Tom then tosses green olives, amusingly watching Jerry's reaction.",
+    "timestamp": "2026-02-23 19:33:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      221,
+      229,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a suit and bowtie, sits at a dining table, smiling as he dangles a fork. Jerry, a small brown mouse, stands on the table, tied by a string. Tom tosses green olives, while Jerry watches, seemingly amused. The scene is playful, capturing their classic rivalry.",
+    "timestamp": "2026-02-23 19:33:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      221,
+      229,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a suit and bowtie, smiles as he dangles a string tied to Jerry, who stands nervously. Tom tosses green olives, causing Jerry to jump. Tom chuckles, amused by Jerry’s antics, while Jerry’s tail twitches with anticipation, hinting at a playful, tense moment before the inevitable chase.",
+    "timestamp": "2026-02-23 19:33:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      221,
+      229,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a tuxedo, smiles mischievously while holding a fork, tied to Jerry, the brown mouse, by a string. Jerry, caught in the trap, struggles and dances nervously. Tom lifts a bowl of green olives, tossing them into the air as Jerry tries to escape. Tom’s expression shifts from playful to smug, enjoying his prank. The scene is set at a dinner table with a roasted turkey, wine, and plates, emphasizing their classic rivalry.",
+    "timestamp": "2026-02-23 19:34:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      216,
+      0,
+      511,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, is startled by Jerry, the mouse, who wields a green leafy object. Tom reacts with surprise and panic, while Jerry appears mischievous and triumphant.",
+    "timestamp": "2026-02-23 19:34:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      216,
+      0,
+      511,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is startled by Jerry, the brown mouse, who wields a green leafy object. Jerry smiles triumphantly as Tom leaps backward in shock, mouth agape. The scene captures their classic chase dynamic with exaggerated expressions and comedic timing.",
+    "timestamp": "2026-02-23 19:34:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      216,
+      0,
+      511,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps dramatically, eyes wide with shock, while Jerry the mouse, wielding a green bottle, smirks triumphantly. Jerry’s playful antics contrast Tom’s startled reaction as he’s knocked backward, showcasing their classic chase dynamic with comedic flair.",
+    "timestamp": "2026-02-23 19:34:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      216,
+      0,
+      511,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically, eyes wide with surprise or fear. Jerry, the brown mouse, stands triumphantly, holding a green bottle with a leafy top, which he wields like a weapon. Tom’s startled expression turns to shock as he’s knocked backward by the bottle’s force. The scene is set on a table with fruit and glasses, hinting at a playful, chaotic chase. Jerry’s grin suggests mischief, while Tom’s panic underscores their classic rivalry.",
+    "timestamp": "2026-02-23 19:34:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      126,
+      14,
+      432,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat in a red bowtie, sits on a stool with a bucket, laughing as smoke rises. A yellow kitten watches from the side, looking amused.",
+    "timestamp": "2026-02-23 19:35:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      126,
+      14,
+      432,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in a red bowtie, sits on a stool with a burning candle, emitting smoke. He laughs hysterically, then looks up as a yellow cat with a blue bowtie watches from the table. The scene captures Tom's comedic chaos and the other cat’s amused observation.",
+    "timestamp": "2026-02-23 19:35:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      126,
+      14,
+      432,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat with a red bowtie, sits atop a bucket, laughing as smoke billows from his tail. A yellow cat with a blue bowtie watches from the side, appearing amused. Tom’s joyful expression contrasts with the chaos around him, capturing a classic cartoon moment of mischief and comedy.",
+    "timestamp": "2026-02-23 19:35:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      126,
+      14,
+      432,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat in a red bowtie, sits atop a burning candle, smoke rising from his tail. He laughs joyfully, then gasps as the flame intensifies. A yellow kitten with a blue bowtie watches from the table, eyes wide with surprise. Tom’s expression shifts from delight to shock as the candle flickers, hinting at impending chaos. The scene is lighthearted, filled with cartoonish energy and comedic tension.",
+    "timestamp": "2026-02-23 19:35:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      88,
+      0,
+      510,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a knife menacingly, but Jerry, the mouse, escapes by grabbing it. Tom falls back, then sits up, gripping the knife with a mischievous grin.",
+    "timestamp": "2026-02-23 19:36:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      88,
+      0,
+      510,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, menacingly holds a knife toward Jerry, the brown mouse. Jerry, terrified, curls into a ball. Tom lunges, but Jerry leaps away, flipping the knife. Tom falls backward, stunned, then sits up, gripping the knife with a mischievous grin.",
+    "timestamp": "2026-02-23 19:36:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      88,
+      0,
+      510,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a knife menacingly as Jerry, the brown mouse, scurries away. Jerry grabs a white cloth, dodges, and leaps onto the knife, causing Tom to fall backward in surprise. Tom then sits up, holding the knife, with a mischievous grin.",
+    "timestamp": "2026-02-23 19:36:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      88,
+      0,
+      510,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, looms over Jerry, the brown mouse, who nervously crouches near his foot. Tom brandishes a knife, but Jerry dodges, grabbing a white cloth. He leaps away, then grabs the knife itself, flipping it dramatically. Tom, startled, falls backward, then sits up, holding the knife with a mischievous grin. His expression shifts from shock to smug satisfaction as he grips the blade, ready for another chase.",
+    "timestamp": "2026-02-23 19:37:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      41,
+      501,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, panicked and screaming, leaps away from a flaming candlestick, smoke billowing as he dodges the fire, his expression one of terror and urgency.",
+    "timestamp": "2026-02-23 19:38:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      41,
+      501,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is in a kitchen, screaming in panic as he's engulfed in flames from a candle. His eyes widen, mouth agape, and he flails his paws. The scene is chaotic, with smoke and fire swirling around him, highlighting his startled and distressed expression as he tries to escape the inferno.",
+    "timestamp": "2026-02-23 19:38:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      41,
+      501,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is in a kitchen, screaming as he’s engulfed in flames from a candle. His eyes are wide, mouth agape, and he flails his paws in panic. Smoke billows around him as he tries to escape the inferno, his expression a mix of terror and frantic determination.",
+    "timestamp": "2026-02-23 19:38:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E18 - The Mouse Comes To Dinner (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      19,
+      41,
+      501,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, in a kitchen, is startled and screaming as he’s engulfed in flames from a candle he’s accidentally lit. His body is contorted in panic, eyes wide, mouth agape, and fur standing on end. Flames lick his tail and paws, while smoke billows around him. A candlestick and a pot lie nearby, suggesting a chaotic cooking mishap. His expression conveys terror and surprise as he tries to escape the inferno, embodying classic cartoon slapstick comedy.",
+    "timestamp": "2026-02-23 19:38:39"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      4,
+      129,
+      292,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A joyful bulldog plays a cello, tongue out, while Tom the cat and Jerry the mouse peek from behind, amused and startled by the music.",
+    "timestamp": "2026-02-23 20:52:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      4,
+      129,
+      292,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog joyfully plays a cello, tongue out, as Tom the cat and Jerry the mouse peek from behind. Tom looks annoyed, while Jerry smiles mischievously. The scene shifts to nighttime, with the bulldog still playing, his expression cheerful and energetic.",
+    "timestamp": "2026-02-23 20:52:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      4,
+      129,
+      292,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cheerful bulldog plays a cello, tongue out, while Tom the cat and Jerry the mouse peek from behind. Tom looks annoyed, Jerry excited. The scene shifts to night, with the bulldog still joyful, surrounded by greenery and brick walls.",
+    "timestamp": "2026-02-23 20:52:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E26 - Solid Serenade (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      4,
+      129,
+      292,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cheerful grey bulldog with a red collar plays a cello, joyfully extending his paws. As he strums, Tom the cat appears, looking annoyed, while Jerry the mouse, holding a tiny violin, smiles mischievously. The scene shifts to nighttime, with the bulldog still playing, his expression full of enthusiasm. The background features a brick wall and greenery, adding to the playful, animated atmosphere. Their expressions and actions convey humor and musical antics.",
+    "timestamp": "2026-02-23 20:52:16"
+  }
+]

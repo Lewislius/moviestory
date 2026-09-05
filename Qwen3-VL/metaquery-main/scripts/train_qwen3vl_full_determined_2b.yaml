@@ -1,0 +1,41 @@
+name: metaquery-qwen3vl-training-2b
+description: a training for metaquery based on qwen3vl-2b-thinking
+workspace: RTX4090
+project: metaquery
+
+max_restarts: 0
+resources:
+  resource_pool: ada-48g
+  slots_per_trial: 4
+  is_single_node: true
+  shm_size: 34359738368
+
+bind_mounts:
+  - host_path: /mount/HOME/liuzhirui
+    container_path: /home/liuzhirui
+  - host_path: /mount/NAS1/public
+    container_path: /run/determined/NAS1/public
+
+environment:
+  image: 10.214.180.148:8192/liuzhirui:cuda11.3-12.1-12.4-v3
+
+checkpoint_storage:
+  type: shared_fs
+  host_path: /mount/HOME/liuzhirui/model
+  storage_path: checkpoint
+  save_experiment_best: 0
+  save_trial_best: 1
+  save_trial_latest: 1
+
+searcher:
+  name: single
+  metric: validation_loss
+  max_length:
+    epochs: 1
+  smaller_is_better: true
+
+profiling:
+  enabled: true
+
+entrypoint: /home/liuzhirui/model/Qwen3-VL-main/metaquery-main/scripts/train_qwen3vl_full_init_2b_determined.sh
+

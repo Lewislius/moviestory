@@ -1,0 +1,898 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      61,
+      360,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom catches Jerry with a string, laughing triumphantly. Jerry, bound and dangling, looks terrified. Tom's joyous expression contrasts with Jerry's panic as he hangs upside down.",
+    "timestamp": "2026-02-24 00:13:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      61,
+      360,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, triumphantly holds Jerry, the brown mouse, wrapped in string. Jerry looks terrified, dangling from a window blind. Tom's expression shifts from smug to gleeful as he pulls the string, showcasing his catch. The scene captures their classic chase dynamic with humor and tension.",
+    "timestamp": "2026-02-24 00:13:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      61,
+      360,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully grabs Jerry, the brown mouse, wrapped in string. Jerry’s terrified expression contrasts with Tom’s triumphant grin. Tom pulls Jerry upward, dangling him precariously near window blinds, showcasing their classic chase dynamic with exaggerated cartoon expressions.",
+    "timestamp": "2026-02-24 00:13:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      61,
+      360,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, triumphantly holds a string-bound Jerry, the brown mouse, dangling from a window blind. Tom’s expression shifts from smug to delighted, revealing his glee. Jerry, trapped and wriggling, shows panic and distress. The scene captures classic cartoon chaos, with Tom’s playful cruelty and Jerry’s desperate struggle against the string, set against the backdrop of wooden blinds and a purple curtain.",
+    "timestamp": "2026-02-24 00:13:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      85,
+      2,
+      509,
+      492
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat, gleefully holds a spoon over a pot, while Jerry, a small brown mouse, stands defiantly on the lid, reacting with fear and determination.",
+    "timestamp": "2026-02-24 00:14:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      85,
+      2,
+      509,
+      492
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a spoon over a pot, tongue out. Jerry, the brown mouse, emerges, defiantly waving a spoon. Tom's expression shifts from joy to surprise as Jerry's antics unfold, highlighting their classic rivalry and comedic tension.",
+    "timestamp": "2026-02-24 00:14:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      85,
+      2,
+      509,
+      492
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a spoon over a pot, tongue out. Jerry, the brown mouse, emerges, defiantly pointing. Tom’s expression shifts to surprise as Jerry dances, then scurries away, leaving Tom with a shocked, gaping mouth, tongue still out.",
+    "timestamp": "2026-02-24 00:14:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      85,
+      2,
+      509,
+      492
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a spoon over a steaming pot, tongue out, eyes gleaming with anticipation. Jerry, the brown mouse, leaps onto the pot’s lid, defiantly waving a tiny spoon. Tom’s expression shifts from joy to shock as Jerry’s antics trigger a sudden, startled reaction. Jerry’s animated gestures and wide-eyed expressions convey playful defiance, while Tom’s exaggerated shock highlights their classic, comedic rivalry. The scene bursts with slapstick energy and classic cartoon charm.",
+    "timestamp": "2026-02-24 00:14:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      58,
+      6,
+      399,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a blue dress and red heels walks past a wooden cabinet, adorned with colorful jewelry, her posture confident and graceful as she moves through the room.",
+    "timestamp": "2026-02-24 00:14:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      58,
+      6,
+      399,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a vibrant blue dress with green ruffles and red heels walks past a wooden cabinet, adorned with colorful bracelets and a gold necklace. She turns slightly, revealing her back, then continues walking away, her movements graceful and confident.",
+    "timestamp": "2026-02-24 00:14:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      58,
+      6,
+      399,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A vibrant, animated character in a blue dress with green ruffles and red heels walks past a wooden cabinet. She wears colorful bracelets and a golden necklace. Her confident stride suggests purpose, though her face remains unseen. The scene exudes lively, stylized charm typical of classic animation.",
+    "timestamp": "2026-02-24 00:15:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      58,
+      6,
+      399,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A vibrant, animated character in a blue dress with green ruffles and red heels walks briskly past a wooden cabinet. Adorned with colorful bracelets and a gold necklace, she moves with confidence, her arms swinging as she strides. Her posture suggests purpose or urgency. The scene is static, emphasizing her motion against a simple pink wall, capturing a moment of lively, stylized animation. No facial expressions are visible, but her body language conveys energy and determination.",
+    "timestamp": "2026-02-24 00:15:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      5,
+      167,
+      279,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat in a tuxedo plays piano, smiling and tapping keys. He glances at sheet music, then laughs joyfully, clearly enjoying his musical performance.",
+    "timestamp": "2026-02-24 00:15:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      5,
+      167,
+      279,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a tuxedo plays piano with intense focus, eyes closed, fingers dancing over keys. He occasionally glances at sheet music, then returns to playing. His expression shifts from concentration to delight, showcasing his passion for music. The scene captures his joyful, energetic performance.",
+    "timestamp": "2026-02-24 00:15:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      5,
+      167,
+      279,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, dressed in a tuxedo, sits at a piano, playing with intense focus. He flips through sheet music, occasionally pausing to adjust his posture. His expression shifts from concentration to delight as he taps keys, embodying passion and joy for music.",
+    "timestamp": "2026-02-24 00:15:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      5,
+      167,
+      279,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with white paws and a red bow tie sits at a piano, eyes closed, smiling as he plays. He taps keys rhythmically, occasionally glancing at sheet music. His tail curls behind him, and his expression shifts from focused to delighted. The piano’s keys gleam under soft light, and the room’s cool blue tones frame his musical performance, capturing his joyful, concentrated demeanor as he immerses himself in the melody.",
+    "timestamp": "2026-02-24 00:15:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      37,
+      435,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat plays piano with intense focus, tongue out, eyes closed, and paws on keys, showing concentration or frustration as he reads sheet music.",
+    "timestamp": "2026-02-24 00:16:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      37,
+      435,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits at a piano, eyes closed, tongue out, playing with exaggerated enthusiasm. His paws press keys rhythmically, showing joyful focus. Music sheets rest open above, indicating he's performing a piece. His expression conveys pure delight and concentration as he immerses himself in the music.",
+    "timestamp": "2026-02-24 00:16:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      37,
+      435,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and a red bowtie plays the piano, eyes closed, tongue out, seemingly lost in music. Sheet music rests on the stand. His fingers press keys rhythmically, conveying joy and concentration. The scene captures his passionate, playful performance with a classic cartoon charm.",
+    "timestamp": "2026-02-24 00:16:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      37,
+      435,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, Tom, sits at a piano, eyes closed, tongue out, deeply immersed in playing. His paws press keys with focused intensity, though his expression shifts to exaggerated delight, mouth open, as if enjoying the music. Sheet music rests open beside him, but he ignores it. The scene captures his playful, musical passion, blending humor with earnest performance. The piano’s warm tones and his expressive face highlight his joyous, slightly absurd dedication to the art.",
+    "timestamp": "2026-02-24 00:16:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      37,
+      6,
+      327,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a vibrant dress and red heels walks to a wooden cabinet, opens a drawer, and retrieves a small object, then closes it.",
+    "timestamp": "2026-02-24 00:17:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      37,
+      6,
+      327,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a vibrant blue dress and red heels, adorned with colorful bracelets, walks toward a wooden cabinet. She opens a drawer, retrieves a small object, and closes it. Her movements are deliberate, suggesting purpose or secrecy in her actions.",
+    "timestamp": "2026-02-24 00:17:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      37,
+      6,
+      327,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a vibrant blue dress and red heels, adorned with colorful jewelry, walks toward a wooden dresser. She bends, opens a drawer, and retrieves a small object, then stands upright, her posture suggesting purpose or curiosity. The room’s warm tones highlight her vivid attire.",
+    "timestamp": "2026-02-24 00:17:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      37,
+      6,
+      327,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a vibrant blue dress with green ruffles and red heels walks toward a wooden dresser, adorned with colorful bracelets and a necklace. She bends slightly, reaching for a drawer, her posture suggesting intent. The room's warm tones and vintage furniture frame her movement, emphasizing her focused, deliberate action. Her expression remains neutral, absorbed in her task, as she interacts with the dresser’s drawers, hinting at a quiet, purposeful routine.",
+    "timestamp": "2026-02-24 00:17:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      71,
+      1,
+      450,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a purple coat and red heels exits a room, carrying a green purse. She steps out through a blue door into a nighttime garden.",
+    "timestamp": "2026-02-24 00:17:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      71,
+      1,
+      450,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a purple coat with fur trim and red heels exits a room, carrying a green purse. She opens a blue door, stepping out into a nighttime garden. Her movements are deliberate, suggesting purpose or urgency as she leaves the house.",
+    "timestamp": "2026-02-24 00:17:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      71,
+      1,
+      450,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A character in a purple coat with white fur trim and red heels exits a room, carrying a green purse. They open a blue door, stepping out into a nighttime garden. Their movement is graceful, suggesting purposeful departure, with no visible emotions expressed. The scene ends as they vanish into the night.",
+    "timestamp": "2026-02-24 00:18:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      71,
+      1,
+      450,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon woman in a purple coat with white fur trim and red high heels exits a pink-walled room through a blue door. She carries a green handbag with a red clasp, her yellow-gloved hand gripping the handle. As she steps out, the door swings open, revealing a nighttime outdoor scene with columns and greenery. Her movement is brisk, suggesting urgency or purpose, though her expression remains unseen. The scene conveys a sense of departure or transition.",
+    "timestamp": "2026-02-24 00:18:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      165,
+      139,
+      372,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat joyfully dances and leaps through a room, expressing excitement with wide eyes and a grin, as he moves energetically past a dresser and door.",
+    "timestamp": "2026-02-24 00:18:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      165,
+      139,
+      372,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully leaps through a door, dancing with excitement. He twirls, jumps, and strikes playful poses, his eyes wide with delight. The room’s wooden dresser and mirror reflect his energetic antics as he moves with boundless enthusiasm, embodying pure cartoon delight.",
+    "timestamp": "2026-02-24 00:18:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      165,
+      139,
+      372,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully leaps through a doorway, dancing with exaggerated glee. He twirls, paws clenched, eyes wide with excitement. His energetic movements continue as he bounds past a dresser, tail swishing, embodying pure, cartoonish delight in his playful antics.",
+    "timestamp": "2026-02-24 00:18:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      165,
+      139,
+      372,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat bursts through a door, ecstatic and energetic, dancing wildly with fists raised. His joyful expression radiates excitement as he moves across the room, leaping and spinning near a wooden dresser. His movements are exaggerated and playful, embodying pure delight. The room’s warm tones and classic furniture frame his lively antics, capturing his unbridled enthusiasm and mischievous spirit as he revels in the moment.",
+    "timestamp": "2026-02-24 00:18:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      136,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom plays piano joyfully, while Jerry laughs nearby. Tom then dramatically holds a cane, roaring in excitement as Jerry continues his musical performance with glee.",
+    "timestamp": "2026-02-24 00:19:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      136,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, plays piano with joy, while Jerry, the black cat, laughs gleefully. Tom later stands on a chair, holding a cane, laughing wildly. Their playful antics showcase their classic rivalry, filled with humor and exaggerated expressions.",
+    "timestamp": "2026-02-24 00:19:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      136,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully plays piano with expressive delight, while Jerry, the black cat, dances nearby. Tom’s antics escalate as he holds a cane, laughing wildly. Their playful chaos bursts with energy, capturing classic cartoon mischief and camaraderie in a vibrant, animated setting.",
+    "timestamp": "2026-02-24 00:19:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      136,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, wearing a red bowtie, joyfully plays a piano with exaggerated expressions. Suddenly, a gray cat, Tom, appears on a yellow armchair, holding a long, thin object—likely a baton—and laughs maniacally, seemingly mocking the piano player. Both cats exhibit cartoonish, exaggerated emotions: the black cat is ecstatic, while Tom is gleeful and mischievous, creating a comedic, slapstick scene filled with slapstick energy and classic cartoon antics.",
+    "timestamp": "2026-02-24 00:19:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      50,
+      71,
+      290,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat proudly carries a blue dish with tiny mice, then drops it, causing a chaotic splash. He looks surprised and slightly dismayed at the mess.",
+    "timestamp": "2026-02-24 00:19:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      50,
+      71,
+      290,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat proudly carries a blue dish with tiny blue mice on it. He looks pleased, then suddenly drops the dish, causing a dramatic splash. The mice scatter in surprise. Tom’s expression shifts to shock and dismay as the chaos unfolds.",
+    "timestamp": "2026-02-24 00:20:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      50,
+      71,
+      290,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat proudly carries a blue dish with miniature mice on it, eyes wide with excitement. Suddenly, he drops it, causing a dramatic explosion of blue mist. He recoils in shock, then looks up with a mix of dismay and confusion as the mice scatter.",
+    "timestamp": "2026-02-24 00:20:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      50,
+      71,
+      290,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, brown with white paws and belly, proudly carries a blue dish with tiny blue mice atop it. He smiles, eyes wide with delight. Suddenly, the dish tips, sending the mice flying as Tom stumbles backward, shocked and flustered. The mice scatter in panic, their tiny forms tumbling off the dish. Tom’s expression shifts to one of startled dismay as he watches the chaos unfold, his paws wide and eyes bulging in surprise.",
+    "timestamp": "2026-02-24 00:20:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      177,
+      120,
+      364,
+      435
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sneaks near window, eyes wide, paws clasped, tail twitching, visibly excited or cautious as he peers outside at night.",
+    "timestamp": "2026-02-24 00:20:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      177,
+      120,
+      364,
+      435
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, dances joyfully near a window, eyes wide and tail wagging. He appears playful and energetic, moving with exaggerated motions. The room's warm lighting highlights his animated expressions, capturing his mischievous delight in the moment.",
+    "timestamp": "2026-02-24 00:20:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      177,
+      120,
+      364,
+      435
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark gray with white paws, stands near a window, eyes wide and paws clasped to his mouth, appearing startled or thoughtful. He then leaps away, tail flicking, as if reacting to something unseen outside. The room’s warm tones contrast with his sudden, animated movement.",
+    "timestamp": "2026-02-24 00:20:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      177,
+      120,
+      364,
+      435
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, dark blue with white paws and belly, stands thoughtfully, paw on chin, eyes gleaming. He then leaps energetically toward a window, arms flailing, tail swishing. Outside, a house glows under night sky. His expression shifts from contemplative to excited, hinting at mischief. The room’s warm tones and classic armchair frame his antics, capturing his classic mischievous charm and boundless energy.",
+    "timestamp": "2026-02-24 00:20:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      6,
+      500,
+      282
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat joyfully chases Jerry the mouse across a piano, capturing him mid-air with a playful grin, while Jerry scampers away in panic.",
+    "timestamp": "2026-02-24 00:21:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      6,
+      500,
+      282
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully chases Jerry the mouse across a piano, launching him with a slap. Jerry flails, airborne, while Tom beams with delight. Their classic chase continues, filled with slapstick humor and cartoonish energy, capturing their timeless rivalry and comedic antics.",
+    "timestamp": "2026-02-24 00:21:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      6,
+      500,
+      282
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully extends his paw, launching Jerry, the brown mouse, into the air. Jerry flails in panic as he soars above the piano keys. Tom's expression shifts from triumphant to amused, his tongue out, as Jerry lands with a thud, still airborne. Their classic chase continues with comedic chaos.",
+    "timestamp": "2026-02-24 00:21:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      6,
+      500,
+      282
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black and grinning, lunges with a white-gloved hand to catch Jerry the mouse, who scurries across piano keys. Jerry, brown and frantic, leaps away, his tail flailing. Tom’s expression shifts from gleeful to surprised as he misses, his tongue lolling. The piano’s green edges frame their chase, capturing the classic cartoon chase—playful, chaotic, and full of slapstick energy. Their expressions convey pure comedic chaos.",
+    "timestamp": "2026-02-24 00:21:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      161,
+      161,
+      397,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A brown cartoon cat with white paws and tail runs across a dark floor, then stops, looks around with wide eyes, and appears startled or confused.",
+    "timestamp": "2026-02-24 00:21:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      161,
+      161,
+      397,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cartoon cat with white paws and tail runs across a dark floor, then stops, looking surprised. It raises a paw, then turns away with a playful, mischievous expression, tail flicking. The room features cozy furniture and soft lighting.",
+    "timestamp": "2026-02-24 00:21:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      161,
+      161,
+      397,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cartoon cat with white paws and tail tip runs across a dark floor, then stops, looks up with wide eyes, and raises a paw. It appears surprised or startled, then turns away, tail flicking, as if reacting to something unseen. The scene suggests a playful or comedic moment in a cozy room.",
+    "timestamp": "2026-02-24 00:22:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      161,
+      161,
+      397,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cartoon cat with white paws and tail tip dashes across a dark floor, eyes narrowed in determination. It pauses, stands upright, and waves a paw in surprise or greeting. Then, it turns, tail flicking, and begins to run again, eyes wide with excitement or urgency. The room features cozy furniture and soft lighting, emphasizing the cat’s playful, energetic movements and expressive demeanor.",
+    "timestamp": "2026-02-24 00:22:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      17,
+      10,
+      269,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in colorful attire opens a door, startling Tom, Jerry, and a red bird. Tom holds a spoon, Jerry looks scared, and the bird carries a lid. All react with surprise and excitement.",
+    "timestamp": "2026-02-24 00:22:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      17,
+      10,
+      269,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in vibrant attire opens a door, startling Tom, Jerry, and a red bird. Tom, holding a broom, reacts with surprise, while Jerry and the bird look on. The woman’s colorful bracelets and red heels stand out as she steps into the room, her expression neutral.",
+    "timestamp": "2026-02-24 00:22:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      17,
+      10,
+      269,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in vibrant attire opens a door, startling Tom, Jerry, and a red bird. Tom, wielding a broom, leaps back in shock, while Jerry and the bird cower. Their expressions shift from surprise to alarm as the woman’s entrance disrupts their antics, highlighting their comedic, startled reactions.",
+    "timestamp": "2026-02-24 00:22:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      17,
+      10,
+      269,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a vibrant blue dress and red heels opens a door, adorned with colorful bracelets. Inside, Tom the cat, wielding a broom, and Jerry the mouse, covered in a lid, cower in fear. A black cat watches nervously. Tom lunges toward the door, startled by the woman’s entrance. The scene bursts with comedic tension, as the trio’s expressions shift from panic to surprise as the woman’s presence disrupts their chaotic antics.",
+    "timestamp": "2026-02-24 00:22:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      148,
+      97,
+      492,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom joyfully holds bacon, while Jerry gleefully smashes a pie, causing splatters. Both cats grin mischievously, reveling in their playful, chaotic antics.",
+    "timestamp": "2026-02-24 00:23:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      148,
+      97,
+      492,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully holds a stack of bacon, while Jerry, the black cat, gleefully grabs a plate. Tom’s expression is triumphant, while Jerry’s is mischievous. A sudden splash of red (blood) erupts from Jerry’s plate, startling both as they react with exaggerated shock and delight.",
+    "timestamp": "2026-02-24 00:23:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      148,
+      97,
+      492,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a stack of bacon, while Jerry, the black mouse, smiles mischievously. Suddenly, Tom drops the bacon, splattering it across Jerry’s face. Jerry laughs, while Tom’s expression shifts to surprise and delight, capturing their classic comedic rivalry.",
+    "timestamp": "2026-02-24 00:23:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      148,
+      97,
+      492,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a towering stack of bacon, while Jerry, the black mouse, smiles mischievously from behind a green table. Tom, with eyes wide and a grin, throws the bacon high, causing it to splatter dramatically. Jerry, delighted, catches the falling bacon with a bowl, then laughs as Tom’s expression shifts to surprise. The scene bursts with comedic chaos and playful rivalry between the classic cartoon feline and rodent.",
+    "timestamp": "2026-02-24 00:23:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      212,
+      38,
+      497,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, joyfully carries stacks of bacon and sandwiches, celebrating with wide eyes and a grin, amidst a chaotic, messy kitchen scene.",
+    "timestamp": "2026-02-24 00:23:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      212,
+      38,
+      497,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, joyfully carries towering stacks of bacon and sandwiches, his eyes gleaming with delight. He leaps energetically, scattering bread and meat around the room, embodying chaotic glee. His expression radiates pure, unbridled excitement as he dances with his culinary bounty.",
+    "timestamp": "2026-02-24 00:23:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      212,
+      38,
+      497,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, joyfully leaps with stacks of bacon and sandwiches, arms raised, eyes gleaming. He’s mid-air, surrounded by flying food, as if celebrating a victory. His expression is ecstatic, embodying pure delight and mischief in this cartoon chaos. The room’s wooden furniture and scattered bread slices add to the comedic mess.",
+    "timestamp": "2026-02-24 00:24:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E02 - Saturday Evening Puss (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      212,
+      38,
+      497,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, joyfully balances towering stacks of bacon and sandwiches, arms raised in triumph. His eyes gleam with delight as he dances mid-air, surrounded by flying food. The room, a cozy kitchen with wooden cabinets and a desk, is momentarily chaotic. A slice of bread lies on the floor, hinting at his messy, enthusiastic snack raid. His expression radiates pure, unbridled glee, capturing a whimsical, cartoonish moment of culinary chaos and delight.",
+    "timestamp": "2026-02-24 00:24:07"
+  }
+]

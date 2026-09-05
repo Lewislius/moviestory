@@ -1,0 +1,338 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      56,
+      163,
+      339,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat plays piano with enthusiasm, then jumps, flips, and lands on bench, showing surprise and delight as he continues playing with joy.",
+    "timestamp": "2026-02-23 22:13:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      56,
+      163,
+      339,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits at a piano, initially playing with enthusiasm. He then flips upside down, lands on his back, and looks up with a surprised expression. He turns to face the keyboard, eyes wide, as if startled or confused by his own antics.",
+    "timestamp": "2026-02-23 22:13:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      56,
+      163,
+      339,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits at a piano, initially playing with joy, then abruptly leaping backward in surprise. He turns, eyes wide, then leans forward, appearing focused or startled. His expressions shift rapidly, reflecting confusion and sudden realization, all while seated on the bench.",
+    "timestamp": "2026-02-23 22:13:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      56,
+      163,
+      339,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat sits at a piano, initially playing with enthusiasm. He leaps dramatically, then lands back on the bench, eyes wide with surprise. His expression shifts to one of focused concentration as he looks at the keys, then suddenly, he appears startled, eyes widening in shock. The scene captures his playful, exaggerated reactions typical of his character, blending humor with musical antics.",
+    "timestamp": "2026-02-23 22:14:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      262,
+      0,
+      455,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red book, then drops it as Jerry, the yellow mouse, scurries away. Tom's expression shifts from joy to surprise.",
+    "timestamp": "2026-02-23 22:15:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      262,
+      0,
+      455,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red book while wearing a yellow dress. He drops it, causing red lines to appear on the floor. He looks surprised and slightly annoyed as he struggles with the book, his expression shifting from joy to frustration.",
+    "timestamp": "2026-02-23 22:15:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      262,
+      0,
+      455,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly holds a red book while wearing a yellow garment. He stretches upward, then drops the book, causing it to crackle dramatically. His expression shifts from excitement to surprise as he reacts to the book’s sudden impact on the floor.",
+    "timestamp": "2026-02-23 22:15:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      262,
+      0,
+      455,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red book while lying on a yellow blanket. He lifts the book high, then slams it down, causing red streaks to appear on the floor. His expression shifts from delight to surprise as he looks down. The scene captures his playful mischief and sudden realization, set against a cozy room with pink walls and furniture. His actions convey mischievous energy and comedic timing.",
+    "timestamp": "2026-02-23 22:15:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      169,
+      28,
+      425,
+      435
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, holds a string, then grabs a blue iron, swinging it angrily. He looks frustrated, eyes wide, as he moves around the room, clearly annoyed.",
+    "timestamp": "2026-02-23 22:16:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      169,
+      28,
+      425,
+      435
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a string, then grabs a blue iron, swinging it angrily. He drops the iron, looking frustrated. The scene suggests a comedic chase or mishap, with Tom's exaggerated expressions and movements highlighting his irritation or surprise.",
+    "timestamp": "2026-02-23 22:16:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      169,
+      28,
+      425,
+      435
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, holds a string, eyes wide with excitement. He lifts a blue iron, then drops it, startled. He stands on a red carpet, near a wooden table, with a shoe hole nearby. His expressions shift from eager to surprised, capturing his playful, mischievous nature.",
+    "timestamp": "2026-02-23 22:17:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      169,
+      28,
+      425,
+      435
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and belly, holds a string while looking startled. He lifts a blue iron from a wooden table, then drops it with a startled expression. His eyes widen as he reacts to the iron’s sudden movement. He stands upright, gripping the string, seemingly preparing to use it for a prank or to catch something. The scene suggests playful mischief, with Tom’s animated expressions indicating surprise and anticipation.",
+    "timestamp": "2026-02-23 22:17:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      101,
+      128,
+      329,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a giant umbrella, catching Jerry who's inside. Tom smiles triumphantly, while Jerry looks scared, clinging to the umbrella's top.",
+    "timestamp": "2026-02-23 22:17:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      101,
+      128,
+      329,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a yellow and red parachute, smiling triumphantly as Jerry, the mouse, hangs from its top. Tom's expression shifts from joy to annoyance as Jerry struggles. The scene ends with Jerry clinging to a shelf beside a purple teapot.",
+    "timestamp": "2026-02-23 22:17:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      101,
+      128,
+      329,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully holds a yellow and red umbrella, lifting Jerry, the brown mouse, who sits atop it. Tom beams with delight, while Jerry looks amused. Their playful antics unfold against a simple backdrop, capturing classic cartoon charm and their enduring rivalry.",
+    "timestamp": "2026-02-23 22:17:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      101,
+      128,
+      329,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a yellow-and-red parachute, dragging Jerry, the brown mouse, who looks terrified. Tom smiles triumphantly as he lifts Jerry high, then lowers him, making Jerry’s eyes widen in fear. The scene shifts to Jerry clinging to a shelf beside a purple teapot, eyes wide with panic, as he narrowly avoids falling. Tom’s playful dominance contrasts with Jerry’s anxious escape attempts.",
+    "timestamp": "2026-02-23 22:17:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      121,
+      107,
+      497,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat sniffs a strand of hair, then angrily clenches fists, growls, and strikes a pose, showing intense frustration and aggression.",
+    "timestamp": "2026-02-23 22:18:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      121,
+      107,
+      497,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with pink ears, sniffs a thin strand, then growls in frustration. He clenches fists, eyes wide with anger, then suddenly smiles triumphantly as he holds the strand, sparks flying. His expression shifts from rage to delight, showcasing his playful, mischievous nature.",
+    "timestamp": "2026-02-23 22:18:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      121,
+      107,
+      497,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with gray fur and pink ears, sniffs a tiny twig, then reacts with surprise and delight. He clenches his fists, grins widely, and finally holds the twig triumphantly, eyes gleaming with mischief and excitement against a plain yellow backdrop.",
+    "timestamp": "2026-02-23 22:18:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      121,
+      107,
+      497,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with pink ears, sniffs a tiny strand of hay, then growls with intense yellow eyes. He clenches fists, eyes narrowing in rage, then suddenly strikes with a powerful punch, sending sparks flying. He grins triumphantly, fists raised, eyes gleaming with satisfaction. His expression shifts from fury to exhilarated victory, embodying classic cartoon chaos and comedic aggression.",
+    "timestamp": "2026-02-23 22:18:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      187,
+      66,
+      384,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sneaks behind a yellow curtain, then dashes away, eyes wide with surprise or mischief, leaving the curtain behind.",
+    "timestamp": "2026-02-23 22:18:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      187,
+      66,
+      384,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sneaks behind a yellow curtain, then leaps forward with a startled expression. He’s visibly surprised or alarmed, his body tense as he moves swiftly across the pink floor, eyes wide and ears perked, suggesting he’s chasing or evading something unseen.",
+    "timestamp": "2026-02-23 22:19:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      187,
+      66,
+      384,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, hides behind a yellow curtain, then leaps forward with a startled expression. He’s visibly anxious or surprised, as he’s mid-motion, arms flailing, eyes wide, and mouth open—showing his frantic, comedic reaction to an unseen event.",
+    "timestamp": "2026-02-23 22:19:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E33 - The Invisible Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      187,
+      66,
+      384,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, crouches near a yellow curtain, eyes narrowed in anticipation. He swiftly lunges forward, pulling the curtain aside with a dramatic motion, revealing nothing but empty space. His expression shifts to surprise as he pauses, then quickly retreats, tail flicking in alarm. The scene suggests a failed pursuit or a sudden realization, leaving Tom momentarily stunned and confused.",
+    "timestamp": "2026-02-23 22:19:13"
+  }
+]

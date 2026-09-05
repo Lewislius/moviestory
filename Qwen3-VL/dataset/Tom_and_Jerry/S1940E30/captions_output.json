@@ -1,0 +1,450 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      110,
+      172,
+      371,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom chases Jerry, who sneaks into the fridge. Tom leaps in, but Jerry escapes, causing a bottle to fly out. Tom looks surprised as Jerry vanishes.",
+    "timestamp": "2026-02-23 21:36:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      110,
+      172,
+      371,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, chases Jerry, the brown mouse, who sneaks into the fridge. Tom leaps in, startled by the fridge’s contents. Jerry scampers away, leaving Tom bewildered and slightly defeated as the fridge door slams shut behind him. Their classic chase continues with comedic chaos.",
+    "timestamp": "2026-02-23 21:36:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      110,
+      172,
+      371,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, in a comical chase, leaps toward a fridge as Jerry the mouse scurries inside. Tom’s expression is one of frantic pursuit, while Jerry’s is mischievous. The fridge door swings open, revealing a chaotic scene of spilled items and a startled Tom, caught in the midst of their classic chase.",
+    "timestamp": "2026-02-23 21:36:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      110,
+      172,
+      371,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lunges toward the fridge as Jerry, the brown mouse, scurries inside. Tom’s expression is one of frantic pursuit, arms outstretched, while Jerry appears mischievous, clinging to the fridge door. Suddenly, a bottle flies out, startling Tom, who recoils. The scene captures their classic chase, filled with slapstick humor and cartoonish chaos, highlighting their timeless rivalry and playful antics in the kitchen.",
+    "timestamp": "2026-02-23 21:36:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      286,
+      79,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, stands menacingly with paws raised, eyes glowing yellow, while Jerry, the small brown mouse, crouches nervously nearby, anticipating Tom’s next move.",
+    "timestamp": "2026-02-23 21:37:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      286,
+      79,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, dances excitedly, eyes wide, as Jerry the mouse scurries away. Tom’s playful antics contrast Jerry’s nervous escape, set against a cozy fireplace backdrop. Their classic rivalry is on full display, filled with humor and mischievous energy.",
+    "timestamp": "2026-02-23 21:37:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      286,
+      79,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, stands menacingly with arms raised, eyes wide and teeth bared, while Jerry, the small brown mouse, crouches nervously nearby. Tom’s posture suggests aggression or surprise, while Jerry appears cautious, anticipating Tom’s next move in their classic chase.",
+    "timestamp": "2026-02-23 21:37:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      286,
+      79,
+      511,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands menacingly with wide yellow eyes and a sneer, arms raised in triumph. Jerry, the small brown mouse, crouches nervously nearby, eyes darting. Tom’s expression shifts from gleeful to smug as he holds a golden fireplace tool, seemingly ready to strike. The scene is set in a cozy room with a fireplace and elegant furniture, highlighting the classic cat-and-mouse chase dynamic, full of tension and cartoonish exaggeration.",
+    "timestamp": "2026-02-23 21:37:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      228,
+      42,
+      508,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, holds a golden stick, shouting in frustration. Jerry, the brown mouse, stands small and defiant nearby, as Tom's angry expression shows his annoyance.",
+    "timestamp": "2026-02-23 21:37:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      228,
+      42,
+      508,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a golden broom, startled and yelling. Jerry, the brown mouse, scurries away, seemingly frightened. Tom’s wide eyes and open mouth show shock or anger. The scene captures their classic chase, with Tom’s aggressive stance contrasting Jerry’s quick escape.",
+    "timestamp": "2026-02-23 21:37:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      228,
+      42,
+      508,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, brandishes a golden stick, eyes wide with anger, as Jerry, the brown mouse, scurries away. Tom’s expression shifts from rage to surprise as he swings the stick, while Jerry dodges, evading capture in a classic chase scene filled with comedic tension and slapstick antics.",
+    "timestamp": "2026-02-23 21:38:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      228,
+      42,
+      508,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, brandishes a golden fireplace tool with a startled, wide-eyed expression, mouth agape in shock or fear. Beside him, Jerry, the small brown mouse, scurries away, clutching a golden key. The scene unfolds in a cozy room with a framed picture on the wall. Tom’s posture suggests urgency or alarm, while Jerry’s panicked escape highlights their classic chase dynamic, capturing the comedic tension of their eternal rivalry.",
+    "timestamp": "2026-02-23 21:38:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      137,
+      1,
+      423,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red dish, then pours milk over his head, splashing wildly as he reacts with shock and dismay.",
+    "timestamp": "2026-02-23 21:38:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      137,
+      1,
+      423,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red dish, then pours milk over his head, dripping down his body. He reacts with shock and disgust, flailing his arms, eyes wide, as milk cascades off him, revealing his startled, messy state.",
+    "timestamp": "2026-02-23 21:38:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      137,
+      1,
+      423,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red bowl, then douses himself with milk. He grimaces, shakes off the liquid, and yells in frustration. His expression shifts from delight to annoyance as milk drips down his fur, capturing his comedic, chaotic antics in a classic cartoon moment.",
+    "timestamp": "2026-02-23 21:38:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      137,
+      1,
+      423,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red dish with yellow trim, smiling mischievously. He lifts it above his head, dousing himself in milk, which cascades down his body. His expression shifts from delight to shock as milk drips from his face. He flinches, eyes wide, then lets out a loud, comical scream, arms flailing in exaggerated distress as the milk continues to drip. His antics reflect classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 21:38:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      27,
+      67,
+      348,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, chases Jerry, the mouse, who splashes milk in a bowl. Tom catches Jerry, then holds him triumphantly, showing his playful yet determined expression.",
+    "timestamp": "2026-02-23 21:39:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      27,
+      67,
+      348,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, chases Jerry, the brown mouse, who leaps into a bowl of milk. Tom grabs Jerry, then reacts with surprise as Jerry splashes milk. Tom’s expression shifts from determination to shock, highlighting their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 21:39:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      27,
+      67,
+      348,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the brown mouse, in his paw. Jerry, startled, leaps into a bowl of milk, splashing it. Tom, amused, watches as Jerry drowns in the milk, then triumphantly holds Jerry aloft, smirking with satisfaction.",
+    "timestamp": "2026-02-23 21:39:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      27,
+      67,
+      348,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the brown mouse, in his paw. Jerry, mischievous and agile, leaps into a red bowl of milk, splashing it dramatically. Tom, startled, lunges forward, then pauses with a surprised expression as Jerry’s antics unfold. The scene captures their classic chase dynamic—Tom’s playful pursuit and Jerry’s clever evasion—set against a simple, cartoonish backdrop. Their expressions convey mischief, surprise, and the timeless comedic tension of their rivalry.",
+    "timestamp": "2026-02-23 21:39:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      272,
+      100,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, holds a yellow wand, shouting with wide eyes and open mouth, as a trail of yellow smoke curls from the wand, indicating surprise or excitement.",
+    "timestamp": "2026-02-23 21:39:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      272,
+      100,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a yellow wand, screaming in delight. He swings it, causing a trail of yellow shapes to swirl behind him. His wide eyes and open mouth convey excitement and playful chaos as he dances with his magical tool, embodying whimsical mischief.",
+    "timestamp": "2026-02-23 21:39:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      272,
+      100,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide yellow eyes and an open mouth, holds a golden key. He appears shocked or excited, gesturing with the key as yellow smoke curls from it. His expression conveys surprise or delight as he reacts to the key's magical effect, set against a simple indoor backdrop.",
+    "timestamp": "2026-02-23 21:39:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      272,
+      100,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a golden wand, eyes wide and mouth agape in shock or delight. He twirls the wand, causing a trail of golden, looping shapes to emerge, suggesting magical or whimsical effects. His expression shifts from awe to playful excitement as he gestures with the wand, clearly enchanted by its power. The scene captures his animated, joyful reaction to the wand’s magical capabilities, emphasizing his delight and wonder.",
+    "timestamp": "2026-02-23 21:40:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      117,
+      90,
+      415,
+      435
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, angrily slams a door, causing it to burst apart. His expression shows frustration and determination as he forcefully pushes through the wreckage.",
+    "timestamp": "2026-02-23 21:40:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      117,
+      90,
+      415,
+      435
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bowtie, vigorously punches a yellow door, causing it to crack. His expression is determined, with wide eyes and a focused stance. The scene suggests a comedic struggle, typical of classic cartoon antics, as he attempts to force his way through.",
+    "timestamp": "2026-02-23 21:40:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      117,
+      90,
+      415,
+      435
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, presses his paws against a yellow door, eyes wide with determination. He leaps forward, breaking through the door with a burst of motion, scattering paper fragments. His expression is one of focused urgency, as if chasing something or escaping. The scene is chaotic yet playful, capturing his classic cartoon energy.",
+    "timestamp": "2026-02-23 21:40:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      117,
+      90,
+      415,
+      435
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and a red bowtie, stretches his arms upward, pushing against a yellow door. His determined expression shows effort as he struggles to open it. The door cracks and shatters, revealing a hallway beyond. Tom’s body is tense, eyes focused, and paws gripping the frame. The scene captures his frustration and determination, as he persists in his attempt to escape or enter, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-23 21:40:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      246,
+      31,
+      488,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, angrily chases Jerry, the brown mouse, across a room, his tail swishing wildly as he lunges, showing fierce determination and annoyance.",
+    "timestamp": "2026-02-23 21:41:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      246,
+      31,
+      488,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is startled and recoils from a flying hat, eyes wide with shock. Jerry, the brown mouse, scurries away, looking up at Tom. The scene captures their classic chase dynamic, with Tom’s startled expression contrasting Jerry’s mischievous escape.",
+    "timestamp": "2026-02-23 21:41:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      246,
+      31,
+      488,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is startled, recoiling from a flying object. Jerry, the brown mouse, crouches nearby, appearing cautious. Tom’s eyes widen in shock as he dodges, his tail whipping in panic. The scene captures their classic chase dynamic, filled with comedic tension and exaggerated expressions.",
+    "timestamp": "2026-02-23 21:42:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E30 - Dr. Jekyll and Mr. Mouse (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      246,
+      31,
+      488,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is visibly enraged, his eyes glowing yellow and teeth bared as he lunges toward Jerry, the small brown mouse. Jerry cowers, terrified, as Tom’s tail whips around in a blur, indicating frantic motion. The scene is set in a cozy living room with a red sofa and lamp. Tom’s aggressive posture and Jerry’s fearful stance highlight their classic rivalry, with Tom’s fury and Jerry’s evasion creating a tense, comedic moment.",
+    "timestamp": "2026-02-23 21:42:11"
+  }
+]

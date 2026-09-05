@@ -1,0 +1,58 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      1,
+      219,
+      357
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom cat sneaks, then applies makeup in bathroom. Man plays piano nearby. Tom's expressions show mischief and vanity, contrasting with the man's focused performance.",
+    "timestamp": "2026-02-24 02:24:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      1,
+      219,
+      357
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, hangs upside down, then rights himself. He later applies lipstick in a bathroom mirror while standing on a stool. A man plays piano nearby, his feet tapping rhythmically. Tom’s expressions shift from curious to amused, showcasing his mischievous nature.",
+    "timestamp": "2026-02-24 02:24:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      1,
+      219,
+      357
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A man plays piano, while a cat, Tom, hangs upside down, then rights himself. Later, Tom stands on a stool in a bathroom, applying lipstick to his reflection. The scenes depict playful antics and vanity, with Tom’s expressions showing mischief and self-awareness.",
+    "timestamp": "2026-02-24 02:24:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E29 - Johann Mouse (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      1,
+      219,
+      357
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A man in a blue suit plays a red piano, while Tom the cat hangs upside down, then rights himself, looking curious. Later, Tom stands on a stool in a bathroom, applying makeup to his face, reflected in a mirror. He adjusts his ears, then exits. The scenes show Tom’s playful mischief and vanity, set against elegant interiors, with expressive, cartoonish animation.",
+    "timestamp": "2026-02-24 02:24:35"
+  }
+]

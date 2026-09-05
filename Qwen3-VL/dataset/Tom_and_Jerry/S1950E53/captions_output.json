@@ -1,0 +1,114 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      176,
+      4,
+      384,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat dances joyfully, stretching and twirling near a tree, smiling broadly with playful energy and exaggerated expressions, enjoying a carefree moment outdoors.",
+    "timestamp": "2026-02-24 02:53:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      176,
+      4,
+      384,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat dances joyfully, waving and stretching, then suddenly freezes in surprise. He looks around, startled, before continuing his playful antics. His expressions shift from delight to shock, showcasing his comedic, exaggerated reactions in the sunny garden setting.",
+    "timestamp": "2026-02-24 02:53:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      176,
+      4,
+      384,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully dances near a tree, laughing and stretching. He gestures wildly, then pauses, looking surprised. His playful energy contrasts with his sudden stillness, hinting at a comedic twist. The scene is bright and cheerful, capturing his animated personality and the whimsical nature of the cartoon world.",
+    "timestamp": "2026-02-24 02:53:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      176,
+      4,
+      384,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dances joyfully in a garden, arms flailing, eyes gleaming with delight. He leaps and twirls beside a tree, occasionally pausing to grin broadly. His playful energy is contagious, as he moves with exaggerated enthusiasm. The background features a white fence and vibrant green grass, enhancing the cheerful, cartoonish atmosphere. Tom’s expressions shift from ecstatic to mischievous, capturing his classic comedic charm and boundless spirit.",
+    "timestamp": "2026-02-24 02:53:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      0,
+      421,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps, then chases a red bird tied to a post, laughing triumphantly as he pulls it along, showcasing his playful, mischievous nature.",
+    "timestamp": "2026-02-24 02:54:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      0,
+      421,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully chases a red bird tied to a post, leaping and swinging with delight. His expression shifts from eager pursuit to triumphant satisfaction as he stands victorious, tail high, after successfully capturing his prey. The garden setting adds charm to his playful antics.",
+    "timestamp": "2026-02-24 02:54:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      0,
+      421,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, then crouches beside a red post where a bound chicken struggles. He grins triumphantly, paws raised, as he stands tall, reveling in his catch. The garden backdrop, with flowers and a fence, frames his mischievous, victorious expression.",
+    "timestamp": "2026-02-24 02:54:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E53 - The Egg And Jerry (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      0,
+      421,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps joyfully across a grassy yard, eyes gleaming with mischief. He approaches a red post where a small, bound bird—likely Jerry—is tied. Tom crouches, grinning triumphantly, then stands tall, arms raised in victory. His playful, predatory grin suggests delight in his capture. The scene is vibrant with green grass, flowers, and a wooden fence, underscoring the classic cartoon’s playful chaos and Tom’s ever-present scheming.",
+    "timestamp": "2026-02-24 02:54:25"
+  }
+]

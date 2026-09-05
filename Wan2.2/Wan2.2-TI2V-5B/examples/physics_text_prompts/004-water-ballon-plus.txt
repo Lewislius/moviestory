@@ -1,0 +1,36 @@
+[Original prompt]
+A water balloon is thrown against a brick wall, splattering water and leaving a wet mark.
+
+Relevant physical states:
+
+* The water balloon must remain present and visually consistent before impact.
+* The brick wall must remain present, stationary, and spatially consistent throughout the sequence.
+* The distance between the water balloon and the wall should decrease during the approach.
+* The balloon should remain intact before contacting the wall.
+* Physical contact between the balloon and the wall must occur at the impact moment.
+* The balloon should deform and rupture as a consequence of the impact.
+* Water should emerge from the ruptured balloon and spread outward from the impact region.
+* The wall surface should become visibly wet after the water contacts it.
+* A wet mark should remain on the wall after the splashing event.
+
+Physical event order:
+
+1. The intact water balloon moves toward the brick wall.
+2. The distance between the balloon and the wall decreases.
+3. The water balloon makes physical contact with the wall.
+4. The impact causes the balloon to deform and rupture.
+5. Water is released and splatters outward from the impact location.
+6. The released water contacts the wall surface.
+7. A visible wet mark forms and remains on the wall after the splash.
+
+Cause-effect constraints:
+
+* The water balloon and the brick wall must exist before the collision can occur.
+* The balloon must approach the wall before making contact with it.
+* Physical contact with the wall must happen before the balloon ruptures.
+* The balloon rupture must be caused by the impact rather than occurring spontaneously before contact.
+* Water release must happen after the balloon ruptures.
+* Water splattering must originate from the impact and rupture region.
+* The wet mark must form only after water contacts the wall.
+* The balloon must not disappear, duplicate, or release water before the rupture event.
+* The wet mark must not appear on the wall before the splash occurs.

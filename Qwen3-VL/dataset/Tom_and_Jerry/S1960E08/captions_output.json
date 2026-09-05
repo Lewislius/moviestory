@@ -1,0 +1,394 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      91,
+      96,
+      391,
+      411
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-clad man with a hat grabs a red shield, startling a gray cat peeking from behind. The cat looks startled, while the man appears frantic, his expression one of shock or urgency.",
+    "timestamp": "2026-02-24 03:17:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      91,
+      96,
+      391,
+      411
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-clad man in a hat lunges at a red shield, startling a blue cat peeking from behind. The cat, wide-eyed and startled, flinches as the man’s forceful motion sends the shield flying. The man’s expression is frantic, while the cat appears equally alarmed, both caught in a chaotic, cartoonish moment of surprise.",
+    "timestamp": "2026-02-24 03:17:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      91,
+      96,
+      391,
+      411
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-clad, top-hatted man with a purple mustache grabs a red shield, revealing a surprised blue cat with white paws. The man yells, then kicks the shield, sending the cat flying backward. The cat lands on the wooden floor, eyes wide with shock.",
+    "timestamp": "2026-02-24 03:17:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      91,
+      96,
+      391,
+      411
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-clad, hat-wearing man in a ship’s cabin lunges at a red shield, gripping it as a startled gray cat with wide eyes peeks out. The man’s expression shifts from surprise to frantic determination as he stumbles backward, knocking over the shield. The cat, initially hidden, now leaps out with a startled yowl, arms flailing. The scene is chaotic, with splashes of color and motion lines emphasizing the sudden, comedic action. The man’s urgency contrasts with the cat’s startled, playful reaction.",
+    "timestamp": "2026-02-24 03:17:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      79,
+      191,
+      397
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Characters leap from ship's edge, splash into waves. A man in black, holding a bat, dances joyfully, celebrating the chaos. All actions are exaggerated and comedic.",
+    "timestamp": "2026-02-24 03:18:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      79,
+      191,
+      397
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in red and blue leaps from a boat, followed by another in green. A third, in black, brandishes a baton. All appear frantic, dodging waves and splashes. The scene is chaotic, with exaggerated movements and expressions of panic or excitement against a stormy sky.",
+    "timestamp": "2026-02-24 03:18:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      79,
+      191,
+      397
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon man in a red shirt and blue pants leaps over a wooden railing, followed by a green-clad figure. They tumble into waves, then a black-suited man with a top hat emerges, wielding a spatula, celebrating triumphantly against a stormy sky.",
+    "timestamp": "2026-02-24 03:18:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      79,
+      191,
+      397
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character in a red shirt and blue pants leaps over a wooden deck, arms raised in excitement. Another character in green dives into the sea, creating a splash. A third, in a black suit and hat, runs across the deck, waving a megaphone. The scene is lively, with dynamic movements and expressive gestures, set against a vibrant, stormy sky. The characters exude energy and joy, capturing a moment of playful chaos on a ship.",
+    "timestamp": "2026-02-24 03:18:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      134,
+      61,
+      407,
+      298
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon sailor, in a black coat and hat, excitedly peers through a telescope, then cheers, laughing joyfully while holding it, showing enthusiasm and delight.",
+    "timestamp": "2026-02-24 03:18:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      134,
+      61,
+      407,
+      298
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon sailor in a black coat and hat peers through a telescope, then smiles broadly. He lowers the telescope, laughs joyfully, and gestures excitedly. His animated expressions convey enthusiasm and delight as he enjoys his nautical adventure.",
+    "timestamp": "2026-02-24 03:18:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      134,
+      61,
+      407,
+      298
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon sailor in a black coat and hat peers through a telescope, eyes wide with excitement. He then lowers the telescope, smiling broadly, before raising it again, eyes gleaming with anticipation. His expressions shift from joy to focused curiosity as he scans the horizon.",
+    "timestamp": "2026-02-24 03:18:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      134,
+      61,
+      407,
+      298
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon sailor, wearing a black hat and coat, peers through a telescope on a wooden ship’s deck. He shouts excitedly, then lowers the telescope, grinning broadly. He raises his hand in triumph, then leans back, eyes wide with delight. His animated expressions convey enthusiasm and surprise. The background features wooden planks and a bucket, emphasizing the nautical setting. His joyful demeanor suggests he’s spotted something thrilling on the horizon.",
+    "timestamp": "2026-02-24 03:19:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      118,
+      155,
+      473,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon man in a black suit draws a butcher's chart on a whale, labeled \"Dicky Moe,\" while another character with a red pencil watches, smiling mischievously.",
+    "timestamp": "2026-02-24 03:19:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      118,
+      155,
+      473,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a black suit and hat draws red lines on a whale illustration labeled \"DICKY MOE,\" marking cuts like \"FILET,\" \"CHOPS,\" and \"RIBS.\" Another character with a wide grin and red pen observes, smiling mischievously. The whale looks distressed with a bandage and angry eyes.",
+    "timestamp": "2026-02-24 03:19:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      118,
+      155,
+      473,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a black suit and hat draws a butcher’s chart on a whale, labeled “DICKY MOE.” Another character, smiling broadly with a red pencil, watches. The whale has a sad face, stitched with red lines marking cuts like “FILET” and “CHOPS.” The scene is humorous and exaggerated.",
+    "timestamp": "2026-02-24 03:19:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      118,
+      155,
+      473,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character, dressed in a black suit with a hat, draws red lines on a butcher’s chart of a whale labeled “DICKY MOE.” The whale has a sad face and a bandage. As the character draws, another character with a wide grin and red tie appears, holding a red marker. The scene is humorous, with exaggerated expressions and a whimsical, animated style, emphasizing the absurdity of labeling a whale as meat.",
+    "timestamp": "2026-02-24 03:19:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      159,
+      104,
+      347,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A stout, bearded man in a top hat and coat stands on a stone ledge, holding a barrel. He leans forward, then turns away, gazing out at the sea under a stormy sky.",
+    "timestamp": "2026-02-24 03:20:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      159,
+      104,
+      347,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout, mustachioed man in a black coat and hat stands on a stone ledge, gesturing toward a large wooden barrel. He then turns away, looking out at the sea under a stormy sky, his posture suggesting contemplation or melancholy as a lone figure against the vast ocean.",
+    "timestamp": "2026-02-24 03:20:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      159,
+      104,
+      347,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoonish man in a black coat and top hat, with a long white beard, stands on a stone ledge by the sea, holding a wooden barrel. He gestures dramatically, then vanishes as the barrel floats away, leaving only the sea and sky behind.",
+    "timestamp": "2026-02-24 03:20:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      159,
+      104,
+      347,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, bearded man in a black coat and top hat stands on a stone ledge, holding a wooden barrel. He gestures animatedly, then turns away, leaving the barrel behind. The scene shifts to a solitary figure, wrapped in a thick cloak, sitting silently on the same ledge, gazing out at the vast, stormy sea under a turbulent sky. The atmosphere is melancholic and contemplative, with the lone figure embodying solitude against the vastness.",
+    "timestamp": "2026-02-24 03:20:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      216,
+      90,
+      365,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon man in a black coat and hat leans against a barrel, smiling. A small white creature with a hat sits atop the barrel, looking down. The scene is set on a stone pier by the sea.",
+    "timestamp": "2026-02-24 03:20:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      216,
+      90,
+      365,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A jovial, mustachioed man in a black coat and hat carries a large wooden barrel, smiling broadly. He walks confidently across a stone dock, with a small, surprised-looking figure peeking from behind a wooden post nearby. The scene is bright and cartoonish, suggesting a lighthearted, adventurous mood.",
+    "timestamp": "2026-02-24 03:20:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      216,
+      90,
+      365,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout, black-clad man with a top hat and purple scarf leans against a wooden barrel, smiling broadly. He gestures with one hand while the other rests on the barrel. Behind him, a small, round character with a hat and mustache peeks out from atop the barrel, adding a whimsical touch to the scene.",
+    "timestamp": "2026-02-24 03:20:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      216,
+      90,
+      365,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A jovial, stout man in a black coat and hat, with a white beard and pink nose, leans against a wooden barrel. He gestures animatedly, smiling broadly with closed eyes, as if dancing or celebrating. Behind him, a small, white, bearded figure perches atop the barrel, also smiling. The scene unfolds on a cobblestone pier against a vibrant blue sea and sky, suggesting a cheerful, whimsical maritime setting. The characters exude joy and camaraderie, their expressions radiating delight.",
+    "timestamp": "2026-02-24 03:20:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      81,
+      496,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A sailor, in black coat and hat, cheers while holding a bottle aloft. A whale surfaces nearby, creating a playful, animated scene on the ship’s deck.",
+    "timestamp": "2026-02-24 03:21:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      81,
+      496,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon sailor, in a black coat and hat, joyfully raises a bottle, then turns to watch a whale leap from the sea. He smiles broadly, reveling in the spectacle, as the whale splashes playfully nearby. The scene captures his delight and the whimsical, animated charm of the moment.",
+    "timestamp": "2026-02-24 03:21:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      81,
+      496,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon sailor, dressed in black with a hat, joyfully raises a bottle while standing on a ship’s deck. He watches a playful whale leap from the ocean, creating splashes. The sailor’s excitement is evident as he cheers, capturing the whimsical, adventurous spirit of the scene.",
+    "timestamp": "2026-02-24 03:21:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1960/output_Tom and Jerry (1940) - S1960E08 - Dicky Moe (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      299,
+      81,
+      496,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon sailor, dressed in black with a hat and white gloves, joyfully raises a telescope above his head. He turns to face the ocean, where a small, smiling whale breaches playfully. The sailor’s expression shifts from excitement to delight as he watches the whale. A large cannon stands nearby, adding a nautical touch. The scene exudes whimsy and adventure, capturing a lighthearted moment between man and marine creature.",
+    "timestamp": "2026-02-24 03:21:37"
+  }
+]

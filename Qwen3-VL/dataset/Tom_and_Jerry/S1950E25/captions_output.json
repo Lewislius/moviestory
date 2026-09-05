@@ -1,0 +1,786 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      84,
+      45,
+      369,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in sailor attire, dances energetically on a ship deck. He salutes a passing officer, who walks past him. Tom's playful expression and exaggerated movements highlight his cheerful, mischievous spirit.",
+    "timestamp": "2026-02-24 02:13:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      84,
+      45,
+      369,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a sailor, performs a dance on a ship deck, then salutes a passing officer. His playful antics contrast with the officer’s formal stride. Tom’s cheerful expression and exaggerated movements highlight his mischievous spirit, while the officer remains composed, observing the antics.",
+    "timestamp": "2026-02-24 02:13:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      84,
+      45,
+      369,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a sailor outfit, energetically dances on a ship's deck, balancing on a block of cheese. He salutes, then a sailor in blue uniform walks by, ignoring him. Tom smiles proudly, showcasing his playful, mischievous spirit amidst the nautical setting.",
+    "timestamp": "2026-02-24 02:13:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      84,
+      45,
+      369,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a sailor in a blue uniform and white cap, dances energetically on a ship's deck, stepping on a block of cheese. He twirls, waves, and smiles triumphantly. A ship officer in a navy uniform walks by, briefly acknowledging Tom with a wave. Tom’s playful antics and cheerful expression convey lightheartedness, while the officer’s passing adds a touch of routine to the whimsical scene.",
+    "timestamp": "2026-02-24 02:13:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      111,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a cowboy hat, holds a gun while Jerry, atop his head, aims a revolver. Tom’s expression shifts from surprise to shock as he’s shot, smoke trailing from his mouth.",
+    "timestamp": "2026-02-24 02:13:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      111,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, wears a red bandana and holds a gun, while Jerry, the mouse, dons a cowboy hat and climbs atop him. Jerry grabs a revolver, aiming it at Tom, who reacts with surprise. Sparks fly as Jerry fires, leaving Tom with a shocked expression. Their antics showcase classic cartoon chaos.",
+    "timestamp": "2026-02-24 02:13:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      111,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat with a red scarf, holds a mouse in his hand. The mouse, wearing a cowboy hat, grabs a revolver and fires, causing smoke to erupt. Tom looks surprised, eyes wide, as the mouse stands atop his head, holding the gun with a mischievous grin.",
+    "timestamp": "2026-02-24 02:13:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      23,
+      111,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears a red bandana and holds a yellow-tipped toothbrush. Jerry, the brown mouse in a cowboy hat, perches atop Tom’s head. Jerry grabs a blue revolver, aiming it at Tom. Tom, startled, lets out a puff of smoke from his mouth, reacting with surprise. Jerry fires the gun, causing sparks to fly. Both characters display playful, exaggerated expressions, capturing the classic cartoon chaos and humor of their rivalry.",
+    "timestamp": "2026-02-24 02:14:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      14,
+      91,
+      414,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a blue sailor outfit, energetically pushes a stack of lifebuoys on a ship deck, showing determination and playful mischief as he moves them along the wooden planks.",
+    "timestamp": "2026-02-24 02:14:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      14,
+      91,
+      414,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue sailor outfit, stealthily approaches a stack of lifebuoys on a ship's deck. He hides behind them, then leaps forward with a mischievous grin, ready to pounce. His playful antics suggest he’s up to no good, likely planning to catch Jerry.",
+    "timestamp": "2026-02-24 02:14:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      14,
+      91,
+      414,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, stealthily approaches a stack of lifebuoys on a ship's deck, crouching and peeking around them. He then leaps forward, arms raised in excitement, before diving back into hiding, his playful mischief evident as he schemes his next move.",
+    "timestamp": "2026-02-24 02:14:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      14,
+      91,
+      414,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a blue cat in a sailor outfit, stealthily pushes a stack of lifebuoys on a ship’s deck. He hides behind them, peeking out with a mischievous grin. Suddenly, he leaps forward, arms raised in triumph, then quickly ducks back behind the buoys, eyes wide with playful excitement. The scene captures his cunning and playful antics, set against the backdrop of a sunny ocean voyage.",
+    "timestamp": "2026-02-24 02:14:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      53,
+      150,
+      471,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a red scarf, holds a revolver to Jerry’s head. Jerry, in a cowboy hat, looks terrified. Tom smiles menacingly, then fires, causing Jerry to flinch.",
+    "timestamp": "2026-02-24 02:15:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      53,
+      150,
+      471,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat with a red scarf, holds a revolver, aiming at Jerry, a brown mouse in a cowboy hat. Tom's expression shifts from menacing to amused as he fires, causing Jerry to flinch. The scene captures their classic rivalry with exaggerated cartoon physics and expressions.",
+    "timestamp": "2026-02-24 02:15:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      53,
+      150,
+      471,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a dark cat with a red scarf, menacingly holds a revolver to Jerry, a tiny mouse in a black hat. Tom’s eyes gleam with malice as he aims, then suddenly his teeth gleam with gold, revealing a mischievous grin as Jerry flinches, caught in a comical, cartoonish standoff.",
+    "timestamp": "2026-02-24 02:15:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      53,
+      150,
+      471,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat with a red scarf, holds a revolver, aiming it at Jerry, the brown mouse in a cowboy hat. Tom’s expression shifts from menacing to smug as he fires, his teeth flashing gold chains. Jerry, startled, flinches and raises his paws defensively. The scene unfolds against a plain curtain backdrop, emphasizing their exaggerated cartoon expressions and the absurdity of their standoff, capturing classic slapstick comedy.",
+    "timestamp": "2026-02-24 02:15:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      188,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in sailor attire, emerges from hiding on a ship's deck, startled and drenched, then dashes away as if chased, leaving a puddle behind.",
+    "timestamp": "2026-02-24 02:15:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      188,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a sailor, emerges from behind a ship's pipe, drenched in water. He shakes off the droplets, looks surprised, then runs away. The scene is set on a wooden ship deck under a clear blue sky with a single cloud. His expression shifts from shock to determination as he dashes off.",
+    "timestamp": "2026-02-24 02:15:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      188,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat in a sailor outfit emerges from behind a ship’s pipe, drenched in water. He shakes off droplets, then runs across the wooden deck, looking determined. The scene is bright and playful, capturing his energetic, mischievous spirit under a clear sky.",
+    "timestamp": "2026-02-24 02:15:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      188,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A blue cat, Tom, in a sailor outfit, emerges from behind a large ship’s pipe on a wooden deck. He looks startled, then stands upright, shaking off water. He walks briskly across the deck, glancing back, then vanishes from view. The scene is bright and cartoonish, with a single cloud against a clear blue sky. Tom’s expression shifts from surprise to determination as he moves, suggesting a playful or mischievous adventure aboard the ship.",
+    "timestamp": "2026-02-24 02:15:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      114,
+      84,
+      329,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in sailor outfit, leans on ship railing, eyes wide with excitement or fear, as he watches something off-screen, his body tense and alert.",
+    "timestamp": "2026-02-24 02:16:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      114,
+      84,
+      329,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a sailor, leans over a ship's railing, eyes wide with excitement or fear. He grips the rail, looking out over the ocean. Behind him, lifebuoys rest against the deck. His posture suggests anticipation or alarm as he observes something beyond the frame.",
+    "timestamp": "2026-02-24 02:16:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      114,
+      84,
+      329,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a sailor, leans over a ship's railing, eyes wide with excitement or fear. He grips the rail, body tense, as he peers out over the ocean. Behind him, stacked lifebuoys gleam under the sun, hinting at a nautical adventure or perilous escapade. His expression conveys anticipation or alarm.",
+    "timestamp": "2026-02-24 02:16:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      114,
+      84,
+      329,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a blue-gray cat in a sailor outfit, stands on a ship’s deck, leaning on the railing with a mischievous grin. He appears to be plotting something, eyes gleaming with scheming intent. Nearby, a stack of lifebuoys rests against the railing. His posture suggests he’s ready to act, perhaps to escape or prank someone. The scene exudes playful tension, hinting at classic cartoon antics about to unfold.",
+    "timestamp": "2026-02-24 02:16:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      135,
+      152,
+      354,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed as a sailor, runs excitedly across a ship's deck, showing determination and joy, with a bright, animated expression as he moves swiftly past railings.",
+    "timestamp": "2026-02-24 02:17:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      135,
+      152,
+      354,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a sailor outfit, dashes past a beach chair, then leaps against a ship’s wall, eyes wide with surprise. His frantic movement suggests urgency or evasion, capturing his classic mischievous energy as he navigates the ship’s deck with comedic haste.",
+    "timestamp": "2026-02-24 02:17:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      135,
+      152,
+      354,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a sailor outfit, dashes across a ship’s deck, eyes wide with urgency. He leaps over a railing, then pauses mid-air, looking back with a startled expression. His blue shirt and white cap flutter as he prepares to continue his frantic escape, embodying classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-24 02:17:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      135,
+      152,
+      354,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, in a sailor outfit, leaps energetically from a beach chair on a ship deck. His wide eyes and open mouth convey excitement or urgency. He bounds past golden railings, pausing briefly to look back, then continues sprinting with determined stride. His tail flicks, and paws pump with motion, suggesting he’s chasing something or rushing toward an adventure. The bright, sunny setting enhances the lively, playful mood of his escapade.",
+    "timestamp": "2026-02-24 02:17:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      199,
+      127,
+      422,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in sailor attire, runs energetically across a ship's deck, eyes wide with determination or surprise, tail flicking as he moves briskly past railings and doors.",
+    "timestamp": "2026-02-24 02:17:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      199,
+      127,
+      422,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in sailor attire, dashes energetically along a ship's deck, his expression one of determination or surprise. He pauses briefly, eyes wide, before continuing his brisk movement, showcasing his classic cartoon agility and comedic urgency.",
+    "timestamp": "2026-02-24 02:17:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      199,
+      127,
+      422,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a sailor, runs energetically across a ship's deck, his expression focused and determined. He leaps over a railing, showcasing agility and urgency. His blue uniform and white hat contrast against the ship's warm tones, emphasizing his dynamic movement and playful, mischievous intent.",
+    "timestamp": "2026-02-24 02:17:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      199,
+      127,
+      422,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed in a blue sailor outfit with a white hat, runs energetically along a ship’s deck, his tail swishing and paws pumping. His expression shifts from determined to surprised as he pauses, eyes wide, near a golden railing. The background reveals ship details like railings and a smokestack under a clear blue sky. His motion suggests urgency or playful mischief, typical of his animated antics, as he navigates the ship’s exterior with lively, cartoonish enthusiasm.",
+    "timestamp": "2026-02-24 02:17:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      211,
+      87,
+      384,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a sailor outfit, dances energetically while Jerry, holding a guitar, watches. Tom's joyful expression and dynamic movements contrast with Jerry's small, observant stance.",
+    "timestamp": "2026-02-24 02:18:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      211,
+      87,
+      384,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue shirt and sailor hat, dances energetically, laughing wildly. Jerry, small and holding a guitar, watches from the side. Tom’s joyful, exaggerated movements contrast with Jerry’s calm observation, capturing their classic dynamic in a lively, animated scene.",
+    "timestamp": "2026-02-24 02:18:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      211,
+      87,
+      384,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue shirt and sailor hat, dances joyfully, arms flailing, while Jerry, tiny and holding a guitar, watches from the side. Tom’s wide grin and energetic movements convey excitement, contrasting Jerry’s calm, amused stance as they share a playful moment in a dimly lit, plant-filled room.",
+    "timestamp": "2026-02-24 02:18:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      211,
+      87,
+      384,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a blue shirt and sailor hat, dances energetically, smiling broadly, while Jerry, tiny and holding a guitar, watches from the side. Tom’s movements are exaggerated—arms flailing, feet stomping—as he appears joyful and animated. The setting is a dimly lit, cozy room with plants and tables, suggesting a relaxed, perhaps musical, atmosphere. Jerry remains still, observing Tom’s antics with a hint of amusement or curiosity, contrasting Tom’s lively performance.",
+    "timestamp": "2026-02-24 02:18:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      159,
+      2,
+      411,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in blue uniform, tries to chase Jerry with a stick on a ship deck, loses balance, and ends up sitting defeated as a sailor walks by.",
+    "timestamp": "2026-02-24 02:19:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      159,
+      2,
+      411,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue uniform, struggles with a long pole, accidentally knocking over a small mouse. He falls, embarrassed, as a captain walks by. Tom covers his ears, startled, while the mouse scurries away. The scene is set on a ship’s deck under a clear blue sky.",
+    "timestamp": "2026-02-24 02:19:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      159,
+      2,
+      411,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue uniform, attempts to chase Jerry with a red stick, but slips and falls. Jerry escapes, leaving Tom dazed and seated. A ship officer walks past, ignoring the chaos. Tom’s expression shifts from determination to shock and defeat, highlighting his futile pursuit.",
+    "timestamp": "2026-02-24 02:19:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      159,
+      2,
+      411,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a blue uniform, attempts to chase Jerry with a red stick, but stumbles and falls, landing on his back. Jerry, small and brown, escapes beneath a pillar. Tom, now sitting with a shocked expression, covers his ears as a large sailor in blue uniform walks past, seemingly oblivious. The scene unfolds on a ship’s deck under clear blue skies, capturing Tom’s comedic frustration and Jerry’s clever escape.",
+    "timestamp": "2026-02-24 02:19:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      225,
+      126,
+      392,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a blue shirt and white hat, dances confidently. Jerry, small and holding a guitar, stands nearby, smiling. Their playful expressions suggest a lighthearted, musical interaction in a dimly lit room.",
+    "timestamp": "2026-02-24 02:19:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      225,
+      126,
+      392,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue shirt and sailor hat, dances confidently while Jerry, tiny and holding a guitar, stands nearby. Tom smiles mischievously, arms outstretched, as if enjoying a playful moment. The scene is set in a dimly lit, cozy room with plants and furniture. Their expressions suggest lightheartedness and anticipation.",
+    "timestamp": "2026-02-24 02:19:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      225,
+      126,
+      392,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue shirt and sailor hat, dances confidently with a grin, while Jerry, tiny and holding a guitar, stands nearby. Tom’s playful energy contrasts Jerry’s small size, creating a humorous dynamic as they move through a dimly lit, plant-filled room, suggesting a lighthearted musical escapade.",
+    "timestamp": "2026-02-24 02:19:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      225,
+      126,
+      392,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, wearing a blue shirt and white cap, confidently strides forward with a smug grin, hands on hips. Beside him, Jerry, tiny and brown, holds a yellow guitar, looking up at Tom with a mischievous smile. The dimly lit room, filled with potted plants and wooden furniture, hints at a cozy, possibly upscale setting. Tom’s expression suggests he’s amused or perhaps a bit smug, while Jerry’s playful demeanor hints at a classic, comedic dynamic between them.",
+    "timestamp": "2026-02-24 02:19:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      33,
+      139,
+      271,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in sailor attire, sneaks up to Jerry, who relaxes in a deck chair reading. Tom tries to steal the book, but Jerry remains calm, unaware of the impending trouble.",
+    "timestamp": "2026-02-24 02:20:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      33,
+      139,
+      271,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in sailor attire, sneaks up to Jerry, who’s reading on a deck chair. Tom tries to steal the book, but Jerry remains calm. Tom’s expression shifts from mischief to surprise as Jerry’s eyes widen, hinting at an impending prank or chase. The scene captures their classic dynamic with humor and tension.",
+    "timestamp": "2026-02-24 02:20:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      33,
+      139,
+      271,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in sailor attire, sneaks up to Jerry, who relaxes on a striped deck chair reading. Tom sneaks behind, then leaps onto the chair, startling Jerry. Jerry looks up, surprised. Tom smirks, confident, while Jerry appears startled and slightly annoyed. Their playful rivalry is evident.",
+    "timestamp": "2026-02-24 02:20:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      33,
+      139,
+      271,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a sailor, runs toward Jerry, who lounges in a striped deck chair reading a book. Tom stops, glares, and pokes the book, then stands with arms crossed, smirking. Jerry looks up, startled, then resumes reading. Tom’s expression shifts from annoyance to playful mischief as he leans on the chair, clearly amused by Jerry’s obliviousness. The scene captures their classic dynamic: Tom’s scheming, Jerry’s calm, and the comedic tension between them.",
+    "timestamp": "2026-02-24 02:20:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      191,
+      150,
+      512,
+      347
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a blue outfit, chases Jerry with a broom. Jerry scurries away, dodging. Tom's determined expression shows his pursuit, while Jerry appears frantic and agile.",
+    "timestamp": "2026-02-24 02:21:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      191,
+      150,
+      512,
+      347
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue sports uniform, chases Jerry with a broom, sweeping him across a gym floor. Jerry scurries away, eyes wide with panic. Tom's determined expression shows his relentless pursuit, while Jerry's frantic movement highlights his escape attempt in this classic cartoon chase.",
+    "timestamp": "2026-02-24 02:21:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      191,
+      150,
+      512,
+      347
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a blue jersey, chases Jerry with a broom, his eyes wide with determination. Jerry scurries away, tiny and agile, dodging Tom’s sweeping motion. The scene unfolds on a wooden court, with colorful poles and a net in the background, capturing their classic chase with comedic energy and playful tension.",
+    "timestamp": "2026-02-24 02:21:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      191,
+      150,
+      512,
+      347
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, energetically sweeps a wooden floor with a broom, chasing Jerry, the brown mouse. Jerry scurries away, narrowly escaping Tom’s sweeping motion. Tom’s determined expression and focused posture show his relentless pursuit, while Jerry’s quick, agile movements reflect his cunning escape. The scene unfolds on a brightly lit, striped floor, emphasizing their dynamic chase. Their classic rivalry is vividly portrayed through their exaggerated actions and expressions.",
+    "timestamp": "2026-02-24 02:21:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      139,
+      34,
+      485,
+      383
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat pulls a rope, straining with determination. His eyes narrow, showing effort and focus. He grips tightly, muscles tensed, as he tries to drag something unseen across a wooden porch.",
+    "timestamp": "2026-02-24 02:21:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      139,
+      34,
+      485,
+      383
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red collar, pulls a rope with determination, his eyes narrowed in focus. He struggles to maintain balance while pulling, showing grit and effort. His expression shifts from intense concentration to slight frustration as he strains against the rope’s resistance.",
+    "timestamp": "2026-02-24 02:21:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      139,
+      34,
+      485,
+      383
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red collar, pulls a white rope with determination, his eyes narrowed in focus. He grips the rope tightly, straining as he moves across a wooden porch, showcasing his persistence and playful aggression. His expression conveys intense concentration, embodying classic cartoon mischief.",
+    "timestamp": "2026-02-24 02:21:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E25 - Cruise Cat (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      139,
+      34,
+      485,
+      383
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat with a red collar, pulls a white rope with determination, his eyes narrowed in focus. He grips the rope tightly, straining as he tugs, his body leaning forward. The rope stretches taut, and he shifts his stance, showing effort and persistence. His expression conveys intense concentration, hinting at a chase or a task. The wooden porch and door frame provide a rustic backdrop to his determined struggle.",
+    "timestamp": "2026-02-24 02:21:58"
+  }
+]

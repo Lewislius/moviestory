@@ -1,0 +1,114 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      213,
+      72,
+      469,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, wields a bat, confronting a tied-up dog. The dog, panting and struggling, is eventually knocked down. Tom smirks triumphantly, while the dog lies defeated near a doghouse.",
+    "timestamp": "2026-02-24 02:51:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      213,
+      72,
+      469,
+      465
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a bat, confronting a tied-up, grumpy purple dog. The dog, with a red collar, lies defeated on the grass. Tom smirks triumphantly, then walks away, leaving the dog groaning in his doghouse. The scene ends with Tom’s smug satisfaction.",
+    "timestamp": "2026-02-24 02:51:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      213,
+      72,
+      469,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wields a bat, confronting a tied-up, grumpy dog. The dog, with a red collar and rope, growls and struggles, then lies defeated. Tom smirks triumphantly, holding the bat low. The scene ends with the dog slumped near a green doghouse, exhausted and defeated.",
+    "timestamp": "2026-02-24 02:52:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      213,
+      72,
+      469,
+      465
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, wields a baseball bat, gleefully confronting a tied-up, grumpy purple dog. The dog, with a red collar and rope, lunges at Tom, but Tom dodges, then triumphantly drops the bat. The dog collapses, defeated, near a green doghouse. Tom smirks, satisfied, while the dog groans, exhausted. The scene ends with Tom walking away, the dog still tied up, defeated.",
+    "timestamp": "2026-02-24 02:52:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      94,
+      0,
+      330,
+      278
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat, Tom, flips upside-down, then lands on a windowsill, looking exhausted and annoyed under a starry night sky.",
+    "timestamp": "2026-02-24 02:52:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      94,
+      0,
+      330,
+      278
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and belly leaps through a doorway, tumbling mid-air with a surprised expression. He lands gracefully on a windowsill, staring out at the starry night sky, moonlit and serene, as if momentarily lost in thought.",
+    "timestamp": "2026-02-24 02:52:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      94,
+      0,
+      330,
+      278
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and a mischievous grin leaps through a window, tumbling mid-air. He lands gracefully on the sill, eyes gleaming with playful intent. The moonlit night outside contrasts with the cozy interior, hinting at his stealthy, sly nature as he surveys his surroundings with a sly, satisfied smile.",
+    "timestamp": "2026-02-24 02:52:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E49 - Smarty Cat (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      94,
+      0,
+      330,
+      278
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, flips dramatically through the air, landing upside-down on a windowsill. He stretches, yawns, and settles with a contented sigh, eyes half-closed, as moonlight glows through the window. His expression shifts from playful to sleepy, suggesting a moment of rest after a wild chase. The scene is calm, with stars twinkling outside, and Tom’s relaxed posture conveys peaceful exhaustion.",
+    "timestamp": "2026-02-24 02:52:50"
+  }
+]

@@ -1,0 +1,64 @@
+name: moviestory-openvid4000-3router-1x48g-mode0-strongbind-inference
+description: single-48G training-aligned MQ-replaces-T5 strongbind inference with a preserved decoded first frame
+workspace: ALL-IN-ONE
+project: wan-animate
+
+max_restarts: 0
+resources:
+  resource_pool: amp-48g
+  slots_per_trial: 1
+  is_single_node: true
+  shm_size: 34359738368
+
+bind_mounts:
+  - host_path: /mount/HOME/liuzhirui
+    container_path: /home/liuzhirui
+  - host_path: /mount/NAS1/public
+    container_path: /run/determined/NAS1/public
+
+environment:
+  image: 10.130.130.5:8192/lab-dev:latest
+  environment_variables:
+    - HOME=/home/liuzhirui
+    - PYTHONUNBUFFERED=1
+    - TOKENIZERS_PARALLELISM=false
+    - CHECKPOINT_DIR=/home/liuzhirui/Project/MovieStory/code/checkpoint/three_router_mq-replaces-t5_strongbind_openvid4000_4x48g_steps150/checkpoint-final
+    - INFERENCE_DEVICE=0
+    - RUNTIME_AUDIT=full
+    - FRAME_NUM=49
+    - MAX_AREA=262144
+    - SAMPLING_STEPS=50
+    - GUIDE_SCALE=1.0
+    - SHIFT=5.0
+    - SAMPLE_SOLVER=unipc
+    - SEED=42
+    - FPS=24
+    - AUDIT_GROWTH_LIMIT=20.0
+    - MAX_NOISE_HIGH_FREQUENCY_RATIO=0.9
+    - MIN_REFERENCE_FRAME_CORRELATION=0.5
+    - MAX_REFERENCE_FRAME_MAE=0.4
+    - OFFLOAD_MODEL=1
+    - T5_CPU=1
+    - WAN_FLASH_ATTN_FORCE_VERSION=2
+    - WAN_FLASH_ATTN_FORCE_CONTIGUOUS=1
+    - AUDIT_FORWARD_RETRIES=1
+
+checkpoint_storage:
+  type: shared_fs
+  host_path: /mount/HOME/liuzhirui
+  storage_path: Project/MovieStory/code/checkpoint
+  save_experiment_best: 0
+  save_trial_best: 0
+  save_trial_latest: 0
+
+searcher:
+  name: single
+  metric: validation_loss
+  max_length:
+    epochs: 1
+  smaller_is_better: true
+
+profiling:
+  enabled: true
+
+entrypoint: /home/liuzhirui/Project/MovieStory/code/inference/infer_openvid4000_3router_4x48g_mode0.sh

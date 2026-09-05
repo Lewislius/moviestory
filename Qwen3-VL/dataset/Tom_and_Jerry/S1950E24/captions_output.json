@@ -1,0 +1,674 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      8,
+      475,
+      374
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom dances joyfully, waving, while a red robotic cat scowls nearby. A maid stands by a table with a green phone, watching them. The scene is playful and animated.",
+    "timestamp": "2026-02-24 02:05:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      8,
+      475,
+      374
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dances joyfully with a robotic cat nearby. A maid in a blue dress and apron stands by, watching. Tom waves excitedly, while the robot cat looks annoyed. The scene is playful and animated, capturing Tom’s mischief and the robot’s grumpy demeanor.",
+    "timestamp": "2026-02-24 02:05:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      8,
+      475,
+      374
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dances excitedly with a waving paw, while a red, robotic cat with yellow legs stands nearby. A maid in a blue dress and white apron stands by a table with a green phone. Tom’s joyful expression contrasts with the robotic cat’s angry glare.",
+    "timestamp": "2026-02-24 02:05:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      8,
+      475,
+      374
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat dances joyfully, waving one paw, while a red, robotic cat with yellow legs and a grumpy expression stands nearby. A woman in a blue dress and white apron, likely a maid, stands beside a wooden table with a green phone. She turns to press a button, suggesting she's about to make a call. The scene exudes playful chaos typical of classic cartoon antics, with Tom’s exaggerated expressions and the robot cat’s unamused demeanor.",
+    "timestamp": "2026-02-24 02:05:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      45,
+      6,
+      328,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A blue cat, Tom, sits on a rug, reaching for a woman's hand. She, in a blue dress and apron, walks away, gesturing dismissively as he follows.",
+    "timestamp": "2026-02-24 02:06:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      45,
+      6,
+      328,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat, Tom, sits on a rug, looking up at a woman in a blue dress and white apron. She holds his paw, gently guiding him. Tom appears curious and slightly apprehensive, eyes wide as she moves her hand, possibly teaching or comforting him.",
+    "timestamp": "2026-02-24 02:06:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      45,
+      6,
+      328,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat, Tom, sits on a rug, looking up as a woman in a blue dress and white apron approaches. She holds his paw, gently guiding him. Tom appears curious and slightly apprehensive, eyes wide, as she moves with a calm, maternal demeanor in a cozy living room.",
+    "timestamp": "2026-02-24 02:06:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      45,
+      6,
+      328,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A blue cat, Tom, sits on a rug, looking up with wide eyes as a woman in a blue dress and white apron approaches. She holds his paw, gently guiding him. Tom’s expression shifts from startled to curious as she moves slowly, her demeanor calm and caring. The room is cozy, with a brown armchair and a window showing a night sky. Tom’s posture suggests he’s both wary and intrigued by her presence.",
+    "timestamp": "2026-02-24 02:06:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      40,
+      6,
+      381,
+      485
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in a blue dress and apron sweeps the floor, moving steadily with a broom, showing focused, diligent cleaning without visible expressions.",
+    "timestamp": "2026-02-24 02:06:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      40,
+      6,
+      381,
+      485
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron sweeps the floor with a broom. She walks steadily, her brown shoes clicking on the green carpet. Her focused expression suggests diligence. The scene is simple, emphasizing her routine cleaning task.",
+    "timestamp": "2026-02-24 02:06:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      40,
+      6,
+      381,
+      485
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron sweeps the floor with a broom, moving steadily forward. Her brown shoes and orange socks contrast with the green carpet. She appears focused, her posture suggesting routine diligence. The scene is simple, emphasizing her cleaning task without emotional expression.",
+    "timestamp": "2026-02-24 02:06:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      40,
+      6,
+      381,
+      485
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character, dressed in a blue dress, white apron, and brown shoes, sweeps the floor with a broom. Her dark skin and determined stride suggest diligence. She moves steadily, sweeping from left to right, her posture focused and purposeful. The scene is simple, emphasizing her routine task in a warmly lit room. No expressions are visible, but her motion conveys quiet dedication to her chores.",
+    "timestamp": "2026-02-24 02:06:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      233,
+      8,
+      470,
+      382
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon woman in blue dress and apron walks, then trips over a chair, causing it to fall. A cat watches from the side, unimpressed.",
+    "timestamp": "2026-02-24 02:07:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      233,
+      8,
+      470,
+      382
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a blue dress and white apron walks briskly, carrying a pink object. She trips over a rug, causing a chair to topple. A blue cat watches from the side, seemingly amused. The scene is lively and comedic, with exaggerated movements and a playful tone.",
+    "timestamp": "2026-02-24 02:07:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      233,
+      8,
+      470,
+      382
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a blue dress and white apron walks, then trips over a pink rake, causing a chair to topple. A blue cat with white paws watches from the side. The scene is indoors, with a lamp, bookshelf, and a small yellow mouse nearby. The woman appears startled, while the cat seems amused.",
+    "timestamp": "2026-02-24 02:07:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      233,
+      8,
+      470,
+      382
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon woman in a blue dress and white apron walks briskly across a room, her expression focused. She trips over a pink rake, sending it flying as she stumbles. A blue cat with white paws watches from the side, seemingly amused. The room features a wooden chair, a lamp, and a green door with plants. The scene is lively, with the woman’s sudden fall adding comedic chaos to the otherwise calm domestic setting.",
+    "timestamp": "2026-02-24 02:07:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      224,
+      112,
+      462,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, dashes across a room, eyes wide with urgency or fear. His paws slap the floor as he moves quickly, suggesting chase or escape in a classic cartoon scene.",
+    "timestamp": "2026-02-24 02:08:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      224,
+      112,
+      462,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the blue cat dashes across a warmly lit room, eyes wide with urgency or fear. His paws slap the floor as he moves swiftly, tail flicking. The cozy interior, with lamps and furniture, contrasts with his frantic motion, suggesting chase or escape. His expression conveys intense focus or alarm.",
+    "timestamp": "2026-02-24 02:08:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      224,
+      112,
+      462,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dashes across a cozy room, eyes wide with urgency or surprise. His paws slap the floor as he leaps, tail flicking. The warm-toned interior features a lamp, armchair, and a staircase, suggesting a domestic setting. His expression conveys frantic motion, perhaps chasing something or fleeing.",
+    "timestamp": "2026-02-24 02:08:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      224,
+      112,
+      462,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dashes across a warmly lit room, eyes wide with urgency or fear. His paws slap the floor as he leaps, tail flicking, suggesting a frantic chase or escape. The room’s cozy decor—armchair, lamps, and a staircase—frames his motion. His expression conveys intense focus, perhaps chasing Jerry or reacting to a sudden threat. The scene captures classic cartoon energy, emphasizing Tom’s dynamic movement and the playful tension of his pursuit.",
+    "timestamp": "2026-02-24 02:08:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      162,
+      9,
+      472,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon maid in blue dress and white apron walks briskly, knocking over a green pillow, her expression focused and determined as she moves through the room.",
+    "timestamp": "2026-02-24 02:08:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      162,
+      9,
+      472,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon maid in blue dress and white apron walks briskly, her arms swinging. She steps over a broken green object, possibly a vase, on the floor. The room features a lamp, armchair, and shelves with plants. Her focused stride suggests urgency or purpose.",
+    "timestamp": "2026-02-24 02:08:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      162,
+      9,
+      472,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon maid in blue dress and white apron walks briskly across a room, her feet in brown slippers. She steps over a broken green pillow, then continues forward, her expression focused and determined, as if rushing to complete a task. The room features a lamp and a wooden chair.",
+    "timestamp": "2026-02-24 02:08:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      162,
+      9,
+      472,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon maid in a blue dress and white apron stomps angrily, fists clenched, as she steps on a broken green pillow. Her dark shoes and brown legs contrast with the yellow rug. The room features a lamp, armchair, and green vase. She appears frustrated or upset, her body language conveying irritation. The scene is static, emphasizing her emotional state and the mess she’s created.",
+    "timestamp": "2026-02-24 02:08:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      203,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a blue dress and white apron carries a box, trips, and knocks over a chair, scattering debris. She appears startled and slightly embarrassed.",
+    "timestamp": "2026-02-24 02:09:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      203,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a blue dress and white apron walks, carrying a box. She trips, causing the box to crash into a chair, sending it flying. Dust particles swirl around as the scene unfolds, capturing a clumsy, comedic moment in a cozy, warmly lit room.",
+    "timestamp": "2026-02-24 02:09:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      203,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron walks briskly, carrying a box. As they move, a chair topples over, scattering debris. The character continues without stopping, focused on their task, their determined stride suggesting urgency or purpose in their actions.",
+    "timestamp": "2026-02-24 02:09:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      0,
+      9,
+      203,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron walks briskly across a room, carrying a wooden crate. As she moves, a chair tips over, crashing into the floor with a burst of sparks. Her posture suggests urgency or focus, while the room’s warm tones and scattered dust particles add a lively, animated atmosphere. The scene captures motion and chaos, emphasizing the character’s determined stride and the sudden disruption caused by the falling chair.",
+    "timestamp": "2026-02-24 02:09:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      7,
+      379,
+      384
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a blue dress and white apron opens a green door, peeks inside, then closes it, her back to the camera, showing no facial expressions.",
+    "timestamp": "2026-02-24 02:09:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      7,
+      379,
+      384
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a blue dress and white apron opens a green door, peeking inside. She steps fully into the room, then exits, closing the door behind her. Her movements are deliberate, suggesting she's checking on something or someone. The scene is calm and routine.",
+    "timestamp": "2026-02-24 02:09:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      7,
+      379,
+      384
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a blue dress and white apron opens a green door, peeking inside before stepping through. Her brown shoes and orange stockings are visible. The scene suggests she’s entering a room, possibly for work or a task, with no visible expressions or emotions.",
+    "timestamp": "2026-02-24 02:10:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      76,
+      7,
+      379,
+      384
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon woman in a blue dress and white apron with a bow enters a room, opening a green door. She steps inside, partially visible, then turns to face away from the camera. Her posture suggests she’s about to do something, perhaps clean or prepare. The room has warm tones, a dark wooden banister, and a yellow door handle. No facial expressions are visible, but her movement implies purposeful action.",
+    "timestamp": "2026-02-24 02:10:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      2,
+      8,
+      241,
+      391
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A blue cat, Tom, playfully interacts with a maid, then gets startled by a sparkler. He growls, then spots a tiny mouse, his expression shifting to focused anticipation.",
+    "timestamp": "2026-02-24 02:10:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      2,
+      8,
+      241,
+      391
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat, Tom, eagerly reaches for a woman’s hand, then recoils as sparks fly. He stands alert, eyes narrowed, as a tiny yellow mouse appears. Tom’s expression shifts from surprise to intense focus, ready to pounce on the mouse.",
+    "timestamp": "2026-02-24 02:10:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      2,
+      8,
+      241,
+      391
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue cat, Tom, playfully interacts with a maid in a blue dress. He leaps, then pounces, startling her. A sparkler bursts nearby, startling him. He growls, then watches a tiny mouse scurry past. Tom’s expression shifts from playful to annoyed, showcasing his classic mischievousness.",
+    "timestamp": "2026-02-24 02:10:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      2,
+      8,
+      241,
+      391
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A blue cat, Tom, stands on a rug, eyes wide with mischief, as a maid in a blue dress and apron walks by. Tom leaps, then drops, his tail flicking as he watches a tiny yellow mouse dart across the floor. He crouches low, eyes narrowed in predatory focus, tail twitching with anticipation. The room’s warm tones and cozy furniture frame his playful, mischievous energy as he prepares to pounce.",
+    "timestamp": "2026-02-24 02:10:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      238,
+      6,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon maid in blue dress and white apron walks briskly, knocking over a lamp and scattering items, suggesting urgency or chaos in her task.",
+    "timestamp": "2026-02-24 02:11:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      238,
+      6,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron rushes through a room, knocking over a lamp and scattering items. Her expression shows urgency or panic as she moves quickly, creating a chaotic scene with flying debris and startled motion lines. The setting is a warmly lit, cozy interior.",
+    "timestamp": "2026-02-24 02:11:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      238,
+      6,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon maid in a blue dress and white apron sweeps the floor, her hands moving rhythmically. Her expression is focused, eyes slightly narrowed. The room features a lamp, chair, and shelves. The scene is cozy, with warm lighting and a sense of domestic routine. Her movements are deliberate and efficient.",
+    "timestamp": "2026-02-24 02:11:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      238,
+      6,
+      511,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, blue-clad maid with a white apron rushes through a warmly lit room, her arms flailing as she stumbles. She trips over a fallen object, sending a purple bottle skidding across the floor. Her expression is one of startled panic, eyes wide and mouth agape. The room’s cozy decor—wooden furniture, a lamp, and shelves—remains static as she scrambles to regain balance, her brown shoes scuffing the carpet. Her frantic motion suggests urgency or chaos.",
+    "timestamp": "2026-02-24 02:11:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      192,
+      9,
+      470,
+      387
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in blue apron walks away. A cat, Tom, stealthily approaches a mouse. Suddenly, a vase shatters as the cat leaps, startled by the commotion.",
+    "timestamp": "2026-02-24 02:11:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      192,
+      9,
+      470,
+      387
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in blue and white apron carries a purple jug. A blue cat, Tom, stealthily approaches a yellow mouse. The cat leaps, knocking over a vase, causing a dramatic explosion of glass shards. The scene is chaotic, with the cat’s determined expression and the mouse’s startled escape.",
+    "timestamp": "2026-02-24 02:11:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      192,
+      9,
+      470,
+      387
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A maid in blue and white rushes past, carrying a purple jug. Tom the cat, in blue, stealthily approaches a yellow mouse. He pounces, causing a dramatic explosion as the mouse scurries away, leaving Tom smug and victorious in the cozy, floral-decorated room.",
+    "timestamp": "2026-02-24 02:12:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      192,
+      9,
+      470,
+      387
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon woman in blue and white apron carries a purple jug, stepping indoors. Suddenly, Tom the cat appears, eyes wide, chasing a yellow mouse. He leaps dramatically, crashing into a red armchair, causing it to explode in cartoonish splinters. The scene is chaotic yet comedic, with Tom’s exaggerated reaction highlighting his pursuit of the mouse, while the woman’s presence adds a domestic backdrop to the slapstick action.",
+    "timestamp": "2026-02-24 02:12:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      67,
+      8,
+      294,
+      329
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A maid in blue dress and white apron runs past a small yellow fish on the floor, her expression focused, as she moves quickly through a dimly lit room.",
+    "timestamp": "2026-02-24 02:12:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      67,
+      8,
+      294,
+      329
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon maid in a blue dress and white apron runs past a yellow fish on the floor. She’s energetic, with brown skin and orange stockings. The scene is indoors, with green walls and a wooden chair visible. The fish appears startled or curious as it’s chased.",
+    "timestamp": "2026-02-24 02:12:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      67,
+      8,
+      294,
+      329
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron runs swiftly across a room, arms pumping. A small yellow fish scurries on the floor ahead. The scene suggests urgency or playful chase, with the character’s determined stride and the fish’s quick movement indicating a lively, animated moment.",
+    "timestamp": "2026-02-24 02:12:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E24 - Push-Button Kitty (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      67,
+      8,
+      294,
+      329
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character in a blue dress and white apron runs briskly across a dimly lit room, her brown shoes clicking on the floor. She carries a tray, her arms swinging as she moves. A small yellow fish with blue eyes scurries across the floor, seemingly in pursuit. The scene suggests urgency or playfulness, with the character’s determined stride and the fish’s mischievous dash adding dynamic energy to the moment.",
+    "timestamp": "2026-02-24 02:12:49"
+  }
+]

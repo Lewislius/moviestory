@@ -1,0 +1,674 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      130,
+      151,
+      338,
+      481
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically fishes by a lake, gripping a red-and-blue rod, eyes wide with excitement, tail wagging, and paws raised in joyful anticipation.",
+    "timestamp": "2026-02-23 20:52:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      130,
+      151,
+      338,
+      481
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully fishes by a lake, gripping his rod with enthusiasm. His wide grin and excited expression show his delight. The scene transitions to a blur, suggesting rapid movement or a sudden action, capturing Tom's energetic and playful spirit in a classic cartoon style.",
+    "timestamp": "2026-02-23 20:52:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      130,
+      151,
+      338,
+      481
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully fishes by a lake, holding a rod with a red handle and blue reel. He dances joyfully, smiling widely with eyes closed. The scene shifts to a blur of motion, then settles on him in a forest clearing, still ecstatic, as green trees and rocks frame the vibrant, sunny backdrop.",
+    "timestamp": "2026-02-23 20:52:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      130,
+      151,
+      338,
+      481
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully reels in a fishing rod near a serene lake, his expression gleeful and excited. He leaps and dances with enthusiasm, eyes wide and mouth open in delight. The lush green forest backdrop enhances the playful scene, while his dynamic pose suggests energetic triumph. His white paws and tail contrast vividly against his gray fur, emphasizing his animated, carefree spirit as he revels in his fishing adventure.",
+    "timestamp": "2026-02-23 20:52:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      55,
+      112,
+      364,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, eagerly fishes by a lake, pulling a rod with a determined expression. Jerry, the mouse, is caught on the line, dangling above the water as Tom struggles to reel him in.",
+    "timestamp": "2026-02-23 20:53:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      55,
+      112,
+      364,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, enthusiastically fishes by a lake, gripping his rod with determination. He reels in a small mouse, who struggles on the line. Tom’s expression shifts from focused to triumphant as he successfully catches his prey, showcasing his persistence and cunning in this classic cartoon chase.",
+    "timestamp": "2026-02-23 20:53:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      55,
+      112,
+      364,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, enthusiastically fishes by a lake, gripping his rod with determination. Jerry, the mouse, is caught on the line, dangling in mid-air. Tom’s expression shifts from focused to surprised as he reels in his prey, showcasing classic cartoon antics and their mischievous chase.",
+    "timestamp": "2026-02-23 20:53:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      55,
+      112,
+      364,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, stands beside a large rock, enthusiastically fishing with a red rod. His eyes gleam with excitement as he reels in a small brown mouse, Jerry, who hangs from the line. Tom’s expression shifts from joy to surprise as Jerry’s antics cause the rod to bend. The serene lakeside backdrop contrasts with Tom’s frantic, playful energy, capturing their classic chase-and-catch dynamic in a vibrant, animated scene.",
+    "timestamp": "2026-02-23 20:53:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      49,
+      248,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat fishes on a dock, rod dangling. Jerry the mouse, with a red hat, emerges, startled, then runs toward Tom, dodging the fishing line.",
+    "timestamp": "2026-02-23 20:53:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      49,
+      248,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, stands on a dock with a fishing rod. Jerry, the mouse, appears startled, then runs toward Tom, pulling a rope. Tom reacts with surprise as Jerry approaches, their classic chase begins. The scene captures their playful rivalry and mischievous antics.",
+    "timestamp": "2026-02-23 20:54:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      49,
+      248,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, fishing, drops his line. Jerry the mouse, startled, emerges from the water with a red halo, then darts across the dock, chasing Tom’s red paddle. Their antics unfold with classic cartoon energy, blending mischief and slapstick humor against a serene lakeside backdrop.",
+    "timestamp": "2026-02-23 20:54:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      49,
+      248,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands on a dock with a red oar and fishing gear. He appears focused, perhaps preparing to fish. Suddenly, Jerry, the brown mouse, emerges from the water, startled and with a red halo above his head, indicating surprise or shock. He scurries across the dock, dodging Tom’s oar, which swings dangerously close. Their classic chase begins, filled with comedic tension and slapstick energy as Jerry narrowly escapes Tom’s fishing attempt.",
+    "timestamp": "2026-02-23 20:54:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      182,
+      92,
+      395,
+      394
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, joyfully fishes on a dock, holding a rod with a blue lure. He appears excited and triumphant as he reels in a small brown mouse.",
+    "timestamp": "2026-02-23 20:54:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      182,
+      92,
+      395,
+      394
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully fishes from a dock, holding a rod with a blue lure. He beams with excitement as a small brown mouse, Jerry, leaps onto his shoulder. The scene captures their classic antics, with Tom’s enthusiasm and Jerry’s mischievousness set against a serene lakeside backdrop.",
+    "timestamp": "2026-02-23 20:54:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      182,
+      92,
+      395,
+      394
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully holds a fishing rod, eyes gleaming with excitement. He stands on a wooden dock, leaping with glee as a small mouse flies overhead. The serene lake and lush trees frame his animated antics, capturing his playful, mischievous spirit as he eagerly anticipates a catch.",
+    "timestamp": "2026-02-23 20:54:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      182,
+      92,
+      395,
+      394
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully fishes from a wooden dock, holding a red-and-green rod with a blue reel. His eyes gleam with excitement, mouth open in delight. Suddenly, Jerry the mouse leaps onto the rod, startling Tom. Tom’s expression shifts to surprise as he tries to reel in his mischievous prey. The serene lake and lush trees form a tranquil backdrop to their playful, chaotic interaction.",
+    "timestamp": "2026-02-23 20:54:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      152,
+      121,
+      366,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, eagerly fishes on a dock, reeling in a small orange fish with excitement, his eyes wide and mouth open in delight.",
+    "timestamp": "2026-02-23 20:55:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      152,
+      121,
+      366,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully fishes from a wooden dock, reeling in a small orange fish. His wide eyes and open mouth show excitement. The serene lake and trees provide a peaceful backdrop as Tom's enthusiastic fishing adventure unfolds.",
+    "timestamp": "2026-02-23 20:55:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      152,
+      121,
+      366,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully fishes from a wooden dock, reeling in a small orange fish. His eyes widen in delight as he triumphantly lifts the catch, showcasing his playful, determined expression. The serene lake and lush trees frame his joyful, animated antics.",
+    "timestamp": "2026-02-23 20:55:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      152,
+      121,
+      366,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully fishes from a wooden dock, his eyes wide with excitement. He reels in a small orange fish, dangling it triumphantly. His expression shifts to joyful surprise as he reels it in, then to focused determination as he pulls the rod. The serene lake and lush trees provide a peaceful backdrop to his animated antics, capturing his playful, mischievous spirit as he enjoys his fishing adventure.",
+    "timestamp": "2026-02-23 20:55:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      208,
+      0,
+      423,
+      322
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom's tail dangles over a dock as Jerry, armed with a red feather, leaps onto it. A fish below opens its mouth wide, startling both.",
+    "timestamp": "2026-02-23 20:56:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      208,
+      0,
+      423,
+      322
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat's tail dangles over a wooden dock, while Jerry the mouse peeks out. Jerry grabs a red and green fishhook, pulls it, and drops it into the water. A fish surfaces, jaws wide open, as Tom watches from above. The scene is comedic, with Jerry’s mischievous grin and Tom’s obliviousness.",
+    "timestamp": "2026-02-23 20:56:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      208,
+      0,
+      423,
+      322
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cat’s tail dangles over a wooden dock, while a mouse peeks out, then leaps onto the dock. The mouse grabs the cat’s tail, which swings down, splashing into water where a fish emerges, jaws wide open in surprise. The mouse watches, amused, as the cat’s tail dangles above the fish.",
+    "timestamp": "2026-02-23 20:56:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      208,
+      0,
+      423,
+      322
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat looms over a wooden dock, his tail dangling. Jerry the mouse, peeking from behind a woven basket, leaps with a red feathered hat, dodging Tom’s tail. He slips beneath the dock, startling a fish in the water. The fish, eyes wide, flinches as Tom’s tail swings down, splashing water. Jerry, now on the dock, watches in alarm as Tom’s tail hovers menacingly above the fish, ready to strike. The scene captures their classic chase, filled with slapstick humor and suspense.",
+    "timestamp": "2026-02-23 20:56:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      134,
+      223,
+      387,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, joyfully fishes with a rod and bat, splashing into water. Jerry, a small brown mouse, watches nearby. Tom’s expression shows excitement and mischief.",
+    "timestamp": "2026-02-23 20:57:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      134,
+      223,
+      387,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a fishing rod and bat, chasing Jerry, the small brown mouse. Tom leaps into the water, splashing, as Jerry watches from shore. Tom’s joyful expression contrasts with Jerry’s playful stance, capturing their classic chase dynamic in a vibrant, cartoonish forest setting.",
+    "timestamp": "2026-02-23 20:57:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      134,
+      223,
+      387,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully wields a fishing rod and a red bat, laughing as he leaps into a lake. Jerry, the small brown mouse, watches from the shore. Tom splashes in the water, reveling in his mischievous antics, while Jerry’s tiny form hints at impending mischief. The scene bursts with playful chaos and classic cartoon energy.",
+    "timestamp": "2026-02-23 20:58:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      134,
+      223,
+      387,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a fishing rod and a red bat, laughing as he wobbles. Jerry, the small brown mouse, stands nearby, holding a tiny fishing rod. Tom leaps into the water, splashing, as he reels in his line with excitement. The serene lakeside backdrop, with trees and rocks, contrasts his chaotic energy. Both characters exude playful mischief, embodying their classic rivalry with joyous, cartoonish enthusiasm.",
+    "timestamp": "2026-02-23 20:58:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      124,
+      103,
+      471,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, enthusiastically fishes with a rod while Jerry, a small brown mouse, watches. Tom leaps into the water, joyfully pulling his rod, showcasing playful determination.",
+    "timestamp": "2026-02-23 20:59:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      124,
+      103,
+      471,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically fishes with a rod while Jerry, the brown mouse, holds a bat. Tom leaps into the water, splashing, as Jerry watches. Tom's joyful expression contrasts with Jerry’s mischievous grin, capturing their classic rivalry in a playful outdoor scene.",
+    "timestamp": "2026-02-23 20:59:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      124,
+      103,
+      471,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically fishes with a red paddle, laughing as he leaps into the water. Jerry, the brown mouse, watches from the shore, holding a small stick. Tom splashes joyfully, his expression gleeful, while Jerry appears amused, capturing the classic chase dynamic.",
+    "timestamp": "2026-02-23 20:59:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      124,
+      103,
+      471,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully fishes by a lakeside, wielding a red paddle and a fishing rod. Jerry, the brown mouse, watches from behind, holding a small red object. Tom leaps into the water, splashing excitedly, his eyes wide with delight. The scene is vibrant, with lush green trees and a serene lake under a soft pink sky. Tom’s playful antics contrast with Jerry’s cautious observation, capturing their classic dynamic of chase and mischief.",
+    "timestamp": "2026-02-23 20:59:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      241,
+      187,
+      512,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, joyfully reels in Jerry, the mouse, using fishing rods. Jerry, caught in the line, struggles as Tom laughs triumphantly, showcasing their classic chase.",
+    "timestamp": "2026-02-23 21:00:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      241,
+      187,
+      512,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully reels in Jerry, the brown mouse, using a fishing rod. Jerry, wearing a red shirt, dangles playfully. Tom’s wide eyes and grin show delight. The scene unfolds atop a roof with a red box nearby, capturing their classic chase and playful antics.",
+    "timestamp": "2026-02-23 21:00:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      241,
+      187,
+      512,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully reels in Jerry, the brown mouse, using fishing rods. Tom’s wide eyes and grin show delight as Jerry dangles, caught mid-air. The scene captures their classic chase, with Tom’s playful triumph and Jerry’s panicked escape, set against a soft, pastel backdrop.",
+    "timestamp": "2026-02-23 21:00:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      241,
+      187,
+      512,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands atop a roof, gripping a fishing rod with a mischievous grin. He reels in Jerry, the brown mouse, who dangles from the line, clutching a red object. Tom’s eyes gleam with delight as he pulls, his body tensing with effort. Jerry’s expression shifts from surprise to playful defiance. The scene is bathed in soft pastel hues, emphasizing the cartoon’s whimsical, slapstick charm. Their dynamic tension teases the classic chase, full of comedic potential.",
+    "timestamp": "2026-02-23 21:00:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      470,
+      353
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps mid-air, eyes wide, mouth open in shock. A grey dog with red collar charges forward, snarling, fists clenched, as motion lines blur around them in a chaotic, energetic scene.",
+    "timestamp": "2026-02-23 21:00:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      470,
+      353
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps mid-air, eyes wide with surprise. A large, angry dog with a spiked collar charges, fists clenched, roaring fiercely. The dog’s motion blur suggests speed and aggression, while Tom’s expression conveys shock and fear as he narrowly avoids the dog’s attack.",
+    "timestamp": "2026-02-23 21:01:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      470,
+      353
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the grey cat, is airborne, mouth agape in shock, while a large, menacing bulldog with a spiked collar lunges forward, fists clenched. The bulldog’s aggressive stance and Tom’s startled expression suggest a chaotic, high-stakes chase or confrontation, capturing their classic cartoon rivalry in a dynamic, comedic moment.",
+    "timestamp": "2026-02-23 21:01:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      470,
+      353
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, hangs mid-air, eyes wide, mouth agape in shock or fear. Below, a large, muscular gray dog with a spiked collar and red tongue lunges forward, eyes fierce, teeth bared. The dog’s motion is swift, blurred by speed, suggesting a powerful attack. The background is a soft gradient of yellow and pink, emphasizing the chaotic, cartoonish energy of their confrontation. Tom’s expression conveys panic, while the dog radiates aggression.",
+    "timestamp": "2026-02-23 21:01:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      165,
+      237,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Spike the bulldog roars angrily, fists clenched. Tom the cat leaps away, startled. Spike’s fierce expression shows aggression, while Tom’s wide eyes reveal fear or surprise.",
+    "timestamp": "2026-02-23 21:02:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      165,
+      237,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Spike the bulldog, furious and snarling, charges at Tom the cat, who leaps back in surprise. Spike’s claws are out, his face contorted in rage, while Tom’s wide eyes and open mouth show shock. The scene captures their classic chase, filled with cartoonish energy and comedic tension.",
+    "timestamp": "2026-02-23 21:02:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      165,
+      237,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray, muscular bulldog with a red collar roars aggressively, fists clenched. A gray cat, Tom, leaps mid-air, eyes wide with surprise. The bulldog charges forward, displaying fury and determination, while Tom appears startled by the sudden attack. Their expressions convey intense emotion and impending action.",
+    "timestamp": "2026-02-23 21:02:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      165,
+      237,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Spike, a gray bulldog with a red collar, roars fiercely, fists clenched, while Tom, a sleek gray cat, leaps mid-air with a mischievous grin. Spike’s expression shifts to intense anger as he lunges forward, eyes narrowed and teeth bared. The background swirls with motion lines, emphasizing the dynamic clash between the two characters. Their contrasting personalities—Spike’s brute force and Tom’s cunning—create a comedic yet tense showdown, capturing the classic cartoon rivalry with exaggerated expressions and energetic movement.",
+    "timestamp": "2026-02-23 21:03:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      138,
+      356,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat enthusiastically fishes by a lake, pulling hard on his rod with a joyful expression, leaping upward as he struggles to reel in his catch.",
+    "timestamp": "2026-02-23 21:04:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      138,
+      356,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, enthusiastically fishes by a lake. He grips a red-and-green rod, eyes wide with excitement. As he reels in, he leaps joyfully, showcasing his playful determination and delight in the fishing adventure. The scene captures his energetic, determined spirit.",
+    "timestamp": "2026-02-23 21:04:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      138,
+      356,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, enthusiastically fishes by a lake, gripping a red-and-green rod. He strains, stretching upward with a joyful, wide-eyed grin, showcasing his determination and excitement. His posture and expression convey playful anticipation, as if he’s about to reel in a big catch, embodying classic cartoon charm.",
+    "timestamp": "2026-02-23 21:04:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E27 - Cat Fishin' (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      138,
+      356,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands on grass beside a rock, gripping a fishing rod. He strains, eyes wide, mouth open in exertion, as the rod bends under tension. Suddenly, he leaps backward, arms flailing, eyes gleaming with excitement. Behind him, trees and a calm lake frame the scene, hinting at his successful catch. His expression shifts from effort to triumph, capturing the classic chase-and-catch energy of the cartoon.",
+    "timestamp": "2026-02-23 21:04:38"
+  }
+]

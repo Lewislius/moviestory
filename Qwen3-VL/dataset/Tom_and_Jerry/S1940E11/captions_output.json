@@ -1,0 +1,394 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      86,
+      42,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat angrily leaps, then falls backward, panting. He looks annoyed and exhausted, with a yellow cheese piece nearby, suggesting a failed pursuit.",
+    "timestamp": "2026-02-23 18:06:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      86,
+      42,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, furious and sneering, leaps in anger. He crashes into a wall, then lies defeated, glaring with frustration. A yellow cheese wedge lies nearby, hinting at his failed pursuit. His expression shifts from rage to weary disappointment as he stares at the wall.",
+    "timestamp": "2026-02-23 18:06:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      86,
+      42,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray and white, leaps with fury, fists clenched, eyes wild. He crashes into a wall, then collapses, panting. His expression shifts from rage to exhaustion. A yellow cheese slice lies nearby, hinting at his chase. The scene ends with him slumped, defeated yet determined.",
+    "timestamp": "2026-02-23 18:06:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      86,
+      42,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps angrily, fists clenched, eyes narrowed in rage. He lands dramatically, then collapses, panting. His expression shifts to smug satisfaction as he lies on his back, tail curled, eyes half-closed. A small hole in the wall reveals a camera, suggesting surveillance. A yellow cheese wedge lies nearby, hinting at his recent pursuit. His mood shifts from fury to weary triumph, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-23 18:06:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      11,
+      98,
+      284,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, swings a broom, knocking over bottles. Jerry, the mouse, scurries away. Tom crashes into a wall, then smashes it with the broom, showing frustration and determination.",
+    "timestamp": "2026-02-23 18:07:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      11,
+      98,
+      284,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a broom, then angrily smashes a wall with it. Jerry, the mouse, leaps and escapes. Tom’s expression shifts from rage to surprise as debris flies. The scene captures their classic chase, with Tom’s frustration and Jerry’s quick escape.",
+    "timestamp": "2026-02-23 18:07:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      11,
+      98,
+      284,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a broom, chasing Jerry, the brown mouse. Jerry leaps, dodging Tom’s swipe. Tom stumbles, crashes into a wall, and the wall cracks. Tom, surprised, lies stunned, broom in hand, as debris flies around him. His expression shifts from determination to shock.",
+    "timestamp": "2026-02-23 18:07:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      11,
+      98,
+      284,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wields a broom with determination, then stumbles backward as Jerry, the mouse, leaps from above. Tom’s expression shifts from focused to startled as he crashes into a wall, causing it to crack. He lies stunned, broom in hand, as debris flies. His eyes widen in shock, then he smirks triumphantly as the wall collapses around him, revealing his mischievous, victorious grin. The scene captures their classic chase, filled with slapstick humor and cartoon chaos.",
+    "timestamp": "2026-02-23 18:07:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      199,
+      58,
+      404,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps, startled, near trash cans and barrels. He pounces, then freezes in surprise, eyes wide, as a red object rolls past. His expression shifts from alert to shocked.",
+    "timestamp": "2026-02-23 18:08:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      199,
+      58,
+      404,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps excitedly, then smashes a red firecracker near a trash can. He pounces, startled, then laughs triumphantly, arms raised. His expression shifts from surprise to delight as he revels in his mischief, showcasing classic cartoon chaos and his mischievous charm.",
+    "timestamp": "2026-02-23 18:08:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      199,
+      58,
+      404,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps energetically, paws raised, eyes wide with excitement. He lands beside a trash can, then pauses, looking surprised as a red object rolls past. His expression shifts to cautious curiosity as he glances around, tail twitching, ready to react to whatever unfolds next.",
+    "timestamp": "2026-02-23 18:08:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      199,
+      58,
+      404,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and a red nose, leaps dramatically, arms raised, then lands beside a trash can. He turns, smirking, as a red object—likely a firework—explodes nearby. He paws at his mouth, eyes wide with mischief. Behind him, wooden crates and barrels hint at a cluttered alley. His playful, mischievous grin suggests he’s enjoying the chaos he’s created, embodying classic cartoon antics.",
+    "timestamp": "2026-02-23 18:08:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      38,
+      168,
+      373,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, holds a candle, then gets covered in banana goo, shocked, before picking up another candle, smiling mischievously.",
+    "timestamp": "2026-02-23 18:08:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      38,
+      168,
+      373,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a candle, then gets splattered with banana goo, looking shocked. He wipes his face, then picks up another candle, smiling mischievously. His expression shifts from surprise to delight, suggesting he’s planning another prank.",
+    "timestamp": "2026-02-23 18:08:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      38,
+      168,
+      373,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a candle, then gets splattered with banana peel goo, looking shocked. He wipes himself, smiles, and picks up another candle, eyes gleaming with mischief, ready for more trouble in the cluttered room.",
+    "timestamp": "2026-02-23 18:09:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      38,
+      168,
+      373,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits in a dimly lit room, holding an orange firecracker. He looks mischievous, then ignites it, causing a banana peel to explode in his face. He reacts with shock, then smiles triumphantly, holding the now-burnt firecracker. His expression shifts from startled to smug as he revels in his prank, surrounded by scattered firecrackers and barrels.",
+    "timestamp": "2026-02-23 18:09:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      28,
+      0,
+      461,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat parachutes down, gripping a pink and white parachute. He looks surprised and scared as he descends, with colorful streaks of light behind him.",
+    "timestamp": "2026-02-23 18:09:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      28,
+      0,
+      461,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat parachutes down with a pink and white parachute, his eyes wide with surprise. He tumbles through the air, limbs flailing, as the parachute billows behind him. His expression shifts from panic to determination as he descends toward the ground.",
+    "timestamp": "2026-02-23 18:09:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      28,
+      0,
+      461,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse, Tom, joyfully descends through the air, suspended by a pink, frilly parachute. His wide eyes and open mouth convey excitement. The parachute billows as he tumbles, capturing the whimsical, adventurous spirit of classic cartoon antics.",
+    "timestamp": "2026-02-23 18:09:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      28,
+      0,
+      461,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon mouse, Tom, hangs upside-down from a pink, frilly parachute, eyes wide with surprise or fear. As he descends, the parachute flaps dramatically, revealing a surreal, rocky canyon backdrop. The mouse’s expression shifts from startled to determined as he navigates the descent, limbs flailing. The scene blends whimsical animation with a sense of perilous adventure, emphasizing the mouse’s comical predicament and the absurdity of his parachute ride.",
+    "timestamp": "2026-02-23 18:09:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      12,
+      432,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom in a makeshift airplane made of lightbulbs and cardboard, flying through a dark tunnel, looking determined and mischievous.",
+    "timestamp": "2026-02-23 18:10:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      12,
+      432,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, pilots a makeshift airplane made of lightbulbs and cardboard, with a red star emblem. He grips the controls, eyes focused ahead, as the plane flies through a dimly lit tunnel. His determined expression shows his resolve to escape or pursue something.",
+    "timestamp": "2026-02-23 18:10:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      12,
+      432,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon mouse, Tom, sits in a yellow, star-adorned contraption resembling a tank, surrounded by lightbulbs. He appears determined, gripping the controls. The scene suggests a whimsical, mechanical adventure, with Tom’s focused expression hinting at a mission or challenge ahead.",
+    "timestamp": "2026-02-23 18:10:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      12,
+      432,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the cat, lies in a yellow, star-adorned contraption made of lightbulbs, appearing relaxed or asleep. The device, resembling a makeshift vehicle, has a menacing red zigzag mouth. As the camera pans, Tom’s expression shifts to alertness, eyes wide, as if sensing danger. The scene suggests a comedic, surreal setup where Tom’s invention is both whimsical and perilous, hinting at impending chaos or a chase.",
+    "timestamp": "2026-02-23 18:10:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      61,
+      33,
+      483,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, rides a yellow jet with red laser, crashing into a pipe. He looks surprised as debris flies, showing his frantic, comedic escape attempt.",
+    "timestamp": "2026-02-23 18:10:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      61,
+      33,
+      483,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A yellow, shark-mouthed device shoots a red beam, causing a cartoon mouse to react in panic as it’s blasted into the air. The mouse, with wide eyes and a startled expression, is propelled upward by the force, narrowly escaping destruction as the device explodes.",
+    "timestamp": "2026-02-23 18:10:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      61,
+      33,
+      483,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon mouse, Tom, rides a yellow, shark-mouthed device through a pipe, firing a red laser. He emerges, startled, as the device explodes. His expression shifts from determined to alarmed as debris flies, capturing a chaotic, comedic moment of high-speed escape.",
+    "timestamp": "2026-02-23 18:10:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E11 - The Yankee Doodle Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      61,
+      33,
+      483,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon mouse, Tom, rides a yellow, shark-mouthed jetpack, firing red laser beams. He navigates through a dimly lit industrial setting, dodging pipes and debris. His expression is determined, eyes wide as he maneuvers. The jetpack’s design is comical, with exaggerated features and a cartoonish explosion effect. The scene is dynamic, filled with motion and vibrant colors, capturing Tom’s adventurous spirit as he zips through the environment.",
+    "timestamp": "2026-02-23 18:11:01"
+  }
+]

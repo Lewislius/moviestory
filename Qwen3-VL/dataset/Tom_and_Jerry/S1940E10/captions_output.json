@@ -1,0 +1,898 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      66,
+      496,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, playfully gestures at Jerry, the brown mouse, who sits on a chair. Tom's expressions shift from mischievous to surprised as Jerry reacts with delight.",
+    "timestamp": "2026-02-23 17:55:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      66,
+      496,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, sits on the floor, playfully waving his paws at Jerry the mouse, who perches on a chair. Tom smiles, then laughs wildly as Jerry reacts with surprise. Their antics showcase classic cartoon mischief and comedic timing, highlighting their enduring rivalry and playful dynamic.",
+    "timestamp": "2026-02-23 17:56:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      66,
+      496,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, sits on the floor, initially covering his face. He then lowers his paws, smiling at Jerry, the small brown mouse perched on a chair. Tom playfully gestures, then opens his mouth wide in a joyful yell, while Jerry watches with a mischievous grin.",
+    "timestamp": "2026-02-23 17:56:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      81,
+      66,
+      496,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black and white, sits on the floor with paws clasped, smiling mischievously at Jerry the mouse perched on a chair. Jerry, brown and alert, waves back with a playful grin. Tom then throws his head back and laughs heartily, his paws still raised. Jerry remains cheerful, watching Tom’s antics. The scene exudes classic cartoon humor, with their dynamic expressions and playful interaction against a soft pink curtain backdrop.",
+    "timestamp": "2026-02-23 17:56:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      37,
+      509,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a large object, while Jerry, the mouse, reacts with surprise and fear, dodging Tom's antics in a classic chase scene.",
+    "timestamp": "2026-02-23 17:56:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      37,
+      509,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a large knife, menacingly looming over Jerry, the brown mouse. Jerry, tiny and terrified, scurries away, then leaps back, eyes wide with fear. Tom laughs maniacally, his grin wide and teeth bared, as Jerry narrowly escapes his grasp.",
+    "timestamp": "2026-02-23 17:56:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      37,
+      509,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a large knife, menacingly looming over Jerry, the tiny brown mouse. Jerry, terrified, cowers and jumps back, his eyes wide with fear. Tom's grin widens as he taunts Jerry, who trembles, ready to escape. The scene is a classic chase, filled with suspense and humor.",
+    "timestamp": "2026-02-23 17:56:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      1,
+      37,
+      509,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, gleefully holds a large meat cleaver, menacingly looming over Jerry, the small brown mouse. Jerry, terrified, cowers and scurries backward, then leaps up in a frantic attempt to escape. Tom’s expression shifts from playful to furious as he growls, eyes wide with rage. Jerry’s panic intensifies as he flails, dodging Tom’s looming threat. The scene captures their classic chase, full of slapstick humor and tension.",
+    "timestamp": "2026-02-23 17:56:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      176,
+      126,
+      493,
+      470
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat, Tom, stretches with a grin, then suddenly freezes as a tiny mouse, Jerry, scurries past. Tom’s expression shifts to surprise and annoyance.",
+    "timestamp": "2026-02-23 17:57:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      176,
+      126,
+      493,
+      470
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, stands with a mischievous grin, tail high, as a small brown mouse, Jerry, scurries away. Tom’s expression is gleeful, eyes wide, as he watches Jerry flee. The scene suggests a classic chase, with Tom’s predatory excitement contrasting Jerry’s quick escape.",
+    "timestamp": "2026-02-23 17:57:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      176,
+      126,
+      493,
+      470
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, stands with a mischievous grin, tail high, as a tiny brown mouse, Jerry, scurries nearby. Tom’s eyes gleam with anticipation, his body tense, ready to pounce. The scene hints at classic cartoon tension—Tom’s predatory stance versus Jerry’s escape attempt, set against a cozy kitchen backdrop.",
+    "timestamp": "2026-02-23 17:57:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      176,
+      126,
+      493,
+      470
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, stands with a mischievous grin, tail high, as a tiny brown mouse, Jerry, scurries past. Tom’s eyes gleam with predatory delight, his mouth agape in a silent chuckle. Behind him, a kitchen scene reveals a roasted turkey and tomatoes, hinting at a feast. Tom’s posture suggests he’s plotting his next move, while Jerry’s small size and quick escape underscore their classic chase dynamic, filled with slapstick humor and timeless rivalry.",
+    "timestamp": "2026-02-23 17:57:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      27,
+      111,
+      339,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat strikes a playful pose, then chases Jerry the mouse, who scurries away. Tom's expression shifts from smug to determined as he pursues his prey.",
+    "timestamp": "2026-02-23 17:58:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      27,
+      111,
+      339,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, strikes a dramatic pose with paws raised, eyes gleaming. Jerry, the brown mouse, scurries across the floor, then stops as Tom lunges, revealing a mischievous grin. Their classic chase dynamic unfolds in a cozy room with pink curtains and furniture.",
+    "timestamp": "2026-02-23 17:58:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      27,
+      111,
+      339,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, playfully pounces, eyes gleaming with mischief. Jerry the mouse, brown and small, scurries nervously across the floor. Tom's exaggerated expressions and dynamic poses convey his playful pursuit, while Jerry's frantic movements highlight his escape attempts in this classic cartoon chase.",
+    "timestamp": "2026-02-23 17:58:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      27,
+      111,
+      339,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black with white paws, strikes a dramatic pose with arms raised and a smug grin. He then lunges forward, chasing Jerry the mouse, who scurries away nervously. Jerry, small and brown, dashes across the room, eyes wide with fear. Tom’s chase is energetic and playful, showcasing his relentless pursuit. The room’s pink curtains and cozy furniture frame their antics, emphasizing the classic cartoon chase. Their expressions and movements highlight their dynamic, comedic rivalry.",
+    "timestamp": "2026-02-23 17:58:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      172,
+      139,
+      501,
+      448
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, chases Jerry, the brown mouse, wielding a large cleaver, his expression fierce and determined as he pursues his prey through a kitchen.",
+    "timestamp": "2026-02-23 17:58:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      172,
+      139,
+      501,
+      448
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, runs with a large cleaver, eyes wide and mouth open in excitement. Jerry, the small brown mouse, scurries away nervously. The scene captures Tom’s frantic pursuit and Jerry’s terrified escape, showcasing their classic chase dynamic with exaggerated cartoon expressions.",
+    "timestamp": "2026-02-23 17:58:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      172,
+      139,
+      501,
+      448
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black-and-white cat, chases Jerry, a small brown mouse, wielding a large cleaver. Tom’s expression is fierce and determined, while Jerry scurries away, visibly terrified. The scene unfolds in a kitchen setting, with cabinets and a window in the background, capturing classic cartoon chaos and pursuit.",
+    "timestamp": "2026-02-23 17:58:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      172,
+      139,
+      501,
+      448
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, charges with a large cleaver, eyes wide and mouth open in a fierce grin. He leaps forward, muscles tensed, as Jerry, the tiny brown mouse, scurries away in fear. The scene unfolds in a kitchen, with cabinets and a window in the background. Tom’s determined expression and dynamic motion convey his predatory excitement, while Jerry’s small size and panicked escape highlight his vulnerability against the larger, more aggressive Tom.",
+    "timestamp": "2026-02-23 17:59:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      0,
+      372,
+      373
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a scroll, then lunges as Jerry, the brown mouse, scurries away. Tom's grin shows his playful, predatory delight as he chases his prey.",
+    "timestamp": "2026-02-23 17:59:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      0,
+      372,
+      373
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a scroll, eyes wide with anticipation. Jerry, the brown mouse, scurries away in fear. Tom's grin reveals his playful intent, while Jerry’s panicked leap shows his escape attempt. The scene captures classic cartoon tension and humor.",
+    "timestamp": "2026-02-23 17:59:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      0,
+      372,
+      373
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, gleefully holds a piece of paper, eyes wide with excitement. A small brown mouse scurries away, startled. Tom’s grin suggests he’s about to prank or catch the mouse, capturing the classic chase-and-laugh dynamic of their cartoon antics.",
+    "timestamp": "2026-02-23 17:59:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      0,
+      372,
+      373
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, gleefully holds a large piece of paper, eyes wide with excitement. He leans forward, ready to pounce. Suddenly, Jerry, the small brown mouse, scurries away, startled. Tom’s grin widens as he watches Jerry’s escape, his expression a mix of playful anticipation and mischievous delight, perfectly capturing their classic chase dynamic. The scene bursts with classic cartoon energy and humor.",
+    "timestamp": "2026-02-23 17:59:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      21,
+      228,
+      341,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, gleefully wields a fork while Jerry, the mouse, holds a knife. Tom laughs triumphantly as Jerry dodges, then Tom leaps away, leaving Jerry in his wake.",
+    "timestamp": "2026-02-23 18:00:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      21,
+      228,
+      341,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully wields a fork, chasing Jerry, the brown mouse, who holds a knife. Tom’s joyful expression contrasts with Jerry’s startled demeanor. The scene unfolds in a kitchen, with a yellow-dressed figure partially visible, adding comedic tension to their playful chase.",
+    "timestamp": "2026-02-23 18:00:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      21,
+      228,
+      341,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully wields a fork, chasing Jerry the mouse with a knife. Jerry dodges, laughing, as Tom leaps after him. The scene unfolds in a kitchen, with a large yellow bag and a counter in the background. Their playful chase ends with Tom’s triumphant leap, leaving Jerry in a comedic escape.",
+    "timestamp": "2026-02-23 18:00:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      21,
+      228,
+      341,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gleeful and mischievous, wields a large fork, dancing triumphantly as Jerry the mouse, armed with a knife, scurries away. Tom’s expression shifts from joy to surprise as Jerry dodges. The scene unfolds in a cozy kitchen, with a yellow-clad character partially visible. Tom’s antics and Jerry’s evasion highlight their classic rivalry, filled with slapstick humor and playful chaos, capturing their timeless comedic dynamic.",
+    "timestamp": "2026-02-23 18:00:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      31,
+      48,
+      323,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, gleefully holds a chicken leg, then drops it as Jerry, the mouse, chases him. Tom dashes away, leaving Jerry in pursuit.",
+    "timestamp": "2026-02-23 18:00:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      31,
+      48,
+      323,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, joyfully holds a chicken leg, laughing as Jerry, the brown mouse, excitedly approaches. Tom then playfully drops the leg, causing Jerry to leap away, before Tom dashes off, leaving the room empty. Their antics showcase classic cartoon mischief and playful rivalry.",
+    "timestamp": "2026-02-23 18:00:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      31,
+      48,
+      323,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully holds a chicken leg, laughing as Jerry the mouse watches. Tom then drops the leg, startled, and bolts away as Jerry chases him. Their antics unfold in a cozy room, capturing classic cartoon chaos and playful rivalry.",
+    "timestamp": "2026-02-23 18:00:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      31,
+      48,
+      323,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, gleefully holds a chicken leg, laughing as Jerry, the brown mouse, excitedly approaches. Tom playfully swings the leg, then drops it as Jerry grabs it, laughing. Tom, surprised, leaps away, tripping over his own paws. Jerry chases after him, joyfully running across the room. The scene captures their classic chase, filled with humor and mischievous energy, as Tom’s antics lead to Jerry’s delight.",
+    "timestamp": "2026-02-23 18:01:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      208,
+      58,
+      511,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, holding a chicken leg, chases Jerry the mouse. Tom leaps, then disappears, leaving Jerry alone. The scene ends with a still, empty room.",
+    "timestamp": "2026-02-23 18:01:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      208,
+      58,
+      511,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, holding a chicken leg, leaps dramatically, chasing a small brown mouse. The cat’s expression is gleeful, eyes wide with excitement. The mouse scurries away, leaving the cat mid-air, tail flicking, as the scene ends with an empty room.",
+    "timestamp": "2026-02-23 18:01:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      208,
+      58,
+      511,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, holding a chicken leg, leaps dramatically, chasing a small brown mouse. The cat’s expression is determined, eyes wide. The mouse scurries away, leaving the cat mid-air, then vanishes as the scene shifts to an empty room with a floral table.",
+    "timestamp": "2026-02-23 18:01:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      208,
+      58,
+      511,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, gleefully holds a chicken leg aloft, leaping with joy. Below, a small brown mouse, Jerry, scurries away. Tom’s expression is triumphant, eyes gleaming with satisfaction. As Tom lands, he vanishes, leaving only a paw print. The room’s decor—curtains, a floral table centerpiece, and a framed painting—remains still, hinting at the cat’s sudden disappearance, leaving the mouse to ponder the mystery.",
+    "timestamp": "2026-02-23 18:01:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      152,
+      122,
+      509,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, chases Jerry, the mouse, holding a chicken leg. Tom leaps and falls, then vanishes, leaving Jerry alone with a flower vase on a table.",
+    "timestamp": "2026-02-23 18:02:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      152,
+      122,
+      509,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, chases Jerry, the brown mouse, while holding a chicken leg. Tom leaps and twists mid-air, then vanishes behind a pillar. Jerry scurries away, leaving Tom’s pursuit unresolved. The scene ends with an empty room, hinting at Tom’s failed chase.",
+    "timestamp": "2026-02-23 18:02:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      152,
+      122,
+      509,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, leaps mid-air, clutching a chicken leg, eyes wide with excitement. Jerry, the brown mouse, scurries away in fear. Tom’s expression shifts to surprise as he crashes into a wall, leaving Jerry fleeing. The scene captures their classic chase, filled with slapstick humor and frantic energy.",
+    "timestamp": "2026-02-23 18:02:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0009_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      152,
+      122,
+      509,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, leaps dramatically, clutching a chicken leg, eyes wide with determination. Below, a tiny brown mouse, Jerry, scurries away. Tom’s momentum carries him past a floral table, then he vanishes into a corner, leaving only the empty room and the mouse’s fleeing shadow. The scene captures Tom’s relentless pursuit and Jerry’s clever escape, embodying classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 18:02:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      78,
+      498,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat eagerly reaches for a turkey in the fridge, grinning with delight, then leaps away triumphantly, showcasing his mischievous, greedy nature.",
+    "timestamp": "2026-02-23 18:02:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      78,
+      498,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat eagerly reaches into the fridge, grabs a roasted turkey leg, and joyfully pulls it out, smiling with delight. His playful, mischievous expression highlights his hunger and satisfaction as he revels in his culinary conquest.",
+    "timestamp": "2026-02-23 18:02:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      78,
+      498,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully reaches into the fridge, snatching a roasted turkey leg. His eyes gleam with delight as he pulls it out, triumphant. The fridge interior reveals tomatoes and bottles. His joyful expression and dynamic pose convey his satisfaction and mischief.",
+    "timestamp": "2026-02-23 18:02:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      78,
+      498,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, gleefully reaches into the refrigerator, snatching a roasted chicken with his paws. His eyes gleam with delight, mouth wide in a triumphant grin. He pulls the chicken out, reveling in his success, as the fridge’s contents—tomatoes, bottles, and bowls—remain untouched. His joyful expression and energetic posture convey pure, cartoonish glee at his culinary conquest.",
+    "timestamp": "2026-02-23 18:02:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      136,
+      269,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, stretches and holds a tomato, then hides under a rug. A mouse scurries away. Tom's expression shifts from playful to startled as a woman enters with a broom.",
+    "timestamp": "2026-02-23 18:03:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      136,
+      269,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stretches and playfully holds a tomato, then hides under a rug. A mouse scurries away. Tom’s expression shifts from smug to startled as a woman enters, wielding a broom, startling him into a crouch. He’s caught in a comical, tense moment.",
+    "timestamp": "2026-02-23 18:03:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      136,
+      269,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stretches and pounces, holding a tomato, then drops it as Jerry the mouse scurries away. Tom's expression shifts from delight to surprise as a woman enters, wielding a broom, startling him into a startled leap. The scene captures their classic chase, filled with comedic tension and slapstick antics.",
+    "timestamp": "2026-02-23 18:03:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      136,
+      269,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat stretches playfully on a rug, then dramatically pulls a red cloth, revealing a tomato. A mouse scurries away in fear. Tom, smug and triumphant, drops the tomato, then leaps to the rug’s edge. Suddenly, a woman in a yellow dress and red stockings enters, wielding a broom. Tom freezes, eyes wide with surprise as she approaches, unaware of his antics. The scene ends with Tom’s startled expression, hinting at impending chaos.",
+    "timestamp": "2026-02-23 18:03:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      1,
+      0,
+      330,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a large knife, chasing Jerry, the small brown mouse, who runs away in fear across the floor.",
+    "timestamp": "2026-02-23 18:04:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      1,
+      0,
+      330,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a large knife, eyes wide with mischief. Jerry, the brown mouse, scurries away in terror, his tiny form contrasting with Tom’s imposing size. Tom’s expression is one of triumphant delight, anticipating his next catch. The scene captures their classic chase, filled with slapstick humor and playful tension.",
+    "timestamp": "2026-02-23 18:04:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      1,
+      0,
+      330,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a large knife, eyes wide with mischief. Jerry, the brown mouse, scurries away in panic, tail twitching. Tom’s grin reveals his playful intent, while Jerry’s frantic escape underscores his fear. The scene captures their classic chase, filled with humor and tension.",
+    "timestamp": "2026-02-23 18:04:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      1,
+      0,
+      330,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat with yellow eyes, gleefully holds a large cleaver, eyes wide with anticipation. He lunges forward, but Jerry, the tiny brown mouse, scurries away with a panicked expression, tail twitching. Tom’s grin widens as he chases, his body stretched in pursuit. The scene captures their classic chase, filled with Tom’s manic excitement and Jerry’s frantic escape, set against a simple, warm-toned room backdrop.",
+    "timestamp": "2026-02-23 18:04:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      74,
+      238,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, hangs upside down from a table leg, clutching a bone, while Jerry, the mouse, scurries away below, both displaying playful, mischievous expressions.",
+    "timestamp": "2026-02-23 18:04:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      74,
+      238,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, hangs upside down from a table leg, clutching a bone, eyes wide with glee. Jerry, the brown mouse, scurries below, alert and cautious. Tom’s joyful expression contrasts with Jerry’s wary stance as they engage in classic chase dynamics, showcasing their enduring rivalry.",
+    "timestamp": "2026-02-23 18:04:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      74,
+      238,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, hangs upside-down from a wooden table leg, clutching a bone with a mischievous grin. Jerry, the brown mouse, scurries below, eyes wide with surprise as Tom’s antics unfold. Their classic chase dynamic continues, full of playful chaos and slapstick humor.",
+    "timestamp": "2026-02-23 18:04:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      74,
+      238,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, hangs upside-down from a wooden table leg, clutching a bone with a mischievous grin. Below, Jerry, the small brown mouse, scurries across the floor, eyes wide with surprise. Tom’s expression shifts to playful delight as he dangles the bone, taunting Jerry. The scene captures their classic chase dynamic, with Tom’s cunning and Jerry’s quick wit, set against a cozy kitchen backdrop. Their antics embody timeless cartoon humor and rivalry.",
+    "timestamp": "2026-02-23 18:04:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      137,
+      0,
+      497,
+      371
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a yellow dress and blue slippers sweeps the floor. She moves away, leaving the broom behind. The scene ends with an empty room.",
+    "timestamp": "2026-02-23 18:05:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      137,
+      0,
+      497,
+      371
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a yellow dress and apron sweeps the floor with a broom. She moves methodically, then exits the frame. The room features a fireplace and armchair. Her focused, diligent cleaning suggests routine domesticity, with no visible expressions or emotions conveyed.",
+    "timestamp": "2026-02-23 18:05:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      137,
+      0,
+      497,
+      371
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a yellow dress and blue slippers sweeps a red carpet, her brown hands gripping a broom. She moves methodically, then exits the frame. The room features a fireplace and blue armchair, hinting at domestic routine. Her focused, diligent demeanor suggests a quiet, everyday chore.",
+    "timestamp": "2026-02-23 18:05:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      137,
+      0,
+      497,
+      371
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character in a yellow dress, white apron, and blue slippers sweeps a red carpet with a broom. Her brown hands grip the broom firmly as she moves methodically. She bends slightly, then turns away, exiting the frame. The room features a fireplace and a blue armchair. Her movements are deliberate, suggesting diligence. No facial expressions are visible, but her posture implies focus and routine. The scene conveys a quiet, domestic chore.",
+    "timestamp": "2026-02-23 18:05:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      128,
+      0,
+      488,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A yellow-clad character in red boots walks away, while a black cat lies on the floor, laughing amidst shattered glass, surrounded by household items.",
+    "timestamp": "2026-02-23 18:06:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      128,
+      0,
+      488,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A yellow-clad character in red boots and a white apron walks away, leaving a broken bowl and scattered paper. Tom the cat lies on the floor, laughing, surrounded by shattered glass. His expression is gleeful, suggesting mischief or triumph after causing the mess.",
+    "timestamp": "2026-02-23 18:06:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      128,
+      0,
+      488,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A yellow-clad character in red boots and a white apron walks briskly, while Tom the cat lies comically amidst shattered glass, laughing joyfully. The scene captures playful chaos, with Tom’s mischievous grin and the character’s determined stride hinting at a comedic chase or mischief.",
+    "timestamp": "2026-02-23 18:06:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E10 - The Lonesome Mouse (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      128,
+      0,
+      488,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A yellow-clad, red-booted character, likely a cartoonish cook, walks briskly, their white apron fluttering. Nearby, a black-and-white cat, Tom, lies on the floor amidst shattered glass, laughing maniacally with paws over its mouth. The scene suggests chaos—perhaps a kitchen mishap—where Tom’s mischief has caused the breakage. The cat’s joyous, mischievous grin contrasts with the mess, capturing classic cartoon slapstick humor.",
+    "timestamp": "2026-02-23 18:06:13"
+  }
+]

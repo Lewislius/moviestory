@@ -1,0 +1,1178 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      126,
+      126,
+      368,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat laughs, then gets hit by a cupid's arrow, causing him to leap joyfully before vanishing in a puff of smoke.",
+    "timestamp": "2026-02-23 16:55:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      126,
+      126,
+      368,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat dances joyfully, then is struck by a cupid’s arrow, causing him to leap and spin wildly. His exaggerated expressions and movements convey delight and surprise as he reacts to the romantic interruption in his playful routine.",
+    "timestamp": "2026-02-23 16:56:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      126,
+      126,
+      368,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully dances, then collapses as a cupid arrow strikes him, causing a fiery explosion. He laughs wildly, then leaps into the air, arms wide. The scene ends with an empty room, emphasizing his comedic, chaotic reaction to the magical arrow.",
+    "timestamp": "2026-02-23 16:56:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      126,
+      126,
+      368,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat joyfully dances, then collapses dramatically as a cupid arrow strikes him. He reacts with exaggerated pain, flailing and screaming, before tumbling backward. The scene ends with an empty room, emphasizing the absurdity of his sudden, comical demise. Tom’s expressions shift from delight to shock to agony, capturing classic cartoon humor through over-the-top physical comedy and slapstick.",
+    "timestamp": "2026-02-23 16:56:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      2,
+      509,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, playfully holds a small mouse, then smiles mischievously, gesturing with his paws, while a gift box sits nearby on a blue couch.",
+    "timestamp": "2026-02-23 16:56:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      2,
+      509,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, joyfully holds a gift box with a pink bow, smiling mischievously. He playfully gestures with his paws, showing excitement. The scene is cozy, with a purple lamp and blue couch, capturing Tom’s sly, happy demeanor as he revels in his prank or gift.",
+    "timestamp": "2026-02-23 16:56:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      2,
+      509,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, grinning mischievously, holds a small mouse in his paws, then playfully gestures with his fingers. Behind him, a lamp and gift box sit on a blue couch. His expression radiates delight and cunning, hinting at a prank or trick he’s about to pull on his unsuspecting prey.",
+    "timestamp": "2026-02-23 16:56:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      2,
+      509,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, sits on a blue couch, smiling mischievously while holding a small gift box tied with a red ribbon. He playfully gestures with his paws, eyes gleaming with delight. Behind him, a purple lamp and framed picture adorn the wall. Tom’s expression shifts to one of scheming joy as he revels in his cleverness, clearly anticipating a prank or reward. His demeanor suggests he’s enjoying the moment, perhaps preparing to surprise or trick someone.",
+    "timestamp": "2026-02-23 16:56:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      63,
+      498,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat gleefully operates a record player, laughing and dancing as he spins the vinyl, showcasing his playful mischief and joy in the classic cartoon setting.",
+    "timestamp": "2026-02-23 16:57:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      63,
+      498,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully operates a record player, his expression shifting from smug to ecstatic as he presses buttons. His tail wags, paws grip the turntable, and he laughs joyfully, embodying pure, cartoonish delight as he controls the music with exaggerated enthusiasm.",
+    "timestamp": "2026-02-23 16:57:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      63,
+      498,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully operates a record player, eyes wide and mouth open in delight. He joyfully manipulates the turntable, his tail twitching, as he revels in the music, embodying pure, animated enthusiasm for his musical adventure.",
+    "timestamp": "2026-02-23 16:57:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      63,
+      498,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits proudly at a record player, eyes gleaming with mischief. He joyfully manipulates the turntable, his paws dancing over the controls. His expression shifts from smug satisfaction to ecstatic delight as he laughs, mouth wide open. The scene radiates playful energy, capturing Tom’s delight in his musical antics, embodying classic cartoon charm and comedic enthusiasm.",
+    "timestamp": "2026-02-23 16:57:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      70,
+      174,
+      290,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, walks confidently, tail up, then suddenly leaps into the air with a joyful, wide-eyed expression, revealing his excitement.",
+    "timestamp": "2026-02-23 16:57:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      70,
+      174,
+      290,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, walks confidently with a raised tail, then suddenly yelps in surprise. His eyes widen, mouth opens in shock, and he freezes mid-step, displaying a startled expression as he looks upward, reacting to an unseen event or stimulus.",
+    "timestamp": "2026-02-23 16:57:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      70,
+      174,
+      290,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, walks confidently with a raised tail, then turns to laugh joyfully, eyes wide and mouth open. He’s in a cozy room with pink curtains and a blue armchair, exuding playful energy and delight, suggesting a lighthearted, comedic moment in his animated world.",
+    "timestamp": "2026-02-23 16:58:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      70,
+      174,
+      290,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat with a mischievous grin strolls confidently across a warmly lit room, tail high and ears perked. As it moves, it suddenly stops, tilts its head, and lets out a wide, joyful yowl, eyes gleaming with delight. The room features pink curtains, a wooden chair, and a blue couch, adding cozy charm. The cat’s playful energy and expressive face convey pure, animated enthusiasm as it revels in its moment of whimsical triumph.",
+    "timestamp": "2026-02-23 16:58:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      91,
+      0,
+      456,
+      388
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, joyfully dances on a record player, then leaps off with a grin, showcasing his playful, mischievous energy in classic cartoon style.",
+    "timestamp": "2026-02-23 16:58:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      91,
+      0,
+      456,
+      388
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully dances on a record player, clapping and smiling. He then leans forward, seemingly eager to start the music, before the record spins beneath him. His playful energy and delighted expressions convey pure excitement and mischief as he interacts with the device.",
+    "timestamp": "2026-02-23 16:58:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      91,
+      0,
+      456,
+      388
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully dances on a record player, clapping and smiling. He leans forward, then jumps off, leaving the spinning records. His playful energy and wide eyes convey delight. The scene captures his mischievous, animated spirit as he interacts with the music equipment.",
+    "timestamp": "2026-02-23 16:58:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      91,
+      0,
+      456,
+      388
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully sits atop a record player, joyfully pressing buttons and adjusting controls. His wide eyes and open mouth convey excitement as he manipulates the machine, seemingly in control. He leans forward, then back, with playful enthusiasm. The record player’s buttons—STOP, START, CHANGE—are visible, hinting at his mischief. His tail curls, and he appears utterly absorbed in his antics, embodying classic cartoon mischief and delight.",
+    "timestamp": "2026-02-23 16:58:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      13,
+      0,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, holds Jerry, a small brown mouse, in one paw while wrapping him in a white cloth with the other, smiling mischievously.",
+    "timestamp": "2026-02-23 16:59:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      13,
+      0,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, holds Jerry, a small brown mouse, in one paw while wrapping him in a white cloth with the other. Tom smiles mischievously, suggesting a playful or deceptive intent, as he carefully covers Jerry, who appears unaware or slightly startled. The scene conveys Tom's cunning nature.",
+    "timestamp": "2026-02-23 16:59:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      13,
+      0,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the brown mouse, in one paw while wrapping him in a white cloth with the other. Tom smiles mischievously, revealing his playful intent. The scene suggests a lighthearted, comedic moment typical of their classic antics, with Tom's expression radiating delight and control.",
+    "timestamp": "2026-02-23 16:59:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      13,
+      0,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits on a blue couch, holding Jerry, the brown mouse, in one paw. He smiles mischievously as he lifts a white cloth with the other paw, preparing to wrap Jerry. His eyes gleam with playful intent. The scene is cozy, with a purple lamp and a yellow box nearby. Tom’s expression shifts from smug to gleeful as he holds Jerry close, suggesting he’s about to play a prank or trap Jerry. The moment is lighthearted and full of classic cartoon mischief.",
+    "timestamp": "2026-02-23 16:59:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      125,
+      51,
+      374,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat with white paws sits on a record player, turning its head, then spins around, looking surprised and curious as it watches something off-screen.",
+    "timestamp": "2026-02-23 17:00:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      125,
+      51,
+      374,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray and white cat, Tom, sits on a record player, initially looking back. He turns, then looks forward with wide green eyes, appearing surprised or alert. His paws rest on the turntable, and he seems attentive, possibly anticipating something or someone.",
+    "timestamp": "2026-02-23 17:00:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      125,
+      51,
+      374,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws sits atop a record player, initially facing away. It turns, eyes wide with surprise, then spins around, ears perked. Its tail flicks, and it seems curious or startled, as if reacting to something unseen. The cat’s expression shifts from alert to amused.",
+    "timestamp": "2026-02-23 17:00:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      125,
+      51,
+      374,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray tabby cat with white paws and green eyes sits atop a record player, initially facing away. It turns, revealing a surprised expression. The cat then spins around, tail flicking, and looks up with wide, alert eyes, seemingly reacting to something off-screen. Its ears twitch, and its paws twitch slightly, indicating curiosity or anticipation. The scene captures the cat’s playful, inquisitive nature as it engages with its surroundings.",
+    "timestamp": "2026-02-23 17:00:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      160,
+      144,
+      423,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat playfully leaps and twirls near a sofa, while Jerry the mouse sits calmly, watching with a curious expression as Tom’s antics unfold.",
+    "timestamp": "2026-02-23 17:00:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      160,
+      144,
+      423,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat winks and dances playfully, tail raised, while Jerry the mouse watches from a blue couch. Jerry, adorned with a red bow, sits calmly, observing Tom’s antics. Tom’s mischievous grin and Jerry’s curious gaze highlight their classic rivalry, set against a cozy, warmly lit room.",
+    "timestamp": "2026-02-23 17:00:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      160,
+      144,
+      423,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A mischievous black cat, Tom, winks and stretches, then playfully leaps toward a blue couch where a yellow cat, Jerry, sits nervously with a red bow. Tom’s tail wags as he grins, anticipating mischief, while Jerry’s eyes dart nervously, caught in a classic chase.",
+    "timestamp": "2026-02-23 17:00:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      160,
+      144,
+      423,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, playfully wiggles his tail and leaps toward a pink curtain, grinning mischievously. On the blue couch, a yellow kitten with a red bow watches him, wide-eyed and slightly alarmed. As Tom bounds past, the kitten clutches her paws, startled. The scene captures their classic dynamic: Tom’s antics versus the kitten’s innocent bewilderment, set in a cozy, warmly lit living room.",
+    "timestamp": "2026-02-23 17:01:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      182,
+      351,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds Jerry, the mouse, upside down. Jerry struggles, while Toodles, the cat, watches with a surprised expression. The scene is playful and humorous.",
+    "timestamp": "2026-02-23 17:02:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      182,
+      351,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds Jerry, the mouse, upside down by his tail. Jerry struggles, flailing his limbs. A pink cat with a red bow watches, smiling. The scene is playful, capturing classic cartoon mischief and the enduring chase between Tom and Jerry.",
+    "timestamp": "2026-02-23 17:03:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      182,
+      351,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cat's paw holds a small brown mouse, who struggles and flips upside down. A pink cat with a red bow watches, smiling mischievously. The scene is playful, with the mouse’s frantic movements contrasting the cat’s calm, amused demeanor against a simple blue background.",
+    "timestamp": "2026-02-23 17:03:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      182,
+      351,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat’s paw holds a small brown mouse, who struggles and flips upside down, displaying frantic energy. A pink-cheeked, red-bow-wearing cat watches with wide, curious eyes, her expression shifting from amusement to surprise. The scene is set against a simple blue backdrop, emphasizing the characters’ exaggerated expressions and movements. The mouse’s frantic attempts to escape contrast with the cat’s patient, observant demeanor, creating a classic chase dynamic.",
+    "timestamp": "2026-02-23 17:03:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      1,
+      0,
+      409,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps joyfully on a record player, eyes wide, paws raised, embodying playful excitement as he dances atop the spinning vinyl.",
+    "timestamp": "2026-02-23 17:03:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      1,
+      0,
+      409,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps wildly on a record player, eyes wide with excitement, paws flailing. His expression shifts to surprise as he lands, then to delight. The scene captures his playful, chaotic energy as he dances atop the spinning vinyl, embodying classic cartoon mischief and joy.",
+    "timestamp": "2026-02-23 17:04:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      1,
+      0,
+      409,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully atop a record player, paws raised in excitement, eyes wide with delight. His body twists mid-air, conveying playful energy. The warm-toned background highlights his animated motion, capturing a moment of pure, cartoonish enthusiasm as he dances on the spinning vinyl.",
+    "timestamp": "2026-02-23 17:04:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      1,
+      0,
+      409,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps energetically atop a record player, eyes wide and mouth agape in excitement. His paws grip the edge as he balances precariously, tail flicking. The scene captures his playful, mischievous spirit, with dynamic motion suggesting he’s about to pounce or dance. The warm, wooden background contrasts with his animated movements, emphasizing his joyful, chaotic energy as he interacts with the mechanical device.",
+    "timestamp": "2026-02-23 17:04:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      8,
+      502,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom lounges on a blue couch, smiling mischievously as he playfully holds a small toy mouse. Jerry scurries nearby, while a pink cat watches with a surprised expression.",
+    "timestamp": "2026-02-23 17:04:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      8,
+      502,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges on a blue couch, playfully extending his paw toward a tiny mouse. A pink cat with a red bow watches from the side, amused. Tom’s grin suggests mischief, while the mouse appears startled, adding comedic tension to their interaction.",
+    "timestamp": "2026-02-23 17:04:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      8,
+      502,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges on a blue couch, playfully holding a tiny mouse. He smiles mischievously as Jerry, the mouse, scurries away. A pink cat with a red bow watches, intrigued. Tom’s antics reveal his playful, predatory nature, while Jerry’s escape highlights their classic chase dynamic.",
+    "timestamp": "2026-02-23 17:04:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      8,
+      502,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lounges on a blue couch, playfully stretching with a mischievous grin. A tiny mouse scurries near his paws. Suddenly, he leaps up, delightfully tossing the mouse toward a surprised, red-bow-wearing cat, likely Tippy. The mouse lands on her lap, causing her to gasp in shock. Tom beams with glee, embodying classic cartoon mischief and charm.",
+    "timestamp": "2026-02-23 17:05:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, sits on a blue couch, initially hiding under a white cloth. He lifts it, revealing a surprised expression, then laughs with delight.",
+    "timestamp": "2026-02-23 17:05:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, sits on a blue couch, initially hiding under a white cloth. He peeks out, smiling, then suddenly becomes furious, snarling and flailing his paws in anger, his face contorted with rage.",
+    "timestamp": "2026-02-23 17:05:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, sits on a blue couch, initially hiding under a white cloth. He lifts it, revealing a mischievous grin. His eyes widen in delight, then he dramatically throws his head back, roaring with glee, showcasing his playful, triumphant spirit.",
+    "timestamp": "2026-02-23 17:05:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      511,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, sits on a blue couch, initially hiding his face with a white cloth. He suddenly lifts his head, revealing a mischievous grin and wide eyes. His expression shifts to exaggerated surprise as he clutches the cloth, then bursts into a joyful, wide-mouthed laugh, his eyes sparkling with delight. The scene captures his playful, comedic energy as he revels in a moment of triumph or amusement.",
+    "timestamp": "2026-02-23 17:05:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      207,
+      143,
+      369,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat with white paws and chest stands, then sits, stretching and yawning. It turns, revealing a room with a chandelier and blue couch. The cat looks around, appearing sleepy and content.",
+    "timestamp": "2026-02-23 17:06:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      207,
+      143,
+      369,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands near a door, then turns, stretching and flexing. He looks surprised, then smug, before turning away dramatically. The room’s elegant decor contrasts his playful, exaggerated movements, capturing his mischievous, comedic spirit.",
+    "timestamp": "2026-02-23 17:06:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      207,
+      143,
+      369,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands near a door, then kneels, looking up with a mischievous grin. He stretches, then leaps backward, revealing a lavish room with a chandelier and blue sofa. His playful energy and expressive eyes convey joy and anticipation for mischief.",
+    "timestamp": "2026-02-23 17:06:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      207,
+      143,
+      369,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat with white paws and a brown patch, stands near a door, looking upward with a mischievous grin. He shifts his weight, then suddenly leaps backward, his body arched as he turns to face a chandelier. His expression remains playful and determined. The room’s elegant decor—chandelier, blue sofa, and pink curtains—adds to the classic cartoon ambiance. Tom’s antics suggest he’s scheming or preparing for another comedic chase.",
+    "timestamp": "2026-02-23 17:06:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom cat smiles mischievously, then a mouse parachutes down, landing near a sink. The mouse looks startled, while Tom watches with amusement.",
+    "timestamp": "2026-02-23 17:07:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, smug and mischievous, gestures as Jerry the mouse parachutes down, wide-eyed and terrified. The scene captures their classic chase, with Jerry’s panic contrasting Tom’s sly confidence, set against a cozy, cartoonish interior.",
+    "timestamp": "2026-02-23 17:07:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, smug and confident, gestures with his paws. Suddenly, Jerry the mouse parachutes in, eyes wide with surprise. The scene shifts to Jerry’s descent, showcasing his comedic, perilous landing. Their classic rivalry is humorously portrayed with exaggerated expressions and antics.",
+    "timestamp": "2026-02-23 17:07:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with a mischievous grin, holds a tiny mouse in his paw. The mouse, wearing a white parachute, descends from above, eyes wide with fear. As it falls, it lands softly beside a blue couch, its parachute fluttering. The scene captures Tom’s playful dominance and the mouse’s comedic vulnerability, set against a cozy, warmly lit room. Their expressions convey a classic chase dynamic, full of cartoon charm and slapstick humor.",
+    "timestamp": "2026-02-23 17:07:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      9,
+      85,
+      406,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat proudly holds a tiny mouse wrapped in a cloth, smiling triumphantly as he points, clearly amused by his successful capture.",
+    "timestamp": "2026-02-23 17:08:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      9,
+      85,
+      406,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a white cloth with Jerry, the mouse, peeking out. Tom smirks, then points proudly, showing off his triumph. Jerry looks startled, his tail twitching. Tom’s expression shifts from smug to delighted, celebrating his successful capture.",
+    "timestamp": "2026-02-23 17:08:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      9,
+      85,
+      406,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully holds a tiny mouse wrapped in a white cloth, smiling triumphantly. He gestures proudly, eyes gleaming with satisfaction. The mouse, small and brown, peeks out, appearing startled yet resigned. Tom’s expression radiates playful dominance over his prey.",
+    "timestamp": "2026-02-23 17:08:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      9,
+      85,
+      406,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, lounges on a blue couch, smirking with satisfaction. He holds a white cloth, revealing Jerry, the small brown mouse, peeking out. Tom’s expression shifts from smug to delighted as he winks and gives a thumbs-up, clearly enjoying his triumph. Jerry, tiny and anxious, looks up at Tom, his tail twitching. The scene captures Tom’s playful dominance and Jerry’s nervousness, classic cartoon dynamics.",
+    "timestamp": "2026-02-23 17:08:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      251,
+      0,
+      511,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray and white, playfully leaps and tumbles near a cabinet, then pounces under a table, eyes wide with mischief and joy, embodying classic cartoon antics.",
+    "timestamp": "2026-02-23 17:09:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      251,
+      0,
+      511,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, playfully leaps and stretches near a dresser, then tumbles into a bucket. He laughs, then crawls away, eyes wide with mischief. His antics reveal his mischievous, joyful nature as he navigates the room with playful energy.",
+    "timestamp": "2026-02-23 17:09:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      251,
+      0,
+      511,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, playfully leaps and tumbles near a wooden cabinet and bucket. He laughs joyfully, then lies down, eyes wide. The scene shifts to him crouching near a table leg, still smiling mischievously, embodying his classic comedic antics.",
+    "timestamp": "2026-02-23 17:09:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      251,
+      0,
+      511,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, playfully pounces near a wooden dresser, his tail high and eyes gleaming with mischief. He leaps, lands awkwardly, then rolls onto his back, laughing joyfully. His antics continue as he dashes past a table leg, eyes wide with delight. The scene captures his mischievous spirit and boundless energy, embodying classic cartoon humor and charm.",
+    "timestamp": "2026-02-23 17:09:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      43,
+      333,
+      376
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, looks annoyed while holding a green bucket. He then leaps away, startled, as a large yellow and red figure with blue shoes steps over him, revealing a surprised expression.",
+    "timestamp": "2026-02-23 17:10:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      43,
+      333,
+      376
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sneaks behind a cabinet, peeking out with a mischievous grin. He then leaps dramatically, landing on a green bucket. A large, yellow-clad rabbit with blue shoes appears, startled by Tom’s sudden movement, revealing a classic cartoon chase.",
+    "timestamp": "2026-02-23 17:10:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      43,
+      333,
+      376
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, crouches anxiously beside a green bucket, eyes wide. He leaps dramatically, then tumbles backward as a large, colorful clown-like figure in yellow and red enters, startling him. Tom’s expression shifts from fear to surprise as the clown’s feet loom over him.",
+    "timestamp": "2026-02-23 17:10:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      43,
+      333,
+      376
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, crouches nervously beside a green bucket, eyes wide with anticipation. Suddenly, he leaps forward, arms outstretched, as if chasing something. A quick cut reveals a yellow-clad character’s legs in blue slippers, stepping over Tom, who’s now flattened beneath a wooden cabinet. Tom’s expression shifts to surprise, then annoyance, as he’s momentarily trapped under the furniture. The scene captures classic cartoon chaos and slapstick humor.",
+    "timestamp": "2026-02-23 17:10:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      24,
+      68,
+      408,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, holds a tiny mouse figurine, smiling and gesturing excitedly, then waves playfully, displaying delight and mischief as he sits on a blue couch.",
+    "timestamp": "2026-02-23 17:10:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      24,
+      68,
+      408,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, proudly displays a tiny mouse figurine, smiling triumphantly. He gestures with his paws, then pauses, looking thoughtful. Behind him, a lamp and gift box sit on a blue couch, adding to the cozy, playful scene. Tom’s expression shifts from joy to contemplation, hinting at a mischievous plan.",
+    "timestamp": "2026-02-23 17:10:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      24,
+      68,
+      408,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, proudly displays a tiny mouse figurine, smiling broadly. He gestures excitedly, then pauses, looking thoughtful. His expression shifts to playful mischief as he holds the figurine, eyes gleaming with delight and anticipation, hinting at a mischievous plan.",
+    "timestamp": "2026-02-23 17:10:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      24,
+      68,
+      408,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits on a blue couch, holding a tiny mouse figurine in his paw. He beams with delight, then gestures proudly, pointing at the toy. His expression shifts to playful mischief as he winks and smiles, eyes gleaming with joy. Behind him, a lamp and a gift box with a pink bow add cozy detail. Tom’s antics suggest he’s reveling in his cleverness or perhaps preparing a prank, embodying classic cartoon charm and humor.",
+    "timestamp": "2026-02-23 17:11:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      0,
+      162,
+      400,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, gleefully reaches into a fishbowl, pulling out a tiny fish. His mischievous grin shows his delight in the prank, while the fish struggles in his grasp.",
+    "timestamp": "2026-02-23 17:11:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      0,
+      162,
+      400,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the mischievous cat, gleefully reaches into a fishbowl, pulling out a tiny fish. His expression is smug and triumphant. The scene shifts to show him and a small, red-bow-wearing kitten, both seated on a couch, watching with amused expressions as Tom’s antics unfold.",
+    "timestamp": "2026-02-23 17:11:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      0,
+      162,
+      400,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the mischievous cat, gleefully reaches into a fishbowl, pulling out a tiny fish. His grin reveals triumph as water splashes. A small, red-eyed kitten watches from the couch, eyes wide with surprise. Tom’s playful, predatory nature shines through, embodying classic cartoon mischief.",
+    "timestamp": "2026-02-23 17:11:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      0,
+      162,
+      400,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat gleefully reaches into a fishbowl, grasping a tiny fish by its tail. He smiles triumphantly as he pulls it out, water splashing around. The scene shifts to show Tom and a small, red-bow-wearing kitten sitting side by side on a couch, both smiling mischievously. Tom’s expression remains smug and satisfied, suggesting playful mischief and a sense of accomplishment in his fishing adventure.",
+    "timestamp": "2026-02-23 17:11:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      0,
+      445,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a yellow dress walks away, revealing a sad cat with a red bow on a blue couch, looking up with hopeful eyes.",
+    "timestamp": "2026-02-23 17:12:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      0,
+      445,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a yellow dress with a white bow walks away, revealing a cat with a red bow, sitting sadly on a blue couch. The cat looks up with tearful eyes, then smiles slightly, appearing hopeful or amused by the situation.",
+    "timestamp": "2026-02-23 17:12:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      0,
+      445,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a yellow dress with a white bow walks away, revealing a sad, bow-tied kitten on a blue couch. The kitten looks up, blushing and winking, then smiles shyly as she leaves, her tail twitching with anticipation.",
+    "timestamp": "2026-02-23 17:12:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      94,
+      0,
+      445,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A plump woman in a yellow dress with a white bow walks away, her red socks and blue slippers visible. She passes a blue couch where a small orange kitten with a red bow sits, looking up with wide, curious eyes. The kitten blinks, then smiles sweetly, tilting its head as if amused or delighted by the woman’s departure. The room’s cozy decor adds warmth to the scene, emphasizing the kitten’s innocent charm.",
+    "timestamp": "2026-02-23 17:12:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      168,
+      9,
+      511,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, opens a drawer, revealing a mouse inside. He looks surprised and startled as the mouse peeks out, creating a classic chase scene.",
+    "timestamp": "2026-02-23 17:13:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      168,
+      9,
+      511,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, opens a wooden drawer, revealing a small mouse inside. He looks surprised and slightly alarmed as the mouse peeks out, causing Tom to recoil in startled reaction. The scene captures their classic chase dynamic with exaggerated expressions and movements.",
+    "timestamp": "2026-02-23 17:13:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      168,
+      9,
+      511,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, cautiously opens a wooden drawer, revealing a mouse inside. His eyes widen in surprise as the mouse peeks out, then scurries away. Tom’s expression shifts from curiosity to mild alarm as he watches the mouse vanish, tail twitching in anticipation.",
+    "timestamp": "2026-02-23 17:13:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E06 - Puss N' Toots (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      168,
+      9,
+      511,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly opens a wooden drawer, revealing a pile of golden coins. His eyes gleam with greed, and his mouth is agape in excitement. He leans forward, pawing at the coins, while a small mouse peeks out from the top drawer, watching with curiosity. Tom’s expression shifts to surprise as he notices the mouse, his tail twitching nervously. The scene captures Tom’s sudden shift from greed to alarm, highlighting his classic mischievous nature.",
+    "timestamp": "2026-02-23 17:13:17"
+  }
+]

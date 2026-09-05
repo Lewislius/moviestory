@@ -1,0 +1,618 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      143,
+      99,
+      407,
+      448
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, angry, swings a pan at Jerry, who hides under a pipe. A bulldog joins, wielding a bat, as Tom struggles, both determined to catch Jerry.",
+    "timestamp": "2026-02-23 22:27:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      143,
+      99,
+      407,
+      448
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, swings a frying pan at Jerry, the brown mouse, who躲 behind a pipe. A bulldog joins, wielding a bat, as Tom and Jerry engage in chaotic antics. Their expressions shift from anger to surprise, highlighting the slapstick comedy of their chase.",
+    "timestamp": "2026-02-23 22:27:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      143,
+      99,
+      407,
+      448
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, swings a frying pan, while Jerry, the brown mouse, scurries away. A bulldog joins, wielding a bat. Tom’s expression shifts from anger to exhaustion as he struggles against the duo’s combined efforts, while Jerry remains agile and clever, evading capture.",
+    "timestamp": "2026-02-23 22:27:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      143,
+      99,
+      407,
+      448
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, swings a frying pan at Jerry, the brown mouse, who dodges. A bulldog joins, wielding a bat, both attacking Jerry. Tom’s expression shifts from anger to frustration as he struggles with the pan. Jerry, small and agile, crouches near a pipe, avoiding the blows. The scene is chaotic, filled with slapstick humor and exaggerated movements, capturing their classic chase-and-escape dynamic. The bulldog’s aggressive stance contrasts with Tom’s comedic struggle.",
+    "timestamp": "2026-02-23 22:28:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      4,
+      88,
+      371,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry chase each other, with Tom wielding a frying pan and Jerry hiding behind a pipe. A bulldog joins, wielding a bat, adding chaos to their antics.",
+    "timestamp": "2026-02-23 22:28:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      4,
+      88,
+      371,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in chaotic antics, with Tom wielding a frying pan and Jerry dodging. A bulldog enters, brandishing a bat, adding to the mayhem. All display exaggerated expressions of anger or surprise, capturing classic cartoon chaos as they tumble and fight in a backyard setting.",
+    "timestamp": "2026-02-23 22:28:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      4,
+      88,
+      371,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in chaotic antics. Tom wields a frying pan, while a bulldog swings a bat. Jerry, tiny and agile, dodges. Their expressions shift from fury to surprise, highlighting the slapstick comedy. The scene bursts with frantic energy, capturing classic cartoon chaos and the timeless rivalry between the cat and mouse.",
+    "timestamp": "2026-02-23 22:28:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0000_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      4,
+      88,
+      371,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wields a frying pan, while Jerry, the brown mouse, scurries with a pipe. A bulldog, wielding a bat, joins the fray. Tom and the bulldog clash in a chaotic dance of weapons, Tom’s eyes glowing with determination. Jerry, tiny and agile, dodges between them. The scene bursts with slapstick energy, each character’s expressions brimming with comedic intensity—Tom’s grit, Jerry’s panic, and the bulldog’s fierce resolve. The animation captures classic cartoon chaos.",
+    "timestamp": "2026-02-23 22:28:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      22,
+      93,
+      363,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and a large bulldog hold pans, while Jerry holds a pipe. They appear angry, with Tom looking shocked. The bulldog growls, showing teeth. Jerry looks determined.",
+    "timestamp": "2026-02-23 22:29:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      22,
+      93,
+      363,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and a bulldog wield pans and a pipe, menacingly confronting Jerry. Tom looks startled, the bulldog growls with rage, and Jerry, tiny but defiant, holds the pipe. Their expressions shift from aggression to surprise as the scene unfolds, capturing classic cartoon chaos and comedic tension.",
+    "timestamp": "2026-02-23 22:29:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      22,
+      93,
+      363,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and a large bulldog stand beside each other, holding tools. Tom looks surprised as the bulldog growls, then they both turn to face a tiny mouse holding a pipe. The mouse appears defiant, while Tom and the dog seem determined, their expressions showing a mix of anger and readiness for action.",
+    "timestamp": "2026-02-23 22:29:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      22,
+      93,
+      363,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, and a large bulldog with a red collar stand menacingly, each holding a frying pan. Tom looks startled, while the bulldog roars with rage. A tiny mouse, holding a blue pipe, scurries away, clearly frightened. The bulldog’s expression shifts from fury to annoyance as Tom grips his pan tightly. The scene suggests a chaotic, comedic confrontation, with the mouse’s escape adding to the slapstick tension.",
+    "timestamp": "2026-02-23 22:29:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      54,
+      39,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat is being held by Spike the dog, who looks surprised. Tom struggles, then settles into a smug, defiant pose, while Spike remains bewildered.",
+    "timestamp": "2026-02-23 22:30:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      54,
+      39,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is being held by Spike, the bulldog, who appears amused. Tom struggles, yells, and looks annoyed, while Spike watches with a mischievous grin. Their expressions shift from shock to playful defiance, highlighting their classic rivalry in a humorous outdoor setting.",
+    "timestamp": "2026-02-23 22:30:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      54,
+      39,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat is being held by Spike the dog, who appears surprised. Tom yells, then calms, looking up at Spike with a smirk. Spike, wearing a red collar, stares back, eyes wide. Their playful, cartoonish expressions convey mischief and tension.",
+    "timestamp": "2026-02-23 22:30:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      54,
+      39,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is being held by Spike, the bulldog, who wears a red collar. Tom screams in distress, his mouth wide open, while Spike looks shocked and concerned. As the scene progresses, Tom’s expression shifts to one of smugness and satisfaction, suggesting he’s mocking Spike. Spike remains startled, his eyes wide, as Tom stands upright, triumphant. The setting is a green wooden fence under a clear blue sky.",
+    "timestamp": "2026-02-23 22:30:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      19,
+      263,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray dog confronts brown dog with green scarf, both showing aggression. Brown dog yells, teeth bared, while gray dog stands defiant, fists clenched, against a wooden fence backdrop.",
+    "timestamp": "2026-02-23 22:31:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      19,
+      263,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog confronts a brown dog with a green scarf, both showing aggressive expressions. The brown dog yells, revealing sharp teeth, while the gray dog stands defiantly. The scene suggests a tense standoff between the two animated canine characters in a backyard setting.",
+    "timestamp": "2026-02-23 22:31:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      19,
+      263,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog confronts a brown dog with a green scarf, both displaying aggressive postures. The bulldog’s expression is stern, while the brown dog grins widely, revealing sharp teeth. They stand near a wooden fence under a blue sky, suggesting a tense, comedic standoff.",
+    "timestamp": "2026-02-23 22:31:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      19,
+      263,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog with a stern expression confronts a brown dog with a wide, toothy grin, who sits by a wooden fence. The bulldog advances, fists clenched, while the brown dog appears amused or mischievous. The scene shifts to show the brown dog holding a plate with a sleeping gray cat and strawberries, laughing hysterically. The bulldog’s anger intensifies as he confronts the laughing dog, creating a comedic tension.",
+    "timestamp": "2026-02-23 22:31:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      292,
+      103,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog yawns loudly, then Tom the cat enters, holding a banana peel. He playfully tosses it, causing the bulldog to react with surprise and confusion.",
+    "timestamp": "2026-02-23 22:33:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      292,
+      103,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog yawns widely, then a cat leaps in, holding a banana peel. The cat playfully tosses the peel toward the dog, who reacts with surprise. The cat smirks, amused by the dog’s startled expression as the banana peel lands near the dog’s head.",
+    "timestamp": "2026-02-23 22:33:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      292,
+      103,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog yawns widely, then is startled by a gray cat leaping in, wielding a banana peel. The cat, with yellow eyes, smirks as the dog reacts with surprise and confusion. The cat playfully holds the peel, teasing the dog, who looks bewildered and slightly annoyed.",
+    "timestamp": "2026-02-23 22:33:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      292,
+      103,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog, wearing a red collar, yawns widely, revealing a red tongue. A gray cat, Tom, appears, sneaking up with a banana peel. He tosses it toward the dog, who catches it mid-air with a surprised expression. Tom grins mischievously, while the dog looks startled, then amused, as the banana peel lands in his mouth. The scene is set in a cozy room with pink walls and green wainscoting.",
+    "timestamp": "2026-02-23 22:33:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      14,
+      82,
+      350,
+      448
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry battle with baseball bat and frying pan, while a bulldog joins in. Jerry hides behind a pipe, looking mischievous. Tom's expression shifts from anger to surprise.",
+    "timestamp": "2026-02-23 22:34:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      14,
+      82,
+      350,
+      448
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, wields a frying pan, while a bulldog swings a bat. A small mouse, holding a pipe, watches. Tom appears determined, the bulldog aggressive, and the mouse curious. Their expressions convey rivalry and mischief, set against a wooden backdrop.",
+    "timestamp": "2026-02-23 22:34:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      14,
+      82,
+      350,
+      448
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a frying pan, while Spike, the bulldog, brandishes a baseball bat. Jerry, the mouse, stands defiantly nearby with a cannon. All display fierce determination, with Tom and Spike poised for combat, while Jerry looks on, ready to outwit them. The scene is charged with cartoonish tension.",
+    "timestamp": "2026-02-23 22:34:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      14,
+      82,
+      350,
+      448
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, holding a frying pan, confronts a bulldog wielding a baseball bat. Both animals appear angry and aggressive, their expressions fierce. A small mouse, Jerry, stands nearby, clutching a blue pipe, looking on with a mix of fear and mischief. The scene is set against a wooden wall, with dynamic poses suggesting imminent chaos. The characters’ exaggerated features and expressions highlight classic cartoon slapstick humor.",
+    "timestamp": "2026-02-23 22:34:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      93,
+      5,
+      404,
+      336
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, Jerry, and a bulldog interact near a drain. Tom leaps, Jerry scurries, and the bulldog shows aggression, then calm, before jumping away, all while the mouse watches with mischief.",
+    "timestamp": "2026-02-23 22:34:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      93,
+      5,
+      404,
+      336
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog, cat, and mouse are near a drain. The bulldog growls, the cat sniffs, and the mouse hides. The bulldog then stands proudly, holding a \"Peace Treaty\" sign, suggesting a truce despite their usual rivalry. Their expressions shift from aggression to calm.",
+    "timestamp": "2026-02-23 22:34:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      93,
+      5,
+      404,
+      336
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog, cat, and mouse confront each other near a drain. The bulldog, wearing a red collar, growls and lunges, while the cat and mouse react with surprise. The bulldog then dramatically holds up a \"Peace Treaty\" sign, signaling a truce. Their expressions shift from aggression to playful negotiation.",
+    "timestamp": "2026-02-23 22:35:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      93,
+      5,
+      404,
+      336
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog, wearing a red collar, stands atop a concrete ledge, glaring angrily. Beside him, a gray cat and a small brown mouse peek over the edge. The cat leaps, startling the bulldog, who then turns to glare at the cat. The mouse scurries away nervously. The bulldog’s expression shifts from rage to annoyance as the cat and mouse retreat, leaving him alone on the ledge, visibly frustrated.",
+    "timestamp": "2026-02-23 22:35:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      55,
+      74,
+      388,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat in yellow scarf holds coins, then punches a wall with a shockwave, revealing a startled expression as he recoils from the impact.",
+    "timestamp": "2026-02-23 22:35:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      55,
+      74,
+      388,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a yellow scarf holds two orange coins, smiling. Suddenly, he punches a wall, causing an explosion. He then looks surprised, eyes wide, as the scene ends. His expression shifts from smug to startled, indicating a sudden, unexpected event.",
+    "timestamp": "2026-02-23 22:35:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      55,
+      74,
+      388,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat in a yellow scarf holds two orange coins, smiling. Suddenly, a bright explosion erupts as he punches forward, his face contorted in rage. He then recoils, looking dazed and defeated, eyes half-closed, as the scene ends with him slumped over.",
+    "timestamp": "2026-02-23 22:35:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      55,
+      74,
+      388,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a yellow scarf, eyes closed in satisfaction, holds two orange coins. Suddenly, a bright explosion erupts from his fist, startling him as he recoils, eyes wide, mouth open in shock. His expression shifts to confusion and dismay as he stares at the aftermath, revealing the comedic chaos typical of classic cartoon antics. The scene captures a moment of slapstick surprise and playful misfortune.",
+    "timestamp": "2026-02-23 22:35:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      206,
+      49,
+      497,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Spike the dog joyfully holds a red chair, then offers it to Tom the cat, who sits down with a delighted grin, both characters exuding playful energy and camaraderie.",
+    "timestamp": "2026-02-23 22:36:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      206,
+      49,
+      497,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Spike, a grey bulldog, joyfully holds a red chair, then offers it to Tom, a grey cat. Tom sits, smiling, as Spike beams with pride. Their expressions convey playful camaraderie, capturing a lighthearted moment of friendship in this classic cartoon scene.",
+    "timestamp": "2026-02-23 22:36:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      206,
+      49,
+      497,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Spike, a gray bulldog in a red collar, joyfully holds a red chair, then invites Tom, a gray cat, to sit. Tom smiles, sits down, and Spike leans in, laughing. Their playful interaction exudes camaraderie, with Spike’s excitement and Tom’s amused delight evident in their expressions and body language.",
+    "timestamp": "2026-02-23 22:36:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      206,
+      49,
+      497,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Spike, a grey bulldog with a red collar, gleefully holds a red chair, then positions it for Tom, the grey cat with pink ears. Tom, initially amused, sits down with a grin, then suddenly yelps as Spike playfully pushes him backward. Their expressions shift from delight to surprise, capturing their classic mischievous dynamic in this animated scene. The yellow tablecloth and simple background emphasize their antics.",
+    "timestamp": "2026-02-23 22:36:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      65,
+      8,
+      438,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and a bulldog run together, then stop. The bulldog dives into a puddle, splashing. Tom laughs. Jerry watches, amused.",
+    "timestamp": "2026-02-23 22:37:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      65,
+      8,
+      438,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and a bulldog run together, then stop as the bulldog dives into a puddle, splashing. Tom laughs, then the bulldog emerges in a red shirt, triumphant. Jerry watches, amused, as the bulldog winks and flexes, celebrating their antics.",
+    "timestamp": "2026-02-23 22:37:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      65,
+      8,
+      438,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry chase a bulldog along a ledge, with Jerry clinging to the dog’s tail. The bulldog, wearing a red collar, drops a blue cloth into a puddle. Tom and Jerry pause, laughing as the bulldog splashes in the water, revealing his playful, mischievous nature.",
+    "timestamp": "2026-02-23 22:37:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E35 - The Truce Hurts (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      65,
+      8,
+      438,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry chase a bulldog along a sidewalk, both laughing. The bulldog, wearing a red collar, suddenly drops to his knees, revealing a blue shirt underneath. He pulls it off, revealing his belly, then dives into a puddle, splashing water. Tom and Jerry watch, amused. The bulldog emerges, soaked, smiling broadly. Jerry, small and brown, watches with a grin, while Tom stands beside him, both clearly enjoying the chaos.",
+    "timestamp": "2026-02-23 22:38:00"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      114,
+      67,
+      506,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, gleefully sets a mousetrap near a chicken. The chicken flaps in alarm as Tom laughs, then retreats, leaving the trap dangling near the startled bird.",
+    "timestamp": "2026-02-23 17:29:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      114,
+      67,
+      506,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully sets a mousetrap near a chicken, then triumphantly pulls the chicken's wing, causing it to flinch. Tom laughs, delighted with his prank, while the chicken squawks in alarm. The scene captures Tom’s mischievous joy and the chicken’s startled reaction.",
+    "timestamp": "2026-02-23 17:29:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      114,
+      67,
+      506,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully sets a mousetrap near a chicken, who reacts with alarm. Tom, with wide eyes and a grin, triumphantly pulls the trap’s wire, causing the chicken to flinch. His playful mischief contrasts with the chicken’s startled expression as the scene unfolds in a rustic barn.",
+    "timestamp": "2026-02-23 17:29:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      114,
+      67,
+      506,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully sets a mousetrap near a chicken in a barn. He smiles mischievously as he pulls the trap’s trigger, causing the chicken to flinch and hop away. Tom laughs triumphantly, then playfully pats his own head as if amused by his own cleverness. The chicken, white with a red comb, looks startled but unharmed. The barn’s rustic setting, with hay and a ladder, adds to the classic cartoon charm.",
+    "timestamp": "2026-02-23 17:29:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      1,
+      355,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, holds cheese while Jerry, a brown mouse, tricks him with a mousetrap. Tom’s expressions shift from surprise to panic as Jerry dances away.",
+    "timestamp": "2026-02-23 17:30:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      1,
+      355,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds cheese, watching Jerry, the mouse, set a trap. Jerry taunts Tom, then runs away. Tom, startled, drops the cheese and dives behind a barrel, visibly frightened by Jerry’s antics. Their classic chase begins with suspense and humor.",
+    "timestamp": "2026-02-23 17:30:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      1,
+      355,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds cheese, watching Jerry, the brown mouse, near a trap. Jerry, gleeful, dances and gestures, then playfully taunts Tom. Tom’s expression shifts from surprise to annoyance, then he leaps away, startled by Jerry’s antics. Their classic chase begins with humor and mischief.",
+    "timestamp": "2026-02-23 17:30:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      2,
+      1,
+      355,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds cheese, watching Jerry, the brown mouse, who joyfully carries cheese. Jerry approaches a mousetrap, then playfully dances before Tom. Tom, startled, reacts with wide eyes and a startled expression, then leaps away in panic as Jerry laughs. Their classic chase begins, filled with humor and mischievous energy, capturing their timeless rivalry.",
+    "timestamp": "2026-02-23 17:30:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      90,
+      112,
+      361,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, dances excitedly in a barn, smiling and gesturing joyfully before leaping away, tail wagging with delight.",
+    "timestamp": "2026-02-23 17:30:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      90,
+      112,
+      361,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, dances joyfully in a barn, arms raised, then playfully covers his face. He laughs, then suddenly dashes off-screen, leaving a trail of excitement and mischief in his wake. His expression shifts from delight to surprise, capturing classic cartoon energy.",
+    "timestamp": "2026-02-23 17:30:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      90,
+      112,
+      361,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits in a barn, eyes wide with excitement. He leaps up, fists pumping, then slaps his face in mock shock. He laughs gleefully, then bolts toward a wooden post, tail swishing, as if chasing a nonexistent mouse. His joyful, frantic energy fills the scene.",
+    "timestamp": "2026-02-23 17:30:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      90,
+      112,
+      361,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits in a barn, initially startled with wide eyes. He then strikes a confident pose, flexing his paws and grinning. His expression shifts to playful excitement as he gestures with his paws, then suddenly bolts off-screen, leaving only his tail and a hint of motion. The barn’s rustic setting remains static, emphasizing Tom’s sudden, energetic departure. His antics reflect classic cartoon mischief and exaggerated emotion.",
+    "timestamp": "2026-02-23 17:30:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      124,
+      35,
+      411,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom, with green eyes and white paws, smiles mischievously while leaning against wooden fence, fists clenched, exuding playful confidence and anticipation.",
+    "timestamp": "2026-02-23 17:31:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      124,
+      35,
+      411,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands against wooden planks, fists clenched, eyes wide with excitement. He shifts slightly, then smiles broadly, revealing his teeth, as if celebrating a victory or anticipating a prank. His expression is playful and triumphant, embodying classic cartoon mischief.",
+    "timestamp": "2026-02-23 17:31:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      124,
+      35,
+      411,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands against wooden planks, eyes wide with mischief. He clenches fists, then smiles triumphantly, revealing sharp teeth. His tail curls, and he leans forward, exuding playful confidence. The scene captures his cunning, mischievous energy as he prepares for an adventure or prank.",
+    "timestamp": "2026-02-23 17:31:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      124,
+      35,
+      411,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands against a wooden fence, fists clenched, eyes gleaming with mischief. He shifts his gaze, then suddenly opens his mouth wide in a joyful, triumphant yell. His tail flicks playfully as he leans forward, exuding confidence and excitement. The scene captures his animated personality, full of energy and playful aggression, typical of his mischievous nature in classic cartoons.",
+    "timestamp": "2026-02-23 17:31:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      35,
+      43,
+      299,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, sits nervously beside a wooden structure. A small brown mouse dashes past, startling him. Tom reacts with surprise and alarm, flailing his paws in fear.",
+    "timestamp": "2026-02-23 17:32:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      35,
+      43,
+      299,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits nervously near a wooden structure. A small brown mouse with yellow ears dashes past, startling Tom, who flinches and falls backward. He quickly sits up, looking startled and confused, his eyes wide with surprise as he processes the mouse's sudden appearance.",
+    "timestamp": "2026-02-23 17:32:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      35,
+      43,
+      299,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits nervously near a wooden shed. A small brown mouse scurries past, startling him. Tom leaps, flailing, then lands on his back, panting. He sits up, eyes wide with surprise and mild annoyance, as if the mouse’s sudden appearance was a minor disaster.",
+    "timestamp": "2026-02-23 17:32:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      35,
+      43,
+      299,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits nervously beside a wooden shed, eyes wide with anticipation. A small brown mouse, wearing a yellow hat, scurries past, startling Tom. He leaps backward, tumbling dramatically, then lands on his back, eyes gleaming with mischief. He sits up, smiling triumphantly, arms crossed, as if he’s just outwitted his prey. The scene captures Tom’s playful, mischievous nature and his ever-present chase for the mouse.",
+    "timestamp": "2026-02-23 17:32:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      79,
+      35,
+      393,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat rides a large chicken, smiling and holding a banana. The chicken walks, its feathers flared, against a blue sky. Tom appears happy and playful.",
+    "timestamp": "2026-02-23 17:33:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      79,
+      35,
+      393,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a yellow hat, joyfully rides atop a large white chicken with gray feathers and a red comb. The chicken walks steadily, while Tom smiles, enjoying the ride. The scene captures playful, cartoonish energy under a clear blue sky.",
+    "timestamp": "2026-02-23 17:33:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      79,
+      35,
+      393,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the brown mouse with a yellow hat, joyfully rides atop a large, fluffy white chicken with gray feathers and a red comb. He smiles, holding a yellow feather, as the chicken walks steadily. The scene is bright and playful, capturing Tom’s delight and the chicken’s calm demeanor under a clear blue sky.",
+    "timestamp": "2026-02-23 17:33:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      79,
+      35,
+      393,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon mouse, wearing a yellow hat, joyfully rides atop a large, fluffy white chicken with black-tipped feathers and a red comb. The chicken walks steadily, its wings slightly spread. The mouse smiles broadly, holding a banana, appearing delighted and carefree. The background is a simple blue sky with faint clouds, emphasizing the whimsical, lighthearted nature of the scene. The mouse’s playful antics contrast with the chicken’s calm, steady gait, creating a charming, animated moment.",
+    "timestamp": "2026-02-23 17:33:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      111,
+      94,
+      399,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in a barn, eagerly pulls a yellow string, revealing a mousetrap. He smiles triumphantly, eyes gleaming with mischief as he prepares to catch his prey.",
+    "timestamp": "2026-02-23 17:33:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      111,
+      94,
+      399,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully pulls a yellow rope, revealing a mousetrap. His eyes gleam with mischief, mouth wide open in delight. He stands in a barn, triumphant, as the trap dangles above him, hinting at impending chaos or a comedic trap.",
+    "timestamp": "2026-02-23 17:34:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      111,
+      94,
+      399,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully pulls a yellow string attached to a mousetrap. His eyes gleam with mischief, mouth agape in delight. He lifts the trap, revealing its spring mechanism, as if anticipating a mouse’s capture. His playful expression hints at his cunning and mischievous nature.",
+    "timestamp": "2026-02-23 17:34:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      111,
+      94,
+      399,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and a red tongue, gleefully pulls a yellow string in a barn. His eyes gleam with mischief as he unties a spring-loaded mousetrap, revealing its mechanism. He grins triumphantly, eyes wide with anticipation, as he prepares to trap his prey. The barn’s wooden beams and hanging tools frame his playful, mischievous demeanor, capturing his classic scheming and joyful chaos.",
+    "timestamp": "2026-02-23 17:34:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      17,
+      379,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, yawns while holding a bucket. A small mouse runs past him, and a chicken appears nearby, adding to the classic cartoon chaos and humor.",
+    "timestamp": "2026-02-23 17:34:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      17,
+      379,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, yawns widely, eyes half-closed, in a dim barn. A small brown mouse scurries past him. Tom’s expression shifts to annoyance as a chicken pecks nearby. The scene captures Tom’s sleepy, grumpy demeanor amid farmyard chaos.",
+    "timestamp": "2026-02-23 17:34:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      17,
+      379,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, yowls in distress as he's caught in a barn, his eyes wide and mouth agape. A small brown mouse scurries past him, while a chicken pecks nearby. Tom’s frantic expression and posture convey panic as he struggles against unseen forces, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-23 17:34:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E08 - Fine Feathered Friend (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      17,
+      379,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is startled and yowls in alarm, his eyes wide and mouth agape, as he crouches near a bucket. A small, yellow mouse scurries away, evading his pursuit. In the background, a chicken stands atop a wooden barrel, observing the chaos with a stern expression. The scene unfolds in a rustic barn, with hay bales and wooden beams, capturing a classic cartoon chase filled with exaggerated expressions and slapstick humor.",
+    "timestamp": "2026-02-23 17:35:04"
+  }
+]

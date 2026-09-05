@@ -1,0 +1,1738 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      33,
+      5,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a mousetrap, eyes wide with excitement. Jerry, the mouse, peeks from under furniture, wary. Tom's expression shifts from joy to surprise as he reacts to Jerry's presence.",
+    "timestamp": "2026-02-23 16:29:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      33,
+      5,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a mousetrap, eyes wide with excitement. He then drops it, revealing a trapped Jerry, the brown mouse, peeking from under a chair. Tom’s expression shifts to shock as Jerry escapes, highlighting their classic chase dynamic.",
+    "timestamp": "2026-02-23 16:29:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      33,
+      5,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a mousetrap, eyes gleaming with mischief. He’s startled as Jerry, the brown mouse, scurries under a chair. Tom’s expression shifts from triumph to surprise as Jerry’s tiny form appears, setting up a classic chase. Their playful rivalry is evident in their animated expressions and movements.",
+    "timestamp": "2026-02-23 16:29:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      33,
+      5,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, dark gray with white paws, holds a mousetrap with a startled expression, eyes wide and mouth agape. He drops it, then looks up with a mischievous grin. A small brown mouse scurries under a chair, unaware of the trap. Tom’s playful yet scheming demeanor suggests he’s about to trap the mouse, while the mouse appears alert and cautious, ready to flee. The scene captures classic cartoon tension and humor.",
+    "timestamp": "2026-02-23 16:30:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      6,
+      383,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, joyfully chases Jerry, the mouse, atop a roof. Jerry laughs as Tom playfully tries to grab him, their antics filled with mischievous delight and classic cartoon energy.",
+    "timestamp": "2026-02-23 16:31:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      6,
+      383,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, gleefully chases Jerry, the mouse, atop a roof. Jerry leaps and dodges, laughing. Tom’s expression shifts from joy to surprise as Jerry escapes. Their classic chase continues, full of slapstick antics and playful rivalry.",
+    "timestamp": "2026-02-23 16:31:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      6,
+      383,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, gleefully chases Jerry, the mouse, atop a roof. Tom’s expressions shift from playful to surprised as Jerry dodges. Their antics showcase classic cartoon chaos, with Tom’s mischievous grin and Jerry’s quick, agile escapes, embodying timeless rivalry and humor.",
+    "timestamp": "2026-02-23 16:31:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      6,
+      383,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, perches atop a roof, gleefully chasing Jerry, the brown mouse, who scurries atop a wooden structure. Tom’s eyes gleam with mischief, his grin wide as he lunges, only to be momentarily startled by Jerry’s antics. Jerry, ever resourceful, leaps and dodges, his tail twitching with playful defiance. Tom’s expression shifts from triumph to surprise as Jerry outwits him, showcasing their classic, comedic rivalry in a lively, animated chase.",
+    "timestamp": "2026-02-23 16:32:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      78,
+      13,
+      484,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat holds a pink mouse in a trap, eyes wide with surprise, then smirks triumphantly as he grips the device, clearly amused by his catch.",
+    "timestamp": "2026-02-23 16:32:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      78,
+      13,
+      484,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat holds a pink mouse in a trap, his expression shifting from shock to smug satisfaction. His green eyes gleam with triumph as he proudly displays his catch, showcasing his cunning and the classic chase-and-capture dynamic in this beloved cartoon.",
+    "timestamp": "2026-02-23 16:33:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      78,
+      13,
+      484,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark gray with white paws, holds a pink mouse in a trap, his eyes gleaming with triumph. He snarls, then smirks, showing his victory. The mouse, trapped and flailing, looks terrified. The scene captures Tom’s predatory satisfaction and the mouse’s desperate struggle.",
+    "timestamp": "2026-02-23 16:33:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      78,
+      13,
+      484,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a pink mouse caught in a trap, his expression shifting from shock to smug satisfaction. His green eyes gleam with triumph, mouth open in a grin, as he proudly displays his catch. The mouse, tiny and pink, appears trapped but unharmed. Tom’s posture is confident, paws gripping the trap firmly, showcasing his victory over the tiny rodent. The wooden background adds warmth to the scene, emphasizing Tom’s playful, mischievous nature.",
+    "timestamp": "2026-02-23 16:34:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      125,
+      31,
+      488,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat and Spike the dog playfully wrestle on a porch, displaying exaggerated expressions and movements, ending with Tom’s dramatic yell and Spike’s startled reaction.",
+    "timestamp": "2026-02-23 16:34:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      125,
+      31,
+      488,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat and Spike the bulldog playfully wrestle on a porch. Tom leaps, grabs Spike’s nose, and they tumble. Spike growls, then pounces, but Tom escapes. Their antics show mischievous joy, with exaggerated expressions and dynamic movements, classic cartoon energy.",
+    "timestamp": "2026-02-23 16:34:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      125,
+      31,
+      488,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat and Jerry the dog engage in playful, chaotic antics on a porch. Tom leaps, pouncing on Jerry, who retaliates with a slap. Their expressions shift from playful to startled as they tumble off the railing, ending with a comical, exaggerated tumble. Their antics highlight classic cartoon chaos and mischievous energy.",
+    "timestamp": "2026-02-23 16:35:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      125,
+      31,
+      488,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat and Spike the bulldog engage in playful, exaggerated antics on a porch. Tom leaps and pounces, his green eyes gleaming with mischief, while Spike, wearing a red collar, responds with bouncy, goofy energy. Their expressions shift from joy to surprise as they tumble and tumble, culminating in a dramatic, comical standoff. The scene bursts with classic cartoon charm, highlighting their mischievous bond and slapstick humor.",
+    "timestamp": "2026-02-23 16:35:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lunges, grabbing Jerry the mouse by the tail. Jerry pulls back, stretching his body. Tom struggles, eyes wide with surprise and determination.",
+    "timestamp": "2026-02-23 16:36:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lunges, his paw raised, as Jerry the mouse scurries across a table. Jerry grabs a string, pulling it taut, and Tom's face contorts in frustration. Their classic chase begins, filled with slapstick antics and mischievous determination.",
+    "timestamp": "2026-02-23 16:36:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lunges with a fierce expression, his paws extended toward Jerry, the brown mouse. Jerry, perched on a table, grips a string, pulling it taut as Tom’s face contorts in determination. Their classic chase unfolds with playful tension, capturing their timeless rivalry and comedic antics.",
+    "timestamp": "2026-02-23 16:36:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps with a determined expression, claws outstretched, as Jerry, the small brown mouse, scurries across a wooden table. Jerry grips a string, pulling it taut as Tom lunges, his mouth agape in a triumphant snarl. The cat’s eyes gleam with intensity, while Jerry’s posture shows quick, agile evasion. The scene captures their classic chase, filled with slapstick energy and comedic tension, set against a backdrop of purple curtains and a staircase.",
+    "timestamp": "2026-02-23 16:37:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      70,
+      60,
+      349,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray bulldog with a red spiked collar sits, gazing upward with wide eyes and an open mouth, appearing curious or excited as it watches hanging objects.",
+    "timestamp": "2026-02-23 16:38:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      70,
+      60,
+      349,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray bulldog with a red spiked collar sits on the floor, gazing upward with wide, curious eyes. Its ears perk up as it watches two hanging black objects, possibly toys or gadgets, swaying slightly. The dog appears intrigued and attentive, embodying playful curiosity.",
+    "timestamp": "2026-02-23 16:38:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      70,
+      60,
+      349,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout, gray bulldog with a red spiked collar sits on the floor, gazing upward with wide, curious eyes. Its ears perk up as it watches two hanging black objects sway gently. The dog’s expression is one of attentive wonder, as if captivated by the mysterious pendulums above.",
+    "timestamp": "2026-02-23 16:38:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      70,
+      60,
+      349,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog with a red spiked collar sits on the floor, gazing upward with wide, expressive eyes. Its ears perk up, and it tilts its head, showing curiosity or anticipation. Above, two black, hanging objects sway slightly, drawing the dog’s attention. The dog’s posture suggests eager waiting or playful anticipation, its body tense yet relaxed, as if ready to react to something unseen above. The scene exudes charm and whimsy, capturing a moment of innocent wonder.",
+    "timestamp": "2026-02-23 16:38:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      38,
+      211,
+      491,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat playfully interacts with a golden lamp, climbing, clinging, and stretching. He shows surprise, mischief, and eventual exhaustion, ending in a relaxed, contented pose.",
+    "timestamp": "2026-02-23 16:39:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      38,
+      211,
+      491,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark gray with white paws, playfully interacts with a golden lamp. He climbs, sits, and stretches around it, showing mischief and curiosity. His expressions shift from playful to surprised, ending in a comical, exaggerated pose with floating paws. The scene captures his mischievous, animated antics.",
+    "timestamp": "2026-02-23 16:39:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      38,
+      211,
+      491,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, playfully climbs a golden lamp, then falls, looking surprised. He sits, paws on lamp, then curls up, eyes wide. His expression shifts from curious to startled, ending with a mischievous grin as coins swirl beneath him.",
+    "timestamp": "2026-02-23 16:39:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      38,
+      211,
+      491,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and green eyes, Tom, playfully interacts with a golden lamp. He climbs the lamp, then sits atop it, looking surprised. He drops to the floor, startled, then curls up, appearing exhausted or defeated. His expressions shift from curious to bewildered to resigned. The scene captures his comedic, exaggerated reactions typical of classic cartoon antics, highlighting his mischievous yet endearing nature.",
+    "timestamp": "2026-02-23 16:39:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      39,
+      5,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, lunges at Jerry, the mouse, pulling him with a string. Jerry struggles, and Tom's expression shifts from determination to surprise as the string snaps.",
+    "timestamp": "2026-02-23 16:39:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      39,
+      5,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lunges at Jerry, the brown mouse, who’s perched atop a table. Tom’s eyes widen in shock as Jerry pulls a string, causing Tom to recoil dramatically, his mouth agape and paws flailing in surprise. The scene captures their classic chase, filled with slapstick humor and exaggerated expressions.",
+    "timestamp": "2026-02-23 16:39:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      39,
+      5,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lunges at Jerry, the brown mouse, who hangs from a string. Tom’s eyes widen in surprise as Jerry pulls the string, causing him to recoil. Tom’s expression shifts from anger to shock as the string snaps, leaving him startled and disoriented.",
+    "timestamp": "2026-02-23 16:39:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      39,
+      5,
+      511,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, eyes wide with frustration as Jerry, the brown mouse, pulls a string from his mouth. Tom’s expression shifts from annoyance to shock as the string snaps taut, causing him to flinch and recoil. Jerry, perched on a table, looks triumphant, gripping the string with determination. The scene captures their classic chase, filled with slapstick humor and playful rivalry, set against a warmly lit room with stairs in the background.",
+    "timestamp": "2026-02-23 16:40:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      79,
+      2,
+      331,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, stands on hind legs, tail up, as a bulldog, Spike, growls menacingly nearby. Tom appears startled and defensive, eyes wide with fear.",
+    "timestamp": "2026-02-23 16:40:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      79,
+      2,
+      331,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, stands on hind legs, tail high, as a large, snarling bulldog, Spike, lunges toward him. Tom’s expression shifts from startled to defiant, claws extended, as he braces for the attack, showcasing classic cartoon antics and exaggerated emotions.",
+    "timestamp": "2026-02-23 16:40:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      79,
+      2,
+      331,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, balances precariously on one paw, tail high, as a bulldog, with a red collar, growls menacingly nearby. Tom’s expression shifts from startled to defiant, showcasing classic cartoon slapstick tension between predator and prey. The scene exudes playful chaos and impending chase.",
+    "timestamp": "2026-02-23 16:40:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      79,
+      2,
+      331,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, stands on its hind legs, tail high, looking triumphant. Suddenly, a large, snarling bulldog, with a red collar, lunges at him, teeth bared. Tom ducks, his body twisting mid-air, avoiding the dog’s attack. The bulldog’s rage is palpable, while Tom’s expression shifts from confident to startled, then back to playful defiance as he narrowly escapes the canine’s fury. The scene captures classic cartoon chaos and slapstick humor.",
+    "timestamp": "2026-02-23 16:40:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      7,
+      0,
+      509,
+      260
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat peeks from behind a purple curtain, then leaps into a basket of red yarn, causing it to fly up in surprise.",
+    "timestamp": "2026-02-23 16:41:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      7,
+      0,
+      509,
+      260
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a purple curtain, then leaps into a basket of red yarn with knitting needles, displaying playful mischief and surprise as he lands amidst the knitting supplies.",
+    "timestamp": "2026-02-23 16:41:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      7,
+      0,
+      509,
+      260
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a purple curtain, then leaps dramatically toward a basket of red yarn and knitting needles, displaying mischief and playful energy as he attempts to steal the knitting supplies.",
+    "timestamp": "2026-02-23 16:41:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      7,
+      0,
+      509,
+      260
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A mischievous brown mouse peeks from behind a purple curtain, then leaps dramatically toward a basket of red yarn and knitting needles. Its wide eyes and open mouth convey excitement or mischief. The scene transitions to a still, sunlit room where the basket rests on a wooden table, shadows of knitting needles cast against the wall. The mouse’s playful energy contrasts with the serene, domestic stillness, highlighting its persistent, animated antics.",
+    "timestamp": "2026-02-23 16:41:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      2,
+      203,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lies exhausted, then sneaks past a wall hole, revealing Jerry the mouse peeking out, both characters displaying classic cartoon mischief and exhaustion.",
+    "timestamp": "2026-02-23 16:41:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      2,
+      203,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies exhausted, eyes half-closed, near a wall. A mouse peeks out from a hole in the wall, then suddenly appears behind a yellow electrical outlet, startling Tom. The mouse’s surprise and Tom’s drowsiness contrast as the scene ends.",
+    "timestamp": "2026-02-23 16:41:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      2,
+      203,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies exhausted near a wall, eyes half-closed. A mouse peeks from a hole in the wall, then emerges, startled. Tom’s tail flicks as he shifts, eyes wide with surprise. The scene captures their classic chase dynamic, filled with comedic tension and cartoonish expressions.",
+    "timestamp": "2026-02-23 16:41:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      2,
+      203,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies exhausted near a wall, eyes half-closed. He stretches, then curls up, seemingly asleep. A mouse peeks from a wall outlet, curious and cautious. Tom’s tail flicks as he notices the mouse, his expression shifting to alertness. The mouse, small and brown, watches Tom with wide eyes, ready to react. The scene captures a classic chase setup, with Tom’s fatigue contrasting the mouse’s alertness.",
+    "timestamp": "2026-02-23 16:42:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      228,
+      214,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stealthily approaches a wall, hiding behind it. He peers through a hole, spotting Jerry the mouse peeking out from behind a golden switch, both displaying cautious curiosity.",
+    "timestamp": "2026-02-23 16:42:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      228,
+      214,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stealthily approaches a wall, hiding near a baseboard. He spots a hole in the wall, revealing Jerry the mouse peeking out. Tom’s expression shifts from curious to startled as Jerry’s head appears, hinting at impending mischief. The scene captures their classic chase dynamic.",
+    "timestamp": "2026-02-23 16:42:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      228,
+      214,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stealthily approaches, crouching near a wall. He spots a mouse peering through a golden electrical outlet cover. The mouse, startled, hides behind it. Tom’s eyes widen with mischief, ready to pounce—classic chase anticipation. The scene teems with playful tension and cartoonish charm.",
+    "timestamp": "2026-02-23 16:42:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      0,
+      228,
+      214,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, stealthily crawls along a wooden baseboard, eyes wide with anticipation. He pauses, sniffing the air, then suddenly, a yellow electrical outlet appears. With a mischievous grin, Jerry the mouse peeks out from behind it, eyes gleaming with cunning. Tom’s expression shifts to surprise as he realizes Jerry’s presence, setting the stage for their classic chase. The scene captures their playful rivalry and comedic tension.",
+    "timestamp": "2026-02-23 16:42:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      5,
+      121,
+      334,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, sits eagerly, then leaps toward a cabinet, startled by unseen movement. His wide eyes and open mouth show surprise as the scene fades.",
+    "timestamp": "2026-02-23 16:43:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      5,
+      121,
+      334,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits, eyes wide, staring upward at dangling objects. He leaps up, startled, then vanishes in a puff of smoke as the scene fades, leaving only the empty room and hanging items. His expression shifts from curiosity to surprise, then to disappearance.",
+    "timestamp": "2026-02-23 16:43:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      5,
+      121,
+      334,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits, eyes wide with excitement, as he watches dangling objects. He leaps up, paws raised, then vanishes in a puff of smoke, leaving only the empty room and hanging objects. His expression shifts from anticipation to surprise as he disappears.",
+    "timestamp": "2026-02-23 16:43:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      5,
+      121,
+      334,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits eagerly before hanging mouse traps, eyes gleaming with anticipation. He stretches, paws raised, then leaps toward the traps with a joyful, excited expression. Suddenly, the scene vanishes in a swirl of smoke, leaving only the empty room and the dangling traps, hinting at a sudden, mysterious disappearance or magical twist. The atmosphere shifts from playful anticipation to eerie stillness.",
+    "timestamp": "2026-02-23 16:43:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      171,
+      301,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, reacts with shock and fear as a large, red-and-white dog lunges at him, causing him to leap and hide behind a cabinet.",
+    "timestamp": "2026-02-23 16:43:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      171,
+      301,
+      466
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, reacts with shock and fear as a large, red-and-white dog lunges at him. Tom leaps onto a cabinet, then lands back down, looking terrified and bewildered as the dog retreats, leaving Tom panting in surprise.",
+    "timestamp": "2026-02-23 16:43:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      171,
+      301,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits nervously beside a wooden cabinet, eyes wide. He leaps dramatically, then lands upside-down, startlingly. His expression shifts from shock to surprise as he stares at the cabinet, whiskers twitching, tail flicking, in classic cartoon chaos.",
+    "timestamp": "2026-02-23 16:44:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      171,
+      301,
+      466
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits in alarm as a large, red-and-white dog, likely Spike, lunges past him. Tom leaps onto a wooden cabinet, then drops, looking startled. He sits again, eyes wide, whiskers twitching, as if anticipating the dog’s next move. The room’s yellow walls and hanging feather toys add to the cartoon’s classic, tense atmosphere. Tom’s expressions shift from fear to cautious alertness, capturing his classic chase-and-escape antics.",
+    "timestamp": "2026-02-23 16:44:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      115,
+      0,
+      378,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat climbs a lamp, scaring Jerry the mouse below. Tom’s expressions shift from anger to surprise as he struggles, while Jerry barks excitedly, reacting to Tom’s antics.",
+    "timestamp": "2026-02-23 16:44:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      115,
+      0,
+      378,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat climbs a lamp, scaring Jerry the mouse below. Tom's expression shifts from playful to startled as he hangs upside down. Jerry, wearing a red collar, barks in alarm. The scene captures their classic chase, filled with exaggerated expressions and slapstick humor.",
+    "timestamp": "2026-02-23 16:44:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      115,
+      0,
+      378,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a mischievous grin, climbs a lamp post while Jerry the mouse, wearing a red collar, laughs below. Tom swings wildly, then leaps onto the lampshade, his expression shifting to panic as he dangles precariously, while Jerry watches with delight.",
+    "timestamp": "2026-02-23 16:44:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      115,
+      0,
+      378,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, climbs a golden lamp post, yelling in frustration. Below, Jerry, the gray mouse, laughs maniacally. Tom swings wildly, grabs the lampshade, and pulls it off, revealing his panicked expression. Jerry, still laughing, watches as Tom dangles upside down, terrified. The scene captures their classic rivalry: Tom’s frantic attempts to catch Jerry, and Jerry’s gleeful defiance. Their exaggerated expressions and slapstick antics define their timeless cartoon dynamic.",
+    "timestamp": "2026-02-23 16:44:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      30,
+      0,
+      509,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a startled expression, peers over a table, then leans forward with paws on the surface, appearing curious or alarmed.",
+    "timestamp": "2026-02-23 16:45:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      30,
+      0,
+      509,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a surprised expression, peeks over a wooden table. He then leans forward, looking startled or curious, his paws gripping the table. His posture and facial expression convey shock or intrigue as he observes something off-screen.",
+    "timestamp": "2026-02-23 16:45:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      30,
+      0,
+      509,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a startled expression, peers over a wooden table. He appears alarmed or surprised, claws extended, as if caught in a moment of sudden realization or impending danger, his body tense and alert against a softly lit room backdrop.",
+    "timestamp": "2026-02-23 16:45:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      30,
+      0,
+      509,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, peers over a wooden table with wide, glowing eyes and a startled expression. He leans forward, paws gripping the table’s edge, mouth agape in shock or surprise. His body language suggests sudden alarm or discovery. Behind him, a purple curtain and staircase hint at a domestic setting. The scene captures a moment of intense emotion—likely fear or awe—as Tom reacts to something unseen, embodying classic cartoon suspense.",
+    "timestamp": "2026-02-23 16:45:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      9,
+      0,
+      349,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, stares intently at Jerry, the small brown mouse, perched atop a roof. Jerry appears alert and slightly apprehensive, while Tom’s expression shows focused determination.",
+    "timestamp": "2026-02-23 16:45:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      9,
+      0,
+      349,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits atop a roof with wide, green eyes, looking down at Jerry, the small brown mouse. Jerry stands on the roof's edge, appearing alert and slightly nervous, as Tom's expression suggests anticipation or frustration, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 16:45:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      9,
+      0,
+      349,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, perches atop a wooden structure, eyes glowing green with intense focus. Jerry, the brown mouse, stands on the roof’s edge, looking up at Tom with a mischievous grin. Their classic standoff captures tension and playful rivalry, hinting at impending antics in this timeless cartoon classic.",
+    "timestamp": "2026-02-23 16:46:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      9,
+      0,
+      349,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat with wide, green eyes, perches atop a wooden roof, his mouth agape in surprise or alarm. Beside him, Jerry, the small brown mouse, stands confidently on the roof’s edge, looking up at Tom with a mischievous, defiant grin. The scene captures their classic rivalry—Tom’s startled reaction to Jerry’s boldness, hinting at impending chaos or a clever mouse trick. The backdrop is a simple green wall, emphasizing the characters’ dynamic.",
+    "timestamp": "2026-02-23 16:46:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      1,
+      451,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in a yellow dress, white apron, and blue slippers walks forward, arms swinging, with a cheerful, animated gait, suggesting lively movement or dancing.",
+    "timestamp": "2026-02-23 16:46:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      1,
+      451,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a yellow dress, white apron, red socks, and blue slippers walks confidently, arms swinging. Their dark skin contrasts with bright clothing. The scene suggests cheerful, everyday activity, possibly domestic, with no visible expressions or emotions conveyed.",
+    "timestamp": "2026-02-23 16:46:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      1,
+      451,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a yellow dress, white apron, red socks, and blue slippers walks forward, arms swinging. Their dark skin contrasts with bright attire. The scene is indoors, with a purple curtain and beige walls. The character’s posture suggests casual, unhurried movement, conveying a relaxed, domestic vibe.",
+    "timestamp": "2026-02-23 16:46:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      83,
+      1,
+      451,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character, dressed in a yellow dress, white apron, red socks, and blue slippers, walks with arms crossed and a determined stride. Her dark brown skin and expressive posture suggest confidence or resolve. The setting is a warmly lit room with a window and curtain, hinting at a domestic environment. Her movement is steady, indicating purpose, though no facial expressions are visible. The scene conveys a sense of quiet determination as she proceeds forward.",
+    "timestamp": "2026-02-23 16:46:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      1,
+      79,
+      266,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog yawns, then a cat appears, laughing, gripping a lamp. The cat's expression shifts to surprise as the bulldog reappears, now looking up at the lamp.",
+    "timestamp": "2026-02-23 16:47:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      1,
+      79,
+      266,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog barks at a lamp, then a cat appears, playfully gripping the lamp. The cat laughs, then drops, startling the bulldog, who yelps in surprise. Their antics showcase classic cartoon mischief and exaggerated reactions in a cozy, golden-lit room.",
+    "timestamp": "2026-02-23 16:47:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      1,
+      79,
+      266,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog yawns, then a cat appears, clinging to a golden lamp post, laughing mischievously. The cat then playfully grabs the lamp, causing the bulldog to react with surprise. Their antics unfold in a classic cartoon style, full of exaggerated expressions and slapstick humor.",
+    "timestamp": "2026-02-23 16:47:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      1,
+      79,
+      266,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray bulldog with a red collar stands on its hind legs, gazing upward. Suddenly, a mischievous gray cat with white paws and a wide grin appears, gripping a golden lamp post. He grins triumphantly, then leaps away, leaving the dog bewildered. The dog remains fixed on the lamp, eyes wide, as if waiting for the cat’s next prank. The scene captures playful chaos and the classic cat-and-mouse dynamic.",
+    "timestamp": "2026-02-23 16:47:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      98,
+      344,
+      485
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps energetically, mouth wide open in excitement or surprise, paws extended, displaying playful chaos and dynamic motion in a classic cartoon style.",
+    "timestamp": "2026-02-23 16:47:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      98,
+      344,
+      485
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps joyfully, eyes wide and mouth open in delight. His playful energy and exaggerated expression convey pure excitement as he bounds across the room, tail high, embodying classic cartoon mischief and unbridled enthusiasm.",
+    "timestamp": "2026-02-23 16:48:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      98,
+      344,
+      485
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps joyfully, eyes wide and mouth agape in delight. His playful energy is evident as he bounds across the floor, tail high, showcasing pure, unbridled excitement. The scene captures his spirited, mischievous nature, radiating happiness and mischief in classic cartoon style.",
+    "timestamp": "2026-02-23 16:48:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      0,
+      98,
+      344,
+      485
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully leaps from under a table, his body arched and paws extended. His wide, green eyes gleam with excitement, and his mouth opens in a delighted grin, revealing his teeth. His white paws and tail contrast against his dark fur, emphasizing his playful energy. The scene captures his infectious enthusiasm and mischievous spirit as he bounds forward, embodying pure, animated delight.",
+    "timestamp": "2026-02-23 16:48:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      88,
+      41,
+      410,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat joyfully climbs a lamp, laughing and swinging. He grips the pole, then pulls himself up, displaying playful energy and delight as he ascends.",
+    "timestamp": "2026-02-23 16:48:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      88,
+      41,
+      410,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully climbs a golden pole, then switches to a lamp, laughing with delight. He grips the lampshade, swings, and finally hangs upside down, smiling mischievously. His playful antics and exaggerated expressions highlight his cunning and cheerful mischief.",
+    "timestamp": "2026-02-23 16:48:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      88,
+      41,
+      410,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, joyfully climbs a golden pole, then leaps onto a purple lamp, laughing with delight. He playfully grips the lampshade, swinging his paws, before descending back to the pole, smiling triumphantly. His expressions convey pure mischief and excitement as he revels in his acrobatic antics.",
+    "timestamp": "2026-02-23 16:48:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      88,
+      41,
+      410,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully climbs a golden pole, gripping it with paws and tail, smiling mischievously. He then leaps to a purple lamp, clinging to its base with delight, eyes gleaming. His expressions shift from playful to triumphant as he revels in his antics, showcasing his classic mischievous charm. The scene captures his boundless energy and comedic flair, embodying the timeless spirit of the beloved cartoon character.",
+    "timestamp": "2026-02-23 16:48:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      1,
+      114,
+      334,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray and white, lies on a table, then leaps in panic. He looks shocked as Jerry the mouse peeks from behind, both characters displaying classic cartoon mischief and surprise.",
+    "timestamp": "2026-02-23 16:49:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      1,
+      114,
+      334,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is startled awake, eyes wide with surprise. He leaps off a table, landing on his back, then quickly sits up, looking annoyed and confused. His expression shifts from shock to irritation as he glares at something off-screen, likely the mouse he was chasing.",
+    "timestamp": "2026-02-23 16:49:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      1,
+      114,
+      334,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, lies on a table, then leaps dramatically, eyes wide with surprise. A small mouse peers from behind, watching. Tom’s expression shifts from startled to annoyed, showcasing classic cartoon antics with exaggerated movements and expressions.",
+    "timestamp": "2026-02-23 16:49:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      1,
+      114,
+      334,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies on a wooden surface, eyes half-closed, appearing exhausted or defeated. Suddenly, he springs up with a startled expression, claws extended, as if reacting to something unseen. His body twists mid-air, showcasing his agility. In the background, Jerry, the small brown mouse, peeks from behind a curtain, watching Tom with a mischievous grin. The scene captures their classic chase dynamic, filled with slapstick humor and comedic tension.",
+    "timestamp": "2026-02-23 16:49:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      128,
+      1,
+      433,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat perches atop a clock, grinning mischievously. Jerry the mouse scurries, ensnared in red string. A dog, wearing a red collar, lifts Tom, laughing triumphantly.",
+    "timestamp": "2026-02-23 16:49:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      128,
+      1,
+      433,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat perches atop a cuckoo clock, laughing mischievously as Jerry the mouse scurries across the floor, tangled in red string. A large dog, wearing a red collar, lifts Tom triumphantly, showcasing their playful antics and mischievous bond in a classic cartoon chase.",
+    "timestamp": "2026-02-23 16:50:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      128,
+      1,
+      433,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps atop a grandfather clock, laughing triumphantly, while Jerry the mouse frantically pulls red string. The dog, Spike, struggles beneath the clock, his expression one of panic. The scene bursts into chaos as the string ensnares furniture, highlighting their classic chase.",
+    "timestamp": "2026-02-23 16:50:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      128,
+      1,
+      433,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A mischievous mouse pulls red string, entangling furniture. A cat leaps onto a cuckoo clock, then lands on a dog’s back, both laughing. The dog, wearing a red collar, flexes proudly. The cat, with green eyes and a mischievous grin, perches atop the clock. The scene ends with the mouse, tangled in the red string, looking up in surprise as the cat and dog continue their antics. The room is filled with vintage decor, adding to the cartoon’s charm.",
+    "timestamp": "2026-02-23 16:50:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      1,
+      87,
+      442,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat eagerly approaches a hole, then playfully paws at it. Jerry the mouse scurries away, hiding behind a wall, as Tom's expression shifts from excitement to surprise.",
+    "timestamp": "2026-02-23 16:50:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      1,
+      87,
+      442,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully chases Jerry the mouse. Jerry scurries under a baseboard, then vanishes into a hole. Tom, smug and eager, pounces after him, his eyes gleaming with anticipation. Their classic chase begins with Tom's playful, determined pursuit.",
+    "timestamp": "2026-02-23 16:50:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      1,
+      87,
+      442,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, smiles mischievously as he approaches a hole. Jerry the mouse, brown and agile, scurries away. Tom’s eyes gleam with anticipation, while Jerry’s expression shows fear. Their classic chase begins, filled with playful tension and classic cartoon energy.",
+    "timestamp": "2026-02-23 16:50:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      1,
+      87,
+      442,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat with white paws and green eyes, crouches eagerly near a hole in the floorboard. He peers into it with a mischievous grin, then leaps forward with a playful, excited expression. Meanwhile, Jerry, the brown mouse, scurries past a yellow outlet, then dashes toward the hole, seemingly unaware of Tom’s pursuit. Tom’s anticipation grows as he watches Jerry’s movements, his tail twitching with excitement. The scene captures their classic chase, full of comedic tension and charm.",
+    "timestamp": "2026-02-23 16:50:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      7,
+      38,
+      350,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a mousetrap, growls menacingly, then yelps in shock as Jerry, the mouse, scurries away, revealing Tom's startled, angry expression.",
+    "timestamp": "2026-02-23 16:51:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      7,
+      38,
+      350,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, sits with a trap, eyes gleaming. He growls, then leaps in rage as Jerry, the brown mouse, scurries away. Tom’s expression shifts from anger to surprise, showcasing his classic comedic frustration as the chase begins.",
+    "timestamp": "2026-02-23 16:51:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      7,
+      38,
+      350,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, sits menacingly with a mousetrap, eyes glowing green. He yells in rage as Jerry, the brown mouse, scurries away. Tom’s expression shifts from fury to shock as Jerry escapes, revealing the trap’s futility. Their classic chase begins with Tom’s frantic, exaggerated reactions.",
+    "timestamp": "2026-02-23 16:51:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      7,
+      38,
+      350,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits sullenly, clutching a mousetrap, eyes narrowed in frustration. Suddenly, he leaps up, roaring in anger as Jerry, the brown mouse, scurries away. Tom’s expression shifts to fury, claws extended, as he lunges toward Jerry, who escapes with a panicked squeak. The scene captures their classic rivalry: Tom’s rage and Jerry’s quick wit, set against a wooden backdrop. Their dynamic is timeless, filled with slapstick humor and classic cartoon energy.",
+    "timestamp": "2026-02-23 16:51:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      1,
+      153,
+      353,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, leaps dramatically, then lands on his back, mouth open in shock or surprise, tail flicking, eyes wide with startled expression against a plain wall.",
+    "timestamp": "2026-02-23 16:52:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      1,
+      153,
+      353,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, leaps dramatically across a room, eyes wide and mouth agape in shock or excitement. He lands with a thud, then rolls onto his back, still vocalizing with exaggerated expressions, conveying chaotic energy and comedic surprise in this classic cartoon scene.",
+    "timestamp": "2026-02-23 16:52:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      1,
+      153,
+      353,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A mischievous gray cat with white paws and a bushy tail leaps across a room, mouth wide open in a joyful yell. Its green eyes gleam with excitement as it bounds past a floral vase and a door, embodying playful energy and unbridled enthusiasm for its antics.",
+    "timestamp": "2026-02-23 16:52:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      1,
+      153,
+      353,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and a red collar, likely Tom from \"Tom and Jerry,\" leaps across a room, mouth wide open in a startled or aggressive yell. His tail flicks, eyes wide with intensity. He lands awkwardly, rolling onto his back with paws flailing, still yelling. The room features a wooden floor, a green wall, and a floral vase on a side table, suggesting a domestic setting. His frantic energy and exaggerated expressions convey chaos and comedic urgency.",
+    "timestamp": "2026-02-23 16:52:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      4,
+      507,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in yellow dress and red boots walks away, carrying a white cloth. The scene transitions to a table with a lamp and flowers.",
+    "timestamp": "2026-02-23 16:52:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      4,
+      507,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, yellow-clad character with red boots and a white apron walks through a room, carrying a white cloth. They pass a table with a lamp and flowers, then turn toward a door, suggesting purposeful movement. The scene is cozy, with warm tones and domestic details.",
+    "timestamp": "2026-02-23 16:52:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      4,
+      507,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout, yellow-clad character with red boots and blue shoes walks briskly, carrying a white cloth. They pass a table with flowers and books, then enter a room with a door. Their determined stride suggests urgency, but no facial expressions are visible. The scene is warm and domestic, hinting at routine chores.",
+    "timestamp": "2026-02-23 16:52:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      111,
+      4,
+      507,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, animated character in a yellow dress and red boots, wearing a white apron, walks briskly through a warmly lit room. Their large, dark hands grip the apron tightly as they move. The camera follows their back, revealing a wooden table with a lamp and flowers. The character’s confident stride suggests purpose, perhaps rushing to complete a task. No facial expressions are visible, but their determined posture implies urgency or focus.",
+    "timestamp": "2026-02-23 16:52:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      239,
+      54,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom screams in panic, tail raised, as a gray dog with sharp teeth lunges toward him, both characters displaying exaggerated fear and surprise in this classic cartoon scene.",
+    "timestamp": "2026-02-23 16:53:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      239,
+      54,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and tail, eyes wide and mouth agape, leaps backward in shock. A gray dog with sharp teeth and a wide-open mouth appears, roaring in surprise. Both characters display exaggerated expressions of alarm, frozen mid-action against a plain yellow wall.",
+    "timestamp": "2026-02-23 16:53:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      239,
+      54,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and tail, eyes wide and mouth agape, leaps forward in panic. A gray dog with sharp teeth and a red tongue yelps beside it, both characters displaying exaggerated fear. Their frantic expressions and dynamic poses suggest a sudden, chaotic chase or escape.",
+    "timestamp": "2026-02-23 16:53:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      239,
+      54,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and tail, Tom, leaps backward in panic, eyes wide, mouth agape. Suddenly, a large, snarling, toothy dog, likely Jerry, lunges from the left, mouth open in a roar. Tom’s startled expression and flailing limbs convey terror as he tries to evade the dog’s aggressive approach, highlighting their classic chase dynamic with comedic chaos.",
+    "timestamp": "2026-02-23 16:53:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      1,
+      11,
+      230,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat, Tom, climbs a golden pole, peeking from a purple lampshade. He looks around, then descends, revealing his playful, curious nature.",
+    "timestamp": "2026-02-23 16:53:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      1,
+      11,
+      230,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from a purple lampshade, then climbs the lamp pole with determination. His green eyes gleam with mischief as he ascends, gripping the pole tightly. He pauses, looking around, before continuing his climb, showcasing his playful, adventurous spirit.",
+    "timestamp": "2026-02-23 16:54:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      1,
+      11,
+      230,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, peeks from a purple lampshade, then swiftly climbs the lamp's golden pole. He grips tightly, looking upward with focused determination, showcasing his agility and playful mischief as he ascends, embodying classic cartoon charm and mischievous energy.",
+    "timestamp": "2026-02-23 16:54:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      1,
+      11,
+      230,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, peeks from atop a purple lampshade, eyes wide with mischief. He then swiftly drops, revealing his full form as he climbs the lamp’s golden pole with agile grace. His expression shifts from playful to focused as he ascends, gripping the pole tightly. The scene captures his cunning and energetic nature, set against a plain beige backdrop, emphasizing his actions and expressions.",
+    "timestamp": "2026-02-23 16:54:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      32,
+      442,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog with a red collar yells as a mouse rides a cuckoo clock’s pendulum, causing the clock to swing wildly and the dog to react in alarm.",
+    "timestamp": "2026-02-23 16:54:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      32,
+      442,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog with a red collar yells as a mouse perches atop a cuckoo clock, its arms outstretched. The clock's pendulum swings, and the mouse appears startled, its eyes wide. The bulldog’s expression is one of frustration or anger, while the mouse seems caught in a comical predicament.",
+    "timestamp": "2026-02-23 16:54:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      32,
+      442,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog, wearing a red collar, yells in frustration as a tiny mouse hangs from a cuckoo clock’s pendulum. The clock’s face shows Roman numerals, and the mouse, perched on a wooden arm, appears startled, its yellow beak open as if mid-scream. The bulldog’s expression is one of rage and annoyance.",
+    "timestamp": "2026-02-23 16:54:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      0,
+      32,
+      442,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A bulldog, wearing a red collar, roars in frustration as a small mouse hangs from a cuckoo clock’s pendulum. The clock’s ornate wooden face shows Roman numerals, and its mechanical arm swings the mouse into the dog’s gaping mouth. The dog’s expression is one of rage and surprise, teeth bared, as the mouse, tiny and yellow, clings to the clock’s mechanism. The scene is comedic, highlighting slapstick chaos and the mouse’s mischievous antics.",
+    "timestamp": "2026-02-23 16:54:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      12,
+      73,
+      236,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom screams in terror as a large, snarling bulldog with a red collar lunges toward him, both animals displaying exaggerated, cartoonish expressions of aggression and fear.",
+    "timestamp": "2026-02-23 16:55:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      12,
+      73,
+      236,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and tail yelps in terror, claws extended, as a large bulldog with a red collar lunges forward, snarling aggressively. Both animals display exaggerated expressions of fear and aggression, their movements frantic and chaotic in this cartoon showdown.",
+    "timestamp": "2026-02-23 16:55:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      12,
+      73,
+      236,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and tail yelps in terror, its mouth wide open. Beside it, a muscular bulldog with a red collar snarls, teeth bared. Both animals are mid-action, seemingly fleeing or reacting to something unseen, their expressions conveying panic and aggression in this classic cartoon scene.",
+    "timestamp": "2026-02-23 16:55:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E05 - Dog Trouble (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      12,
+      73,
+      236,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and tail, eyes wide and mouth agape in a scream, lunges forward. Beside it, a large, grumpy bulldog with a red collar and yellow studs bares its teeth, snarling in rage. Both animals are mid-motion, claws scraping the floor, conveying intense aggression and chaotic energy. Their expressions are fierce and animated, suggesting a high-stakes chase or confrontation in a cartoonish, exaggerated style.",
+    "timestamp": "2026-02-23 16:55:32"
+  }
+]

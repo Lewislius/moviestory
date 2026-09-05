@@ -1,0 +1,38 @@
+[Original prompt]
+The video opens with a large cloud of white smoke billowing into the air, obscuring much of the scene. The smoke is dense and expansive, suggesting a significant event has just occurred. As the smoke begins to clear, the background reveals a grassy area dotted with trees, indicating an outdoor setting. In the foreground, two colorful structures stand out: one green and one red, both resembling small houses or playhouses for children. These structures have various features such as windows and doors, adding a playful element to the scene. The ground around them appears slightly disturbed, possibly from the initial explosion or movement associated with the smoke. As the smoke continues to dissipate, the details of the environment become clearer, showing a serene park-like setting with no visible animals or people present. The overall atmosphere shifts from chaotic to calm as the smoke fades away, leaving behind a quiet, open space.
+
+Relevant physical states:
+
+* The large cloud of white smoke must be present and dense at the beginning of the sequence.
+* The smoke should initially obscure a substantial portion of the background and foreground.
+* The smoke should expand, disperse, and gradually decrease in density over time.
+* The grassy area and trees must remain present and spatially consistent behind the smoke.
+* The green structure and the red structure must remain present and visually consistent throughout the sequence, even when partially obscured by smoke.
+* The windows, doors, and overall geometry of the two structures should remain stable as they become more visible.
+* The visibility of the background, trees, grass, and structures should increase as the smoke dissipates.
+* The ground near the structures may remain visibly disturbed, but its appearance should not change abruptly without a physical cause.
+* No humans or animals should appear in the scene.
+* The environment should transition visually from heavily obscured and chaotic to clear and calm.
+
+Physical event order:
+
+1. A dense cloud of white smoke occupies and obscures much of the scene.
+2. The smoke billows and spreads through the surrounding air.
+3. The smoke begins to disperse and decrease in density.
+4. The grassy area, trees, and the green and red structures gradually become more visible through the thinning smoke.
+5. The smoke continues to dissipate, revealing increasingly clear details of the structures and surrounding environment.
+6. Most of the smoke clears, leaving the park-like setting, disturbed ground, and two structures clearly visible.
+7. The scene settles into a relatively calm and unobscured state.
+
+Cause-effect constraints:
+
+* Dense smoke must be present before the scene can become gradually revealed through dissipation.
+* The grassy area, trees, and two structures must already exist behind or within the obscured scene rather than appearing only after the smoke clears.
+* The green and red structures must not appear, disappear, duplicate, or change geometry as smoke passes in front of them.
+* Reduced smoke density must happen before previously obscured environmental details become clearly visible.
+* Increased visibility of the background and structures must result from smoke dissipation rather than spontaneous object appearance.
+* Smoke should disperse continuously and spatially coherently rather than disappearing instantaneously.
+* The smoke should move and diffuse through the air rather than behaving as a rigid object.
+* The disturbed ground should not suddenly change position or appearance without an associated physical event.
+* No humans or animals may spontaneously appear as the smoke clears.
+* The transition from chaotic to calm must follow the progressive dissipation of the smoke.

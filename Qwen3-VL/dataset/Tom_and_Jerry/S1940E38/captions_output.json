@@ -1,0 +1,1010 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      96,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stands nervously by a door, eyes wide, then walks away, seemingly startled or scared, as the scene fades to show only the door.",
+    "timestamp": "2026-02-23 22:58:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      96,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands by a door, looking anxious and confused. He shifts his weight, glances around, then turns away, disappearing from view. His expressions show worry and uncertainty as he moves, suggesting he's trying to escape or avoid something.",
+    "timestamp": "2026-02-23 22:58:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      96,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands by a door, initially startled, then smirks confidently. He paces nervously, eyes darting, before abruptly turning and fleeing the room. His exaggerated expressions and hurried movements convey panic and urgency as he dashes away, leaving the door ajar behind him.",
+    "timestamp": "2026-02-23 22:58:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      116,
+      96,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat stands by a door, initially smug, then shifts to a worried expression. He paces nervously, eyes wide, as if anticipating trouble. His body language suggests anxiety or fear. He turns and exits the frame, leaving the door slightly ajar. The scene ends with a quiet, tense atmosphere, hinting at impending chaos or an unseen threat. His exaggerated movements and facial expressions convey classic cartoon humor and suspense.",
+    "timestamp": "2026-02-23 22:58:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      63,
+      0,
+      400,
+      456
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, dances energetically while holding a tomato, then trips over a broom, showing playful chaos and surprise in his expressive face.",
+    "timestamp": "2026-02-23 22:59:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      63,
+      0,
+      400,
+      456
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a tomato, dances energetically, then trips over a broom and dustpan. He lands dramatically, scowling in frustration. The scene captures his playful chaos and comedic clumsiness, typical of his mischievous antics in the kitchen.",
+    "timestamp": "2026-02-23 22:59:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      63,
+      0,
+      400,
+      456
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a tomato, dances energetically in a kitchen, kicking a broom and dustpan. His expression shifts from playful to furious as he stomps, then leaps with exaggerated motion, showcasing classic cartoon chaos and comedic energy.",
+    "timestamp": "2026-02-23 22:59:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      63,
+      0,
+      400,
+      456
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a tomato, then drops it as he dances wildly, kicking a broom and dustpan. His expression shifts from playful to frantic, eyes wide, mouth agape. He spins, leaps, and kicks, sending the broom flying. The scene captures his chaotic energy and mischievous delight, set against a cozy kitchen backdrop with a fruit bowl and cabinets. His antics suggest pure, unbridled joy in his antics.",
+    "timestamp": "2026-02-23 22:59:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      266,
+      0,
+      511,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman mops a dirty floor, while a mischievous cat, Tom, playfully sabotages her efforts, dodging and splashing, ultimately getting swept up in the mop.",
+    "timestamp": "2026-02-23 22:59:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      266,
+      0,
+      511,
+      452
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a green dress and yellow apron sweeps a dirty floor. Tom the cat, covered in mud, tries to steal the broom, gets swept up, and ends up lying on the floor, soaked and defeated, as the woman continues cleaning.",
+    "timestamp": "2026-02-23 22:59:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      266,
+      0,
+      511,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a green dress and yellow apron sweeps the kitchen floor with a broom. Tom, the gray cat, playfully interferes, dodging and splashing water. He eventually gets swept up, lying flat as the woman continues cleaning, showing mischievous antics and a comical struggle.",
+    "timestamp": "2026-02-23 22:59:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      266,
+      0,
+      511,
+      452
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a green dress and yellow apron mops a kitchen floor, her apron stained with a muddy paw print. Tom, a gray cat, playfully dodges her, then trips, getting muddy. He grabs the mop, mimicking her, but ends up tangled in it. The woman, amused, continues mopping while Tom lies flat on the floor, soaked and muddy, as water drips from the mop. Their antics reveal a humorous, chaotic kitchen scene.",
+    "timestamp": "2026-02-23 23:00:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      136,
+      1,
+      441,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Santa Claus, in red robe and green gloves, walks out, trips, and spills coal. He looks surprised as the coal piles up, obscuring his view.",
+    "timestamp": "2026-02-23 23:01:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      136,
+      1,
+      441,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon Santa Claus in a red coat and green gloves walks out, carrying a sack. He trips, causing coal to spill from his sack, filling the porch. A dog with a red hat peeks out, surprised by the mess. Santa looks momentarily startled, then amused by the chaos.",
+    "timestamp": "2026-02-23 23:01:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      136,
+      1,
+      441,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon Santa, in red coat and green gloves, steps out, dropping a sack of coal. The coal spills dramatically, covering the porch. He looks surprised, then amused, as the scene ends with him peeking back, hinting at a comedic twist. The setting is a sunny, suburban porch.",
+    "timestamp": "2026-02-23 23:01:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      136,
+      1,
+      441,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character in a red Santa-like outfit with green gloves and yellow socks walks briskly toward a door, clutching a sack. As he steps inside, a pile of blue rocks bursts forth, spilling from the sack. The character is momentarily obscured by the sudden avalanche of rocks, which scatter across the floor. The scene suggests comedic chaos, with the character’s expression unreadable but his actions implying surprise or annoyance at the unexpected mess.",
+    "timestamp": "2026-02-23 23:01:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      98,
+      129,
+      463,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, frantically sweeps blue paw prints across the floor while wearing a white towel and yellow sash, showing determination and exhaustion.",
+    "timestamp": "2026-02-23 23:02:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      98,
+      129,
+      463,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, frantically sweeps blue paw prints across the floor while wearing a white cloth and yellow sash. His determined expression and frantic movements show his effort to clean up the mess, though he appears overwhelmed by the task.",
+    "timestamp": "2026-02-23 23:02:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      98,
+      129,
+      463,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, frantically sweeps blue paw prints across the floor with a broom, wearing a white towel as a headband and a yellow sash. His eyes widen in panic as he struggles to clean up the mess, showing determination mixed with comedic frustration in his exaggerated expressions.",
+    "timestamp": "2026-02-23 23:02:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      98,
+      129,
+      463,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, frantically sweeps a floor littered with blue paw prints, wearing a white cloth as a makeshift hat and a yellow sash. His eyes widen in determination, mouth agape, as he struggles to clean the mess. The broom’s bristles brush against the prints, but he’s visibly overwhelmed, moving in a frantic, almost desperate rhythm. His expression shifts from focused to exasperated as he continues his futile cleaning effort.",
+    "timestamp": "2026-02-23 23:02:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      137,
+      0,
+      475,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, muddy, sits defeated as a woman sweeps. He looks up with a sly grin, then leaps away as she continues cleaning, unaware of his escape.",
+    "timestamp": "2026-02-23 23:03:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      137,
+      0,
+      475,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A muddy Tom cat sits defeated as a woman in a green apron sweeps the floor. She sweeps past him, unaware of his plight. Tom looks up with a resigned, smug expression, covered in dirt, as the scene ends with him still stuck in his mess.",
+    "timestamp": "2026-02-23 23:03:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      137,
+      0,
+      475,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A muddy Tom cat sits defeated as a cleaning woman sweeps the floor. Tom looks up with a smug, resigned expression, while the woman, in green and yellow, sweeps past him with a broom, ignoring his mess. The scene captures Tom’s defeat and her focused, mundane chore.",
+    "timestamp": "2026-02-23 23:03:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      137,
+      0,
+      475,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A muddy Tom cat sits defeated on the kitchen floor, surrounded by brown splashes. A woman in a green dress and yellow apron sweeps nearby, holding a broom. Tom looks up with a resigned, slightly smug expression as she approaches, seemingly unaware of his antics. The scene captures a classic chase and cleanup moment, with Tom’s defeat contrasting against her determined cleaning. The kitchen setting adds a domestic, comedic backdrop to their interaction.",
+    "timestamp": "2026-02-23 23:03:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      161,
+      0,
+      426,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, diligently mops a floor with blue footprints, holding a mop and cloth, appearing focused and slightly tired as he cleans.",
+    "timestamp": "2026-02-23 23:03:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      161,
+      0,
+      426,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, energetically sweeps and mops a floor stained with blue paw prints. He wears a yellow sash and holds a mop and cloth, showing determination. His expression is focused, and he moves with purpose, clearly committed to cleaning up the mess.",
+    "timestamp": "2026-02-23 23:03:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      161,
+      0,
+      426,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, energetically mops a floor stained with blue paw prints. He wears a yellow rope tied around his waist, holding a mop and bucket. His determined expression and dynamic posture suggest he's focused on cleaning, despite the chaos of his surroundings.",
+    "timestamp": "2026-02-23 23:03:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      161,
+      0,
+      426,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, energetically mops the floor, his expression focused and determined. He wears a yellow sash tied around his waist and holds a mop and cloth. Blue paw prints dot the floor, indicating recent activity. As he sweeps, he occasionally glances upward, perhaps checking his progress or anticipating Jerry’s antics. The scene is set in a sunlit room with a window, adding warmth to the domestic chore. Tom’s movements are fluid, showcasing his persistence despite the messy task.",
+    "timestamp": "2026-02-23 23:03:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      22,
+      115,
+      456,
+      405
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat runs frantically, screaming, past a desk. He trips, lands on his back, then springs up, still yelling, as if chased by unseen foes in a cartoonish, chaotic chase.",
+    "timestamp": "2026-02-23 23:04:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      22,
+      115,
+      456,
+      405
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, dashes frantically, mouth agape in panic. He collides with a wooden desk, then leaps away, eyes wide with shock. His frantic movements suggest he’s chasing something—or escaping a trap—leaving a trail of dust behind him.",
+    "timestamp": "2026-02-23 23:04:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      22,
+      115,
+      456,
+      405
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, runs frantically, mouth open in panic, dodging a desk. His eyes widen with fear as he leaps, then disappears into a hallway. The scene shifts to an empty room, suggesting his escape, leaving only the echo of his frantic chase.",
+    "timestamp": "2026-02-23 23:04:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      22,
+      115,
+      456,
+      405
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is visibly distressed, screaming and flailing as he’s knocked backward by an unseen force. His eyes widen, mouth agape, and limbs twitch in panic. He stumbles, then lunges forward with frantic energy, arms outstretched. The scene shifts to an empty room, then back to Tom, now wearing a red-rimmed monocle, still in motion. His expression remains one of shock and urgency, suggesting a chaotic chase or escape.",
+    "timestamp": "2026-02-23 23:04:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      155,
+      12,
+      417,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stretches, then leaps toward a wall-mounted box, grabbing its handle. He appears determined, possibly to retrieve something, with a focused expression.",
+    "timestamp": "2026-02-23 23:04:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      155,
+      12,
+      417,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stretches, then leaps toward a red box on the wall, grabbing it with his paw. He appears determined, eyes focused. The scene suggests a playful chase or mischievous act, typical of their dynamic. His expression is one of concentration, hinting at an impending prank or escape.",
+    "timestamp": "2026-02-23 23:05:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      155,
+      12,
+      417,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stretches upward, then leaps toward a wall-mounted red box, grabbing its handle. He pulls it open, revealing a yellow object inside. His expression shifts to surprise as he peers inside, then turns away, tail flicking, as if amused by his own antics.",
+    "timestamp": "2026-02-23 23:05:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      155,
+      12,
+      417,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray and mischievous, stretches upward with a playful grin, then leaps to grab a red box mounted on the wall. He pulls it open with a triumphant expression, revealing a yellow object inside. His white paws and tail contrast against the beige wall as he stands proudly, seemingly victorious. The scene suggests a classic cartoon chase, with Tom’s antics hinting at his usual antics and the comedic chaos he brings.",
+    "timestamp": "2026-02-23 23:05:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      7,
+      3,
+      420,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat pulls yellow curtains, gets stuck, and yells in frustration. He struggles, then sits panting, exhausted from his failed attempt to escape.",
+    "timestamp": "2026-02-23 23:05:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      7,
+      3,
+      420,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat pulls yellow curtains, gets tangled, and struggles. He yells, then sits panting, tongue out. He jumps up, startled, then falls back, looking dazed and exhausted from his antics. His expressions show frustration and comedic exhaustion.",
+    "timestamp": "2026-02-23 23:05:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      7,
+      3,
+      420,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat pulls yellow curtains, gets tangled, and struggles. He yells, sits panting, then jumps in panic. His expressions shift from frustration to exhaustion. The scene captures his comedic, chaotic energy as he tries to escape the curtains’ grip, showcasing classic slapstick humor.",
+    "timestamp": "2026-02-23 23:05:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      7,
+      3,
+      420,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, energetically pulls yellow curtains apart, revealing a window. He leaps joyfully, then stumbles backward, tongue out, looking dizzy. He sits panting, then stands again, hands to ears, reacting to a sudden noise. His expressions shift from excitement to confusion, then to alarm, as if startled by something unseen. The scene captures his playful chaos and comedic reactions in a classic cartoon style.",
+    "timestamp": "2026-02-23 23:05:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      179,
+      0,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat mischievously sabotages a woman's cleaning, causing chaos. She sweeps him up, then uses the broom to sweep him across the floor, leaving him drenched and defeated.",
+    "timestamp": "2026-02-23 23:06:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      179,
+      0,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, in a mischievous act, tries to steal a mop from a cleaning woman. She uses it to sweep him, causing him to tumble and flail. He ends up sprawled on the floor, soaked and defeated, as she continues mopping with a determined expression.",
+    "timestamp": "2026-02-23 23:06:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      179,
+      0,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, playfully messes with a cleaning woman’s mop, causing chaos. She, wearing a green dress and yellow apron, sweeps angrily, accidentally hitting Tom. He lies sprawled, soaked, as she continues cleaning, oblivious to his antics. The scene is comedic, filled with slapstick humor and exaggerated expressions.",
+    "timestamp": "2026-02-23 23:06:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      179,
+      0,
+      512,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "In a kitchen, a gray cat, Tom, playfully dodges a woman’s broom as she sweeps. He grabs a bucket, spills water, and then tries to sneak past her. She sweeps him up, trapping him under the broom. Tom struggles, his eyes wide with panic, while she continues cleaning, oblivious. The scene is chaotic yet humorous, with Tom’s antics and the woman’s determined cleaning creating a classic cartoon slapstick moment.",
+    "timestamp": "2026-02-23 23:06:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      115,
+      103,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stands nervously by a door, then turns away, looking distressed. He walks off-screen, leaving the door slightly ajar, suggesting he's fleeing or hiding.",
+    "timestamp": "2026-02-23 23:06:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      115,
+      103,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands near a door, looking distressed and confused. He paces slightly, then turns away, exiting the frame. His expression shifts from worry to frustration. The scene ends with a close-up of the door and wall, emphasizing his departure.",
+    "timestamp": "2026-02-23 23:07:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      115,
+      103,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands near a door, visibly frustrated and agitated, with wide eyes and an open mouth. He paces, then slams his paw on the floor, before abruptly turning and exiting the frame. The scene ends with a close-up of the door’s hinge and a wall outlet.",
+    "timestamp": "2026-02-23 23:07:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      115,
+      103,
+      416,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat stands near a door, visibly frustrated, with wide eyes and a tense posture. He paces slightly, then turns away, slumping as if defeated. The scene shifts to show only the door and wall, implying his departure. His expression conveys annoyance and exhaustion, suggesting a failed attempt or a moment of defeat after a chase or confrontation. The room’s calm decor contrasts with his agitation.",
+    "timestamp": "2026-02-23 23:07:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      175,
+      18,
+      432,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, angrily drops a broom and dustpan, then kicks them away, showing frustration and annoyance in his expression as he moves across the room.",
+    "timestamp": "2026-02-23 23:07:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      175,
+      18,
+      432,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, angrily sweeps debris with a broom, then drops it, yelling. He kicks a nearby object, causing a comical blur effect. He stumbles backward, eyes wide with frustration, tail twitching, as he continues his chaotic, exaggerated cleaning attempt.",
+    "timestamp": "2026-02-23 23:07:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      175,
+      18,
+      432,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a broom and dustpan, screams in frustration, then kicks them away. He dashes across the room, tripping over a chair, his expression shifting from anger to surprise. The scene captures his comedic chaos and exaggerated reactions typical of classic cartoons.",
+    "timestamp": "2026-02-23 23:07:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      175,
+      18,
+      432,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, frantically sweeps crumbs with a broom and dustpan, then drops the tools in frustration. He leaps in anger, kicking a nearby object, and crashes into a desk, tumbling dramatically. His expression shifts from annoyance to shock as he lands, eyes wide and mouth agape. The scene captures his comedic, chaotic energy, highlighting his impatience and slapstick antics in a kitchen setting.",
+    "timestamp": "2026-02-23 23:07:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      170,
+      142,
+      427,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, aggressively wipes a red splatter on the wall with a yellow cloth, appearing frustrated and determined as he moves around the room.",
+    "timestamp": "2026-02-23 23:08:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      170,
+      142,
+      427,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, aggressively smashes a yellow banana against a wall, creating a red splatter. He appears startled, then laughs as he recoils, dropping the banana. His expression shifts from anger to surprise, ending with a comical, exaggerated reaction.",
+    "timestamp": "2026-02-23 23:08:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      170,
+      142,
+      427,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, energetically smashes a yellow banana against a wall, creating a red splatter. He dances joyfully, then turns, laughing, as banana goo drips from his paws. His playful chaos contrasts with the messy aftermath, capturing classic cartoon mischief and delight.",
+    "timestamp": "2026-02-23 23:08:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      170,
+      142,
+      427,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, aggressively smashes a yellow banana against a wall, creating a red splatter. He appears startled and confused as the banana flies off, leaving him drenched in the mess. His expression shifts from rage to shock as he recoils, then tries to clean himself with the banana peel, only to be drenched again. The scene is chaotic, with Tom’s frantic movements and the absurdity of the banana’s destruction dominating the room.",
+    "timestamp": "2026-02-23 23:08:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      312,
+      0,
+      511,
+      399
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman mops the floor as a muddy Tom cat struggles, then gets swept up in the mop's motion, showing playful chaos and determination in his expression.",
+    "timestamp": "2026-02-23 23:08:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      312,
+      0,
+      511,
+      399
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A maid sweeps a muddy floor as Tom, the gray cat, sits muddy and smug. He then leaps up, playfully dodging the mop. His expression is mischievous, suggesting he’s enjoying the chaos. The scene captures their classic comedic dynamic in a kitchen setting.",
+    "timestamp": "2026-02-23 23:08:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      312,
+      0,
+      511,
+      399
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A maid sweeps the kitchen floor, while Tom the cat, muddy and defeated, sits nearby. He looks up with a smug expression as she approaches, seemingly amused by his mess. The scene captures their classic dynamic—Tom’s mischief and the maid’s patient cleaning.",
+    "timestamp": "2026-02-23 23:08:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      312,
+      0,
+      511,
+      399
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A maid in a green dress and yellow apron sweeps the kitchen floor with a red-handled broom. Tom, the gray cat, is covered in mud, sitting dazed as he watches. He then leaps up, startled, as the maid steps forward. His expression shifts from confusion to playful mischief, suggesting he’s up to no good. The scene is comedic, with the maid’s focused cleaning contrasting Tom’s mischievous antics.",
+    "timestamp": "2026-02-23 23:09:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      127,
+      0,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon Santa Claus, in red coat and green gloves, trips, spilling coal from his sack, causing a pile to crash onto the porch floor.",
+    "timestamp": "2026-02-23 23:09:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      127,
+      0,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon Santa Claus, in red coat and green gloves, carries a sack. He trips, spilling blue rocks. A dog peeks from behind the door, startled. The scene is comedic, with exaggerated motion and falling debris. Santa’s expression is one of surprise and mild dismay as the chaos unfolds.",
+    "timestamp": "2026-02-23 23:09:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      127,
+      0,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon Santa Claus, in red and white, carries a sack, stepping out of a door. He trips, scattering blue rocks. A dog peeks out, surprised. The scene is cheerful, with bright colors and playful animation, capturing a whimsical, comedic moment.",
+    "timestamp": "2026-02-23 23:09:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      127,
+      0,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon Santa Claus, in a red coat and green gloves, rushes out of a blue door, carrying a sack. He trips, dropping the sack, which spills blue rocks across the porch. A yellow dog with a black nose peeks out from behind the door, startled. Santa’s expression shifts from urgency to surprise as the rocks scatter. The scene is comedic, with exaggerated motion and vibrant colors. The dog appears curious, adding to the whimsical tone.",
+    "timestamp": "2026-02-23 23:09:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      124,
+      102,
+      453,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, energetically sweeps blue paw prints across the floor while wearing a white cloth and yellow belt, showing determination and effort.",
+    "timestamp": "2026-02-23 23:10:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      124,
+      102,
+      453,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, diligently sweeps the floor with a broom, wearing a white towel as a headband and a yellow sash. He moves energetically, leaving blue paw prints behind. His expression shows focused determination as he cleans, embodying his usual comedic, laborious antics.",
+    "timestamp": "2026-02-23 23:10:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      124,
+      102,
+      453,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, diligently sweeps the floor with a broom, wearing a white cloth on his head and a yellow belt. His determined expression shows focus as he moves, leaving blue paw prints behind. The scene captures his earnest cleaning efforts in a cozy room.",
+    "timestamp": "2026-02-23 23:10:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      124,
+      102,
+      453,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, diligently sweeps the floor with a broom, wearing a white cloth as a makeshift hat. His determined expression and focused posture suggest he’s committed to cleaning. Blue paw prints trail behind him, indicating his recent activity. The room’s warm tones and wooden bookshelf add to the domestic setting. Tom’s energetic movements and slight panting convey his effort, while the playful paw prints hint at a mischievous streak beneath his cleaning resolve.",
+    "timestamp": "2026-02-23 23:10:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      414,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, stretches upward with a determined expression, then leaps toward a red wall-mounted device, aiming to open it while Jerry, the mouse, watches from above.",
+    "timestamp": "2026-02-23 23:10:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      414,
+      422
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, stretches dramatically, then leaps toward a red wall-mounted panel, pulling out a yellow object. He lands with a thud, looking surprised. Jerry, the mouse, peeks from behind a chair, watching Tom’s antics with mischief. The scene is comedic and full of classic cartoon energy.",
+    "timestamp": "2026-02-23 23:10:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      414,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, stretches upward with a playful expression, then leaps to grab a red box on the wall. He swings it open, revealing a yellow object inside. His movements are exaggerated and energetic, showcasing his mischievous nature as he interacts with the box in this classic cartoon scene.",
+    "timestamp": "2026-02-23 23:10:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E38 - Mouse Cleaning (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      153,
+      0,
+      414,
+      422
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stretches dramatically in a room, then leaps toward a red wall-mounted panel. He grabs a yellow handle, pulls it open, and yanks himself through, revealing Jerry the mouse perched atop his head. Tom’s expression shifts from surprise to annoyance as Jerry, small and brown, watches him. The scene is comedic, with Tom’s exaggerated movements and Jerry’s mischievous grin. The room features a broom, bucket, and a stool, adding to the domestic chaos.",
+    "timestamp": "2026-02-23 23:11:05"
+  }
+]

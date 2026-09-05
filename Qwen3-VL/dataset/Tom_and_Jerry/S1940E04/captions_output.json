@@ -1,0 +1,786 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      6,
+      0,
+      507,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A character in a white robe and blue slippers walks away, carrying a rolling pin. Their movement is steady, suggesting purpose or routine, with no visible expressions.",
+    "timestamp": "2026-02-23 16:12:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      6,
+      0,
+      507,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A character in a white robe and blue slippers walks away, holding a wooden rolling pin. Their hands grip the pin and robe as they move, suggesting purposeful departure. The scene is dimly lit, emphasizing their solitary motion through a dark, curtained room.",
+    "timestamp": "2026-02-23 16:12:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      6,
+      0,
+      507,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A character in a flowing white robe and blue slippers walks away, holding a wooden rolling pin. Their hands gesture as they move, suggesting purposeful motion. The dimly lit room and their determined stride imply a secretive or urgent task, though no facial expressions are visible.",
+    "timestamp": "2026-02-23 16:12:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      6,
+      0,
+      507,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A character in a flowing white robe and blue slippers walks slowly, holding a wooden rolling pin. Their dark-skinned hands grip the pin and robe, suggesting careful movement. The robe drapes elegantly as they step, revealing a calm, deliberate pace. The dim, blue-toned background hints at a quiet, possibly nighttime setting. No facial expressions are visible, but the posture implies contemplation or purposeful intent, as if preparing for an important task or ritual.",
+    "timestamp": "2026-02-23 16:12:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      79,
+      0,
+      502,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A ghostly figure walks, startling Tom the cat, who screams and jumps back, then falls and scrambles away in fear as the ghost continues past.",
+    "timestamp": "2026-02-23 16:13:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      79,
+      0,
+      502,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A ghostly figure in a white robe walks, startling Tom the cat. Tom, terrified, leaps backward, then falls dramatically. He scrambles up, eyes wide with shock, as the ghost continues walking away, leaving Tom in a state of panic and disbelief.",
+    "timestamp": "2026-02-23 16:13:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      79,
+      0,
+      502,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A ghostly figure in a white robe walks past a startled Tom, who screams in terror. He leaps backward, tripping over a rug, then scurries away in panic. The ghost continues, unmoved, as Tom’s fear-filled expressions and frantic movements highlight his terror.",
+    "timestamp": "2026-02-23 16:13:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      79,
+      0,
+      502,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A ghostly figure in a white robe walks slowly, its shadow cast on the wall. Suddenly, Tom the cat, startled, leaps backward, screaming in terror. He tumbles to the floor, flailing wildly, before scrambling back up with wide eyes and a gaping mouth. The ghost continues walking, unfazed, as Tom’s panic escalates. The scene captures classic cartoon chaos and humor, with Tom’s exaggerated fright contrasting the ghost’s calm, eerie presence.",
+    "timestamp": "2026-02-23 16:13:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      8,
+      0,
+      487,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A ghostly figure in a white robe and blue slippers holds a rolling pin, hesitating at a door, then stepping forward with a curious, slightly mischievous expression.",
+    "timestamp": "2026-02-23 16:14:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      8,
+      0,
+      487,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A ghostly figure in a white robe and blue slippers holds a rolling pin, hesitating at a door. Its hand gestures suggest reluctance or surprise. The scene is dimly lit, with a yellow door handle and a hint of a room beyond, creating a spooky, animated atmosphere.",
+    "timestamp": "2026-02-23 16:14:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      8,
+      0,
+      487,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A ghostly figure in a white robe and blue slippers holds a rolling pin, stepping through a door. Its hands gesture animatedly, suggesting urgency or mischief. The scene is dimly lit, with warm tones in the background, hinting at a cozy, possibly haunted household. The ghost’s movements are fluid and slightly whimsical.",
+    "timestamp": "2026-02-23 16:14:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      8,
+      0,
+      487,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A ghostly figure in a white robe and blue slippers, holding a wooden rolling pin, stands at a doorway. Its brown hands gesture as if explaining or warning. It steps forward, then pauses, turning slightly, as if contemplating. The scene is dimly lit, with warm yellow light spilling from the room behind. The character’s posture suggests mild annoyance or determination, yet remains calm and composed, embodying a classic cartoon ghost with a touch of whimsy.",
+    "timestamp": "2026-02-23 16:14:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      121,
+      45,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom sits angrily, eyes glowing green, then abruptly vanishes in a puff of smoke, leaving only an empty room and a wooden ladder.",
+    "timestamp": "2026-02-23 16:14:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      121,
+      45,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits angrily, eyes glowing green, paws clenched. He turns, then slumps back, defeated. The scene fades as steam rises from the floor, suggesting he’s been defeated or overheated. His expression shifts from rage to exhaustion, hinting at a failed pursuit or a long, grueling chase.",
+    "timestamp": "2026-02-23 16:14:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      121,
+      45,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and green eyes sits dejectedly, eyes narrowed in frustration. He shifts, then abruptly vanishes in a puff of smoke, leaving only the wooden ladder and empty floor. His expression conveys defeat and annoyance as he disappears, leaving behind a silent, empty space.",
+    "timestamp": "2026-02-23 16:14:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      121,
+      45,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits dejectedly on the floor, eyes glowing green with annoyance or frustration. He shifts slightly, paws twitching, as if contemplating his next move. His expression transitions from weary to annoyed, then to a smug, satisfied smirk. Suddenly, he vanishes in a puff of smoke, leaving only the wooden ladder and a dark, empty room behind, suggesting his mischief or escape.",
+    "timestamp": "2026-02-23 16:14:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      82,
+      98,
+      445,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, with green eyes and a red heart on his chest, displays surprise, shock, and confusion, reacting dramatically to unseen events in a dimly lit room.",
+    "timestamp": "2026-02-23 16:15:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      82,
+      98,
+      445,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a red heart on his chest, reacts dramatically—shouting, blinking, and squinting. His expressions shift from shock to confusion, conveying intense emotion. The dimly lit room with a purple curtain and framed picture adds to the scene’s dramatic tension.",
+    "timestamp": "2026-02-23 16:15:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      82,
+      98,
+      445,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a red heart on his chest, displays exaggerated emotions—shock, surprise, and delight—through wide eyes and mouth movements. His expressions shift rapidly, suggesting a comedic or dramatic reaction to an unseen event in a dimly lit room with purple curtains.",
+    "timestamp": "2026-02-23 16:15:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      82,
+      98,
+      445,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a red heart, his eyes wide with surprise and delight. He squints, then opens his mouth in shock, as if the heart is unexpectedly magical. His whiskers twitch, and his ears perk up, revealing a mix of awe and playful confusion. The dimly lit room with a green-framed picture behind him adds to the whimsical, cartoonish atmosphere, emphasizing Tom’s animated, exaggerated reactions to the heart.",
+    "timestamp": "2026-02-23 16:15:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      430,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, sits nervously beside a vacuum cleaner. Jerry, the brown mouse, peeks out, then jumps away as Tom looks alarmed, his eyes wide with surprise.",
+    "timestamp": "2026-02-23 16:16:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      430,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, crouches nervously beside a vacuum cleaner. Jerry, the brown mouse, peeks out from behind a curtain, then jumps onto the vacuum's handle. Tom reacts with surprise and fear as Jerry’s antics unfold, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 16:16:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      430,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits nervously beside a vacuum cleaner, eyes wide and mouth agape. Jerry the mouse, brown and agile, peeks from behind a curtain, holding a tool. Tom’s expression shifts from fear to surprise as Jerry’s antics unfold, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 16:16:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      1,
+      430,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a mischievous grin, crouches beside a vacuum cleaner, eagerly anticipating. Suddenly, Jerry the mouse peeks out from behind a curtain, startled, then leaps into the vacuum’s opening. Tom’s expression shifts to shock as Jerry vanishes, leaving Tom alone, bewildered and slightly amused by his failed pursuit. The scene captures their classic rivalry, filled with comedic tension and slapstick charm.",
+    "timestamp": "2026-02-23 16:16:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      190,
+      243,
+      459,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, startled, hides behind a door. A ghostly blue cat appears, taunting him. Tom looks terrified, then stands, trembling, as the ghost vanishes.",
+    "timestamp": "2026-02-23 16:16:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      190,
+      243,
+      459,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is startled by a ghostly blue cat. He panics, jumping back, then sits trembling, eyes wide with fear. He glances around, visibly shaken, before slowly standing, still wary, as the ghost fades away. His expression shifts from terror to cautious curiosity.",
+    "timestamp": "2026-02-23 16:16:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      190,
+      243,
+      459,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, looks terrified as a blue ghostly figure appears. He ducks, then sits trembling near a door, eyes wide. The ghost waves goodbye, leaving Tom shaken and confused, his expression shifting from fear to bewilderment as he stands alone.",
+    "timestamp": "2026-02-23 16:16:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      190,
+      243,
+      459,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits nervously beside a door, eyes wide with fear. A translucent blue cat ghost appears, waving a red card. Tom jumps back, startled, then slumps against the door, visibly shaken. He looks around, trembling, as the ghost fades. Tom’s expression shifts from panic to dazed confusion, then he stands, eyes still wide, as if trying to process the eerie encounter. The room’s dim lighting enhances his anxious demeanor.",
+    "timestamp": "2026-02-23 16:16:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      178,
+      154,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray and white, panics while chasing a ghostly figure. He leaps, grabs a sheet, and screams in terror, revealing his fear and frantic movements in a dimly lit room.",
+    "timestamp": "2026-02-23 16:17:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      178,
+      154,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sneaks and leaps, eyes wide with excitement. He spots a white cloth hanging from a piano, grabs it, and pulls it down, revealing a hidden mouse. His expression shifts to surprise as he discovers his prey.",
+    "timestamp": "2026-02-23 16:17:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      178,
+      154,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a startled expression, leaps and pounces, then sits beside a grand piano. He eagerly grabs a white cloth, pulling it up with excitement, revealing a hidden object beneath. His joyful, curious demeanor suggests he’s uncovering a surprise.",
+    "timestamp": "2026-02-23 16:18:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      178,
+      154,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is startled and panicking as he leaps across a room, eyes wide and mouth agape. He stops near a grand piano, where a white sheet drapes over it. With a mischievous grin, he grabs the sheet, revealing a hidden mouse beneath. Tom’s expression shifts to delight as he peers under the cloth, his claws extended, ready to pounce. The scene captures his playful, predatory nature and sudden shift from fear to excitement.",
+    "timestamp": "2026-02-23 16:18:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      99,
+      15,
+      443,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat smirks with one glowing green eye, then opens both eyes wide, revealing sharp teeth and a mischievous grin, fists clenched in anticipation.",
+    "timestamp": "2026-02-23 16:19:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      99,
+      15,
+      443,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, smirks with one glowing green eye, then bursts into a wide, toothy grin. His claws extend as he joyfully flexes, exuding confidence and mischief against a dark green backdrop. His expression shifts from smug to gleeful delight.",
+    "timestamp": "2026-02-23 16:19:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      99,
+      15,
+      443,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, smirks with one glowing green eye, then erupts into a wide, toothy grin. His claws extend as he flexes, exuding playful mischief. The dark background contrasts his animated, mischievous expression, capturing his classic sly, predatory charm.",
+    "timestamp": "2026-02-23 16:20:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      99,
+      15,
+      443,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and a mischievous grin, sits confidently with hands on hips. His one glowing green eye and wide, toothy smile convey playful arrogance. As the scene progresses, he leaps forward with paws raised, eyes gleaming with excitement and mischief, embodying classic cartoon energy. The dark green backdrop emphasizes his animated, joyful demeanor, capturing his iconic mischievous charm.",
+    "timestamp": "2026-02-23 16:20:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      68,
+      0,
+      399,
+      482
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom perches atop a radiator, tail up, eyes wide with surprise or fear. He turns, mouth agape, as if startled by something unseen, displaying classic cartoon suspense.",
+    "timestamp": "2026-02-23 16:21:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      68,
+      0,
+      399,
+      482
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and tail perches atop a radiator, tail raised. It turns, eyes wide with surprise or fear, mouth agape. Its expression shifts to a grimace, then a look of annoyance or frustration as it stares intently ahead, seemingly reacting to something unseen.",
+    "timestamp": "2026-02-23 16:21:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      68,
+      0,
+      399,
+      482
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and tail stands atop a radiator, tail raised. It turns, eyes wide, mouth agape in surprise or alarm. Its expression shifts to a grimace, conveying frustration or annoyance. The background features green walls and a dark doorway, adding to the scene’s tension.",
+    "timestamp": "2026-02-23 16:22:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      68,
+      0,
+      399,
+      482
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and tail tip, Tom, perches atop a gray pedestal, tail raised. He turns his head, eyes wide and green, mouth agape in surprise or alarm. His ears twitch, whiskers flicker, and he seems startled by something unseen. The background features a green wall and a dark doorway, suggesting an indoor setting. Tom’s expression conveys shock or fear, as if anticipating a sudden event or encountering an unexpected threat.",
+    "timestamp": "2026-02-23 16:22:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      1,
+      506,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, grabs a ghostly figure, screaming in terror. The ghost, in a white robe, walks away, leaving Tom clinging to it, visibly frightened and panicked.",
+    "timestamp": "2026-02-23 16:23:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      1,
+      506,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, grabs a ghostly figure in a white sheet, screaming in terror. The ghost, holding a rolling pin, turns away, revealing its back. Tom’s wide eyes and open mouth convey panic as he struggles to hold on, his claws digging into the ghost’s fabric.",
+    "timestamp": "2026-02-23 16:23:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      1,
+      506,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, grabs a ghostly figure in a white sheet, screaming in terror. The ghost, holding a rolling pin, stumbles backward, revealing its startled expression. Tom’s wide eyes and open mouth convey panic as he clutches the ghost, who appears equally frightened, their antics unfolding in a classic cartoon chase.",
+    "timestamp": "2026-02-23 16:23:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      1,
+      506,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, grips a ghostly figure in a white sheet, screaming with wide eyes and an open mouth. The ghost, holding a rolling pin, stumbles backward as Tom struggles to hold on. The scene is dark, with green walls and a blue floor, emphasizing Tom’s panic and the ghost’s eerie presence. Tom’s frantic expression and the ghost’s startled posture suggest a chaotic, comedic chase. The ghost’s sheet flutters as it retreats, adding to the spooky yet humorous tension.",
+    "timestamp": "2026-02-23 16:23:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      247,
+      194,
+      478,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps, startled, then hides behind a trash can. His wide eyes and open mouth show surprise or fear as he peeks out cautiously in a dimly lit room.",
+    "timestamp": "2026-02-23 16:23:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      247,
+      194,
+      478,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps across a room, eyes wide with surprise. He collides with a radiator, tumbling backward. He pauses, peeking from behind it, eyes gleaming with mischief. The scene ends with him hiding, tail twitching, as if anticipating a playful chase.",
+    "timestamp": "2026-02-23 16:24:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      247,
+      194,
+      478,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps across a room, eyes wide with surprise. He crashes into a radiator, then scurries to hide behind it, peeking out with a mischievous grin. The scene suggests playful antics, with Tom’s exaggerated expressions conveying both panic and delight in his antics.",
+    "timestamp": "2026-02-23 16:24:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      247,
+      194,
+      478,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically across a green room, eyes wide with panic. He crashes into a blue trash can, sending smoke billowing. He scrambles to his feet, then ducks behind the can, peeking out with a mischievous grin. His tail flicks nervously, and his ears twitch as he surveys the room. The scene suggests a playful chase, with Tom’s exaggerated expressions conveying both fear and cunning as he hides from an unseen foe.",
+    "timestamp": "2026-02-23 16:25:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      284,
+      225,
+      511,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat screams in panic, running wildly through a room, dodging objects and a telephone cord, his expression frantic and terrified as he scrambles away.",
+    "timestamp": "2026-02-23 16:25:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      284,
+      225,
+      511,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat screams in panic, running frantically across a room. He trips, grabs a corn cob, and leaps toward a phone, pulling it with a startled expression. His eyes widen, mouth agape, as he flails, showing comedic desperation in his frantic escape.",
+    "timestamp": "2026-02-23 16:25:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      284,
+      225,
+      511,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat screams in panic, running wildly through a dimly lit room. He trips over a staircase, grabs a phone, and is pulled into the air by its cord, his expression one of frantic terror. His frantic movements and exaggerated expressions highlight his comedic chaos and desperation.",
+    "timestamp": "2026-02-23 16:26:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      284,
+      225,
+      511,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, screams in panic as he runs across a dimly lit room. He dodges a falling object, then leaps toward a telephone, grabbing its receiver. His eyes widen in terror as he swings wildly, his body contorting mid-air. The background features a staircase and curtains, adding to the chaotic, cartoonish atmosphere. Tom’s frantic movements and exaggerated expressions convey pure, comedic desperation.",
+    "timestamp": "2026-02-23 16:26:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      96,
+      145,
+      489,
+      364
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps, screams, and flails wildly, chasing a floating object. He crashes into a staircase, then grabs a phone, still yelling, as he's pulled along by its cord.",
+    "timestamp": "2026-02-23 16:27:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      96,
+      145,
+      489,
+      364
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps wildly, screaming in panic. He dodges objects—corn, a telephone—while tumbling down stairs. His frantic, exaggerated movements and wide-eyed expressions convey pure chaos and comedic distress as he narrowly avoids disaster.",
+    "timestamp": "2026-02-23 16:27:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      96,
+      145,
+      489,
+      364
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps and screams in panic, dodging objects—corn, a telephone receiver, and a broom. His eyes widen, mouth agape, as he tumbles through a dimly lit room with a staircase, embodying frantic, cartoonish chaos.",
+    "timestamp": "2026-02-23 16:27:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/references/segment_0014_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E04 - Fraidy Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      96,
+      145,
+      489,
+      364
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps wildly, mouth open in panic. He’s startled by unseen objects—first a red item, then a green one—before grabbing a telephone receiver, dangling mid-air. His eyes widen, ears flail, and he screams comically, embodying chaotic, frantic energy. The dimly lit room with a staircase and curtains adds to the absurdity, highlighting Tom’s comedic, exaggerated reactions to his own antics.",
+    "timestamp": "2026-02-23 16:28:26"
+  }
+]

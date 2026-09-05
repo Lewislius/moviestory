@@ -1,0 +1,1234 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      0,
+      391,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, stretches and pounces, displaying playful energy and surprise. His wide eyes and open mouth suggest excitement or sudden realization as he moves dynamically across the floor.",
+    "timestamp": "2026-02-23 17:13:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      0,
+      391,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the black cat leaps and lands with a startled expression, eyes wide and mouth agape. He’s mid-motion, paws splayed, as if caught off-guard. His fur is sleek, and his white paws contrast sharply against his dark body. The scene captures his sudden, comedic surprise in a classic cartoon style.",
+    "timestamp": "2026-02-23 17:13:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      0,
+      391,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, leaps energetically, eyes wide with excitement. His paws stretch out mid-air, showcasing his playful, mischievous spirit. His expression shifts from joy to surprise as he lands, revealing his classic cartoon charm and dynamic movement against a simple striped backdrop.",
+    "timestamp": "2026-02-23 17:13:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      0,
+      391,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, with green eyes and a mischievous grin, leaps dynamically across a wooden floor. His body stretches mid-air, paws extended, as if chasing something unseen. He lands with a startled expression, eyes wide and mouth agape, conveying surprise or excitement. His tail flicks upward, emphasizing motion. The scene captures his playful, energetic spirit, typical of classic cartoon antics, with exaggerated movements and expressive facial features.",
+    "timestamp": "2026-02-23 17:14:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      13,
+      75,
+      507,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat emerges from a snow pile, smoking a pipe, with a smug expression. Snowflakes swirl around him as he looks satisfied and mischievous, surrounded by scattered items.",
+    "timestamp": "2026-02-23 17:14:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      13,
+      75,
+      507,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, emerges from a pile of flour, smug and satisfied. He smokes a pipe, then sneezes dramatically, sending flour flying. His expression shifts from smug to annoyed as he looks around, clearly amused by the chaos he’s created.",
+    "timestamp": "2026-02-23 17:14:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      13,
+      75,
+      507,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cat emerges from a snow pile, initially shocked, then smirking as it smokes a pipe. Snowflakes scatter around, and the cat’s expression shifts from surprise to satisfaction, embodying a mischievous, triumphant demeanor. The scene is playful, with the cat’s antics dominating the cozy, snowy room.",
+    "timestamp": "2026-02-23 17:14:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      13,
+      75,
+      507,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, emerges from a mound of flour, initially obscured. As flour cascades from above, he pops up with a surprised expression, then smirks. He holds a pipe, puffing smoke as he looks smugly upward. His eyes gleam with mischief, and his tail wags playfully. The flour settles around him, leaving a comical, messy scene. His triumphant grin suggests he’s outsmarted his foe, likely Jerry, in a classic cartoon showdown.",
+    "timestamp": "2026-02-23 17:14:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      2,
+      2,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom's tail blocks Jerry's path; Jerry peeks out, then playfully pushes the tail, smiling triumphantly as he stands proudly beside it.",
+    "timestamp": "2026-02-23 17:15:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      2,
+      2,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A tiny brown mouse peeks from behind a large cat's leg, then boldly steps forward, playfully grabbing the cat's tail. The mouse wiggles and smiles, showing mischief and confidence, as the cat remains still, unaware of the mouse's antics. The scene is lighthearted and full of cartoon charm.",
+    "timestamp": "2026-02-23 17:15:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      2,
+      2,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse peeks from behind a cat’s leg, then boldly steps forward, playfully interacting with the cat’s tail. The mouse winks and smiles, showing mischief. The cat remains still, unaware of the mouse’s antics, creating a classic comedic dynamic.",
+    "timestamp": "2026-02-23 17:15:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      2,
+      2,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A tiny brown mouse peeks from behind a large black cat’s leg, then cautiously approaches, touching the cat’s tail. The mouse smiles mischievously, then hops happily, waving its paws. The cat’s tail sways slightly, but remains still. The mouse’s playful energy and wide-eyed excitement contrast with the cat’s calm demeanor, creating a classic chase-ready scene. The mouse’s antics suggest a mischievous plan, while the cat remains oblivious.",
+    "timestamp": "2026-02-23 17:15:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      13,
+      4,
+      475,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat stretches, then pounces, showing playful energy. Its green eyes gleam with mischief, and it ends with a curious, slightly surprised expression as it stands alert.",
+    "timestamp": "2026-02-23 17:15:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      13,
+      4,
+      475,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, stretches and paws at the floor, then stands upright with wide eyes, appearing startled or curious. His tail sways slightly as he looks around, displaying alertness. The scene captures his playful, inquisitive nature in a classic cartoon style.",
+    "timestamp": "2026-02-23 17:15:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      13,
+      4,
+      475,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat stretches and yawns, then stands on its hind legs, looking alert. It paws at the air, then drops to all fours, appearing playful and curious. Its green eyes gleam with mischief as it stretches, tail flicking, ready for adventure. The scene is set on a striped rug, emphasizing its energetic, animated nature.",
+    "timestamp": "2026-02-23 17:16:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      13,
+      4,
+      475,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, Tom, stretches and paws the floor, eyes wide with playful mischief. He arches his back, then stands on hind legs, tail high, as if ready to pounce. His expression shifts from curious to determined, then to a mischievous grin. The scene captures his energetic, playful nature, with soft shadows beneath him hinting at a cozy, indoor setting. His movements are fluid and exaggerated, typical of classic animation, conveying pure feline enthusiasm.",
+    "timestamp": "2026-02-23 17:16:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      76,
+      3,
+      454,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat grips a bowling ball, eyes wide with determination. He raises his paw, then throws it with force, showing focused aggression as he aims for the pins.",
+    "timestamp": "2026-02-23 17:16:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      76,
+      3,
+      454,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, grips a black bowling ball, eyes wide with determination. He lifts it, then throws it with force, his expression shifting to triumphant. The ball rolls away, leaving him mid-motion, victorious and slightly exhausted.",
+    "timestamp": "2026-02-23 17:16:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      76,
+      3,
+      454,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide green eyes, grips a black bowling ball, then suddenly throws it with force. His expression shifts from focused to startled as he flinches, revealing his playful, mischievous nature. The scene captures his animated, comedic antics in a classic cartoon style.",
+    "timestamp": "2026-02-23 17:16:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      76,
+      3,
+      454,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with wide, determined eyes, grips a black bowling ball, preparing to roll. He leans forward, then suddenly jumps back, startled, as a small brown mouse darts past. Tom’s expression shifts from focused to shocked, his paw raised in alarm. The scene captures his playful yet anxious anticipation, hinting at impending chaos in this classic cartoon showdown.",
+    "timestamp": "2026-02-23 17:16:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      124,
+      79,
+      410,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, startled, jumps and stumbles in a gym. He looks panicked, then triumphant, as he strikes a pose, surrounded by bowling balls and a cooler.",
+    "timestamp": "2026-02-23 17:17:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      124,
+      79,
+      410,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, startled and wide-eyed, leaps and stumbles in a bowling alley. He drops his paw, then stands rigidly, fists clenched, as if caught mid-action. The scene ends with him gone, leaving bowling balls and a cooler behind.",
+    "timestamp": "2026-02-23 17:17:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      124,
+      79,
+      410,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps excitedly, then lands with a surprised expression. He gestures wildly, then abruptly vanishes, leaving behind bowling balls and a thermos. His frantic energy suggests playful chaos, typical of his antics in this classic cartoon scene.",
+    "timestamp": "2026-02-23 17:17:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      124,
+      79,
+      410,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands in a bowling alley, eyes wide with surprise as a small squirrel appears. He leaps, startled, then lands awkwardly, arms flailing. His expression shifts from shock to confusion as he stumbles backward. The background features bowling balls and a green thermos. Tom’s exaggerated movements and wide-eyed reactions emphasize his comedic disarray, capturing his classic mischievous yet clumsy nature.",
+    "timestamp": "2026-02-23 17:17:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      87,
+      124,
+      272,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, frantic and yelling, jumps between chairs, dodging a pot, then leaps onto a table, showing exaggerated panic and urgency in his movements.",
+    "timestamp": "2026-02-23 17:18:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      87,
+      124,
+      272,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, screams in panic while jumping and dodging chairs in a room. He narrowly avoids a golden pot and climbs over furniture, showing frantic, exaggerated expressions. His movements are chaotic, reflecting his desperation or fear in this animated scene.",
+    "timestamp": "2026-02-23 17:18:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      87,
+      124,
+      272,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a black-and-white coat, dramatically yells while hopping around a room with chairs and a podium. He leaps onto a chair, then onto a table, and finally perches atop a stack of chairs, displaying exaggerated excitement and energy throughout his antics.",
+    "timestamp": "2026-02-23 17:18:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      87,
+      124,
+      272,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with green eyes and a black-and-white coat, dramatically screams while gesturing wildly. He leaps over a table, then a row of chairs, showing exaggerated agility. His expression shifts from panic to frustration. A golden pot sits nearby, hinting at a chase or theft. The setting, a dimly lit auditorium with rows of empty seats, adds to the comedic chaos. Tom’s frantic movements and expressive face convey pure comedic desperation.",
+    "timestamp": "2026-02-23 17:18:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      45,
+      153,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lies on floor, then lunges after Jerry the mouse, who scurries away. Tom’s expression shifts from surprise to determination as he chases.",
+    "timestamp": "2026-02-23 17:18:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      45,
+      153,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, lies sprawled on a floor, then springs forward in pursuit. He chases a small brown mouse, Jerry, who scurries away. Tom’s determined expression shows his relentless chase, while Jerry’s panicked escape highlights their classic rivalry.",
+    "timestamp": "2026-02-23 17:18:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      45,
+      153,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, sprawls on the floor, paws outstretched, then lunges after a tiny brown mouse, Jerry. Tom’s eyes widen with determination, claws extended, as Jerry scurries away. The chase is swift, full of classic cartoon energy and comedic tension.",
+    "timestamp": "2026-02-23 17:19:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      45,
+      153,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, lies sprawled on a wooden floor, paws splayed, eyes wide with surprise. He springs up, chasing a tiny brown mouse, Jerry, who scurries away. Tom’s expression shifts from startled to determined as he lunges forward, claws outstretched. The scene captures their classic chase, filled with slapstick humor and the timeless rivalry between the cat and mouse, rendered in classic cartoon style with bold lines and expressive faces.",
+    "timestamp": "2026-02-23 17:19:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      9,
+      506,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, pounces on Jerry, the brown mouse, in a classic chase. Jerry scurries away, while Tom's expression shifts from surprise to determination, showcasing their timeless rivalry.",
+    "timestamp": "2026-02-23 17:19:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      9,
+      506,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, pounces on Jerry, the brown mouse, who’s hiding under a pipe. Tom’s eyes widen in surprise as he grabs Jerry, then leaps back, startled. Jerry’s tiny form is visible, clinging to the pipe as Tom’s frantic movements reveal his playful yet determined pursuit.",
+    "timestamp": "2026-02-23 17:19:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      9,
+      506,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges with a smug expression, then lunges at Jerry, the brown mouse, who scurries away. Tom's playful aggression contrasts with Jerry's frantic escape, capturing their classic chase dynamic in a humorous, animated showdown.",
+    "timestamp": "2026-02-23 17:19:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      9,
+      506,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, black-and-white cat, Tom, lounges with a smug expression, paws resting on a dark column. A tiny brown mouse, Jerry, scurries beneath it, peeking up with a mischievous grin. Tom suddenly leaps, his body mid-air, claws extended, eyes wide with sudden alarm. The scene shifts to a room with furniture, suggesting a chase or playful confrontation. Tom’s exaggerated movements and Jerry’s cunning demeanor highlight their classic rivalry, filled with humor and tension.",
+    "timestamp": "2026-02-23 17:20:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      148,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, large and grumpy, lies defeated as Jerry the mouse taunts him. Tom's anger turns to exhaustion; Jerry's playful smirk contrasts with Tom's defeated posture.",
+    "timestamp": "2026-02-23 17:20:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      148,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, lies exhausted on the floor, while Jerry, the brown mouse, stands triumphantly nearby. Tom’s expression shifts from annoyance to surprise as he rises, then collapses again, showing his classic comedic defeat. Jerry’s cheerful demeanor contrasts with Tom’s frustration.",
+    "timestamp": "2026-02-23 17:20:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      148,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, lies defeated on the floor, while Jerry, the brown mouse, stands triumphantly nearby. Tom’s expression shifts from surprise to annoyance as he attempts to rise, but Jerry remains unbothered, showcasing their classic chase-and-escape dynamic with playful mischief.",
+    "timestamp": "2026-02-23 17:20:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      71,
+      148,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, lies sprawled on the floor, exhausted and grinning triumphantly. Jerry, the small brown mouse, stands nearby, puffing his chest with pride. Tom’s eyes widen in surprise as he rises, then he slumps again, defeated. Jerry’s expression shifts from playful to mischievous as he watches Tom’s antics. Their classic chase dynamic is humorously exaggerated, capturing their timeless rivalry with comedic flair and expressive animation.",
+    "timestamp": "2026-02-23 17:20:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      153,
+      61,
+      353,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, startled and alarmed, leaps backward in a bowling alley, eyes wide, mouth agape, as if reacting to an unseen threat or sudden noise.",
+    "timestamp": "2026-02-23 17:21:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      153,
+      61,
+      353,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands in a bowling alley, surprised or alarmed. He leaps backward, then stops abruptly, eyes wide. The scene ends with him frozen mid-motion, surrounded by bowling balls and a sleek bottle, suggesting sudden realization or fear.",
+    "timestamp": "2026-02-23 17:21:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      153,
+      61,
+      353,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands in a bowling alley, looking surprised. He jumps, then freezes, eyes wide. Bowling balls and a rack are visible. His expression shifts to shock as he stares, then vanishes, leaving only the empty alley and a lone bottle.",
+    "timestamp": "2026-02-23 17:21:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      153,
+      61,
+      353,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and belly, stands in a bowling alley, eyes wide, mouth agape in shock or fear. He stumbles backward, then forward, arms flailing, as if startled or overwhelmed. Behind him, bowling balls and a green bottle sit on shelves. The scene is dimly lit, emphasizing Tom’s frantic motion and startled expression, suggesting he’s reacting to an unseen threat or surprise.",
+    "timestamp": "2026-02-23 17:21:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      233,
+      5,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat watches Jerry the mouse cautiously. Jerry wiggles, then stands tall, smiling. Tom's expression shifts from smug to surprised as he leans closer, eyes wide with sudden realization.",
+    "timestamp": "2026-02-23 17:21:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      233,
+      5,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a mischievous grin, watches Jerry the mouse. Jerry, brown and agile, scurries nervously, then confidently approaches Tom. Tom’s expression shifts from amused to eager as he prepares to pounce, capturing the classic chase dynamic between the two iconic cartoon characters.",
+    "timestamp": "2026-02-23 17:22:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      233,
+      5,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, looming over Jerry the mouse, watches with a mischievous grin. Jerry, small and agile, scurries nervously, then confidently approaches Tom. Tom’s expression shifts from amused to eager as he prepares to pounce, capturing the classic chase dynamic of their animated rivalry.",
+    "timestamp": "2026-02-23 17:22:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      233,
+      5,
+      508,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, looming with a mischievous grin, watches Jerry the mouse nervously. Jerry, small and agile, scurries across the floor, then pauses, looking up with wide eyes. Tom’s expression shifts to anticipation as he leans forward, paws poised. Jerry, ever resourceful, appears ready to flee or strike back. The scene captures their classic dynamic: Tom’s predatory patience and Jerry’s cunning escape artist instincts, set against a backdrop of bowling balls and wooden shelves.",
+    "timestamp": "2026-02-23 17:22:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      53,
+      3,
+      445,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, black and white, screams in panic, then lies sprawled on floor, eyes wide, mouth open, showing defeat or exhaustion after a chase or mishap.",
+    "timestamp": "2026-02-23 17:22:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      53,
+      3,
+      445,
+      457
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, is startled, screaming with wide eyes. He then collapses dramatically, lying on his back with a surprised, almost comical expression. His paws are splayed, and his tail curls upward, capturing his sudden, exaggerated reaction to an unseen event.",
+    "timestamp": "2026-02-23 17:22:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      53,
+      3,
+      445,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black with white paws, screams in panic, limbs flailing. He tumbles backward, landing sprawled on the floor with a startled, wide-eyed expression. His mouth agape, he appears utterly bewildered, as if caught in a chaotic, comedic mishap. The scene captures his frantic, cartoonish reaction to an unseen event.",
+    "timestamp": "2026-02-23 17:22:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      53,
+      3,
+      445,
+      457
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, is caught mid-air, mouth agape in shock or panic, as if startled or falling. He lands dramatically on his back, limbs splayed, eyes wide with surprise. His expression shifts to a smug, satisfied grin as he lies sprawled, suggesting he’s amused by his own mishap. The scene captures his classic comedic downfall, blending slapstick and exaggerated emotion in a timeless cartoon style.",
+    "timestamp": "2026-02-23 17:22:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      3,
+      206,
+      237,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lies on a bowling lane, surrounded by black bowling balls, appearing exhausted or defeated, with no visible expressions or emotions shown.",
+    "timestamp": "2026-02-23 17:23:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      3,
+      206,
+      237,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies sprawled on a bowling alley lane, surrounded by black bowling balls. He appears exhausted or defeated, with a dazed expression. The scene captures his comedic downfall as he’s pinned down, overwhelmed by the balls and the bowling pins in the background.",
+    "timestamp": "2026-02-23 17:23:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      3,
+      206,
+      237,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies sprawled on a bowling lane, surrounded by black bowling balls. His expression is one of exhaustion or defeat. The scene suggests a chaotic, comedic bowling mishap, with Tom appearing overwhelmed by the balls and the game’s absurdity.",
+    "timestamp": "2026-02-23 17:23:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      3,
+      206,
+      237,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, lies sprawled on a bowling alley lane, surrounded by black bowling balls. His paws are splayed, and he appears dazed or exhausted, eyes closed. Behind him, bowling pins stand upright, and numbered lanes (4 and 5) are visible. The scene suggests chaos or comedic failure, as Tom seems to have rolled into a pile of balls, possibly after a misadventure. His expression is one of resignation or surprise, capturing a classic cartoon moment of slapstick humor.",
+    "timestamp": "2026-02-23 17:23:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      226,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat holds a black ball, eyes wide as Jerry the mouse leaps above, then lands on the ball, causing Tom to react with surprise and alarm.",
+    "timestamp": "2026-02-23 17:23:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      226,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat holds a black ball, eyes gleaming with anticipation. Jerry the mouse hangs above, dangling on a string. Tom’s expression shifts from delight to surprise as Jerry drops, then climbs back up, teasing Tom with his antics. Their classic chase begins with playful chaos.",
+    "timestamp": "2026-02-23 17:24:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      226,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly nuzzles a black ball, then gasps as Jerry, the brown mouse, appears above. Jerry floats down, taunting Tom with a mischievous grin. Tom’s expressions shift from delight to shock as Jerry’s antics unfold, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 17:24:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      226,
+      419,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with green eyes, nuzzles a black ball, unaware a tiny brown mouse, Jerry, is dangling above. Tom’s expression shifts from content to surprise as Jerry drops, then floats down, eliciting Tom’s startled scream. Jerry, playful and mischievous, bounces above, teasing Tom’s chase. Tom’s wide-eyed shock and open-mouthed yelp capture his frustration and comedic despair as Jerry taunts him from above, embodying their classic chase-and-escape dynamic.",
+    "timestamp": "2026-02-23 17:24:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      55,
+      0,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat with white paws and belly leaps joyfully, arms raised, in a billiards hall. It lands with a dramatic pose, eyes wide, mouth open, exuding excitement and energy.",
+    "timestamp": "2026-02-23 17:24:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      55,
+      0,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray and white, leaps joyfully with arms raised, eyes gleaming. He dances energetically in a billiards hall, his tail swishing. His expression is ecstatic, mouth open in delight. The scene captures his playful, triumphant spirit as he moves with exaggerated glee, embodying pure cartoon enthusiasm.",
+    "timestamp": "2026-02-23 17:24:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      55,
+      0,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, leaps energetically in a billiards hall, arms raised triumphantly. His expression shifts from joy to shock as he collides with a wall, causing his head to vanish into a black void. The scene captures his frantic, cartoonish antics and sudden comedic mishap.",
+    "timestamp": "2026-02-23 17:24:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      55,
+      0,
+      350,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray and white cat, Tom, energetically leaps and dances in a billiards hall, arms raised, mouth open in excitement. He twists mid-air, then lands with a dramatic pose, eyes wide and ears back, as if celebrating. Behind him, a \"BILLIARDS\" sign hangs, and a vintage phone sits near the bar. His joyful, almost manic expression conveys pure delight, capturing a moment of animated, cartoonish exuberance.",
+    "timestamp": "2026-02-23 17:25:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      2,
+      3,
+      510,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wide-eyed and yawning, lies on wooden floor as Jerry the mouse scurries away, startled, after being caught in his mouth.",
+    "timestamp": "2026-02-23 17:25:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      2,
+      3,
+      510,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cat, with a wide-open mouth, lunges at a mouse. The mouse, startled, scurries away. The cat’s expression shifts from surprise to annoyance. The mouse, panicked, dashes across the wooden floor, narrowly escaping the cat’s grasp. Their chase continues with comedic tension.",
+    "timestamp": "2026-02-23 17:25:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      2,
+      3,
+      510,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cat, with wide eyes and a gaping mouth, lies on its back, seemingly surprised or startled. A small brown mouse stands nearby, looking up with a curious or playful expression. The cat’s tail drapes over them, adding to the comedic, cartoonish scene. The mouse appears to be engaging with the cat in a lighthearted, possibly mischievous interaction.",
+    "timestamp": "2026-02-23 17:25:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      2,
+      3,
+      510,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large black cat, Tom, lies on its back with its mouth wide open, revealing a startled expression. A small brown mouse, Jerry, scurries away from Tom’s gaping mouth, appearing alarmed. Jerry’s eyes widen as he backs away, eventually standing upright and fleeing. Tom’s eyes remain fixed on Jerry, showing both surprise and a hint of frustration. The scene captures their classic chase dynamic, with Jerry’s quick escape contrasting Tom’s comically oversized, gaping mouth.",
+    "timestamp": "2026-02-23 17:25:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      74,
+      0,
+      509,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, grumpy and tired, sits beside bowling balls. He paws at them, then looks annoyed as they roll away, his expression showing frustration and exhaustion.",
+    "timestamp": "2026-02-23 17:26:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      74,
+      0,
+      509,
+      476
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a grumpy expression, sits beside bowling balls, then stands with a determined look, ready to strike. His eyes narrow, claws extended, as he prepares to roll the ball, showcasing his playful yet competitive nature in this classic cartoon scene.",
+    "timestamp": "2026-02-23 17:26:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      74,
+      0,
+      509,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with green eyes and a mischievous grin, crouches near bowling balls, pawing at them. His expression shifts to playful determination as he prepares to roll one, showcasing his classic cunning and playful aggression in this classic cartoon scene.",
+    "timestamp": "2026-02-23 17:26:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      74,
+      0,
+      509,
+      476
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits on a wooden surface, eyes narrowed in determination. He grips a bowling ball, poised to roll it. Behind him, three dark bowling balls rest on the lane. His expression shifts to focused intensity as he prepares to strike, showcasing his cunning and competitive spirit. The scene captures his anticipation and readiness for the impending bowling challenge.",
+    "timestamp": "2026-02-23 17:26:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      26,
+      5,
+      281,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a bowling ball, then tosses it upward, catching Jerry mid-air. Jerry leaps, startled, as Tom smiles triumphantly, eyes gleaming with mischief and satisfaction.",
+    "timestamp": "2026-02-23 17:26:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      26,
+      5,
+      281,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, triumphantly holds a bowling ball, eyes gleaming with pride. Jerry, the brown mouse, perches atop Tom’s fist, then leaps away. Tom’s expression shifts from smug to startled as Jerry vanishes, leaving Tom alone with the ball, momentarily stunned.",
+    "timestamp": "2026-02-23 17:26:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      26,
+      5,
+      281,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, triumphantly holds a bowling ball aloft, eyes gleaming with mischief. Jerry, the brown mouse, perches atop his paw, then leaps away in panic. Tom’s grin widens as he revels in his victory, embodying playful dominance over his tiny, fleeing adversary.",
+    "timestamp": "2026-02-23 17:26:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      26,
+      5,
+      281,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, triumphantly holds a bowling ball aloft, his eyes gleaming with glee. Jerry, the small brown mouse, perches atop the ball, looking mischievous. As Tom lifts the ball, Jerry leaps away, scurrying across the room. Tom’s expression shifts to surprise, then delight, as he watches Jerry’s escape. The scene captures their classic chase, filled with playful chaos and cartoonish energy, set against a muted, domestic backdrop.",
+    "timestamp": "2026-02-23 17:26:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      12,
+      5,
+      432,
+      269
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large white cat grabs a small brown mouse, who struggles and screams. The cat lifts the mouse into the air, then drops it, leaving the mouse to tumble away in surprise.",
+    "timestamp": "2026-02-23 17:27:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      12,
+      5,
+      432,
+      269
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, fluffy white cat grabs a small brown mouse, who screams in terror. The cat lifts the mouse high, then drops it, causing the mouse to tumble away. The mouse lands, startled, and flees into the distance, leaving the cat behind. The scene ends with the mouse's frantic escape.",
+    "timestamp": "2026-02-23 17:27:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      12,
+      5,
+      432,
+      269
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, white, fluffy cat grabs a small brown mouse, who screams in terror. The cat lifts the mouse high, then drops it, causing the mouse to tumble away in surprise. The cat’s expression is menacing, while the mouse’s is one of panic and fear.",
+    "timestamp": "2026-02-23 17:27:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      12,
+      5,
+      432,
+      269
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, fluffy white cat with a black patch on its back grabs a small brown mouse by the tail. The mouse, with wide eyes and a panicked expression, struggles, its mouth open in terror. The cat, seemingly unaware of the mouse’s distress, lifts it high into the air. The mouse flails, then falls away, leaving the cat alone, its expression neutral as the scene fades to a plain gray background.",
+    "timestamp": "2026-02-23 17:27:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      41,
+      118,
+      431,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, lies on his back, then rolls over, startled. A small brown mouse, Jerry, scurries away, evading the cat’s pursuit. Tom’s expression shifts from relaxed to surprised.",
+    "timestamp": "2026-02-23 17:28:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      41,
+      118,
+      431,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, lies on his back, paws up, then rolls over, eyes wide with surprise. A small brown mouse, Jerry, scurries away. Tom’s expression shifts from startled to amused, capturing classic cartoon antics and their mischievous, comedic dynamic.",
+    "timestamp": "2026-02-23 17:28:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      41,
+      118,
+      431,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, lies on his back, paws up, appearing relaxed. Suddenly, he flips over, startled, as a small brown mouse, Jerry, scurries away. Tom’s expression shifts from calm to surprise, capturing the classic chase dynamic with comedic timing and classic cartoon energy.",
+    "timestamp": "2026-02-23 17:28:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      41,
+      118,
+      431,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, lies on his back, paws up, seemingly exhausted or defeated. He then rolls over, revealing a mischievous grin as he stretches. A small brown mouse, Jerry, scurries away in panic, tail flicking, while Tom watches with playful intensity. The scene captures their classic chase dynamic, with Tom’s smug satisfaction contrasting Jerry’s frantic escape, all set against a simple wooden floor backdrop.",
+    "timestamp": "2026-02-23 17:28:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      61,
+      110,
+      508,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in a bowling alley, energetically throws a ball, then dramatically falls backward, showing exaggerated surprise and delight as he lands on the floor.",
+    "timestamp": "2026-02-23 17:28:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      61,
+      110,
+      508,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, energetically bowls with a black ball, his expression focused and determined. He stumbles and falls dramatically, arms flailing, as he tries to maintain balance. The scene captures his comedic, exaggerated movements in a bowling alley filled with black balls and red pins.",
+    "timestamp": "2026-02-23 17:28:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      61,
+      110,
+      508,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully bowls in a lane, arms raised in triumph. He rolls a black ball, then leaps joyfully, arms wide, as the ball rolls past. His eyes gleam with excitement, tail flicks, and he’s clearly delighted by his bowling success, surrounded by balls and pins.",
+    "timestamp": "2026-02-23 17:28:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E07 - The Bowling Alley-Cat (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      61,
+      110,
+      508,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, gleefully bowls in a lane, clutching a black ball. He strikes a dynamic pose, arms outstretched, eyes gleaming with mischief. As he rolls, his body twists mid-air, showcasing playful chaos. Behind him, bowling balls line shelves, and a red ring hangs nearby. His joyful expression and exaggerated movements highlight his comedic, mischievous spirit as he navigates the lane with cartoonish energy.",
+    "timestamp": "2026-02-23 17:28:53"
+  }
+]

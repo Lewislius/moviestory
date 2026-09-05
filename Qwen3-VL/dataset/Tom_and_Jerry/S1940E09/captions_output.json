@@ -1,0 +1,1626 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      206,
+      35,
+      506,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, swings an axe at a small brown mouse on a wooden platform, showing determination and focus, while the mouse lies motionless below.",
+    "timestamp": "2026-02-23 17:35:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      206,
+      35,
+      506,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, grips an axe, standing atop a log. He swings it down, aiming at a small brown mouse lying beneath. Tom's eyes gleam with determination, his expression focused and slightly smug, as he prepares to strike. The scene is set against a wooden fence and green leaves overhead.",
+    "timestamp": "2026-02-23 17:35:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      206,
+      35,
+      506,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, stands atop a log, wielding an axe with determination. His green eyes gleam with focus as he prepares to strike. Below, Jerry, the mouse, lies motionless, seemingly defeated. Tom’s expression shifts from intent to smug satisfaction as he raises the axe, ready for his next move.",
+    "timestamp": "2026-02-23 17:35:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      206,
+      35,
+      506,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, stands on a log, wielding an axe with fierce determination. His green eyes gleam with mischief as he prepares to strike. Below him, Jerry, the small brown mouse, lies motionless, seemingly defeated. Tom’s expression shifts from focused to triumphant as he raises the axe, ready to deliver the final blow. The wooden fence and leafy branches frame the scene, emphasizing the classic cartoon tension between predator and prey.",
+    "timestamp": "2026-02-23 17:35:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      56,
+      36,
+      508,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, holds a horn, while a tiny red devil cat with a trident perches on his shoulder, growling and moving animatedly. Tom looks amused, then stern.",
+    "timestamp": "2026-02-23 17:36:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      56,
+      36,
+      508,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a horn, smiling. A tiny red devil cat with a trident appears on his shoulder, initially playful, then growling. Tom’s expression shifts from amused to annoyed as the devil cat’s antics escalate. The scene is humorous and chaotic, showcasing their classic rivalry.",
+    "timestamp": "2026-02-23 17:36:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      56,
+      36,
+      508,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a trumpet, smiling confidently. A tiny red devilish cat with horns and a trident appears on his arm, initially playful then growling. Tom’s expression shifts from amused to annoyed as the devil cat’s antics escalate, culminating in a sudden, angry glare.",
+    "timestamp": "2026-02-23 17:36:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      56,
+      36,
+      508,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, holds a golden horn, smiling mischievously. A small red devil cat, with horns and a trident, appears on Tom’s arm, initially playful then growing angry. Tom’s expression shifts from smug to annoyed as the devil cat’s antics escalate. The scene is cartoonish, with exaggerated expressions and bold colors, capturing a classic comedic rivalry between the two feline characters.",
+    "timestamp": "2026-02-23 17:36:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      19,
+      22,
+      488,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry share a playful moment, with Tom holding an axe and Jerry holding a nut. They laugh, then Tom drops the axe, both smiling as they enjoy their silly antics.",
+    "timestamp": "2026-02-23 17:37:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      19,
+      22,
+      488,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry share a tree stump, Tom holding an axe, Jerry clutching a nut. Tom smiles, then laughs as Jerry playfully pokes the nut. Jerry winks, then Tom raises the axe, both characters displaying mischievous joy in their classic cartoon antics.",
+    "timestamp": "2026-02-23 17:37:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      19,
+      22,
+      488,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry share a playful moment atop a tree stump. Tom, holding an axe, smiles mischievously as Jerry, with red hair, holds a small object. Their expressions shift from joy to surprise, culminating in Tom’s sudden, exaggerated reaction as Jerry playfully teases him.",
+    "timestamp": "2026-02-23 17:37:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      19,
+      22,
+      488,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom and Jerry share a playful moment atop a tree stump. Tom, holding an axe, smiles mischievously as he teases Jerry, who eagerly holds a tiny mouse. Jerry, with red hair and a mischievous grin, playfully pretends to be startled, then laughs. Tom leans in, pretending to kiss Jerry’s cheek, while Jerry wiggles in delight. Their antics unfold with classic cartoon charm, blending humor and affection in a sunny backyard setting.",
+    "timestamp": "2026-02-23 17:37:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      109,
+      267,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry playfully wrestle over a nut. Tom holds an axe, Jerry grins mischievously. Their antics unfold with exaggerated expressions, showcasing classic cartoon humor and rivalry.",
+    "timestamp": "2026-02-23 17:37:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      109,
+      267,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry playfully wrestle over a tiny squirrel, both grinning mischievously. Tom holds an axe, while Jerry clutches the squirrel. Their antics unfold on a tree stump, with Tom eventually triumphantly lifting the axe, Jerry still clutching the squirrel with a cheeky grin.",
+    "timestamp": "2026-02-23 17:37:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      109,
+      267,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with red hair holds a small nut, smiling as a gray cat with a blue axe approaches. They share the nut, laughing together. The gray cat then grabs the axe, standing proudly beside the brown cat, both enjoying their playful moment by a tree stump.",
+    "timestamp": "2026-02-23 17:38:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0002_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      0,
+      109,
+      267,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cat with red hair and white paws holds a tiny mouse, smiling as a gray cat with white paws and a blue axe approaches. The gray cat, Tom, grins mischievously, then playfully grabs the mouse, causing the brown cat to laugh. Tom lifts the axe, ready to strike, but the brown cat dodges, both characters displaying playful, mischievous energy in their animated antics near a tree stump.",
+    "timestamp": "2026-02-23 17:38:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      2,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat, holds a horn, smirking as a tiny red devil with a trident appears on his arm, causing sparks and flames. Tom looks amused, eyes wide.",
+    "timestamp": "2026-02-23 17:38:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      2,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds a trumpet, smirking. A tiny red devil with a trident appears on his arm, initially glowing, then smiling mischievously. Tom’s eyes widen slightly, showing surprise or amusement as the devil winks. The scene is playful and cartoonish.",
+    "timestamp": "2026-02-23 17:38:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      2,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a horn, smirking as a tiny red devil with a trident appears on his arm. The devil winks, then vanishes, leaving Tom with a surprised, wide-eyed expression. His playful demeanor contrasts with the devil’s mischievous antics, creating a humorous, animated scene.",
+    "timestamp": "2026-02-23 17:38:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      82,
+      2,
+      496,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a trumpet, smirking with closed eyes. Suddenly, a small red devil with horns and a trident appears on his arm, bouncing energetically. Tom’s eyes widen in surprise as the devil wiggles, then smiles mischievously. The devil’s antics spark a burst of glitter, adding a whimsical, chaotic energy to the scene, highlighting their playful, cartoonish dynamic.",
+    "timestamp": "2026-02-23 17:38:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      65,
+      32,
+      456,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large, red-haired cat holds a small brown mouse on its shoulder. The mouse playfully sticks out its tongue, while the cat smiles mischievously.",
+    "timestamp": "2026-02-23 17:39:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      65,
+      32,
+      456,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, red-haired cat smiles while holding a small brown mouse on its shoulder. The mouse playfully sticks out its tongue and moves around, appearing mischievous. The cat’s expression remains amused and content, enjoying the mouse’s antics in a classic cartoon style.",
+    "timestamp": "2026-02-23 17:39:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      65,
+      32,
+      456,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, red-furred cat with a white muzzle holds a tiny brown mouse on its shoulder. The cat smiles broadly, eyes wide, while the mouse playfully wiggles, sticks out its tongue, and laughs. Their expressions convey joy and mischief in this classic cartoon scene.",
+    "timestamp": "2026-02-23 17:39:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      65,
+      32,
+      456,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, red-furred cat with a white muzzle and black nose holds a small brown mouse on its shoulder. The cat smiles broadly, eyes wide, as the mouse playfully wiggles and sticks out its tongue, giggling. The cat’s expression shifts from amused to slightly surprised as the mouse continues its antics. Their interaction is lighthearted and comedic, set against a plain beige background, capturing a classic cartoon dynamic of mischievous charm and slapstick humor.",
+    "timestamp": "2026-02-23 17:39:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      32,
+      8,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a fishing rod with a determined expression. Jerry, the mouse, peeks from a window ledge, watching Tom with curiosity. The scene captures their classic chase dynamic.",
+    "timestamp": "2026-02-23 17:40:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      32,
+      8,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a fishing rod with a determined expression. He looks up as Jerry, the brown mouse, scurries across a windowsill, peeking out. The scene captures Tom's focused intent and Jerry's cautious, curious movement, hinting at an impending chase or confrontation.",
+    "timestamp": "2026-02-23 17:40:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      32,
+      8,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, grips a fishing rod with a mischievous grin, eyes narrowed in anticipation. Suddenly, Jerry, the brown mouse, scurries across a windowsill, peeking out as if plotting his next move. The scene captures their classic chase, filled with tension and playful rivalry.",
+    "timestamp": "2026-02-23 17:40:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      32,
+      8,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, grips a fishing rod with a determined expression, eyes narrowed in focus. He’s indoors, near a window with pink curtains, seemingly baiting or reeling in something. Suddenly, the scene cuts to Jerry, the brown mouse, peeking from behind the window sill, watching Tom with a mischievous, alert gaze. The setting suggests a classic chase, with Tom’s intensity contrasting Jerry’s cunning anticipation.",
+    "timestamp": "2026-02-23 17:40:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      90,
+      90,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds Jerry, who squirms and yells. Tom smiles, amused, as Jerry struggles, showing their classic chase dynamic with playful tension and mischievous energy.",
+    "timestamp": "2026-02-23 17:40:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      90,
+      90,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the brown mouse, in his paws. Jerry looks terrified, but Tom smiles smugly. As Tom turns, Jerry wiggles and sticks out his tongue, still clinging to Tom’s chest, displaying their classic chase-and-capture dynamic.",
+    "timestamp": "2026-02-23 17:40:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      90,
+      90,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the brown mouse, in his mouth with a mischievous grin. Jerry squirms, his eyes wide with fear, then suddenly laughs as Tom’s expression shifts to delight. Their classic rivalry turns into a playful moment, capturing their timeless dynamic with exaggerated cartoon expressions.",
+    "timestamp": "2026-02-23 17:40:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      90,
+      90,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the brown mouse, in his paws with a mischievous grin. Jerry, initially terrified, squirms and yelps, his eyes wide and tongue out. Tom’s expression shifts from surprise to delight as he chuckles, clearly enjoying his catch. The scene captures their classic dynamic—Tom’s predatory amusement and Jerry’s frantic escape attempts, all set against a simple, beige backdrop. Their exaggerated expressions highlight the cartoon’s comedic essence.",
+    "timestamp": "2026-02-23 17:40:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      173,
+      49,
+      393,
+      392
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, joyfully chases Jerry, the mouse, outside a house, then proudly holds a pie while sitting beside a window, smiling with satisfaction.",
+    "timestamp": "2026-02-23 17:41:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      173,
+      49,
+      393,
+      392
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a pie, joyfully chases Jerry the mouse. Tom leaps, catches Jerry, and proudly displays the pie while grinning. Jerry, small and brown, clings to Tom’s paw. Their playful antics unfold against a wooden house backdrop, capturing classic cartoon mischief and charm.",
+    "timestamp": "2026-02-23 17:41:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      173,
+      49,
+      393,
+      392
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, holding a pie, joyfully chases Jerry the mouse. Jerry, in a tiny hat, escapes, causing Tom to tumble backward. Tom, delighted, catches the pie, then sits proudly beside it, eyes gleaming with satisfaction as he holds Jerry in his paw.",
+    "timestamp": "2026-02-23 17:41:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      173,
+      49,
+      393,
+      392
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully chases Jerry, the brown mouse, outside a wooden house. Tom leaps joyfully, then crashes into a wall, clutching a pie. He sits, smiling triumphantly, holding the pie aloft while cradling Jerry in his paw. His eyes gleam with mischief and satisfaction. Jerry, small and unimpressed, remains nestled in Tom’s paw, seemingly resigned to his fate. The scene radiates classic cartoon charm and playful rivalry.",
+    "timestamp": "2026-02-23 17:41:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      107,
+      26,
+      445,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large, red-haired cat joyfully holds a small mouse in its paws, both laughing with wide eyes and open mouths, showcasing their playful, exaggerated expressions.",
+    "timestamp": "2026-02-23 17:42:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      107,
+      26,
+      445,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red-haired cat holds a terrified mouse in its paws, both screaming in exaggerated horror. The cat’s mouth is wide open, eyes wide with shock, while the mouse clutches its belly, visibly frightened. Their expressions convey panic and comedic distress in a classic cartoon style.",
+    "timestamp": "2026-02-23 17:42:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      107,
+      26,
+      445,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with red hair holds a mouse in a bun, both laughing joyfully. The cat’s wide eyes and open mouth show delight, while the mouse, peeking out, shares the amusement. Their expressions convey playful mischief, capturing a classic cartoon moment of lighthearted chaos and camaraderie.",
+    "timestamp": "2026-02-23 17:42:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      107,
+      26,
+      445,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown, red-haired cat with a white muzzle and paws holds a small, terrified mouse in a hot dog bun. The cat's eyes widen in delight as he laughs, mouth open, while the mouse screams, eyes bulging. The cat’s expression shifts from gleeful to slightly surprised, as if caught off guard by the mouse’s frantic reaction. The scene captures comedic chaos, with the cat’s joy contrasting the mouse’s terror.",
+    "timestamp": "2026-02-23 17:42:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      1,
+      440,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large, red-haired cat gleefully holds a tiny mouse, smiling broadly. The cat’s joyful expression contrasts with the mouse’s small size, creating a humorous scene.",
+    "timestamp": "2026-02-23 17:42:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      1,
+      440,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red-haired cat, joyful and triumphant, holds a tiny mouse in one paw, smiling broadly. His other paw gestures excitedly. The scene suggests victory or amusement, with the mouse appearing small and perhaps helpless in the cat's grasp. The cat’s expression radiates glee and satisfaction.",
+    "timestamp": "2026-02-23 17:42:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      1,
+      440,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red-furred cat, with white paws and a wide grin, holds a tiny mouse in one paw, joyfully displaying it. His eyes gleam with delight, mouth open in a triumphant smile. He gestures animatedly, exuding pride and amusement, as if celebrating his catch against a simple wooden backdrop.",
+    "timestamp": "2026-02-23 17:42:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      1,
+      440,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A red-haired cartoon cat, with a wide, joyful grin, holds a tiny mouse in one paw, exuding triumph. His other paw gestures animatedly as he leans forward, eyes sparkling with delight. The mouse, tiny and brown, looks up at him with a mix of fear and curiosity. Behind them, a trash can and wooden wall frame the scene. The cat’s expression radiates glee, suggesting a successful capture or playful conquest.",
+    "timestamp": "2026-02-23 17:42:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      120,
+      306,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A brown cat with red hair holds a potted flower, then dances joyfully, flexing muscles and smiling, showing playful energy and delight in its garden adventure.",
+    "timestamp": "2026-02-23 17:43:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      120,
+      306,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with a red tuft on its head sits, holding a potted rose. It looks surprised, then stands, flexing its muscles. It smiles triumphantly, holding the pot aloft, as if proudly displaying its prize. Its expression shifts from contemplative to confident and cheerful.",
+    "timestamp": "2026-02-23 17:43:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      120,
+      306,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with a red tuft of hair and white paws sits on grass, holding a potted rose. It looks thoughtful, then stands, flexing its muscles proudly. The cat smiles, showing enthusiasm as it proudly displays the flower, seemingly pleased with its gardening effort.",
+    "timestamp": "2026-02-23 17:43:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      120,
+      306,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cartoon cat with a red mohawk and white paws sits on grass, holding a potted rose. He looks thoughtful, then suddenly leaps up, flexing his muscles with a grin. He proudly displays the flower, then lowers it, eyes widening in delight. His tail twitches, and he seems cheerful, proud of his gardening effort. The background features a beige house wall and a wooden shelf. The scene is playful and lighthearted, capturing the cat’s joyful, exaggerated movements.",
+    "timestamp": "2026-02-23 17:43:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      16,
+      247,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Brown cat with red hair holds a small mouse, surprised. Gray cat joins, shocked. Mouse jumps away, both cats react with wide eyes and open mouths, displaying alarm or amusement.",
+    "timestamp": "2026-02-23 17:44:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      16,
+      247,
+      503
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with a red cap holds a tiny mouse, looking surprised. A gray cat joins, startled. The brown cat seems amused, while the gray cat appears shocked. The mouse runs away, causing the brown cat to react with alarm as the gray cat watches, wide-eyed.",
+    "timestamp": "2026-02-23 17:44:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      16,
+      247,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with white paws holds a tiny mouse, looking surprised. A gray cat with green eyes appears, startled. The brown cat gestures, then the gray cat looks alarmed. The mouse jumps away, causing the brown cat to react with shock. Their expressions shift between surprise and concern.",
+    "timestamp": "2026-02-23 17:44:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      16,
+      247,
+      503
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cat with white paws and a red tuft of hair sits, holding a small mouse. The mouse hops away, then returns, causing the cat to react with surprise. Suddenly, a gray cat with green eyes appears, looking shocked. Both cats sit facing each other, their expressions shifting from surprise to curiosity, as if engaged in a silent, tense standoff under a wooden fence. The scene is playful yet tense, capturing classic cartoon dynamics.",
+    "timestamp": "2026-02-23 17:44:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, with fierce expression, grips an axe, swinging it at a tree branch above a wooden fence, showing determination and aggression in a classic cartoon style.",
+    "timestamp": "2026-02-23 17:44:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, with a determined expression, grips an axe above a wooden fence, ready to strike. His fur bristles with tension as he prepares to chop down a tree branch, showcasing his fierce resolve and focused intensity in this classic cartoon scene.",
+    "timestamp": "2026-02-23 17:44:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, with a fierce expression, grips an axe above a wooden fence, seemingly preparing to strike. His eyes narrow, teeth gritted, as he leans back, muscles tensed. The scene suggests imminent aggression, capturing a moment of tension before action. Leaves flutter above, hinting at a garden setting.",
+    "timestamp": "2026-02-23 17:44:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      1,
+      0,
+      505,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, with a fierce expression, grips an axe tightly, swinging it with determination. His eyes narrow, teeth gritted, as he leans against a wooden fence, ready to strike. Above, green leaves sway gently, contrasting his intense focus. The scene captures his aggression and resolve, suggesting he’s about to confront an unseen foe or defend his territory with raw, cartoonish energy.",
+    "timestamp": "2026-02-23 17:44:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      74,
+      194,
+      364,
+      389
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Two cats, one gray, one brown, engage in playful antics. The gray cat hides behind a curtain, while the brown cat dramatically flops and strikes poses, both displaying mischievous expressions.",
+    "timestamp": "2026-02-23 17:45:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      74,
+      194,
+      364,
+      389
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat flips over a wooden fence, then sits, covering ears. A brown cat enters, growling. They face off, then the brown cat collapses dramatically, tail up, while the black cat smirks, amused.",
+    "timestamp": "2026-02-23 17:45:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      74,
+      194,
+      364,
+      389
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat flips over a wooden fence, then sits, covering ears as a brown cat enters, growling. The black cat smirks, then pounces, knocking the brown cat backward. Both cats display exaggerated expressions, with the black cat laughing as the brown cat lies flat, tail up.",
+    "timestamp": "2026-02-23 17:45:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      74,
+      194,
+      364,
+      389
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, flips over a wooden fence, landing on his back. He stands up, smirking, as a brown cat, Jerry, enters, growling. They face off, paws flexed, eyes locked. Tom feigns surprise, then laughs, covering his ears as Jerry lunges, sprawling dramatically. Tom watches, amused, as Jerry flops flat on the ground, tail twitching. Their playful rivalry is clear, filled with exaggerated expressions and comedic motion.",
+    "timestamp": "2026-02-23 17:45:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      118,
+      22,
+      438,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, joyfully leaps into a trash can, then emerges with legs sticking out. A brown cat, likely Jerry, laughs triumphantly nearby, holding a small object.",
+    "timestamp": "2026-02-23 17:46:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      118,
+      22,
+      438,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, joyfully leaps into a trash can, while Jerry, a small brown mouse, watches from above. Tom’s legs stick out comically. Later, a red-haired cat appears, laughing as he holds Jerry, who’s now inside the can. Both characters display exaggerated expressions of delight and mischief.",
+    "timestamp": "2026-02-23 17:46:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      118,
+      22,
+      438,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, grinning, leaps into a trash can, leaving only his paws visible. A brown cat, with red hair, appears, delightedly grabbing a small mouse. Both cats exhibit playful, mischievous energy, embodying classic cartoon antics and comedic timing.",
+    "timestamp": "2026-02-23 17:46:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      118,
+      22,
+      438,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully leaps into a trash can, his paws flailing as he disappears. A small brown mouse, clinging to his back, giggles. Tom’s legs poke out, revealing a triumphant grin. Suddenly, a red-haired cat, likely a rival, bursts in, arms wide, then laughs as he grabs the mouse, delighted. The scene ends with Tom’s feet in the can, the mouse in his paws, and the red cat’s victorious smirk.",
+    "timestamp": "2026-02-23 17:46:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      5,
+      0,
+      507,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a large knife above Jerry, the mouse, who sits on a tree stump, looking terrified and reaching up as Tom prepares to strike.",
+    "timestamp": "2026-02-23 17:46:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      5,
+      0,
+      507,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse sits on a tree stump, gripping a large blue axe blade. A larger, menacing cat with white gloves looms nearby, watching with a mischievous grin. The mouse looks terrified, then defiantly raises its paws as if to defend itself against the looming threat.",
+    "timestamp": "2026-02-23 17:46:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      5,
+      0,
+      507,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon mouse, Tom, sits on a tree stump, terrified as a giant blue axe looms above. A large, menacing cat, Jerry, watches with a sinister grin. Tom jumps, flailing, as the axe hovers, ready to strike. Jerry’s expression is one of pure malice.",
+    "timestamp": "2026-02-23 17:47:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      5,
+      0,
+      507,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A mischievous mouse, Tom, sits atop a tree stump, bracing against a giant blue axe held by a looming, grinning cat. The cat, with dark fur and sharp eyes, looms over Tom, who appears terrified yet determined. Tom’s ears perk up as he grips the axe’s blade, trying to fend off the looming threat. The scene is tense, filled with suspense and humor as Tom’s tiny form contrasts with the massive axe and the cat’s imposing presence.",
+    "timestamp": "2026-02-23 17:47:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      5,
+      204,
+      469,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A small brown mouse peeks from a bucket, then leaps onto a long, striped tail, playfully jumping and waving, while a gray cat lies nearby.",
+    "timestamp": "2026-02-23 17:47:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      5,
+      204,
+      469,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse peeks from a metal bucket, then leaps out, landing on a long, striped snake. The mouse appears startled, then excited, as it climbs atop the snake’s body, waving its paws in delight. The snake remains still, coiled and unbothered.",
+    "timestamp": "2026-02-23 17:47:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      5,
+      204,
+      469,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse peeks from a metal bucket, then leaps out, excitedly dancing on a long, striped tail. The tail belongs to a larger, dark-furred creature, possibly a cat, lying on the ground. The mouse’s joyful expressions and energetic movements suggest playful mischief and delight.",
+    "timestamp": "2026-02-23 17:47:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      5,
+      204,
+      469,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A small, determined squirrel peeks from a metal bucket, then leaps out, landing atop a long, coiled snake-like creature. The creature, with a striped body and wide eyes, appears startled. The squirrel, agile and cheerful, playfully grabs its tail and dances atop it, displaying joy and mischief. The scene unfolds in a rustic, sunlit setting with wooden planks and sparse grass, capturing a classic cartoon’s playful, mischievous energy.",
+    "timestamp": "2026-02-23 17:47:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      55,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a brown cat, holds a hot dog with a mouse on it, then bites into it. The mouse screams as Tom eats, showing his greedy hunger.",
+    "timestamp": "2026-02-23 17:48:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      55,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a brown cat with red hair, holds a hot dog, its tiny mouse companion screaming atop it. Tom's expression shifts from surprise to delight as he brings the hot dog to his mouth, savoring the treat with evident joy and satisfaction.",
+    "timestamp": "2026-02-23 17:48:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      55,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with red hair, wearing a red cap, holds a hot dog with a tiny mouse on top. The cat looks surprised, then smiles as the mouse squeaks. The cat brings the hot dog to his mouth, enjoying it, while the mouse remains atop the bun.",
+    "timestamp": "2026-02-23 17:48:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      0,
+      55,
+      507,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the brown cat with a red tuft, leans over a trash can, holding a hot dog with a tiny mouse on top. The mouse, wide-eyed and screaming, clings to the hot dog. Tom’s expression shifts from surprise to delight as he brings the hot dog to his mouth, eyes closing in anticipation. The scene captures a classic cartoon moment of mischievousness and comedic absurdity, with exaggerated expressions and slapstick humor.",
+    "timestamp": "2026-02-23 17:48:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      5,
+      67,
+      361,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A brown cat with red hair grips a trash can, looking startled as a tiny mouse runs away. The cat's expression shifts from surprise to concern.",
+    "timestamp": "2026-02-23 17:49:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      5,
+      67,
+      361,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with red hair, gripping a trash can, looks startled as a tiny mouse approaches. The mouse, agile and bold, leaps away, leaving the cat bewildered and slightly defeated, its expression shifting from surprise to dismay.",
+    "timestamp": "2026-02-23 17:49:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      5,
+      67,
+      361,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with red hair and white paws grips a trash can, looking startled. A small brown mouse scurries away, then leaps into the air, startling the cat. The cat’s eyes widen in shock as the mouse vanishes, leaving the cat bewildered and frozen in place.",
+    "timestamp": "2026-02-23 17:49:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      5,
+      67,
+      361,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cat with red hair and white paws clings to a trash can, visibly frustrated. A tiny brown mouse, standing on its hind legs, approaches with a mischievous grin. The cat, eyes wide and mouth agape, watches the mouse with annoyance. The mouse then leaps away, leaving the cat bewildered and defeated, as if the mouse has just outsmarted him. The scene captures classic cartoon chaos and the cat’s comically futile efforts.",
+    "timestamp": "2026-02-23 17:49:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      113,
+      109,
+      505,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, gleefully holds a hot dog with Jerry, the mouse, inside. Tom's expression shifts from joy to shock as Jerry struggles, revealing his mischievous nature.",
+    "timestamp": "2026-02-23 17:49:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      113,
+      109,
+      505,
+      502
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the brown cat, gleefully holds a hot dog with a tiny mouse inside. He smiles triumphantly, then his expression shifts to surprise as the mouse escapes. Tom’s eyes widen, and he looks down, startled by the sudden disappearance of his prey.",
+    "timestamp": "2026-02-23 17:49:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      113,
+      109,
+      505,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the brown cat, gleefully holds a hot dog with Jerry, the mouse, perched atop it. Tom’s expression shifts from joy to shock as Jerry’s tiny claws grip the hot dog. The scene captures their classic chase, with Tom’s delight turning to surprise as Jerry’s antics unfold.",
+    "timestamp": "2026-02-23 17:49:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      113,
+      109,
+      505,
+      502
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat gleefully holds a hot dog, smiling triumphantly as he lifts it. A small mouse, Jerry, is trapped inside the bun, looking panicked and distressed. Tom’s expression shifts from joy to surprise as he notices Jerry’s frantic movements. The scene captures Tom’s playful dominance and Jerry’s futile struggle, classic cartoon dynamics set against a simple, wooden backdrop. The humor lies in Tom’s oblivious glee and Jerry’s desperate escape attempt.",
+    "timestamp": "2026-02-23 17:50:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      109,
+      103,
+      511,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with white paws stretches, then pounces on a small brown mouse. The mouse scurries away as the cat leaps after it, displaying playful aggression.",
+    "timestamp": "2026-02-23 17:50:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      109,
+      103,
+      511,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and tail pounces, chasing a small brown mouse. The cat leaps, then lands with a dramatic stretch, tail high. The mouse scurries away, leaving the cat momentarily stunned, then resuming its pursuit with renewed vigor. Classic cartoon chase, full of exaggerated motion and playful energy.",
+    "timestamp": "2026-02-23 17:50:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      109,
+      103,
+      511,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat stretches, then pounces on a small brown mouse darting across a stone patio. The cat’s expression is focused, eyes narrowed in pursuit. The mouse scurries away, leaving the cat momentarily stunned before it leaps after it, tail twitching with anticipation.",
+    "timestamp": "2026-02-23 17:50:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      109,
+      103,
+      511,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat with a white-tipped tail and paws emerges from behind a wooden curtain, eyes wide with surprise. It lunges forward, chasing a small brown mouse who scurries away. The cat’s expression shifts from focused to startled as it trips over its own paws, falling backward in a comical tumble. The scene captures the classic chase, filled with slapstick humor and exaggerated movements, highlighting the cat’s playful yet clumsy nature.",
+    "timestamp": "2026-02-23 17:50:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      78,
+      180,
+      442,
+      429
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A small brown mouse scurries past a curtain. A black cat with white paws leaps, then falls backward, tail twitching, showing surprise or playful mischief.",
+    "timestamp": "2026-02-23 17:51:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      78,
+      180,
+      442,
+      429
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and tail pounces after a small brown mouse. The cat leaps, lands, and stretches, showing determination. The mouse scurries away, evading capture. The cat’s focused expression hints at pursuit, while the mouse’s frantic movement suggests escape.",
+    "timestamp": "2026-02-23 17:51:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      78,
+      180,
+      442,
+      429
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, with white paws and tail tip, lunges after a small brown mouse. The mouse scurries away, while the cat, displaying a determined expression, leaps and tumbles backward, landing on its back with a comical flop, showcasing playful chaos in their chase.",
+    "timestamp": "2026-02-23 17:51:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0026_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      78,
+      180,
+      442,
+      429
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat with a mischievous grin leaps from behind a wooden curtain, chasing a small brown mouse. The mouse scurries away, but the cat’s pursuit is relentless. The cat’s tail wags with excitement, and its paws pad eagerly across the floor. The scene is set outdoors, with a tree and distant hills visible, adding a serene backdrop to the cat’s playful, determined chase. The cat’s expression conveys pure joy and anticipation as it closes in on its prey.",
+    "timestamp": "2026-02-23 17:51:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      22,
+      55,
+      497,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Red-capped cat chases gray cat with a stick, both running wildly. Gray cat grimaces, red-capped cat grins, showing playful chaos and determination in their cartoonish chase.",
+    "timestamp": "2026-02-23 17:52:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      22,
+      55,
+      497,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with a red hat swings a stick, chasing a gray cat. The gray cat struggles, flailing limbs, as the brown cat lunges forward. Both display exaggerated expressions of determination and surprise, capturing a classic cartoon chase with comedic energy and slapstick action.",
+    "timestamp": "2026-02-23 17:52:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      22,
+      55,
+      497,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with a red hat and white paws holds a yellow stick, chasing a gray cat with white paws. The gray cat struggles, falling backward as the brown cat leaps. Both cats show determined expressions, with the brown cat appearing triumphant and the gray cat frustrated, amidst a grassy yard.",
+    "timestamp": "2026-02-23 17:52:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      22,
+      55,
+      497,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cat with a red cap and white paws, holding a torn paper, chases a gray cat with white paws and a mischievous grin. The brown cat leaps, grabbing the gray cat mid-air, both tumbling backward. The gray cat’s expression shifts from surprise to delight as they tumble, their limbs flailing comically. The scene unfolds against a wooden wall and grassy ground, capturing slapstick chaos and playful rivalry between the two cartoon felines.",
+    "timestamp": "2026-02-23 17:52:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      3,
+      40,
+      355,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom sits dejectedly, eyes wide, as Jerry peeks from a pipe. A red-haired cat sits beside him, looking up with a concerned expression, sharing Tom’s dismay.",
+    "timestamp": "2026-02-23 17:52:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      3,
+      40,
+      355,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits dejectedly with a worried expression. A brown cat with red hair sits beside him, also looking sad. A small mouse peeks from a pipe above them. The scene conveys a somber, melancholic mood as both cats appear defeated or upset.",
+    "timestamp": "2026-02-23 17:52:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      3,
+      40,
+      355,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits with a worried expression as Jerry, the brown mouse, peers from a pipe above. Tom’s eyes widen in fear, while Jerry looks mischievous. A red-haired cat joins, both characters displaying anxious and playful emotions as they anticipate an impending chase or confrontation.",
+    "timestamp": "2026-02-23 17:52:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0030_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0030.mp4",
+    "bbox": [
+      3,
+      40,
+      355,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits with a worried expression, head bowed, while Jerry, the brown mouse, peers out from a pipe above. Tom’s eyes widen in surprise as Jerry’s head appears, then disappears. A red-haired dog, likely Spike, sits beside Tom, looking up with a curious, slightly amused expression. The scene suggests a tense, playful standoff between Tom and Jerry, with Spike watching on, adding to the comedic tension.",
+    "timestamp": "2026-02-23 17:53:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      7,
+      150,
+      249,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, sits atop a trash can, gleefully frying Jerry, the mouse, in a pan. Jerry escapes, leaving Tom shocked and disappointed.",
+    "timestamp": "2026-02-23 17:53:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      7,
+      150,
+      249,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, sits atop a trash can, gleefully holding a frying pan with Jerry, the mouse, inside. Tom laughs as Jerry escapes, then looks surprised as Jerry flees. Tom’s expression shifts from delight to shock, showcasing his classic comedic pursuit.",
+    "timestamp": "2026-02-23 17:53:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      7,
+      150,
+      249,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits atop a trash can, gleefully holding a frying pan with Jerry, the mouse, inside. He laughs, then drops the pan as Jerry escapes. Tom’s expression shifts from joy to shock, then disappointment as Jerry vanishes, leaving Tom alone with his empty pan.",
+    "timestamp": "2026-02-23 17:53:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      7,
+      150,
+      249,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits atop a trash can, gleefully holding a frying pan with Jerry, the brown mouse, inside. Tom’s expression shifts from delight to surprise as Jerry leaps out, escaping. Tom’s eyes widen in shock, then he looks away, defeated. The scene captures Tom’s playful yet futile pursuit, highlighting their classic rivalry with comedic timing and exaggerated expressions.",
+    "timestamp": "2026-02-23 17:53:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      3,
+      66,
+      463,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, atop a trash can, gleefully holds a frying pan with Jerry. Jerry escapes, causing Tom to react with surprise and dismay, showcasing their classic chase dynamic.",
+    "timestamp": "2026-02-23 17:54:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      3,
+      66,
+      463,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, perches atop a trash can, gleefully holding a frying pan with Jerry, the mouse. Tom's expression shifts from smug delight to shock as Jerry escapes. The scene captures their classic chase, filled with comedic tension and slapstick humor.",
+    "timestamp": "2026-02-23 17:54:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      3,
+      66,
+      463,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, gleefully holds a frying pan with Jerry, the mouse, inside. Tom’s expression shifts from triumphant to surprised as Jerry escapes. Tom’s eyes widen, and he looks startled as Jerry flees, showcasing their classic chase dynamic with humor and chaos.",
+    "timestamp": "2026-02-23 17:54:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0031_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0031.mp4",
+    "bbox": [
+      3,
+      66,
+      463,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, perches atop a trash can, gleefully holding a frying pan with Jerry, the brown mouse, inside. He laughs triumphantly as Jerry escapes, only to be flung into the air. Tom’s expression shifts from joy to shock as Jerry vanishes, leaving him alone with an empty pan. The scene captures their classic chase, with Tom’s mischievous grin and Jerry’s frantic escape, embodying their timeless rivalry.",
+    "timestamp": "2026-02-23 17:54:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      89,
+      205,
+      498,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry tumble, then sit, sharing a moment. Tom looks annoyed, Jerry playful. They leap away, tails twitching, in classic cartoon chaos.",
+    "timestamp": "2026-02-23 17:54:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      89,
+      205,
+      498,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, and Jerry, the brown mouse, engage in a playful chase. Tom pursues Jerry, who evades him with a mischievous grin. Their antics unfold against a wooden backdrop, capturing classic cartoon energy and their enduring rivalry, filled with humor and slapstick comedy.",
+    "timestamp": "2026-02-23 17:54:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      89,
+      205,
+      498,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the gray cat and Jerry the brown mouse tumble together, then sit facing each other. Tom looks annoyed, Jerry smug. They both gesture wildly, then leap apart in a blur of motion, their expressions shifting from playful to startled as they tumble into the grass.",
+    "timestamp": "2026-02-23 17:54:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0032_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0032.mp4",
+    "bbox": [
+      89,
+      205,
+      498,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies exhausted beside a red-haired brown cat, likely Jerry. Tom looks weary, eyes half-closed, while Jerry sits upright, alert and curious. They exchange glances, then Tom suddenly springs up, startled, as Jerry playfully pokes him. Tom’s expression shifts to surprise, then annoyance, as he flinches away. Their dynamic suggests a classic chase, with Jerry’s mischief and Tom’s frustration. The scene captures their timeless rivalry in a humorous, animated style.",
+    "timestamp": "2026-02-23 17:54:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      0,
+      20,
+      425,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A brown cat with white paws and red hair runs, holding a sandwich. It pauses, looking surprised as a small mouse appears beside it, peeking from behind a wall.",
+    "timestamp": "2026-02-23 17:55:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      0,
+      20,
+      425,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with white paws and a red hat runs energetically, clutching a sandwich. It pauses, looking back with a mischievous grin. The scene shifts to a tree, where the cat’s shadow looms, hinting at playful antics and a mischievous spirit.",
+    "timestamp": "2026-02-23 17:55:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      0,
+      20,
+      425,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cat with white paws and a red cap joyfully chases a loaf of bread, leaping with delight. It lands on its back, then stands up, smiling triumphantly. The scene shifts to a tree, where the cat appears startled, eyes wide, as if caught in a moment of surprise or playful mischief.",
+    "timestamp": "2026-02-23 17:55:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/references/segment_0033_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E09 - Sufferin' Cats! (1080p BluRay x265 Ghost)/segments/segment_0033.mp4",
+    "bbox": [
+      0,
+      20,
+      425,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cartoon cat with white paws and a red hat joyfully leaps, clutching a loaf of bread. It lands dramatically, then turns to face a surprised, wide-eyed mouse peeking from behind a wooden fence. The cat’s expression shifts from delight to playful mischief, eyes gleaming with mischief as it holds the bread aloft, ready to share or perhaps taunt its tiny companion. The scene is bright, cheerful, and full of animated energy.",
+    "timestamp": "2026-02-23 17:55:35"
+  }
+]

@@ -1,0 +1,30 @@
+[Original prompt]
+A yo-yo is tossed against a brick wall; it bounces back without sustaining visible damage.
+
+Relevant physical states:(Q)
+
+* The yo-yo must remain present and visually consistent throughout the event.
+* The brick wall must remain present and stationary throughout the event.
+* The distance between the yo-yo and the wall should decrease during approach.
+* Physical contact between the yo-yo and the wall must occur at the impact moment.
+* The yo-yo's relative motion with respect to the wall should change after impact.
+* The yo-yo should rebound away from the wall after contact.
+* The yo-yo should show no visible damage or permanent deformation after the collision.
+
+Physical event order:
+
+1. The yo-yo exists and moves toward the brick wall.
+2. The distance between the yo-yo and the wall decreases.
+3. The yo-yo makes physical contact with the brick wall.
+4. The impact causes the yo-yo to change its motion direction.
+5. The yo-yo rebounds and moves away from the wall.
+6. The yo-yo remains present, visually intact, and undamaged after the rebound.
+
+Cause-effect constraints:
+
+* The yo-yo and the brick wall must exist before contact can occur.
+* The yo-yo must approach the wall before contact.
+* Physical contact with the wall must happen before the rebound.
+* The rebound must be caused by the collision with the wall, rather than occurring spontaneously.
+* The yo-yo must not disappear, duplicate, or become severely deformed during the interaction.
+* Visible damage or permanent deformation must not occur as a result of the impact.

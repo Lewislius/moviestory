@@ -1,0 +1,506 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      106,
+      59,
+      400,
+      414
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a graduation cap, runs erratically, tripping over a stone wall, then leaps over a tree, showing frustration and determination.",
+    "timestamp": "2026-02-23 22:50:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      106,
+      59,
+      400,
+      414
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a graduation cap, dances energetically outdoors. He leaps, twists, and stumbles near a mailbox and tree, displaying playful mischief. His exaggerated expressions—grinning, then startled—highlight his comedic antics as he moves with lively, cartoonish enthusiasm.",
+    "timestamp": "2026-02-23 22:50:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      106,
+      59,
+      400,
+      414
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat wearing a graduation cap, dashes energetically across a garden path. He leaps, twists, and tumbles, displaying playful chaos. His determined expression shifts to surprise as he flips over a tree, showcasing his comedic, mischievous spirit in this classic cartoon scene.",
+    "timestamp": "2026-02-23 22:50:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      106,
+      59,
+      400,
+      414
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears a black graduation cap and strides confidently, fists clenched. He leaps over a stone wall, then kicks a green mailbox, sending it flying. He continues running, his expression shifting to one of surprise as he tumbles backward, crashing into a tree. His eyes widen in shock, and he lands with a dramatic flop, his cap askew. The scene captures his comedic chaos and sudden downfall.",
+    "timestamp": "2026-02-23 22:50:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      101,
+      48,
+      359,
+      374
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a black hat, runs excitedly across a porch, then stops abruptly, looking back with a determined expression as he prepares to pursue something unseen.",
+    "timestamp": "2026-02-23 22:51:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      101,
+      48,
+      359,
+      374
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wears a black hat and dashes across a porch, looking determined. He pauses near a yellow door, then swiftly turns and sprints away, his expression focused and slightly mischievous, as if chasing something or escaping. The scene captures his playful, energetic antics.",
+    "timestamp": "2026-02-23 22:51:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      101,
+      48,
+      359,
+      374
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps energetically across a porch, wearing a black hat. His determined expression and dynamic pose suggest urgency. He pauses near a yellow door, then dashes off-screen, leaving the porch empty and serene under a clear sky.",
+    "timestamp": "2026-02-23 22:51:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      101,
+      48,
+      359,
+      374
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dashes across a porch, wearing a black hat, eyes narrowed in determination. He pauses near a yellow door, then swiftly leaps away, arms pumping, as if chasing something. His expression shifts to urgency, then to playful mischief. The scene is bright and cartoonish, with greenery and a house in the background, emphasizing Tom’s energetic, mischievous antics. His movements are fluid and exaggerated, typical of classic animation.",
+    "timestamp": "2026-02-23 22:51:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      98,
+      2,
+      340,
+      375
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a top hat, points angrily as Jerry, in a yellow outfit, crawls out. Tom growls, then falls backward as Jerry escapes, leaving him frustrated and defeated.",
+    "timestamp": "2026-02-23 22:51:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      98,
+      2,
+      340,
+      375
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a hat, points accusingly as Jerry, in a yellow outfit, emerges from a broken door. Tom growls, then lunges, knocking Jerry into the tub. Tom collapses, hat flying off, as Jerry scurries away, leaving Tom stunned and defeated.",
+    "timestamp": "2026-02-23 22:52:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      98,
+      2,
+      340,
+      375
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a top hat, stands menacingly in a bathroom with shattered glass. He points accusingly as Jerry, in a yellow outfit, emerges from the broken door. Tom growls, then collapses dramatically as Jerry scurries away, leaving him defeated and disheveled.",
+    "timestamp": "2026-02-23 22:52:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      98,
+      2,
+      340,
+      375
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat wearing a black hat, stands angrily in a shattered bathroom, pointing accusingly. Jerry, the brown mouse in a yellow raincoat, emerges from the broken door, startled. Tom lunges, but Jerry slips away, leaving Tom dazed and defeated. Tom’s hat flies off as he collapses, defeated, while Jerry scurries off, leaving the scene in chaos and comedic aftermath.",
+    "timestamp": "2026-02-23 22:52:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      120,
+      14,
+      466,
+      269
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a graduation cap, carries a large rolled-up carpet, chasing Jerry. Jerry runs ahead, laughing. Tom trips, falling backward, while Jerry escapes, both in a playful chase near a pond.",
+    "timestamp": "2026-02-23 22:52:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      120,
+      14,
+      466,
+      269
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a graduation cap, carries a large yellow roll, dragging Jerry. They sprint across a lawn toward a pond, Tom’s expression shifting from determined to surprised as they tumble, Jerry clinging to the roll, both laughing in the cartoon’s classic chaos.",
+    "timestamp": "2026-02-23 22:52:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      120,
+      14,
+      466,
+      269
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a graduation cap, carries a large yellow roll while Jerry runs alongside. Tom trips, dropping the roll, causing both to tumble. Their expressions shift from determination to surprise and amusement, highlighting their classic chase dynamic in a sunny backyard setting.",
+    "timestamp": "2026-02-23 22:52:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      120,
+      14,
+      466,
+      269
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, wearing a graduation cap, carries a large yellow roll, dragging Jerry who clings to it. Tom's expression shifts from determination to surprise as he stumbles, then leaps, launching the roll toward a pond. Jerry, still attached, runs alongside, laughing. The scene is set in a sunny backyard with a white fence and blooming flowers. Tom’s comedic effort and Jerry’s mischievous joy highlight their classic rivalry, underscored by the whimsical, cartoonish animation style.",
+    "timestamp": "2026-02-23 22:52:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      178,
+      76,
+      474,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a graduation cap, runs energetically across a lawn, eyes wide with determination, fists clenched, showcasing playful enthusiasm and a sense of achievement.",
+    "timestamp": "2026-02-23 22:53:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      178,
+      76,
+      474,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a graduation cap, joyfully runs outdoors, arms pumping, eyes gleaming with pride. He leaps energetically across a lawn, past trees and flowers, embodying excitement and accomplishment. His determined stride and happy expression suggest he’s celebrating a milestone, perhaps his own academic success.",
+    "timestamp": "2026-02-23 22:53:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      178,
+      76,
+      474,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wears a graduation cap and dashes energetically across a lawn, arms pumping and eyes fierce. His determined expression suggests triumph or urgency. He leaps over a stone wall, passing trees and houses, embodying youthful exuberance and academic pride in his animated stride.",
+    "timestamp": "2026-02-23 22:53:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      178,
+      76,
+      474,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears a black graduation cap and dashes energetically across a grassy yard, arms pumping and eyes wide with mischief. His determined stride suggests excitement or urgency. Behind him, a house with a porch and blooming flowers adds charm to the scene. His expression is focused, hinting at a playful or mischievous intent, possibly celebrating a victory or chasing something. The bright, sunny setting enhances the lighthearted, cartoonish energy of the moment.",
+    "timestamp": "2026-02-23 22:53:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      1,
+      6,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a hat, reacts in shock as a red, spiky circle appears around a white object. He then clenches his fists, showing anger or frustration.",
+    "timestamp": "2026-02-23 22:54:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      1,
+      6,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a black hat, looks shocked as red sparks erupt around a white, U-shaped object he's holding. His wide eyes and open mouth convey alarm. He quickly pulls away, startled by the sudden energy burst, suggesting he’s been caught in an unexpected electrical mishap.",
+    "timestamp": "2026-02-23 22:54:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      1,
+      6,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a black hat, reacts with shock as a red energy burst erupts around a white, L-shaped object. His wide eyes and open mouth convey alarm. He quickly recoils, startled by the sudden, chaotic energy display, suggesting an unexpected or dangerous event.",
+    "timestamp": "2026-02-23 22:54:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      1,
+      6,
+      509,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears a black hat and stares in shock as a red, spiky energy circle pulses around a white, L-shaped object. His mouth opens wide, eyes wide with fear or surprise. He leans forward, hands gripping the object, then suddenly recoils as if startled by the energy. His expression shifts to one of alarm, suggesting the object is malfunctioning or dangerous. The scene captures a moment of tension and sudden reaction.",
+    "timestamp": "2026-02-23 22:54:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      2,
+      18,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom's tail dominates the frame as Jerry, tiny and determined, climbs it, showing his cleverness and bravery against the larger cat's imposing presence.",
+    "timestamp": "2026-02-23 22:54:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      2,
+      18,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A tiny brown mouse, Tom, scurries atop a large gray cat’s tail, looking alert and determined. The cat lies still, its tail curving gracefully. Tom’s expression is focused, as if strategizing his next move, while the cat remains oblivious to the tiny mouse’s antics.",
+    "timestamp": "2026-02-23 22:54:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      2,
+      18,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A small brown mouse, Tom, scurries across a large gray cat’s tail, which lies on a blue floor. Tom appears startled, eyes wide, as he grips the tail. The cat remains still, unaware of the mouse’s antics. The scene captures Tom’s frantic escape attempt, showcasing his cleverness and fear.",
+    "timestamp": "2026-02-23 22:54:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      2,
+      18,
+      511,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A small brown mouse, Tom, scurries atop a large gray cat’s tail, gripping it tightly. He looks alert and determined, eyes wide, as he balances precariously. The cat lies still, its tail curling slightly, suggesting calmness despite the mouse’s daring feat. The scene unfolds on a blue floor against a tiled wall, emphasizing the mouse’s boldness and the cat’s passive presence, hinting at their classic chase dynamic.",
+    "timestamp": "2026-02-23 22:54:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      154,
+      73,
+      498,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a graduation cap, gleefully chases Jerry, who scurries away. Tom leaps, catching Jerry mid-air, then laughs triumphantly as Jerry escapes.",
+    "timestamp": "2026-02-23 22:56:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      154,
+      73,
+      498,
+      474
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a graduation cap, gleefully chases Jerry, who scurries away. Tom leaps, catches Jerry mid-air, then drops him. Jerry escapes, and Tom, triumphant, laughs while holding his prize—a cookie. Their classic chase continues with playful energy and mischievous expressions.",
+    "timestamp": "2026-02-23 22:56:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      154,
+      73,
+      498,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wears a graduation cap and proudly holds a mouse. The mouse, Jerry, scurries away, then leaps up to confront Tom. Tom growls, his expression shifting to rage as he lunges forward, showcasing their classic chase dynamic with comedic tension and exaggerated expressions.",
+    "timestamp": "2026-02-23 22:56:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      154,
+      73,
+      498,
+      474
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, dons a graduation cap, gleefully holding a mouse in his paws. He leaps joyfully, then suddenly drops, revealing his exaggerated, triumphant grin. Jerry, the brown mouse, scurries away, then boldly confronts Tom, who, startled, jumps high with a wide, toothy grin. The scene captures their classic rivalry, filled with slapstick humor and mischievous energy, set against a simple, colorful room.",
+    "timestamp": "2026-02-23 22:56:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      44,
+      182,
+      351
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom emerges from a mailbox, while Jerry wields a yellow stick. A third cat joins, wielding a stick, and all display expressions of mischief and playful aggression in a classic cartoon chase.",
+    "timestamp": "2026-02-23 22:57:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      44,
+      182,
+      351
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, emerges from a green mailbox, while Jerry, the brown mouse, carries a yellow stick. A third cat, pinkish-gray, joins, holding a similar stick. All display playful expressions, suggesting a comedic chase or game in a sunny garden setting.",
+    "timestamp": "2026-02-23 22:57:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      44,
+      182,
+      351
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, emerges from a green mailbox, startled. Jerry, the brown mouse, wields a yellow stick, confronting him. A third cat, pink and fluffy, joins, holding a stick, appearing amused. All display playful, mischievous expressions, hinting at a comedic chase or standoff in their classic cartoon antics.",
+    "timestamp": "2026-02-23 22:57:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E37 - Professor Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      44,
+      182,
+      351
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, emerges from a green mailbox, startled. Jerry, the brown mouse, wields a yellow beam, charging toward him. Tom, confused, holds the beam aloft, then drops it as a pink cat appears, bewildered. Jerry, triumphant, smiles, while Tom looks on with a mix of annoyance and disbelief. The scene is set on a stone wall, with greenery and a distant house in the background, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 22:58:06"
+  }
+]

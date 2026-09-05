@@ -1,0 +1,1178 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      2,
+      512,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a hat, playfully interacts with sleeping dogs, then jumps into a dog's mouth, causing chaos and laughter among the canine companions.",
+    "timestamp": "2026-02-23 19:04:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      2,
+      512,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, playfully wrestles with a sleeping dog, then dramatically leaps into a giant dog's mouth, startling it. The scene ends with Tom standing triumphantly, while other dogs lie around, seemingly unaware of the chaos. Tom's mischievous grin and the dogs' sleepy expressions highlight the comedic chaos.",
+    "timestamp": "2026-02-23 19:04:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      2,
+      512,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, playfully interacts with dogs, lifting one by its tail while others lie around. He winks, then leaps, showing mischief. A dog opens its mouth wide, seemingly surprised or amused. The scene is lighthearted, with Tom’s antics causing playful chaos among the dogs.",
+    "timestamp": "2026-02-23 19:04:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      9,
+      2,
+      512,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears a white rabbit hat and playfully interacts with a sleeping brown dog. He pokes the dog’s ear, then leaps into a mock battle with a giant, open-mouthed dog. Tom’s antics spark joy and surprise, as the other dogs react with amusement. His mischievous grin and exaggerated movements highlight his playful nature, while the scene’s whimsical tone underscores the cartoon’s lighthearted chaos.",
+    "timestamp": "2026-02-23 19:04:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      190,
+      11,
+      375,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wearing a dog mask, leaps and breaks through a wall, chasing Jerry the mouse, who scurries away in panic. Their antics showcase classic cartoon chaos.",
+    "timestamp": "2026-02-23 19:04:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      190,
+      11,
+      375,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, leaps from a tub, pursued by Jerry, the mouse. Tom, wearing a dog mask, chases Jerry, then crashes into a wall, breaking it. He looks surprised, then determined, as Jerry escapes. Their antics showcase classic cartoon chaos and mischievousness.",
+    "timestamp": "2026-02-23 19:05:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      190,
+      11,
+      375,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a dog mask, leaps through a brick wall, startled. Jerry the mouse, nearby, jumps excitedly. Tom’s expression shifts from surprise to determination as he climbs the wall, revealing his true identity beneath the mask. The scene is comedic, with exaggerated movements and expressions.",
+    "timestamp": "2026-02-23 19:05:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      190,
+      11,
+      375,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the cat, leaps from a tub, chasing Jerry, the mouse. Jerry scampers away as Tom chases him near a brick wall. Tom then dramatically leaps onto the wall, breaking bricks with his claws, revealing a startled Jerry peeking from behind. Tom’s expression shifts from determination to surprise as he clutches his head, seemingly overwhelmed by the chaos. The scene captures their classic chase, full of slapstick humor and frantic energy.",
+    "timestamp": "2026-02-23 19:05:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      25,
+      319,
+      408
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse, who dashes away. Tom lunges, eyes wide with determination, while Jerry scampers, evading capture in a classic cartoon chase.",
+    "timestamp": "2026-02-23 19:06:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      25,
+      319,
+      408
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lunges after Jerry the mouse, who scurries away. Tom’s expression is intense and determined, his body stretched in pursuit. Jerry, small and agile, dodges with quick movements, his tail flicking nervously. The chase unfolds under a tree, capturing classic cartoon tension and slapstick comedy.",
+    "timestamp": "2026-02-23 19:06:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      25,
+      319,
+      408
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, lunges forward with intense focus, eyes narrowed in pursuit. A small brown mouse, Jerry, scurries away, tail twitching, dodging Tom’s grasp. The scene captures classic cartoon chase energy, with Tom’s determined expression and Jerry’s frantic escape against a simple, leafy backdrop.",
+    "timestamp": "2026-02-23 19:06:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      1,
+      25,
+      319,
+      408
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, lunges forward with intense focus, his eyes narrowed and ears perked, chasing a small brown mouse, Jerry, who scurries away. Tom’s body is stretched in pursuit, paws extended, tail flicking. Jerry dashes past a tree, narrowly escaping. The scene captures classic cartoon tension—Tom’s relentless chase versus Jerry’s agile escape, set against a simple suburban backdrop. Their expressions convey pure determination and panic, respectively.",
+    "timestamp": "2026-02-23 19:06:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      57,
+      11,
+      354,
+      360
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat chases a ball, trips, and lands on his back. He gets up, startled, then faces a bulldog, who looks annoyed as they both stare at each other.",
+    "timestamp": "2026-02-23 19:06:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      57,
+      11,
+      354,
+      360
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, chases a white dog, Jerry, through a yard. Tom leaps, grabs Jerry, and struggles to hold him. Jerry, in surprise, flings Tom off. Tom lands, panting, as a large grey bulldog approaches, curious. Tom looks startled, while Jerry appears calm.",
+    "timestamp": "2026-02-23 19:07:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      57,
+      11,
+      354,
+      360
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, chases a white dog, Jerry, across a grassy yard. Tom leaps and grabs Jerry, who struggles. Tom then stands on his hind legs, roaring triumphantly. A large grey bulldog, Spike, approaches, looking amused as Tom holds Jerry in his paws.",
+    "timestamp": "2026-02-23 19:07:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      57,
+      11,
+      354,
+      360
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, chases a small white mouse, gripping it tightly. He leaps, spins, and lands on his back, then rises, screaming. A large grey bulldog with a red collar approaches, snarling. Tom, now sitting, looks startled as the bulldog growls, their expressions full of tension and surprise. The scene unfolds in a grassy yard with a fence and tree, capturing classic cartoon chaos and rivalry.",
+    "timestamp": "2026-02-23 19:07:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      95,
+      498,
+      344
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse, who runs away. Tom lunges, but Jerry dodges. Tom's expression shows determination, while Jerry appears startled but agile.",
+    "timestamp": "2026-02-23 19:07:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      95,
+      498,
+      344
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lunges after Jerry the mouse, who scurries away. Tom's determined expression shows his pursuit, while Jerry's panicked movements highlight his escape. The chase unfolds on a suburban street, with Tom's black-and-white fur contrasting against Jerry's brown fur as they engage in their classic chase.",
+    "timestamp": "2026-02-23 19:07:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      95,
+      498,
+      344
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, lunges after Jerry the mouse, brown and agile. Jerry scurries away, dodging Tom’s pursuit. Tom’s expression shifts from determination to surprise as Jerry escapes. The chase unfolds on a suburban street, with houses and trees in the background.",
+    "timestamp": "2026-02-23 19:07:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      0,
+      95,
+      498,
+      344
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the black cat leaps dramatically, chasing Jerry the brown mouse across a suburban street. Jerry scurries ahead, tail flicking with panic, while Tom’s eyes gleam with determination and pursuit. The scene captures their classic chase dynamic, with Tom’s body stretched mid-air and Jerry’s frantic escape. Trees and houses blur in the background, emphasizing their swift movement. Tom’s expression is focused, while Jerry’s conveys urgency and fear, embodying their timeless rivalry.",
+    "timestamp": "2026-02-23 19:07:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      2,
+      32,
+      374,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white dog with a bone-shaped head runs, startling a bulldog. They wrestle, the bulldog growls, and the small dog retreats, leaving the bulldog bewildered and drooling.",
+    "timestamp": "2026-02-23 19:08:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      2,
+      32,
+      374,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white dog with a bone-shaped head runs toward a doghouse, startling a large bulldog. They engage in playful wrestling, ending with the bulldog roaring. The smaller dog retreats, leaving the bulldog bewildered and confused, staring at the faucet.",
+    "timestamp": "2026-02-23 19:08:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      2,
+      32,
+      374,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white dog with a bone-shaped head runs toward a doghouse, startling a bulldog. The bulldog, wearing a red collar, growls and lunges. The bone-headed dog retreats, then returns, playfully confronting the bulldog. Both dogs exhibit exaggerated expressions, conveying playful aggression and surprise.",
+    "timestamp": "2026-02-23 19:08:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      2,
+      32,
+      374,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white dog with a bone-shaped head runs toward a doghouse, startling a bulldog. The bulldog, wearing a red collar, lies on the ground, startled. The black dog, now holding a bone, playfully grabs the bulldog’s paw. The bulldog growls, then opens its mouth wide in shock. The black dog retreats, leaving the bulldog alone, bewildered, near a water faucet. The scene is lighthearted, filled with cartoonish expressions and exaggerated movements.",
+    "timestamp": "2026-02-23 19:08:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      146,
+      0,
+      432,
+      361
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A dog in a hat runs, then wrestles a bulldog. The bulldog growls, then looks surprised as the dog retreats, leaving a bone behind.",
+    "timestamp": "2026-02-23 19:09:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      146,
+      0,
+      432,
+      361
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white dog in a hat runs toward a doghouse, then confronts a large bulldog. The bulldog growls, and the small dog retreats, startled. The bulldog looks confused and then sad, as if the small dog’s antics have left it bewildered.",
+    "timestamp": "2026-02-23 19:09:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      146,
+      0,
+      432,
+      361
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white dog in a bone hat runs, startling a bulldog. They wrestle, then the bulldog growls, revealing teeth. The dog retreats, leaving the bulldog confused and sad. The scene ends with the bulldog staring at a faucet, its expression of disappointment.",
+    "timestamp": "2026-02-23 19:09:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0005_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      146,
+      0,
+      432,
+      361
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white dog in a chef’s hat runs toward a doghouse, startling a large grey bulldog. The bulldog, wearing a red collar, growls and lunges, but the chef-dog dodges, grabbing a bone. The bulldog, surprised, looks confused as the chef-dog holds the bone aloft, then leaps away, leaving the bulldog bewildered and drooling. The scene ends with the bulldog staring at the empty space where the chef-dog vanished.",
+    "timestamp": "2026-02-23 19:09:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      14,
+      16,
+      495,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, with a pink tuft, shows shock and anger, then grins menacingly, gripping wooden handles, suggesting a comedic, tense moment in a cartoon.",
+    "timestamp": "2026-02-23 19:09:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      14,
+      16,
+      495,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a surprised expression, grips wooden poles. His eyes widen, mouth agape, as he reacts to something unseen. His fur stands on end, and he appears startled or alarmed, conveying shock or fear in this classic cartoon moment.",
+    "timestamp": "2026-02-23 19:09:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      14,
+      16,
+      495,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, grips wooden handles, eyes wide with shock, mouth agape. He shifts expression to a snarl, teeth bared, then back to startled awe. His pink nose and whiskers twitch as he reacts to unseen events, conveying panic and confusion in this classic cartoon moment.",
+    "timestamp": "2026-02-23 19:09:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      14,
+      16,
+      495,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, grips wooden oars, his expression shifting from startled to furious. His eyes widen, mouth agape, then he snarls with bared teeth, showing intense anger. His ears twitch, whiskers flicker, and his body tensed, conveying aggression. The background’s wooden planks and soft light emphasize his dramatic emotional shift, capturing a moment of escalating tension as he prepares to lash out.",
+    "timestamp": "2026-02-23 19:09:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      3,
+      0,
+      491,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat wrestles a large dog, both displaying fierce expressions. Tom grabs the dog's collar, struggling with it. The dog roars in anger, while Tom looks determined.",
+    "timestamp": "2026-02-23 19:10:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      3,
+      0,
+      491,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat and a large dog engage in a fierce struggle. Tom grabs the dog’s collar, yanking it with force, while the dog growls and bites. Their expressions show intense aggression and determination. The scene ends with Tom kicking the dog, who reacts with surprise and pain.",
+    "timestamp": "2026-02-23 19:10:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      3,
+      0,
+      491,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat fiercely attacks a large, angry dog, gripping its collar. The dog roars in rage, snapping teeth and baring claws. Tom struggles, his expression shifting from panic to determination as he attempts to escape the dog’s grasp, showcasing their intense, chaotic battle in a rustic outdoor setting.",
+    "timestamp": "2026-02-23 19:10:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      3,
+      0,
+      491,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black and white, fiercely grabs a large tan dog with a red collar, both roaring in combat. The dog, with sharp teeth and angry eyes, struggles to break free. Tom, displaying his cunning, twists and kicks, attempting to overpower the dog. Their expressions convey intense aggression and determination. The scene unfolds in a rustic outdoor setting, with wooden barrels and a grassy field, highlighting their chaotic, animated battle.",
+    "timestamp": "2026-02-23 19:10:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      118,
+      137,
+      392,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, joyfully hugs a white dog in a grassy yard, both displaying playful excitement with wide eyes and open mouths, capturing their mischievous camaraderie.",
+    "timestamp": "2026-02-23 19:10:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      118,
+      137,
+      392,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully hugs a white dog, both smiling. The dog, with brown ears and a happy expression, is being lifted in a playful embrace. Their cheerful interaction suggests friendship and lightheartedness, set against a sunny backyard backdrop with a fence and tree.",
+    "timestamp": "2026-02-23 19:11:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      118,
+      137,
+      392,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black with white paws, joyfully hugs a large, smiling white dog with brown ears. They’re in a grassy yard with a fence and tree. Tom’s eyes sparkle with delight as he cuddles the dog, who looks content and happy, enjoying the affectionate moment.",
+    "timestamp": "2026-02-23 19:11:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      118,
+      137,
+      392,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black with white paws and tail, leaps joyfully, clutching a paper bag. His eyes gleam with mischief as he grins, seemingly triumphant. A small brown dog, peeking from behind a wooden bucket, looks startled. The scene unfolds in a sunlit yard with a fence and tree, capturing playful chaos and Tom’s mischievous delight in his antics.",
+    "timestamp": "2026-02-23 19:11:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      0,
+      248,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat leaps away from a large, angry bulldog with bared teeth. The cat's tail is high, showing panic as the dog chases.",
+    "timestamp": "2026-02-23 19:11:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      0,
+      248,
+      461
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat leaps away as a large, angry bulldog with a red collar lunges forward, baring teeth. The cat’s tail flicks high, showing agility and evasion. The bulldog’s expression is fierce and determined, capturing a classic chase scene filled with cartoonish energy and comedic tension.",
+    "timestamp": "2026-02-23 19:11:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      0,
+      248,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat leaps backward, tail high, as a large, snarling bulldog with a red collar charges after it. The bulldog's teeth gleam, eyes fierce, while the cat appears startled, mid-air, dodging the dog's aggressive pursuit in a classic cartoon chase scene.",
+    "timestamp": "2026-02-23 19:11:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      0,
+      248,
+      461
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, leaps mid-air with a determined expression, tail high. Beside him, a large, gray bulldog with a red collar snarls fiercely, teeth bared, eyes narrowed in aggression. The bulldog’s body is tense, claws extended, as if ready to pounce. The scene captures a classic chase or confrontation, with Tom’s agile leap suggesting evasion or attack, while the bulldog embodies brute force and rage against the backdrop of a simple outdoor setting.",
+    "timestamp": "2026-02-23 19:11:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      167,
+      104,
+      362,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom chases Jerry, who escapes through a fence. Tom crashes into a dog, then runs away. Jerry jumps over a fence, while Tom looks confused and defeated.",
+    "timestamp": "2026-02-23 19:12:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      167,
+      104,
+      362,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse, but Jerry escapes through a fence. Tom then tackles a large dog, knocking it down. The dog lies motionless, while Tom looks surprised and concerned. The scene ends with Tom standing over the dog, clearly shaken.",
+    "timestamp": "2026-02-23 19:12:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      167,
+      104,
+      362,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat chases Jerry the mouse near a barn, then crashes into a dog. The dog lies down, and Tom stands over it, looking surprised. Jerry escapes through a fence, while the dog remains asleep, oblivious to the chaos. Tom’s expression shifts from shock to annoyance.",
+    "timestamp": "2026-02-23 19:12:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      167,
+      104,
+      362,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, chases Jerry, the brown mouse, outside a barn. Tom leaps over a fence, then crashes into a large, sleeping dog, knocking it over. Jerry escapes, jumping over the fence. Tom, now atop the dog, looks surprised. The dog lies motionless, while Tom stands over it, bewildered. The scene ends with Tom’s shocked expression, hinting at a comical mishap.",
+    "timestamp": "2026-02-23 19:12:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      260,
+      127,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog and a small dog face off, while Tom the cat yells, startled. The bulldog looks annoyed, the small dog appears curious, and Tom’s expression shifts from shock to fear.",
+    "timestamp": "2026-02-23 19:13:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      260,
+      127,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog with a red collar growls, while a small black-and-white dog looks up at him. A black cat, Tom, yells in shock, then stands beside the small dog, both startled. The bulldog’s expression shifts from anger to surprise as the scene unfolds.",
+    "timestamp": "2026-02-23 19:13:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      260,
+      127,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog with a red collar and a smaller dog in a suit stand near a wooden shed. The bulldog looks annoyed, while the smaller dog appears cheerful. A black cat with white paws, Tom, yells in distress, his eyes wide and mouth open, reacting to the dogs’ presence.",
+    "timestamp": "2026-02-23 19:13:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      260,
+      127,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A grumpy bulldog with a red collar stands beside a startled, black-and-white cat, Tom, who yelps in fear. A small, white dog with a brown snout and black ears sits nearby, looking curious. The bulldog growls, ears back, while Tom jumps back, eyes wide with panic. The scene unfolds in a rustic wooden shed, with sunlight streaming in, highlighting their exaggerated cartoon expressions and the comedic tension between them.",
+    "timestamp": "2026-02-23 19:13:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      148,
+      54,
+      364,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wearing a paper hat, angrily grabs a hammer. He swings it wildly, then stands defiantly, eyes glowing red with rage, as a dog watches from the side.",
+    "timestamp": "2026-02-23 19:13:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      148,
+      54,
+      364,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a paper hat, confronts a dog with a mallet. He grabs the mallet, swings it, and then holds it triumphantly, showing a mischievous grin. The dog looks surprised, then startled as Tom’s antics unfold with exaggerated expressions and playful aggression.",
+    "timestamp": "2026-02-23 19:13:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      148,
+      54,
+      364,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a mischievous grin, grabs a red mallet and a paper hat, playfully wielding them. He strikes a pose, then switches to a menacing glare, holding the mallet high. His antics suggest a comedic, exaggerated confrontation with an unseen foe, exuding playful aggression and theatrical flair.",
+    "timestamp": "2026-02-23 19:13:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      148,
+      54,
+      364,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a black-and-white cat, gleefully lifts a large hammer, then grabs a paper bag, raising it triumphantly. He swings the hammer, then drops it, revealing a mischievous grin. A tan dog, Slick, stands nearby, initially calm, then suddenly startled, jumping back as Tom’s antics unfold. The scene unfolds outdoors near a wooden shed, with Tom’s playful aggression and Slick’s startled reaction forming the core of the comedic chaos.",
+    "timestamp": "2026-02-23 19:13:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      25,
+      188,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large dog lies down as a smaller dog runs past, then a cat leaps in, startling both. They all look surprised, with the large dog showing a startled expression.",
+    "timestamp": "2026-02-23 19:14:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      25,
+      188,
+      479
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, sleepy dog lies on grass, while a smaller dog runs past, then a cat leaps onto the large dog. The cat and small dog interact playfully, ending with the cat sitting atop the large dog, both looking amused. The scene is lighthearted and full of cartoonish energy.",
+    "timestamp": "2026-02-23 19:14:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      25,
+      188,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large, fluffy dog lies on grass, while a smaller dog runs past, then a cat leaps in, startling both. The cat lands, then playfully interacts with the dogs, who react with surprise and amusement. Their expressions shift from startled to joyful, highlighting a lighthearted, comedic moment.",
+    "timestamp": "2026-02-23 19:14:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      0,
+      25,
+      188,
+      479
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, red-and-white dog lies on grass, eyes wide with surprise. A smaller, tan dog with black markings runs past, then stops, looking at the first dog. A black-and-white cat leaps into view, landing on the tan dog’s back, then leaps off. The cat stands, smiling, while the tan dog sits, looking amused. The large dog watches, mouth open, surprised. All characters display playful, cartoonish expressions.",
+    "timestamp": "2026-02-23 19:14:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      160,
+      112,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom cat joyfully rides a large dog, waving excitedly. The dog moves forward with a calm, smiling expression, while Tom's playful energy contrasts with the dog's serene demeanor.",
+    "timestamp": "2026-02-23 19:15:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      160,
+      112,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully rides atop a large, dark brown dog, waving his paw with excitement. The dog, with a calm, smiling face, carries Tom through the air. Tom's wide eyes and open mouth convey pure delight as they soar together in this whimsical, animated adventure.",
+    "timestamp": "2026-02-23 19:15:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      160,
+      112,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cheerful brown mouse perches atop a large, dark brown dog, waving joyfully. The dog, with a gentle smile, walks calmly. The mouse’s animated expression conveys excitement and delight, capturing a playful, lighthearted moment between the two cartoon characters.",
+    "timestamp": "2026-02-23 19:15:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      160,
+      112,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cheerful brown mouse, Tom, joyfully perches atop a large, dark brown dog, likely a dachshund, as they move forward. Tom raises one paw in excitement, eyes wide and mouth open in a happy grin. The dog, partially visible with a smiling face, seems calm and content. The scene exudes playful energy, with Tom’s animated expression suggesting delight and adventure as they journey together. The background is minimal, emphasizing their dynamic interaction.",
+    "timestamp": "2026-02-23 19:15:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      185,
+      126,
+      508,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat lies on grass, then leaps after Jerry the mouse, who runs past a tree. Tom lands, panting, with a determined expression.",
+    "timestamp": "2026-02-23 19:15:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      185,
+      126,
+      508,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies on grass, eyes wide, then leaps after Jerry the mouse, who runs away. Tom lands clumsily, then smiles triumphantly. The scene ends with a barrel, hinting at Jerry’s escape. Their classic chase continues with playful chaos and mischievous energy.",
+    "timestamp": "2026-02-23 19:15:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      185,
+      126,
+      508,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat lies on grass, eyes wide with surprise. A black-and-white rabbit runs past, then Tom leaps, landing on his back. He sits up, smiling triumphantly. The scene ends with a wooden barrel in the distance, hinting at a playful chase or adventure ahead.",
+    "timestamp": "2026-02-23 19:15:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      185,
+      126,
+      508,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and tail, lies on grass, alert and curious. He leaps, tumbling against a wooden fence, then lands with a splash. He sits, eyes wide, then breaks into a grin, amused. The scene shifts to a wooden barrel with ears peeking out, hinting at a chase or surprise. The setting is a sunny backyard with a tree and fence, evoking classic cartoon charm and playful mischief.",
+    "timestamp": "2026-02-23 19:15:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      107,
+      70,
+      395,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat, holds a large wooden object, then turns to see Jerry, a brown mouse, peeking from behind. Tom looks startled as Jerry scurries away.",
+    "timestamp": "2026-02-23 19:16:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      107,
+      70,
+      395,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds a large, broken wooden object, looking startled. Jerry, the brown mouse, scurries nearby, peeking from behind wooden panels. Tom’s expression shifts from surprise to annoyance as he glances around, while Jerry remains cautious, observing Tom’s antics in their wooden enclosure.",
+    "timestamp": "2026-02-23 19:16:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      107,
+      70,
+      395,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds a large wooden board, looking puzzled. Jerry, the brown mouse, peeks from behind wooden planks, then dashes away. Tom turns, startled, as the board shatters, revealing a chaotic scene outside. Their classic chase continues with comedic chaos.",
+    "timestamp": "2026-02-23 19:16:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      107,
+      70,
+      395,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a large, broken wooden object, looking startled. Jerry, the small brown mouse, scurries nearby, peeking through holes in the wooden wall. Tom turns, eyes wide with surprise, as Jerry playfully dodges him. The scene shifts to an outdoor setting where Tom is crushed under a pile of splintered wood, clearly stunned by his own clumsiness. Jerry’s mischievous grin suggests he’s the mastermind behind the chaos.",
+    "timestamp": "2026-02-23 19:16:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      283,
+      100,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Dogs wake up, startled, and bolt away in panic. One large dog watches, calm. A red bowl sits nearby. The scene is chaotic and playful, with dogs running in fear.",
+    "timestamp": "2026-02-23 19:17:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      283,
+      100,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Dogs in a yard react to a sudden noise, jumping up in alarm. One dog, with a red collar, looks startled. A large brown dog watches calmly. The scene ends with a blur of motion as the dogs scatter, leaving only a red bowl in the foreground.",
+    "timestamp": "2026-02-23 19:17:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      283,
+      100,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Dogs in a yard wake up, startled by a sudden movement. One leaps forward with excitement, while others react with surprise or fear. A large dog watches from the side, calm and observant. The scene captures playful chaos and sudden awakening among the canine characters.",
+    "timestamp": "2026-02-23 19:17:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      283,
+      100,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A group of animated dogs, including a large brown one and smaller ones with varied fur colors, lie panting in a grassy yard beside a fence and shed. Suddenly, they all leap up in unison, sprinting leftward with joyful energy, tails wagging. Their expressions shift from sleepy to excited. The scene captures their playful, synchronized movement, conveying youthful exuberance and camaraderie as they race off-screen, leaving behind a trail of motion blur.",
+    "timestamp": "2026-02-23 19:17:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      154,
+      58,
+      393,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps, startled, then stands frozen as a white dog appears. He reacts with shock and panic, arms flailing, as the dog approaches, revealing their classic chase dynamic.",
+    "timestamp": "2026-02-23 19:17:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      154,
+      58,
+      393,
+      386
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps wildly, startled, then stands frozen against a wooden fence. A small white dog appears, smiling, and Tom reacts with panic, jumping away. The scene ends with Tom’s frantic, exaggerated movements, capturing his startled and anxious demeanor.",
+    "timestamp": "2026-02-23 19:17:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      154,
+      58,
+      393,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps and crashes into a wooden fence, startled. He stands upright, eyes wide with shock. A small white dog appears, smiling innocently. Tom’s expression shifts to annoyance as he glares at the dog, then leaps again in frustration, leaving the scene empty.",
+    "timestamp": "2026-02-23 19:18:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      154,
+      58,
+      393,
+      386
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, leaps wildly, then crashes into a wooden fence, looking startled. He stands upright, mouth agape, as a small white dog with floppy ears joyfully approaches. Tom flinches, arms flailing, then suddenly lunges forward, startled by the dog’s presence. The dog winks and runs away, leaving Tom bewildered and momentarily stunned, his expression shifting from shock to confusion. The scene captures their classic comedic chase, filled with slapstick energy and exaggerated reactions.",
+    "timestamp": "2026-02-23 19:18:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      189,
+      74,
+      439,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat joyfully dances, arms raised, then leaps away from a wooden fence, tail flicking, embodying playful energy and delight.",
+    "timestamp": "2026-02-23 19:18:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      189,
+      74,
+      439,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully leaps and dances, arms raised, eyes wide with excitement. He then dashes off-screen, leaving a trail of motion. His playful energy and happy expression convey pure delight as he bounds away, embodying classic cartoon mischief and enthusiasm.",
+    "timestamp": "2026-02-23 19:18:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      189,
+      74,
+      439,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully leaps with arms raised and a wide grin, embodying excitement. He dashes past a wooden fence, his tail flicking, as he disappears from view, leaving behind a trail of playful energy and a sense of carefree adventure in the classic cartoon style.",
+    "timestamp": "2026-02-23 19:18:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/references/segment_0029_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E16 - Puttin' On The Dog (1080p BluRay x265 Ghost)/segments/segment_0029.mp4",
+    "bbox": [
+      189,
+      74,
+      439,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully leaps with arms raised and a wide, excited grin, showcasing his playful energy. He then dashes off-screen, leaving behind a trail of motion and a sense of lively abandon. His dynamic movement, coupled with his expressive face, conveys pure delight and mischief, typical of his character’s spirited antics. The wooden fence and grassy ground frame his energetic escape, emphasizing the cartoon’s classic charm and Tom’s unbridled enthusiasm.",
+    "timestamp": "2026-02-23 19:18:45"
+  }
+]

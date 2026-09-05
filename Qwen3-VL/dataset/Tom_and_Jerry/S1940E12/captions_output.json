@@ -1,0 +1,1178 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      71,
+      48,
+      402,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed in pink and yellow, sits scared as two cats, one black and one brown, surround him with playful, mischievous expressions and outstretched paws.",
+    "timestamp": "2026-02-23 18:11:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      71,
+      48,
+      402,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a pink bonnet and yellow shorts, sits scared as two cats—black and brown—surround him, laughing and pointing. His wide eyes and trembling paws show fear, while the other cats' joyful expressions highlight their playful mischief.",
+    "timestamp": "2026-02-23 18:11:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      71,
+      48,
+      402,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat in pink bonnet and yellow shorts sits, startled. A black cat appears, smiling mischievously, pulling a string. Then, a red-haired dog joins, all pointing at the gray cat with joyful expressions, creating a playful, chaotic scene.",
+    "timestamp": "2026-02-23 18:11:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      71,
+      48,
+      402,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat in a pink bonnet and yellow shorts sits on the floor, looking scared. A black cat with a mischievous grin appears beside him, holding a string. Then, a red-haired dog joins them, all three making playful, exaggerated gestures. Their expressions shift from nervous to joyful, suggesting a comedic, chaotic scene. The cats' antics and exaggerated movements convey humor and silliness, typical of classic cartoon animation.",
+    "timestamp": "2026-02-23 18:11:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      14,
+      89,
+      294,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat, Tom, eagerly holds a white cloth, then drops it, looking surprised. His expression shifts from excitement to confusion as he stares at the dropped item.",
+    "timestamp": "2026-02-23 18:12:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      14,
+      89,
+      294,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat, with wide eyes and a mischievous grin, playfully wraps a white cloth around its face, then pulls it off, revealing a sly, triumphant expression. The cat’s tail swishes as it stands proudly, exuding confidence and amusement.",
+    "timestamp": "2026-02-23 18:12:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      14,
+      89,
+      294,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat, with large eyes and pointed ears, playfully holds a white cloth. It twists and stretches the fabric, displaying mischievous delight. The cat’s expressions shift from curious to amused, highlighting its playful nature against a plain, beige backdrop.",
+    "timestamp": "2026-02-23 18:12:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      14,
+      89,
+      294,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, with large expressive eyes and pointed ears, stands in a room, holding a white cloth. He pulls it over his face, then removes it, revealing a mischievous grin. His tail sways playfully as he shifts his stance, eyes gleaming with mischief. The background features faint silhouettes of animals, adding whimsy. The cat’s actions suggest he’s up to something humorous or sly, embodying classic cartoon charm with exaggerated expressions and fluid motion.",
+    "timestamp": "2026-02-23 18:12:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      131,
+      67,
+      459,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed as a baby, struggles with a toy house, then collapses. A teddy bear watches from a shelf. The scene ends with a wooden table and chair.",
+    "timestamp": "2026-02-23 18:12:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      131,
+      67,
+      459,
+      400
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a diaper and chef's hat, dramatically collapses while holding a white cloth. He then flips over, landing on his back, as a toy bear watches from a shelf. The scene ends with a quiet, empty room, suggesting a comedic, exaggerated failure.",
+    "timestamp": "2026-02-23 18:12:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      131,
+      67,
+      459,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a diaper and chef's hat, struggles with a toy house, causing it to collapse. He looks frustrated, then exhausted, as he sits on the floor. A teddy bear watches from a shelf, adding to the comedic chaos. The scene is playful and chaotic, highlighting Tom's clumsy antics.",
+    "timestamp": "2026-02-23 18:13:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      131,
+      67,
+      459,
+      400
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a diaper and chef’s hat, energetically knocks over a toy house, sending it tumbling. His expression shifts from focused to surprised as the house collapses. A teddy bear sits calmly on a counter nearby, unaffected. The scene is set in a child’s room with soft colors and toys, emphasizing Tom’s playful chaos and the innocence of the surroundings. The action is exaggerated and cartoonish, capturing Tom’s mischievous spirit.",
+    "timestamp": "2026-02-23 18:13:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      12,
+      127,
+      395,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black-and-white cat with a white mask holds various objects, reacting with surprise and annoyance as they spill or malfunction, displaying exaggerated expressions.",
+    "timestamp": "2026-02-23 18:13:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      12,
+      127,
+      395,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat with a white muzzle and ears, wearing a black suit, dramatically reacts to various objects being thrown at him. He flinches, dodges, and expresses shock as items like a bottle, a pink box, and a rose fly past him against a plain backdrop.",
+    "timestamp": "2026-02-23 18:13:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      12,
+      127,
+      395,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat with a white muzzle and ears, wearing a black suit, dances energetically while holding various objects. Its expressions shift from playful to surprised. The background features faint silhouettes of animals, adding whimsy to the scene. The cat’s movements are exaggerated and lively, conveying joy and mischief.",
+    "timestamp": "2026-02-23 18:13:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      12,
+      127,
+      395,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat with a white muzzle and ears, resembling a classic cartoon character, dances energetically. It twirls, extends arms, and reacts to unseen objects tossed at it. Its expressions shift from playful to surprised as colorful items—like a pink box and a blue cube—fly past. The cat’s movements are exaggerated and comedic, capturing the essence of animated slapstick humor with a whimsical, cartoonish flair.",
+    "timestamp": "2026-02-23 18:13:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      14,
+      19,
+      409,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat triumphantly holds a white cloth, standing over a pink-haired mouse. Mouse looks up with a startled expression as the cat dances joyfully above it.",
+    "timestamp": "2026-02-23 18:14:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      14,
+      19,
+      409,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat triumphantly holds a white cloth, standing atop a sleeping gray mouse. The mouse, with pink ears and a grumpy expression, lies beneath a blanket. The cat smiles mischievously, suggesting a playful or mischievous act. The scene is lighthearted and cartoonish.",
+    "timestamp": "2026-02-23 18:14:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      14,
+      19,
+      409,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Smurf, triumphantly holds a white cloth, standing atop a bed where a pink-haired mouse lies defeated. Smurf smiles smugly, one paw raised in victory, while the mouse looks up with a frustrated expression, eyes wide and mouth agape. The scene captures a classic chase-and-capture moment.",
+    "timestamp": "2026-02-23 18:14:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      14,
+      19,
+      409,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Smudge, stands triumphantly atop a bed, holding a white cloth aloft, smiling mischievously. Below, a pink-haired mouse, likely Jerry, lies defeated, eyes wide with shock or fear. Smudge’s playful, confident posture contrasts with Jerry’s distressed expression. The scene captures a classic cartoon dynamic: the cat’s cunning victory over the mouse’s futile resistance, all set against a simple, warm-toned backdrop.",
+    "timestamp": "2026-02-23 18:14:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      73,
+      0,
+      361,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat joyfully holds a plush toy, roaring with excitement. Brown cat lounges nearby, smiling contentedly. Bright window illuminates their playful scene.",
+    "timestamp": "2026-02-23 18:14:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      73,
+      0,
+      361,
+      431
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat joyfully holds a small stuffed animal, roaring with excitement. Beside him, a brown cat with a red hat lies on the floor, smiling contentedly. The scene captures playful energy and camaraderie between the two feline characters in a sunlit room.",
+    "timestamp": "2026-02-23 18:14:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      73,
+      0,
+      361,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat joyfully holds a stuffed toy, roaring with delight. Beside him, a brown cat with a red hat lies on the floor, smiling and watching. The scene is bright, with sunlight streaming through a window, capturing playful, animated expressions and a lighthearted, cartoonish energy.",
+    "timestamp": "2026-02-23 18:15:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      73,
+      0,
+      361,
+      431
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat joyfully holds a small, gray mouse, roaring with delight. Beside him, a brown cat with a red hat lies on the floor, smiling mischievously. The black cat’s expression shifts from wild excitement to playful satisfaction as he swings the mouse. The scene is bright and comedic, capturing classic cartoon charm with exaggerated expressions and dynamic movement. The background features a window with greenery, adding a cheerful, domestic setting to their antics.",
+    "timestamp": "2026-02-23 18:15:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      49,
+      80,
+      463,
+      408
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Three cats—black, brown, and gray—rest on a counter. They show varied expressions: curious, surprised, and playful, with the black cat appearing mischievous.",
+    "timestamp": "2026-02-23 18:15:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      49,
+      80,
+      463,
+      408
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Three cats—black, brown, and gray—rest on a counter, displaying varied expressions. The black cat looks stern, the brown cat smirks, and the gray one appears surprised. They shift positions, with the brown cat suddenly leaping forward, while the others react with wide-eyed astonishment.",
+    "timestamp": "2026-02-23 18:15:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      49,
+      80,
+      463,
+      408
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Three cartoon cats—black, brown, and gray—rest on a countertop, displaying playful expressions. The black cat leaps, startling the others. All appear amused, with wide eyes and open mouths, suggesting surprise or delight. Their dynamic poses and animated faces convey lighthearted mischief and camaraderie in this classic animated scene.",
+    "timestamp": "2026-02-23 18:15:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      49,
+      80,
+      463,
+      408
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Three cartoon cats—black, brown, and gray—rest on a countertop, displaying playful expressions. The black cat, with a mischievous grin, leans forward. The brown cat, sporting a red hat, looks alert. The gray cat, smaller and curious, sits between them. Suddenly, the black cat leaps, startling the others, who react with surprise and wide-eyed shock. Their exaggerated facial expressions and dynamic poses convey comedic chaos and playful energy.",
+    "timestamp": "2026-02-23 18:15:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      70,
+      0,
+      511,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat joyfully explores a toy room, jumping over blocks, interacting with a record player, and displaying playful excitement as he navigates the colorful, cluttered space.",
+    "timestamp": "2026-02-23 18:16:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      70,
+      0,
+      511,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the brown mouse, peeks from behind a red curtain, then joyfully leaps into a toy room. He dances near a record player, smiling widely. The scene is playful, with colorful toys and blocks around him, capturing his energetic and delighted spirit.",
+    "timestamp": "2026-02-23 18:16:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      70,
+      0,
+      511,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a red curtain, smiling mischievously. He then leaps onto a record player, spinning joyfully. The scene shifts to a toy room where Tom, now smaller, dances playfully among toys, his tail swishing with delight, eyes wide with excitement.",
+    "timestamp": "2026-02-23 18:16:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      70,
+      0,
+      511,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with wide eyes and a joyful grin, peeks from behind a red curtain, then leaps into a toy room. He joyfully dances near a record player, then pauses to admire a rocking horse and alphabet blocks. His expression shifts from playful excitement to curiosity as he explores the colorful, cluttered space, embodying youthful wonder and mischief. The room’s vibrant toys and cheerful lighting enhance his animated, carefree spirit.",
+    "timestamp": "2026-02-23 18:16:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      17,
+      76,
+      276,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat joyfully dances, lifting a baby cat in a red carriage. Baby cat reacts with surprise, then laughter. Both cats exhibit playful, energetic expressions.",
+    "timestamp": "2026-02-23 18:16:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      17,
+      76,
+      276,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat joyfully dances, arms raised, while a gray cat in a pink bonnet sits in a red chair, startled by a balloon. The black cat playfully grabs the gray cat, laughing, as the scene unfolds in a child’s room with toys on the wall. Their expressions convey mischief and delight.",
+    "timestamp": "2026-02-23 18:17:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      17,
+      76,
+      276,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat joyfully dances, arms raised, as a gray cat in a diaper sits in a red baby carriage. The black cat grabs the gray cat, lifting it playfully, while the gray cat screams in distress. The scene is lighthearted, with exaggerated expressions and cartoonish movements.",
+    "timestamp": "2026-02-23 18:17:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      17,
+      76,
+      276,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, gleefully mischievous, dances around a baby in a red carriage. The baby, wearing a pink bonnet and diaper, is startled by the cat’s antics, flailing and crying. The cat, with wide eyes and a grin, playfully grabs the baby’s head, then leaps back, arms raised in triumph. The room, adorned with toys and soft colors, highlights the chaotic yet joyful interaction between the two characters. The cat’s antics are pure delight, while the baby’s distress adds comic contrast.",
+    "timestamp": "2026-02-23 18:17:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      162,
+      105,
+      449,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cat in yellow overalls hangs upside down from a window ledge, while a small brown mouse peeks from behind, both displaying playful, curious expressions.",
+    "timestamp": "2026-02-23 18:17:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      162,
+      105,
+      449,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A yellow-clad cat hangs upside down from a windowsill, tail twitching, while a small brown mouse peeks curiously from the side. The cat appears relaxed, eyes half-closed, as the mouse watches intently, creating a playful, suspenseful moment between the two.",
+    "timestamp": "2026-02-23 18:17:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      162,
+      105,
+      449,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A yellow cat, wearing blue socks, hangs upside-down from a window sill, tail twitching. A small brown mouse peers from behind, curious. The cat’s expression is calm, while the mouse appears cautious, observing the cat’s antics with intrigue. The scene captures a classic chase, frozen in suspense.",
+    "timestamp": "2026-02-23 18:17:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      162,
+      105,
+      449,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A yellow-clad cat, wearing white socks, hangs upside down from a wooden ledge, tail twitching. A small brown mouse peeks from behind, watching with curiosity. The cat’s expression is calm, almost amused, while the mouse appears cautious. The scene transitions to a dimly lit room with a table and curtains, hinting at a playful chase or misadventure. The cat’s posture suggests readiness, perhaps to pounce or retreat, as the mouse remains alert and observant.",
+    "timestamp": "2026-02-23 18:17:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      213,
+      0,
+      510,
+      366
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A child in a yellow dress stands near a door, pointing. A doll lies on the floor nearby. The scene suggests a quiet, domestic moment with no visible expressions or emotions from the characters.",
+    "timestamp": "2026-02-23 18:18:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      213,
+      0,
+      510,
+      366
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A young girl in a yellow dress and black shoes stands near a doorway, pointing. A doll lies on the floor nearby. The scene transitions to show a wooden table with a teapot and cup, suggesting a domestic setting. The girl’s posture indicates curiosity or direction.",
+    "timestamp": "2026-02-23 18:18:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      213,
+      0,
+      510,
+      366
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A young girl in a yellow dress and black shoes stands near a door, pointing. A doll lies on the floor nearby. The scene shifts to show a wooden table with a teapot, suggesting a domestic setting. The girl’s posture implies curiosity or intent, while the doll remains motionless, hinting at quiet observation or play.",
+    "timestamp": "2026-02-23 18:18:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      213,
+      0,
+      510,
+      366
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A young girl in a yellow dress and black shoes stands near a doorway, pointing with her right hand. She wears white socks and has a red bracelet. A doll lies on the floor nearby, beside a red toy wagon. The scene shifts to show a wooden table with a teapot and cup, a chair, and a small window. The girl appears curious or playful, possibly about to leave or explore. The setting suggests a cozy, child-friendly interior.",
+    "timestamp": "2026-02-23 18:18:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      99,
+      55,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a diaper and pink bow, playfully chases Jerry, who runs away. Tom’s expression shifts from playful to surprised as Jerry dodges him in a cartoonish, chaotic chase.",
+    "timestamp": "2026-02-23 18:19:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      99,
+      55,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a diaper and pink bonnet, playfully chases Jerry, also diapered, through a room. Tom lunges, Jerry dodges, and a teddy bear watches from a shelf. Their expressions show mischief and delight as they engage in classic cartoon antics, full of slapstick humor and exaggerated movements.",
+    "timestamp": "2026-02-23 18:19:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      99,
+      55,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a diaper and pink bonnet, playfully chases Jerry, who’s also diapered and running. Tom’s expression shifts from mischievous to exhausted as he tumbles backward. Jerry leaps joyfully, while a teddy bear watches from the shelf, adding to the comedic chaos of their diapered antics.",
+    "timestamp": "2026-02-23 18:19:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      99,
+      55,
+      448,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the grey cat, wears a pink bonnet and diaper, lying on his back with a smug expression. Jerry, the brown mouse, runs past him, giggling. Tom suddenly lunges forward, arms outstretched, as if chasing Jerry. The scene shifts to Tom lying on his side near a toy house, eyes closed, appearing exhausted or defeated. Jerry’s playful antics contrast with Tom’s comical, diapered clumsiness. The setting is a cozy, childlike room with a teddy bear and colorful toys.",
+    "timestamp": "2026-02-23 18:19:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      26,
+      113,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat with white mask and ears, arms outstretched, then turns to face viewer. Expresses surprise or alarm with wide eyes and open mouth.",
+    "timestamp": "2026-02-23 18:19:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      26,
+      113,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a white mask and bow tie strikes a dramatic pose, arms outstretched. It then leaps, revealing a comically oversized, pink, flower-like tail. The cat's wide eyes and exaggerated gestures convey playful mischief and theatrical flair.",
+    "timestamp": "2026-02-23 18:19:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      26,
+      113,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with wide eyes and a white scarf stands, arms outstretched, appearing startled or defensive. In the next frame, it's in a dynamic pose, mid-action, possibly dodging or attacking. The background shows a faint elephant silhouette, adding surreal context to the cat’s exaggerated, cartoonish movements.",
+    "timestamp": "2026-02-23 18:19:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      26,
+      113,
+      307,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with white muzzle and ears, wearing a white scarf, stands with arms outstretched, looking startled. In the next frame, it's caught mid-air, tumbling backward as a gray cat with a pink flower on its head leaps toward it. The black cat’s eyes widen in surprise, and its paws are splayed as it falls, hinting at chaotic, comedic action. The scene is playful and cartoonish, capturing a moment of slapstick mischief.",
+    "timestamp": "2026-02-23 18:20:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      250,
+      164,
+      506,
+      393
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat sneaks into a room, finds Jerry in a red baby carriage, and playfully pounces on him, causing Jerry to wake up startled.",
+    "timestamp": "2026-02-23 18:20:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      250,
+      164,
+      506,
+      393
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sneaks into a baby's room, startling a sleeping Tom. He then playfully interacts with the baby, who is in a red cradle. Tom's expressions shift from mischievous to amused as he leans over the baby, creating a humorous, lighthearted scene.",
+    "timestamp": "2026-02-23 18:20:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      250,
+      164,
+      506,
+      393
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, sneaks into a baby’s crib where a sleeping gray mouse, Jerry, lies. Tom sniffs, then pounces, startling Jerry. Jerry wakes, wide-eyed, as Tom growls, then retreats, tail flicking. The room is cozy with toys and soft lighting.",
+    "timestamp": "2026-02-23 18:20:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      250,
+      164,
+      506,
+      393
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, sneaks into a nursery, where a gray mouse, Jerry, sleeps in a red baby carriage. Tom sniffs Jerry, then growls menacingly, but Jerry remains asleep. Tom pounces, knocking over a toy, then lies beside Jerry, panting with a mischievous grin. Jerry, oblivious, continues dreaming, while Tom’s antics suggest playful mischief. The room, with its soft toys and pastel walls, contrasts the cats’ chaotic energy.",
+    "timestamp": "2026-02-23 18:20:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      48,
+      70,
+      417,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat, wearing a white bandage over its face, sits with a baby. It looks surprised, then smiles, adjusting the bandage while holding the baby.",
+    "timestamp": "2026-02-23 18:21:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      48,
+      70,
+      417,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with a white bandana covers its mouth, then laughs while holding a baby. The cat’s expressions shift from joy to surprise as it interacts with the baby, showcasing playful and exaggerated emotions typical of classic animation. The background features faint animal silhouettes.",
+    "timestamp": "2026-02-23 18:21:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      48,
+      70,
+      417,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, wearing a white cloth mask, sits with a baby in arms. It smiles, then raises paws in delight, then lowers them, eyes wide with playful mischief. The background features faint silhouettes of animals, adding whimsy to the scene. The cat’s expressions shift from joy to surprise, conveying charm and humor.",
+    "timestamp": "2026-02-23 18:21:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      48,
+      70,
+      417,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, wearing a white cloth mask, sits with a baby in its arms. The cat’s eyes widen in surprise as it looks around, then it shrugs, adjusting the mask. Its expression shifts from startled to amused. In the background, faint silhouettes of a camel and an elephant suggest a surreal, desert-like setting. The cat’s playful demeanor and the baby’s soft presence create a whimsical, lighthearted scene.",
+    "timestamp": "2026-02-23 18:21:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      158,
+      43,
+      437,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a diaper and pink bow, dances energetically, then sits down, smiling. He’s in a child’s room with toys and a dollhouse.",
+    "timestamp": "2026-02-23 18:21:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      158,
+      43,
+      437,
+      447
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a diaper and pink bow, dances joyfully, then sits down smiling. A ghostly figure appears, revealing a baby Tom in a stroller. The scene suggests playful, whimsical antics with a touch of surrealism, highlighting Tom’s mischievous and endearing nature.",
+    "timestamp": "2026-02-23 18:21:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      158,
+      43,
+      437,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a diaper and pink bow, dances energetically then sits, smiling. The scene shifts to a blurry, overlapping image of him in a red chair, suggesting a dream or memory. His joyful expression and playful movements convey lightheartedness and whimsy.",
+    "timestamp": "2026-02-23 18:21:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      158,
+      43,
+      437,
+      447
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wearing a diaper and a pink bow, dances energetically in a child’s room, then sits down, looking smug. He holds his chin thoughtfully, eyes gleaming. The scene shifts to a blurry, dreamlike overlay of a baby carriage and a yellow-clad figure, suggesting a surreal or whimsical transition. The room features a toy house, a window with pink curtains, and a ball, evoking a playful, nostalgic atmosphere. Tom’s expressions shift from playful to contemplative, hinting at mischief or reflection.",
+    "timestamp": "2026-02-23 18:21:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      247,
+      151,
+      511,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, lies on his back, eyes closed, near a dollhouse labeled \"MEASLES.\" He appears exhausted or defeated, with a teddy bear watching from a windowsill.",
+    "timestamp": "2026-02-23 18:22:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      247,
+      151,
+      511,
+      478
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, looking up at a dollhouse labeled \"MEASLES.\" He appears confused or concerned, with his paws stretched out. A red mallet rests nearby, and a teddy bear sits on a shelf, observing the scene. The setting is a child’s room with toys and decorations.",
+    "timestamp": "2026-02-23 18:22:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      247,
+      151,
+      511,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, eyes closed, as a pink pillow rests on his head. He appears relaxed or asleep near a dollhouse labeled \"MEASLES,\" with a teddy bear watching from a windowsill. The scene is calm, with soft colors and playful cartoon elements.",
+    "timestamp": "2026-02-23 18:22:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      247,
+      151,
+      511,
+      478
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, pink scarf draped over his head, looking dazed. He slowly rolls onto his stomach, then crawls toward a toy house labeled “MEASLES.” A red mallet lies nearby. A teddy bear sits on a shelf, watching. Tom’s expression shifts from tired to curious as he approaches the house, suggesting he’s investigating the illness sign. The scene is playful and cartoonish, with soft pastel colors and whimsical details.",
+    "timestamp": "2026-02-23 18:22:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      86,
+      0,
+      292,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A young girl in a yellow dress and black shoes stands near a door, gesturing with her hands. She appears curious or excited, possibly about to leave or interact with someone.",
+    "timestamp": "2026-02-23 18:23:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      86,
+      0,
+      292,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A young girl in a yellow dress and black shoes stands near a door, gesturing with her hands. She appears curious or hesitant. A colorful toy cart is nearby. The scene suggests anticipation or a moment of decision as she prepares to move or interact with her surroundings.",
+    "timestamp": "2026-02-23 18:23:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      86,
+      0,
+      292,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A young girl in a yellow dress and black shoes stands near a door, gesturing with her hands. She appears curious or excited, possibly about to leave or interact with someone. A colorful toy cart is nearby, hinting at playful activity. The scene suggests a moment of anticipation or decision.",
+    "timestamp": "2026-02-23 18:23:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      86,
+      0,
+      292,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A young girl in a yellow dress with white trim and black shoes stands indoors, gesturing with her hands as if explaining something. Her posture is animated, suggesting excitement or urgency. She turns slightly, revealing a red bracelet on her wrist. A colorful toy cart is nearby, hinting at playful activity. The scene is bright and cheerful, capturing a moment of youthful energy and curiosity as she engages with her surroundings.",
+    "timestamp": "2026-02-23 18:23:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      249,
+      94,
+      504,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat Tom joyfully approaches baby rabbit in red crib, playfully holding a coin, while rabbit sleeps peacefully beneath a blanket.",
+    "timestamp": "2026-02-23 18:23:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      249,
+      94,
+      504,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully approaches a sleeping Jerry in a red crib, then lifts a milk bottle, dripping with milk, and pours it over Jerry’s head, causing him to wake up startled and annoyed. Tom beams with mischief and triumph.",
+    "timestamp": "2026-02-23 18:23:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      249,
+      94,
+      504,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A mischievous black cat, Tom, gleefully stands beside a red baby carriage, holding a cup. Inside, a tiny gray rabbit, Jerry, sleeps peacefully under a blanket. Tom’s grin suggests playful mischief, while Jerry remains oblivious to his antics. The scene exudes classic cartoon charm and humor.",
+    "timestamp": "2026-02-23 18:23:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      249,
+      94,
+      504,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A mischievous black cat, Tom, stands beside a red baby carriage, gleefully holding a spoonful of milk. Inside, a sleepy gray rabbit, Jerry, lies under a blanket, eyes half-closed. Tom’s grin widens as he prepares to feed Jerry, but Jerry’s eyes snap open in alarm. The room, with its soft pastel walls and toys, hints at a nursery setting, amplifying the comedic tension as Tom’s playful antics contrast with Jerry’s startled reaction.",
+    "timestamp": "2026-02-23 18:23:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      181,
+      0,
+      451,
+      401
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a yellow outfit, stands over a baby crib, holding a bottle. He appears focused, possibly preparing to feed the baby, while the crib's occupant sleeps peacefully.",
+    "timestamp": "2026-02-23 18:24:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      181,
+      0,
+      451,
+      401
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat in a yellow dress and white gloves stands over a red baby carriage, holding a baby doll. A blue mouse with a yellow bow sits nearby. The cat appears to be caring for the doll, while the mouse watches curiously, both in a playful, animated setting.",
+    "timestamp": "2026-02-23 18:24:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      181,
+      0,
+      451,
+      401
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat in a yellow dress and white gloves stands beside a red baby crib, holding a baby doll. The cat looks down with a playful expression, while a small stuffed toy sits nearby. The room is cozy, with toys scattered around, suggesting a playful, nurturing scene.",
+    "timestamp": "2026-02-23 18:24:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      181,
+      0,
+      451,
+      401
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat in a yellow dress and white gloves stands beside a red baby carriage, gently patting a sleeping baby. A blue mouse with a pink hat watches nearby, holding a small object. The room is cozy, with toys scattered around. The cat’s expression is tender and caring as it leans over the carriage, while the mouse appears curious and attentive. The scene exudes warmth and affection, capturing a quiet, nurturing moment between the characters.",
+    "timestamp": "2026-02-23 18:24:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      287,
+      65,
+      481,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat smirks, then Tom, in diaper and bonnet, blows a giant bubble. Tom’s eyes widen in surprise as the bubble expands, capturing his startled expression.",
+    "timestamp": "2026-02-23 18:25:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      287,
+      65,
+      481,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat smirks, standing over a grey cat in a diaper, who's surprised and flustered. The grey cat blows a large bubble, then gasps as it pops, revealing a comically exaggerated, floating yellow bubble. The black cat laughs mischievously, enjoying the chaos.",
+    "timestamp": "2026-02-23 18:25:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      287,
+      65,
+      481,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat stands confidently, then lunges at a gray cat in a diaper, who reacts with shock. The gray cat blows a giant bubble, filling the frame. Their expressions shift from playful to startled, capturing a classic cartoon chase with exaggerated, comedic movements and vibrant, animated charm.",
+    "timestamp": "2026-02-23 18:25:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E12 - Baby Puss (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      287,
+      65,
+      481,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, smug and confident, stands beside a gray cat in a diaper, wearing a pink bonnet. The gray cat, surprised and alarmed, blows a large bubble gum bubble that grows to dominate the frame. The black cat watches with a mischievous grin, seemingly amused by the gray cat’s predicament. The scene is set in a cozy room with soft colors and playful decor, capturing a classic cartoon moment of slapstick humor and exaggerated expressions.",
+    "timestamp": "2026-02-23 18:25:13"
+  }
+]

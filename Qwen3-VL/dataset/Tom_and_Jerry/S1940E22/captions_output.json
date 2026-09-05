@@ -1,0 +1,1290 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      287,
+      1,
+      504,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom watches as Jerry plays drum and maracas beside a sleeping dog. Tom then grabs the drum, startling Jerry, who looks up in surprise.",
+    "timestamp": "2026-02-23 19:57:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      287,
+      1,
+      504,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom stands over a sleeping dog, watching Jerry play a drum and maraca. Jerry’s joyful antics annoy Tom, who then grabs the drum, throws it, and stomps in frustration. The dog remains asleep, unaware of the chaos. Tom’s expression shifts from annoyance to anger.",
+    "timestamp": "2026-02-23 19:57:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      287,
+      1,
+      504,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, stands sternly beside a sleeping dog, while Jerry, the brown mouse, playfully taps a drum. Tom glares, annoyed, as Jerry dances with a tambourine. The scene captures their classic rivalry, with Jerry’s mischief contrasting Tom’s exasperation in a cozy, cartoonish setting.",
+    "timestamp": "2026-02-23 19:57:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      287,
+      1,
+      504,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, stands with arms crossed, glaring at Jerry, the brown mouse, who plays a drum beside a sleeping bulldog. Jerry, cheerful and mischievous, taps the drum and a maraca, delighting Tom’s annoyance. Tom’s expression shifts from irritation to playful rage as he grabs the drum, tossing it aside. The bulldog snoozes peacefully, oblivious to the chaos. The scene captures classic slapstick humor and Tom’s ever-present frustration with Jerry’s antics.",
+    "timestamp": "2026-02-23 19:57:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      184,
+      3,
+      454,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, wields a hammer, chasing Jerry, a brown mouse, who holds a large mallet. Tom laughs triumphantly as Jerry dodges, showcasing their classic chase dynamic.",
+    "timestamp": "2026-02-23 19:59:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      184,
+      3,
+      454,
+      441
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a hammer menacingly, chasing Jerry, the brown mouse. Jerry dodges, grabs the hammer, and retaliates. Tom's expressions shift from rage to surprise as Jerry outwits him. Their antics unfold in a cozy room with furniture and curtains.",
+    "timestamp": "2026-02-23 19:59:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      184,
+      3,
+      454,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a hammer, chasing Jerry, the brown mouse. Jerry dodges, grabs the hammer, and swings it back, surprising Tom. Tom’s expression shifts from anger to shock as Jerry stands defiantly, hammer raised, in a classic chase scene full of slapstick humor and mischievous antics.",
+    "timestamp": "2026-02-23 19:59:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      184,
+      3,
+      454,
+      441
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, brandishes a hammer, chasing Jerry, the small brown mouse. Jerry, agile and clever, dodges Tom’s attacks, even grabbing the hammer mid-air. Tom, determined and slightly comically overconfident, swings the hammer wildly, but Jerry outmaneuvers him, causing Tom to stumble. Their chase is filled with slapstick humor, as Tom’s expressions shift from rage to surprise, while Jerry’s remain focused and mischievous, embodying classic cartoon antics.",
+    "timestamp": "2026-02-23 19:59:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      507,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, playfully rides a bomb on a dog, Jerry, who lies peacefully. Tom's expressions shift from mischievous to startled as sparks fly from the bomb.",
+    "timestamp": "2026-02-23 20:00:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      507,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat playfully mounts a sleeping dog, Jerry, while a red bomb with a lit fuse rests on Jerry’s back. Tom laughs, then panics as sparks fly from the fuse, causing him to leap back in surprise. The dog remains blissfully unaware, lying on a cushion.",
+    "timestamp": "2026-02-23 20:00:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      507,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat playfully rides a sleeping dog, Jerry, while holding a red firecracker. Tom’s expression shifts from amused to startled as sparks fly. Jerry remains blissfully unaware, lying on a cushion. The scene is lighthearted, showcasing Tom’s mischievous antics in a classic cartoon style.",
+    "timestamp": "2026-02-23 20:00:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      507,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, in black and white, playfully rides a red firecracker strapped to Spike the dog, who lies on a purple cushion. Tom’s expression shifts from amused to startled as sparks fly from the firecracker. Spike remains calm, eyes half-closed. Tom then sits atop Spike, laughing as the firecracker’s fuse burns. The scene unfolds in a cozy room with a fireplace, capturing their mischievous, comedic antics.",
+    "timestamp": "2026-02-23 20:00:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom watches as Jerry stands on a pillow between a sleeping dog and himself. Jerry looks scared, then defiantly jumps away as Tom laughs triumphantly.",
+    "timestamp": "2026-02-23 20:00:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      506
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat watches as Jerry the mouse stands on a pillow, holding a dog’s tongue. The dog, drooling, struggles to bite Jerry. Tom laughs, enjoying the chaos. Jerry’s determined expression contrasts with the dog’s frantic attempts to catch him.",
+    "timestamp": "2026-02-23 20:00:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat watches as Jerry the mouse stands on a purple cushion, between a sleeping dog and himself. The dog snores, unaware. Tom smirks, then laughs as Jerry playfully jumps, startled. Their classic rivalry shines through in their expressions and antics.",
+    "timestamp": "2026-02-23 20:01:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      1,
+      0,
+      510,
+      506
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, panting dog lies on a purple cushion, mouth wide open, revealing a tiny mouse inside. Tom the cat watches with narrowed eyes, then suddenly laughs as the mouse leaps out, startling the dog. The mouse, now free, stands upright, looking defiant. Tom’s expression shifts from amusement to surprise as the dog’s mouth closes, leaving the mouse safely out of reach. The scene captures classic cartoon chaos and slapstick humor.",
+    "timestamp": "2026-02-23 20:01:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      195,
+      2,
+      511,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, stands large and menacing, while Jerry, the mouse, scurries nervously toward a wall-mounted device, seemingly trying to escape or avoid Tom's looming presence.",
+    "timestamp": "2026-02-23 20:01:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      195,
+      2,
+      511,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, stands large and menacing, while Jerry, the mouse, cautiously approaches a golden wall panel. Jerry touches it, triggering a burst of energy that sends him flying backward. Tom remains still, observing with a mix of surprise and amusement.",
+    "timestamp": "2026-02-23 20:01:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      195,
+      2,
+      511,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the large black-and-white cat, lies on his back, while Jerry, the small brown mouse, approaches a golden wall-mounted device. Jerry presses it, causing a bright flash. Tom remains motionless, seemingly unaware or unbothered by Jerry’s antics. The scene captures their classic dynamic of pursuit and evasion.",
+    "timestamp": "2026-02-23 20:01:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      195,
+      2,
+      511,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the large black-and-white cat with blue ears and a flower on his chest, stands menacingly. Jerry, the small brown mouse, cautiously approaches a golden wall-mounted device. He presses it, triggering a bright flash. Tom reacts with surprise, his body recoiling as the light explodes outward. Jerry flees, his tail twitching in fear, while Tom remains startled, eyes wide, as the scene ends abruptly. The tension and slapstick humor are palpable.",
+    "timestamp": "2026-02-23 20:01:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      47,
+      453,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat laughs triumphantly while perched on a relaxed, sleeping Jerry the mouse, who appears blissfully unaware of his predicament.",
+    "timestamp": "2026-02-23 20:02:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      47,
+      453,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully rides on Jerry, the gray mouse, who’s lying on his back. Tom laughs maniacally, while Jerry looks annoyed and tries to squirm free. Their expressions convey playful chaos, capturing the classic cat-and-mouse dynamic with exaggerated cartoon energy.",
+    "timestamp": "2026-02-23 20:02:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      47,
+      453,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully rides on Jerry, the mouse, who lies on his back, laughing. Tom’s eyes widen in delight, while Jerry’s expression shifts from playful to slightly amused. Their antics unfold in a cozy room, capturing their classic mischievous friendship and comedic chaos.",
+    "timestamp": "2026-02-23 20:02:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      1,
+      47,
+      453,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully rides on a large, gray dog, Squeaky, who lies on its back. Tom laughs with wide eyes and a red mouth, delighting in the chaos. Squeaky, with a black nose and purple ears, wiggles and squirms, eyes half-closed in playful submission. The scene unfolds in a cozy room with a brick fireplace, capturing their classic mischievous antics and the timeless humor of their dynamic.",
+    "timestamp": "2026-02-23 20:02:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      64,
+      101,
+      497,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a red firecracker, sparking it near the bulldog, who lies on a pillow. Tom then drops it, causing the dog to react with surprise and fear as smoke rises.",
+    "timestamp": "2026-02-23 20:03:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      64,
+      101,
+      497,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom holds a red firecracker, grinning as it sparks. Jerry, the bulldog, lies on a cushion, initially calm. As the firecracker ignites, Jerry flinches, then Tom laughs triumphantly. Jerry’s expression shifts to annoyance as Tom dances away, leaving him alone.",
+    "timestamp": "2026-02-23 20:04:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      64,
+      101,
+      497,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, holds a red firecracker near a sleeping bulldog, Spike. As sparks fly, Tom laughs mischievously, then jumps back. Spike, startled, yelps and rolls away as the firecracker explodes, leaving Tom gleeful and Spike dazed on the floor.",
+    "timestamp": "2026-02-23 20:04:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      64,
+      101,
+      497,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, holds a red firecracker near a sleeping bulldog, Spike. As the fuse burns, Spike growls and flinches. Tom, amused, drops the firecracker, which explodes in a burst of sparks. Spike is startled, then smirks as he lies on a cushion. Tom laughs, then leaps away, leaving Spike dazed and smoldering from the blast. The scene ends with Tom’s triumphant grin and Spike’s resigned expression.",
+    "timestamp": "2026-02-23 20:04:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      99,
+      115,
+      424,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, is startled, then laughs, sits back, and playfully interacts with a small pink creature holding a spoon, showing joy and mischief.",
+    "timestamp": "2026-02-23 20:04:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      99,
+      115,
+      424,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, is startled, then laughs joyfully. He sits, paws up, then leaps over a table. His expression shifts from surprise to delight. The scene is simple, cartoonish, with a green floor and plain background. His antics are exaggerated and playful.",
+    "timestamp": "2026-02-23 20:04:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      99,
+      115,
+      424,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, lies defeated, then leaps joyfully, only to collapse again in surprise. He sits upright, smiling as Jerry, the mouse, holds a spoon. Tom’s expressions shift from shock to delight, capturing their classic chase-and-escape dynamic in a playful, cartoonish world.",
+    "timestamp": "2026-02-23 20:05:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      99,
+      115,
+      424,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, is startled, sitting upright with wide eyes and an open mouth. He then leaps dramatically, flailing limbs, before landing on his back with a surprised expression. He sits again, now smiling, as a small pink mouse with a red spoon appears beside him, seemingly amused. Tom’s expressions shift from shock to playful delight, capturing his classic mischievous charm in this animated scene.",
+    "timestamp": "2026-02-23 20:05:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      487,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, gleefully grabs a frying pan and spoon, mocking Jerry, the mouse, who stands defiantly with his own utensils, both displaying playful aggression.",
+    "timestamp": "2026-02-23 20:05:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      487,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, gleefully swings a spatula and spoon at Jerry, the mouse, who holds them defensively. Jerry looks terrified as Tom laughs. The scene captures their classic rivalry, with Tom’s mischievous grin and Jerry’s anxious stance, set against a simple indoor backdrop.",
+    "timestamp": "2026-02-23 20:05:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      487,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully swings a spatula and spoon at Jerry, the small brown mouse, who holds them defensively. Jerry looks terrified, while Tom laughs maniacally. Their antics unfold in a simple room, showcasing classic cartoon chaos and slapstick humor.",
+    "timestamp": "2026-02-23 20:05:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      487,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully swings a frying pan and spoon, mocking Jerry, the small brown mouse. Jerry, armed with a spoon, stands defiantly, then drops the utensils in alarm as Tom laughs. Tom’s expression shifts from playful to triumphant, while Jerry looks terrified yet determined. The scene unfolds in a simple room with green flooring and a pillar, capturing their classic rivalry with exaggerated cartoon expressions and movements.",
+    "timestamp": "2026-02-23 20:05:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      266,
+      377
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, leaps with a grin, wielding a spatula and spoon. Jerry, the mouse, stands defiantly, then shrinks back in fear as Tom laughs triumphantly.",
+    "timestamp": "2026-02-23 20:06:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      266,
+      377
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, stands menacingly, holding a spatula and spoon, while Jerry, the mouse, holds a frying pan. Tom laughs triumphantly, then playfully swings the utensils. Jerry looks scared but determined, standing small and defiant against Tom's imposing size. Their classic chase begins with humor and tension.",
+    "timestamp": "2026-02-23 20:06:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      266,
+      377
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, grinning, leaps toward Jerry the mouse, who wields a frying pan and spoon. Jerry, startled, drops his tools as Tom playfully swings them. Jerry looks terrified, while Tom laughs mischievously, showcasing their classic chase dynamic in a cartoonish, exaggerated style.",
+    "timestamp": "2026-02-23 20:06:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0010_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      3,
+      0,
+      266,
+      377
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands menacingly, eyes gleaming. Jerry the mouse, brown and agile, holds a frying pan and spoon, bracing for battle. Tom lunges, snatching the utensils with a grin. Jerry, startled, drops them, trembling. Tom laughs triumphantly, then pauses, eyes narrowing with playful menace. The scene captures their classic rivalry: Tom’s cunning dominance and Jerry’s desperate wit, set against a simple green floor and white wall.",
+    "timestamp": "2026-02-23 20:06:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      175,
+      252,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A sleepy puppy rests on a pillow. Tom the cat leaps down, startling him. The puppy looks surprised, while Tom appears mischievous, holding a blue bottle.",
+    "timestamp": "2026-02-23 20:07:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      175,
+      252,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A sleepy puppy rests on a purple pillow. Tom the cat leaps down, startling the puppy, who flinches. Tom, with a mischievous grin, holds a blue bottle above the puppy, causing a spark to erupt beneath them. Both characters display exaggerated expressions of surprise and amusement.",
+    "timestamp": "2026-02-23 20:07:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      175,
+      252,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A sleepy puppy rests on a purple pillow. Tom the cat leaps dramatically, knocking a blue bottle onto the puppy. The puppy flinches, eyes wide, as the bottle explodes nearby. Tom, startled, looks on with a mischievous grin, reveling in his antics.",
+    "timestamp": "2026-02-23 20:07:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      175,
+      252,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A sleepy, light-brown puppy lies on a purple pillow, eyes half-closed. Suddenly, Tom the cat leaps dramatically, landing upside-down on the puppy, causing a spark to burst beneath them. Tom’s expression shifts from surprise to mischief as he balances on the puppy’s back, both characters now comically tangled, eyes wide with exaggerated shock and amusement. The scene captures their classic slapstick comedy, filled with cartoonish energy and chaotic charm.",
+    "timestamp": "2026-02-23 20:07:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      45,
+      0,
+      473,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat flips upside down, dropping a blue bulb, startling Jerry the mouse who lies on a pillow, eyes wide with surprise as sparks fly from the bulb.",
+    "timestamp": "2026-02-23 20:08:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      45,
+      0,
+      473,
+      415
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, knocking over a light bulb onto Jerry the mouse, who lies on a pillow. Jerry’s eyes widen in shock as the bulb explodes. Tom’s expression shifts to delight, while Jerry’s is one of startled confusion. Their antics showcase classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 20:08:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      45,
+      0,
+      473,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, upside-down with a blue bulb on his head, leaps over a purple pillow where Jerry the mouse lies. Jerry looks startled. Tom lands with a spark, both characters displaying comedic chaos in a classic cartoon scene.",
+    "timestamp": "2026-02-23 20:08:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0013_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      45,
+      0,
+      473,
+      415
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, black and white, joyfully leaps above Jerry the mouse, who lies on a purple cushion, eyes wide with surprise. Tom’s tail wags as he hurls a blue bulb, which lands near Jerry’s head, sparking a burst of light. Jerry, startled, flinches, while Tom beams with delight, his expression gleeful. The scene unfolds in a cozy room with green carpet and white pillars, capturing their classic comedic chase.",
+    "timestamp": "2026-02-23 20:08:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      109,
+      1,
+      472,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat playfully attacks a bulldog on a cushion, while Jerry the mouse scurries away. The bulldog looks startled and annoyed, with Tom grinning mischievously.",
+    "timestamp": "2026-02-23 20:08:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      109,
+      1,
+      472,
+      443
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat playfully chases Jerry the mouse, while a large dog lounges on a cushion, seemingly unaware. Tom leaps and lands on the dog, causing the dog to yawn and stretch. Jerry scurries away, dodging Tom’s antics. The dog remains relaxed, enjoying the chaos.",
+    "timestamp": "2026-02-23 20:08:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      109,
+      1,
+      472,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat playfully leaps over a sleeping bulldog, while Jerry the mouse scurries away. The bulldog, relaxed on a cushion, reacts with surprise as Tom's antics unfold. Their classic chase continues, filled with comedic chaos and mischievous energy in this animated scene.",
+    "timestamp": "2026-02-23 20:08:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      109,
+      1,
+      472,
+      443
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat playfully pounces on a purple cushion, startling a sleepy bulldog who yawns and stretches. A tiny mouse scurries away in panic near the fireplace, while Tom leaps back, tail high, eyes gleaming with mischief. The bulldog, now awake, looks annoyed but amused. The scene captures classic cartoon chaos: Tom’s mischievous energy versus the dog’s lazy, bemused tolerance, all set against a cozy, warmly lit living room.",
+    "timestamp": "2026-02-23 20:09:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      91,
+      510,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, startled and screaming, leaps dramatically while holding a blue bottle. His wide eyes and open mouth convey panic as he dives away from an unseen threat.",
+    "timestamp": "2026-02-23 20:09:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      91,
+      510,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps dramatically, mouth open in shock or excitement. He’s mid-air, one paw raised, as if startled or chasing something. His eyes widen, conveying surprise or urgency. The scene suggests a comedic chase or sudden reaction within a classic cartoon setting.",
+    "timestamp": "2026-02-23 20:09:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      91,
+      510,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, startled, then leaps upward with a blue ball in his paw. His eyes widen, mouth agape, as he soars through the air, showcasing playful chaos and surprise. The scene captures his energetic, comedic antics in a classic cartoon style, full of exaggerated motion and delight.",
+    "timestamp": "2026-02-23 20:09:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      123,
+      91,
+      510,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps dramatically, mouth agape in shock or excitement. He clutches a blue bottle, then suddenly tosses it aside as he soars through the air, limbs flailing. His eyes widen, ears perk up, and his tail flicks wildly. Behind him, a fireplace and wooden furniture frame the scene. The animation captures his frantic, joyful energy as he dashes across the room, embodying classic cartoon chaos and comedic timing.",
+    "timestamp": "2026-02-23 20:09:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      65,
+      3,
+      334,
+      410
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat yawns widely, then dances energetically in a living room, arms flailing, eyes wide, displaying playful excitement and exaggerated cartoonish movements.",
+    "timestamp": "2026-02-23 20:10:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      65,
+      3,
+      334,
+      410
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat yawns widely, then dances energetically in a living room, arms flailing and legs kicking. His expression shifts from sleepy to playful. A pink couch and lamp frame the scene, highlighting his animated, joyful movement.",
+    "timestamp": "2026-02-23 20:10:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      65,
+      3,
+      334,
+      410
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat yawns widely, then springs into a frantic dance, arms flailing and paws kicking. His expression shifts from sleepy to surprised, eyes wide. The cozy living room with a pink couch and lamp remains static as Tom’s energetic antics dominate the scene, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-23 20:10:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      65,
+      3,
+      334,
+      410
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat yawns widely, stretching his body with paws clasped. He then leaps energetically, arms flailing, eyes wide with excitement or surprise. His expression shifts from sleepy to animated, conveying playful chaos. The background features a pink couch and a lamp, emphasizing the cozy, cartoonish setting. Tom’s exaggerated movements and expressive face highlight his mischievous, lively personality, typical of classic animation.",
+    "timestamp": "2026-02-23 20:10:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      293,
+      29,
+      510,
+      372
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, holding a hammer, menacingly approaches Jerry, who's fleeing. A sleeping dog lies nearby. Tom's expression is angry and determined as he prepares to strike.",
+    "timestamp": "2026-02-23 20:10:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      293,
+      29,
+      510,
+      372
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, wields a hammer, menacingly approaching Jerry, the mouse. Jerry, small and frantic, leaps away as Tom lunges. A sleeping dog lies on a cushion nearby, oblivious. Tom’s expression is fierce and determined, while Jerry’s is terrified, showcasing their classic chase dynamic.",
+    "timestamp": "2026-02-23 20:10:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      293,
+      29,
+      510,
+      372
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, brandishes a hammer, menacingly approaching a sleeping dog on a pillow. He then swings the hammer, startling the dog, who jolts awake with wide eyes. Tom’s expression shifts from aggression to surprise as the dog’s startled reaction unfolds.",
+    "timestamp": "2026-02-23 20:10:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      293,
+      29,
+      510,
+      372
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, brandishes a red hammer, menacingly approaching a sleeping bulldog on a purple pillow. As he lunges, the bulldog remains oblivious, eyes closed, unaware of the impending threat. Tom’s expression shifts from rage to surprise as the mouse, Jerry, suddenly appears, dangling from the ceiling. Tom’s startled reaction underscores the absurdity of the situation, highlighting the classic slapstick comedy of their rivalry.",
+    "timestamp": "2026-02-23 20:10:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      42,
+      228,
+      400,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, joyfully juggles blue balloons, eventually getting entangled in them. His expressions shift from delight to surprise as balloons cling to his body.",
+    "timestamp": "2026-02-23 20:11:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      42,
+      228,
+      400,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, in a frantic dance, juggles blue lightbulbs, his expression wild with excitement. Balloons burst around him as he spins, limbs flailing, until he’s engulfed in a chaotic, glowing web of bulbs, laughing maniacally. His antics are pure cartoon chaos, embodying playful, over-the-top energy.",
+    "timestamp": "2026-02-23 20:11:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      42,
+      228,
+      400,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide eyes and an open mouth, joyfully juggles blue lightbulbs, then gets tangled in them. His frantic movements and exaggerated expressions convey delight and chaos as he’s surrounded by the glowing bulbs, spinning and flailing in a comical, cartoonish mess.",
+    "timestamp": "2026-02-23 20:11:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      42,
+      228,
+      400,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, joyfully juggles blue lightbulbs, his eyes wide and mouth open in delight. As he leaps and spins, bulbs attach to his body, creating a comical, bulb-covered spectacle. His frantic movements and exaggerated expressions convey playful chaos. The room’s soft furnishings and curtains frame his antics, emphasizing the whimsical, slapstick nature of his balloon-bulb ballet. Tom’s exuberance and the absurdity of his situation make for a classic cartoon delight.",
+    "timestamp": "2026-02-23 20:11:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      34,
+      439,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat joyfully rides on Jerry the mouse, who's lying on a purple pillow, both displaying playful expressions in a cozy room setting.",
+    "timestamp": "2026-02-23 20:12:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      34,
+      439,
+      484
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully rides on a bulldog, who’s squirming and protesting. Tom’s expression shifts from excitement to playful dominance. The bulldog, wearing a red collar, struggles but can’t escape Tom’s grip. Their antics unfold on a green floor near a fireplace.",
+    "timestamp": "2026-02-23 20:12:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      34,
+      439,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully rides a bulldog, Jerry, atop a purple pillow. Tom's eyes gleam with mischief, while Jerry looks exhausted and annoyed. Their playful antics unfold in a cozy room, capturing classic cartoon chaos and the timeless rivalry between the two.",
+    "timestamp": "2026-02-23 20:12:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      34,
+      439,
+      484
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with wide yellow eyes and a red mouth, joyfully leaps atop a large, grumpy bulldog wearing a red collar. The bulldog, eyes half-closed and tongue out, struggles beneath Tom’s weight, limbs flailing. Tom’s expression shifts from excitement to smug satisfaction as he pounces, then stands triumphantly atop the dog, who lies defeated on a purple pillow. The scene is set in a cozy room with a fireplace and green carpet.",
+    "timestamp": "2026-02-23 20:12:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      30,
+      96,
+      473,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat playfully pounces and tickles Spike the dog, who lies on a pillow. Tom laughs, then walks away holding a bottle, leaving Spike smiling.",
+    "timestamp": "2026-02-23 20:12:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      30,
+      96,
+      473,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat playfully pounces on Spike the dog, who lies on a purple pillow. Tom laughs, then steps back, holding a bottle. Spike remains calm, eyes closed, as Tom dances around him, clearly amused by his antics.",
+    "timestamp": "2026-02-23 20:12:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      30,
+      96,
+      473,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully pounces on Spike the bulldog, who lies peacefully on a purple cushion. Tom playfully taps Spike’s belly, then steps back, smiling triumphantly. Spike remains blissfully unaware, eyes closed, as Tom holds a small bottle, hinting at mischief ahead.",
+    "timestamp": "2026-02-23 20:12:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      30,
+      96,
+      473,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat playfully pounces on Spike the bulldog, who lies peacefully on a purple cushion. Tom dances around, then stops to pat Spike’s belly, smiling mischievously. Spike remains blissfully unaware, eyes closed. Tom then exits, leaving Spike alone. The scene is lighthearted, with Tom’s antics contrasting Spike’s calm demeanor, showcasing classic cartoon humor and their enduring rivalry.",
+    "timestamp": "2026-02-23 20:12:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      169,
+      3,
+      510,
+      367
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, startled, leaps and lands beside a sleeping dog, then stands over it with wide eyes, startled and confused by the dog's stillness.",
+    "timestamp": "2026-02-23 20:13:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      169,
+      3,
+      510,
+      367
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, startled, leaps from under a table, then sits beside a sleeping dog, Spike. He yells, startled, then leans in, eyes wide with shock as Spike opens one eye, revealing a mischievous grin. Tom’s expression shifts from fear to bewilderment.",
+    "timestamp": "2026-02-23 20:13:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      169,
+      3,
+      510,
+      367
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, reacts with shock and fear as he’s startled by a falling table. He then confronts a sleeping dog, Spike, who lies on a cushion. Tom’s wide eyes and open mouth show panic, while Spike remains oblivious, dreaming peacefully beneath the table.",
+    "timestamp": "2026-02-23 20:13:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      169,
+      3,
+      510,
+      367
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, stands over a sprawled-out Jerry, the mouse, who lies on a purple cushion with a startled expression. Tom’s eyes widen in shock as he gestures wildly, then sits down, looking down at Jerry with a mix of surprise and amusement. Jerry’s mouth is open in a wide, toothy grin, suggesting he’s either laughing or mocking Tom. The scene captures their classic dynamic: Tom’s frustration and Jerry’s mischievous defiance.",
+    "timestamp": "2026-02-23 20:13:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      302,
+      9,
+      511,
+      393
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, is startled and amused by Jerry, the mouse, wielding a spoon and pan. Jerry stands confidently, while Tom reacts with surprise and playful frustration.",
+    "timestamp": "2026-02-23 20:14:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      302,
+      9,
+      511,
+      393
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, is startled and laughs as Jerry, the mouse, holds a spoon and pan. A sleeping dog lies nearby. Tom’s expressions shift from surprise to amusement, while Jerry stands confidently, wielding kitchen utensils in a playful, mischievous manner.",
+    "timestamp": "2026-02-23 20:14:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      302,
+      9,
+      511,
+      393
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, laughs heartily while Jerry, the brown mouse, holds a red spoon and pan. A sleeping dog lies nearby. Tom’s playful antics contrast with Jerry’s determined stance, showcasing their classic chase dynamic filled with humor and mischievous energy.",
+    "timestamp": "2026-02-23 20:14:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      302,
+      9,
+      511,
+      393
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is initially laughing, then startled as Jerry, the brown mouse, wields a red spoon and black frying pan. Jerry stands defiantly, while a sleeping bulldog lies on a purple pillow nearby. Tom’s expressions shift from amusement to frustration as he attempts to swat at Jerry. The scene is comedic, with exaggerated movements and expressions highlighting their classic chase dynamic, set against a simple indoor backdrop.",
+    "timestamp": "2026-02-23 20:14:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      221,
+      52,
+      511,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, playfully pokes a sleeping dog with his paw. The dog reacts with surprise, then smiles. Tom laughs, covering his face in delight.",
+    "timestamp": "2026-02-23 20:14:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      221,
+      52,
+      511,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, playfully pokes the sleepy bulldog, who lies on a purple pillow. The dog yawns and blinks, while Tom smiles mischievously, then covers his face with his paws, seemingly amused by the dog’s drowsiness. Their expressions convey lightheartedness and playful interaction.",
+    "timestamp": "2026-02-23 20:14:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      221,
+      52,
+      511,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide yellow eyes, playfully pokes a sleepy bulldog lying on a purple pillow. The dog yawns, then smiles as Tom dances around him, laughing. Tom’s antics spark joy, and the dog’s relaxed demeanor contrasts with Tom’s energetic, mischievous spirit.",
+    "timestamp": "2026-02-23 20:15:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      221,
+      52,
+      511,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, kneels beside a sleepy bulldog resting on a purple pillow. Tom playfully taps the dog’s nose, causing it to sneeze. The dog, with droopy eyes and a content smile, lies still. Tom laughs, then covers his face in mock embarrassment. The scene is set in a cozy room with a red armchair, capturing Tom’s mischievous charm and the dog’s gentle, unbothered demeanor.",
+    "timestamp": "2026-02-23 20:15:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      123,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A hand with claws unscrews a cork from a blue bottle labeled \"Knock-Out Drops,\" releasing a misty vapor, suggesting a potion for incapacitation.",
+    "timestamp": "2026-02-23 20:15:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      123,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon hand with claws unscrews a cork from a blue bottle labeled \"Knock-Out Drops.\" The hand, part of a dark-furred character, lifts the cork, releasing a faint mist. The scene suggests preparation for a sedative, with no visible expressions, focusing solely on the action.",
+    "timestamp": "2026-02-23 20:15:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      123,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon hand with claws unscrews a cork from a blue bottle labeled \"KNOCK-OUT DROPS.\" The hand grips the bottle firmly, suggesting intent to use the contents. No facial expressions are visible, but the action implies mischief or danger. The scene is simple, focusing on the impending release of the drops.",
+    "timestamp": "2026-02-23 20:15:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/references/segment_0028_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E22 - Quiet Please! (1080p BluRay x265 Ghost)/segments/segment_0028.mp4",
+    "bbox": [
+      123,
+      1,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon hand with white gloves and black sleeves unscrews a cork from a blue bottle labeled \"KNOCK-OUT DROPS.\" The hand, likely belonging to a character, grips the bottle firmly, twisting the cork off with a slight puff of vapor. The scene is static, focusing on the action of opening the bottle, suggesting preparation for an impending effect. No facial expressions or emotions are visible, emphasizing the mechanical, almost sinister nature of the action.",
+    "timestamp": "2026-02-23 20:15:47"
+  }
+]

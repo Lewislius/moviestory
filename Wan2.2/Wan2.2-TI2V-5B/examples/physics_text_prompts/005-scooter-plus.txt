@@ -1,0 +1,34 @@
+[Original prompt]
+A scooter collides with a trash can, the scooter tilting to one side before stopping.
+
+Relevant physical states:
+
+* The scooter must remain present and visually consistent throughout the sequence.
+* The trash can must remain present and spatially consistent before and during the collision.
+* The scooter's position should change continuously as it moves toward the trash can.
+* The distance between the scooter and the trash can should decrease before impact.
+* Physical contact between the scooter and the trash can must occur at the collision moment.
+* The scooter's orientation should change after the collision, causing it to tilt to one side.
+* The scooter's forward motion should decrease after impact.
+* The scooter should remain tilted or stabilize after losing momentum.
+* The scooter should eventually come to a stop after the collision.
+
+Physical event order:
+
+1. The scooter moves toward the trash can.
+2. The distance between the scooter and the trash can decreases.
+3. The scooter makes physical contact with the trash can.
+4. The collision causes the scooter's motion and orientation to change.
+5. The scooter tilts to one side while slowing down.
+6. The scooter loses its remaining motion and comes to a stop.
+
+Cause-effect constraints:
+
+* The scooter and the trash can must exist before the collision can occur.
+* The scooter must approach the trash can before making contact with it.
+* Physical contact with the trash can must happen before the scooter begins collision-induced tilting.
+* The scooter's tilting must result from the collision rather than occurring spontaneously before impact.
+* The scooter must begin slowing down after the collision before coming to a complete stop.
+* The stopping event must happen after the collision and tilting stages.
+* The scooter must not disappear, duplicate, teleport, or pass through the trash can without physical interaction.
+* The trash can must not cause a change in the scooter's motion before physical contact occurs.

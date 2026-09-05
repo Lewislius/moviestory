@@ -1,0 +1,29 @@
+name: metaquery
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r/
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch=2.3.0
+  - pytorch-cuda=12.1
+  - torchvision
+  - torchaudio
+  - pip
+  - pip:
+    - transformers[deepspeed]==4.49.0
+    - accelerate
+    - diffusers
+    - torchmetrics[image]==1.6.3
+    - datasets==2.21.0
+    - numpy==1.26.4
+    - wandb
+    - gradio
+    - pycocotools
+    - evaluate
+    - tabulate
+    - piq
+    - sentencepiece
+    - bitsandbytes

@@ -1,0 +1,32 @@
+[Original prompt]
+A pinball rolls down a lane, hitting several small bumpers before settling in a lower scoring area.
+
+Relevant physical states:
+
+* The pinball must remain present and visually consistent throughout the sequence.
+* The lane, bumpers, and lower scoring area must remain present and spatially consistent.
+* The pinball's position should change continuously as it rolls down the lane.
+* The distance between the pinball and each contacted bumper should decrease before impact.
+* Physical contact between the pinball and a bumper must occur before any collision-induced change in motion.
+* The pinball's direction and/or speed may change after each bumper impact.
+* The pinball should continue progressing toward the lower part of the lane after the collisions.
+* The pinball should eventually slow down and remain within the lower scoring area.
+
+Physical event order:
+
+1. The pinball begins rolling down the lane.
+2. The pinball approaches and contacts the first bumper.
+3. The collision changes the pinball's motion, after which it continues down the lane.
+4. The pinball contacts additional bumpers in sequence, with its motion changing after each impact.
+5. The pinball reaches the lower scoring area.
+6. The pinball slows down and settles within the lower scoring area.
+
+Cause-effect constraints:
+
+* The pinball, lane, bumpers, and lower scoring area must exist before the corresponding interactions can occur.
+* The pinball must approach a bumper before contacting it.
+* Physical contact with a bumper must happen before any collision-induced deflection or speed change.
+* Each bumper-induced motion change must be caused by a preceding collision rather than occurring spontaneously.
+* The pinball must continue through the lane before reaching the lower scoring area.
+* Reaching the lower scoring area must happen before the pinball settles there.
+* The pinball must not disappear, duplicate, teleport, or pass through the bumpers without physically consistent interaction.

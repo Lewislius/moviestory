@@ -1,0 +1,674 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      3,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, watches Jerry, the yellow mouse, gleefully perched on a Christmas light. Tom growls, then strikes a sparkly pose, amused by Jerry's antics.",
+    "timestamp": "2026-02-23 16:04:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      3,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, watches as Jerry, the yellow mouse, perches on a Christmas light. Tom reaches for it, but Jerry escapes. Tom’s expression shifts from annoyance to surprise as a bright flash erupts from the light, startling him. The scene captures their classic chase dynamic with festive flair.",
+    "timestamp": "2026-02-23 16:04:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      3,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eyes a glowing lightbulb with a mischievous grin, reaching for it. Jerry, the yellow mouse, perches atop a bulb, illuminated by the light, appearing delighted. Tom’s expression shifts to annoyance as he accidentally sparks the bulb, startling Jerry, who leaps away in surprise.",
+    "timestamp": "2026-02-23 16:04:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      1,
+      3,
+      509,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eyes a glowing Christmas bulb with a mischievous grin, reaching for it. Jerry, the yellow mouse, perches atop a bulb, illuminated by festive lights, appearing cheerful. Tom’s expression shifts to annoyance as he struggles with the bulb, sparking a burst of light. The scene captures their classic rivalry, with Tom’s frustration and Jerry’s playful defiance against the holiday backdrop, hinting at impending chaos.",
+    "timestamp": "2026-02-23 16:04:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      135,
+      403,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray and white, smashes a mail slot, gets drenched in icy water, and shakes off, looking annoyed and wet, with a snowy window behind him.",
+    "timestamp": "2026-02-23 16:05:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      135,
+      403,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray and white, sneaks to the mail slot, paws at it, then gets drenched in icy water. He wipes his face, shakes off the cold, and looks annoyed. His expression shifts from mischief to frustration as he sits on the rug, soaked and disgruntled.",
+    "timestamp": "2026-02-23 16:05:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      135,
+      403,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sneaks near a mail slot, then sneezes violently, spraying blue liquid. He wipes his face, looks annoyed, and shakes his head. The scene is indoors, with a golden umbrella stand and a festive wreath above the door.",
+    "timestamp": "2026-02-23 16:05:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      0,
+      135,
+      403,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sneaks up to a mail slot, paws at it with mischief. He’s grinning mischievously, eyes gleaming. Suddenly, a burst of icy blue snowflakes erupts from the slot, drenching him. He shrieks, flailing, then shakes off the cold, wiping snow from his face with a look of shock and annoyance. His fur is wet, and he’s clearly frustrated by the sudden chill, despite his playful intent. The scene is comically chaotic and absurd.",
+    "timestamp": "2026-02-23 16:05:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      117,
+      464,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, excitedly opens a gift, eyes wide with anticipation, then smiles triumphantly, revealing his playful, mischievous nature.",
+    "timestamp": "2026-02-23 16:05:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      117,
+      464,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits near a Christmas tree, smiling mischievously. He playfully twirls, eyes gleaming with anticipation. His tail flicks, and he leans forward, eager for a gift or adventure. His expression shifts from delight to scheming, hinting at mischief ahead.",
+    "timestamp": "2026-02-23 16:05:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      117,
+      464,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits atop a gift box, eyes gleaming with excitement. He stretches, yawns, and smiles mischievously, whiskers twitching. Behind him, a festive green tree with ornaments adds to the joyful holiday atmosphere. His playful demeanor suggests anticipation for a treat or adventure.",
+    "timestamp": "2026-02-23 16:05:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      117,
+      464,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws and a mischievous grin, stands beside a wrapped gift under a festive green tree. He stretches, yawns, and winks playfully, eyes glowing with anticipation. His whiskers twitch as he leans forward, paws clasped together, as if eager to unwrap the present. The scene radiates holiday cheer and his classic scheming grin, hinting at mischief to come. The vibrant colors and whimsical background enhance his joyful, expectant demeanor.",
+    "timestamp": "2026-02-23 16:06:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      13,
+      48,
+      395,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat, Tom, eagerly reaches for a yellow mailbox, his tail curled, eyes wide with anticipation, as he peers through the window.",
+    "timestamp": "2026-02-23 16:06:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      13,
+      48,
+      395,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, kneels near a window, intently focused on a black object outside. He paws at it, then recoils with a startled expression. His tail curls, and he seems curious yet cautious, as if trying to understand or interact with the mysterious object.",
+    "timestamp": "2026-02-23 16:06:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      13,
+      48,
+      395,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, sits near a window, intently examining a black object. He reaches out, touches it, and then recoils, showing surprise. His tail curls behind him, and he appears curious yet cautious, as if startled by the object’s unexpected presence or behavior.",
+    "timestamp": "2026-02-23 16:06:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      13,
+      48,
+      395,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, with white paws and a long tail, sits near a window adorned with a festive wreath. He curiously peers through the glass, then reaches out with his paw, seemingly trying to interact with something outside. His expression is playful and inquisitive. The scene suggests a quiet, indoor setting, possibly during a holiday season, with Tom’s actions hinting at mischief or curiosity. His tail curls gently, adding to the whimsical, cartoonish charm.",
+    "timestamp": "2026-02-23 16:06:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      5,
+      89,
+      321,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat sits near presents, eyes wide with excitement. He reaches for a gift, then pauses, looking surprised or hesitant, as if considering whether to open it.",
+    "timestamp": "2026-02-23 16:07:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      5,
+      89,
+      321,
+      494
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits near festive gifts, eyes wide with excitement. He reaches for a red boxing glove, then pauses, looking up with a mix of curiosity and anticipation. His expression shifts from eager to slightly puzzled as he contemplates his next move among the holiday decorations.",
+    "timestamp": "2026-02-23 16:07:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      5,
+      89,
+      321,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits beside festive gifts, eyes wide with anticipation. He stretches, then leaps toward a red boxing glove, his expression shifting to eager excitement. The scene bursts with holiday cheer as he eagerly grabs the glove, embodying playful mischief.",
+    "timestamp": "2026-02-23 16:07:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      5,
+      89,
+      321,
+      494
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits near a Christmas tree adorned with ornaments and gifts. He looks up with a mischievous grin, then reaches for a red boxing glove beside him. His eyes gleam with anticipation, and his tail twitches as he prepares to pounce, embodying playful mischief. The festive backdrop contrasts with his stealthy, eager demeanor, capturing a classic Tom-and-Jerry holiday moment filled with humor and charm.",
+    "timestamp": "2026-02-23 16:07:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      80,
+      77,
+      262,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Blue-clad clown stands near Christmas tree, smiling. Mouse sneaks up, grabs clown's belly, and hides behind him, peeking out with a mischievous grin.",
+    "timestamp": "2026-02-23 16:07:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      80,
+      77,
+      262,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue-clad, round character with a red nose stands under a decorated Christmas tree. A mouse sneaks up, grabs the character's leg, and pulls him down. The character's face shows surprise as he falls backward, revealing a comical, startled expression.",
+    "timestamp": "2026-02-23 16:08:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      80,
+      77,
+      262,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A blue-clad, round-faced clown with a red nose stands beneath a decorated Christmas tree, smiling. A mischievous gray cat, Tom, sneaks up, pounces, and grabs the clown’s belly, startling him. The clown turns, eyes wide with surprise, as Tom’s claws dig into his side, revealing playful chaos.",
+    "timestamp": "2026-02-23 16:08:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      80,
+      77,
+      262,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A round, blue-clad clown with a red nose stands beneath a festively decorated Christmas tree, smiling cheerfully. A small brown mouse peeks out from behind a gift box, then boldly leaps onto the clown’s belly, startling him. The clown turns, eyes wide with surprise, as the mouse playfully pokes his belly. The scene is bright and whimsical, capturing a classic cartoon moment of mischievous antics and festive humor.",
+    "timestamp": "2026-02-23 16:08:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      180,
+      17,
+      496,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat sits, eyes wide with surprise or fear, paws clasped. His expression shifts slightly, showing cautious anticipation or alarm as he looks around the dark, leafy background.",
+    "timestamp": "2026-02-23 16:08:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      180,
+      17,
+      496,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits with a smug, mischievous grin, eyes glowing yellow. He shifts slightly, paws resting on his belly, as if contemplating a prank. His expression conveys playful arrogance, hinting at impending mischief against his usual prey. The background hints at a festive, dark setting.",
+    "timestamp": "2026-02-23 16:08:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      180,
+      17,
+      496,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, sits with a mischievous grin, eyes glowing yellow. He shifts slightly, paws clasped, as if plotting. Behind him, lush green foliage and a purple box hint at a playful, secretive moment. His expression conveys cunning delight, ready for mischief.",
+    "timestamp": "2026-02-23 16:08:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      180,
+      17,
+      496,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits with a smug, mischievous grin, eyes glowing yellow. His paws rest on his belly, and he shifts slightly, tilting his head as if plotting. Behind him, a green, leafy backdrop suggests a forest or garden. A purple box sits beside him, hinting at a recent discovery or trap. His expression conveys satisfaction, perhaps pride in a successful scheme, as he enjoys the moment of triumph.",
+    "timestamp": "2026-02-23 16:08:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      2,
+      1,
+      492,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom sits calmly beside a Christmas tree, while Jerry, holding a flower, approaches with a cheerful smile, then playfully climbs a gift box nearby.",
+    "timestamp": "2026-02-23 16:09:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      2,
+      1,
+      492,
+      489
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits calmly beside a Christmas tree, eyes closed. Jerry, the brown mouse, tiptoes nearby, holding a sprig of white flowers. He looks up at Tom with a playful, mischievous grin, then leaps toward the cat’s feet, ready for a classic chase.",
+    "timestamp": "2026-02-23 16:09:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      2,
+      1,
+      492,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits calmly beside a Christmas tree, eyes closed. Jerry, the brown mouse, tiptoes nearby, holding a sprig of white flowers. He smiles mischievously, then leaps toward Tom’s leg, causing Tom to open his eyes with a startled expression. The scene is festive and playful.",
+    "timestamp": "2026-02-23 16:09:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      2,
+      1,
+      492,
+      489
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, gray cat, Tom, sits calmly beside a Christmas tree, eyes closed, seemingly content. A small brown mouse, Jerry, tiptoes near a gift, holding a sprig of white flowers. Jerry smiles mischievously, then playfully leaps onto the gift box, giggling. Tom remains serene, unaware of Jerry’s antics. The scene exudes holiday cheer and classic cartoon charm, with vibrant colors and expressive characters.",
+    "timestamp": "2026-02-23 16:09:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      145,
+      2,
+      510,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, smiles mischievously as he offers a candy cane to Jerry, the mouse, who sits nervously on a purple pillow, looking up at him with wary eyes.",
+    "timestamp": "2026-02-23 16:10:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      145,
+      2,
+      510,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, smiles mischievously as he extends a candy cane to Jerry, the small brown mouse perched on a purple pillow. Jerry looks up at Tom with wary eyes. Tom’s expression suggests playful intent, while Jerry appears cautious, anticipating the impending chase.",
+    "timestamp": "2026-02-23 16:10:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      145,
+      2,
+      510,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, smirking, extends a candy cane to Jerry the mouse, who sits nervously on a purple pillow. Tom’s green eyes gleam with mischief, while Jerry looks wary. The scene unfolds in a dimly lit room, capturing their classic rivalry with playful tension and anticipation.",
+    "timestamp": "2026-02-23 16:10:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      145,
+      2,
+      510,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits smugly beside a purple pillow, eyeing Jerry, the small brown mouse. Jerry looks up nervously. Tom extends a candy cane, offering it with a sly grin. Jerry, startled, flinches but doesn’t move away. Tom’s expression remains amused and triumphant, suggesting he’s about to trick Jerry. The scene is dimly lit, emphasizing their classic chase dynamic, with Tom’s confidence contrasting Jerry’s cautiousness.",
+    "timestamp": "2026-02-23 16:10:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      138,
+      328,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for Christmas ornaments, his eyes wide with excitement, as he sits beside a gift box under the tree.",
+    "timestamp": "2026-02-23 16:10:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      138,
+      328,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for Christmas ornaments, his eyes gleaming with excitement. He clumsily knocks over a red gift box, then sits proudly beside it, smiling triumphantly. His red boxing gloves add a playful touch as he revels in the festive chaos.",
+    "timestamp": "2026-02-23 16:10:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      138,
+      328,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for a Christmas tree ornament, his eyes wide with excitement. He joyfully grabs a red boxing glove, then turns to a gift box, smiling triumphantly. His playful antics and mischievous grin reveal his festive, mischievous spirit as he revels in holiday fun.",
+    "timestamp": "2026-02-23 16:10:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      138,
+      328,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly reaches for a Christmas ornament, his eyes gleaming with excitement. He’s wearing red boxing gloves, adding a humorous twist. As he leaps, his expression shifts to delight, then surprise as he lands beside a red gift box. The festive tree behind him, adorned with colorful ornaments, underscores the holiday spirit. His playful antics and joyful expressions highlight his mischievous charm, capturing the classic Tom & Jerry holiday antics.",
+    "timestamp": "2026-02-23 16:10:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      21,
+      0,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, lies atop a Christmas gift, eyes wide with surprise as Jerry, the mouse, holds a sprig of flowers, looking up at him with a mischievous grin.",
+    "timestamp": "2026-02-23 16:11:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      21,
+      0,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges atop a Christmas gift, eyes wide with surprise as Jerry, the brown mouse, holds a sprig of flowers. Jerry stands proudly below, gazing up at Tom with a mischievous grin, as the cat’s expression shifts from boredom to startled delight.",
+    "timestamp": "2026-02-23 16:11:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      21,
+      0,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lounges atop a wrapped gift, eyes wide with surprise as Jerry, the brown mouse, holds a sprig of flowers. Jerry stands defiantly below, smiling mischievously, while Tom’s expression shifts from boredom to sudden alarm as he notices the plant.",
+    "timestamp": "2026-02-23 16:11:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      21,
+      0,
+      509,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lounges atop a large, wrapped gift, eyes wide with surprise as Jerry, the brown mouse, holds a sprig of white flowers. Jerry stands bravely beneath the gift, clutching the plant, while Tom’s paws hover near the ribbon. The festive scene, complete with Christmas decorations and alphabet blocks, highlights their classic rivalry. Tom’s expression shifts from curiosity to mild annoyance, while Jerry remains determined, ready to outwit his feline foe.",
+    "timestamp": "2026-02-23 16:11:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      7,
+      509,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, stealthily moves under a decorated tree, eyes wide with determination, clutching a purple gift, ready to pounce on his prey.",
+    "timestamp": "2026-02-23 16:12:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      7,
+      509,
+      504
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, in blue pants, stealthily moves under a decorated Christmas tree, eyes wide with mischief. He sniffs a purple gift, then lunges, revealing a playful, determined expression. The festive scene hints at holiday antics and his classic mischievous nature as he prepares for a chase or prank.",
+    "timestamp": "2026-02-23 16:12:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      7,
+      509,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, playfully wrestles with a blue-clad clown beneath a festive, decorated tree. His eyes gleam with mischief as he pounces, claws extended, while the clown, wide-eyed and startled, tries to evade. Their antics unfold with comedic energy, capturing a classic chase under twinkling lights.",
+    "timestamp": "2026-02-23 16:12:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E03 - The Night Before Christmas (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      7,
+      509,
+      504
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies beneath a festively decorated Christmas tree, eyes half-closed, seemingly relaxed. He shifts, revealing a mischievous grin as he playfully paws at a purple gift box. The tree’s vibrant ornaments and garlands shimmer around him. Tom’s expression transitions from contentment to sudden alertness as he leaps, claws outstretched, eyes wide with excitement or surprise, capturing the classic comedic energy of his antics.",
+    "timestamp": "2026-02-23 16:12:16"
+  }
+]

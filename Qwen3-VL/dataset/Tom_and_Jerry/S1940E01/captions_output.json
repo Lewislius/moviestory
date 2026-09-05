@@ -1,0 +1,674 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      108,
+      1,
+      506,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat with white paws and yellow eyes gleefully chases a brown mouse, who escapes by climbing onto a shelf, while the cat laughs maniacally.",
+    "timestamp": "2026-02-23 15:48:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      108,
+      1,
+      506,
+      499
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and a mischievous grin chases a brown mouse. The cat leaps, catching the mouse mid-air, then laughs triumphantly. The mouse scurries away, only to be caught again. Their playful chase ends with the cat proudly displaying its victory.",
+    "timestamp": "2026-02-23 15:48:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      108,
+      1,
+      506,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray and white cat, with a mischievous grin, playfully chases a small brown mouse. The cat leaps and pounces, its tail swishing, while the mouse scurries away, hiding behind furniture. Their antics unfold with exaggerated expressions, capturing classic cartoon humor and the timeless chase.",
+    "timestamp": "2026-02-23 15:48:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      108,
+      1,
+      506,
+      499
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray and white cat, with a mischievous grin, pounces playfully on a small brown mouse. The mouse, wide-eyed and startled, scrambles across the cat’s back, then leaps away, narrowly escaping. The cat, tail high, laughs gleefully as it stretches and wiggles, clearly enjoying the chase. The scene is set in a cozy room with ornate furniture and plates, adding warmth to the cartoonish antics. The cat’s joyous expression contrasts with the mouse’s frantic escape, capturing classic slapstick comedy.",
+    "timestamp": "2026-02-23 15:49:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      162,
+      33,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat, Tom, sips wine from a glass, eyes wide with delight. He's in a dimly lit room with ornate woodwork, tail curled, enjoying a quiet, luxurious moment.",
+    "timestamp": "2026-02-23 15:49:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      162,
+      33,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, sips from a wine glass with a mischievous grin. He then dramatically drops the glass, his expression shifting to surprise as it shatters on the floor. The scene captures his playful, cunning nature and sudden reaction to his own antics.",
+    "timestamp": "2026-02-23 15:49:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      162,
+      33,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, sprints across a dark room, tail flicking, eyes wide with mischief. He stops, holding a wine glass, grinning mischievously. His ears perk up, and he seems delighted, perhaps about to indulge in a playful prank or sip his drink with a sly grin. The scene exudes classic cartoon charm and anticipation.",
+    "timestamp": "2026-02-23 15:49:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      162,
+      33,
+      511,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, with yellow eyes and white paws, sprints across a red-carpeted room, tail flicking. He pauses, holding a wine glass with a surprised, delighted expression, eyes wide. His body language suggests playful mischief, as if he’s just discovered a treat. The ornate wooden furniture in the background adds a classic, cozy ambiance. Tom’s joyful, slightly mischievous grin hints at his delight in the moment, capturing a classic cartoon charm.",
+    "timestamp": "2026-02-23 15:49:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      78,
+      0,
+      475,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps, chasing Jerry the mouse, who scurries under furniture. Tom's determined expression contrasts Jerry's terrified escape, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 15:50:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      78,
+      0,
+      475,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, leaps and lands dramatically, stars sparkling around him. Jerry the mouse, brown and small, scurries away under a table, peeking out nervously. Tom's expression shifts from smug to surprised as Jerry escapes, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 15:50:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      78,
+      0,
+      475,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps with a mischievous grin, chasing Jerry, the brown mouse. Jerry scurries under a table, peeking out nervously. Tom’s determined expression contrasts Jerry’s startled escape, capturing their classic chase dynamic with playful, cartoonish energy.",
+    "timestamp": "2026-02-23 15:50:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      78,
+      0,
+      475,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, leaps joyfully, stars sparkling around him, while a small brown mouse, Jerry, scurries away. Tom’s expression shifts from delight to surprise as Jerry hides under a table leg. Jerry peeks out, eyes wide with fear, as Tom’s eyes narrow in pursuit. The scene captures their classic chase, filled with comedic tension and classic cartoon energy, highlighting their enduring rivalry and playful antics.",
+    "timestamp": "2026-02-23 15:50:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      4,
+      0,
+      511,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in yellow dress walks past. A gray cat with white paws sits, then smiles, stretches, and lies down, looking playful and content.",
+    "timestamp": "2026-02-23 15:50:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      4,
+      0,
+      511,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a yellow dress walks away, carrying a tray. A gray cat with white paws sits on a wooden surface, then stretches, smiles, and playfully paws at the air before lying down, eyes wide with mischief.",
+    "timestamp": "2026-02-23 15:51:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      4,
+      0,
+      511,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a yellow dress and white apron walks past, carrying a tray. A gray cat with white paws sits on a wooden surface, initially surprised, then smiling, before stretching and yawning, showing playful energy and contentment.",
+    "timestamp": "2026-02-23 15:51:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      4,
+      0,
+      511,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a yellow dress and white apron walks past, carrying a tray. The scene shifts to a gray cat with white paws and a white-tipped tail, sitting on a wooden surface. It looks surprised, then smiles, paws together, before stretching and lying down, eyes wide with mischief. The cat’s expressions shift from curious to playful, hinting at a mischievous plan. The setting suggests a cozy, domestic environment.",
+    "timestamp": "2026-02-23 15:51:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      8,
+      358,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray and white, dramatically falls backward, clutching a glass, eyes wide with shock or surprise as he lands on a red rug.",
+    "timestamp": "2026-02-23 15:51:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      8,
+      358,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, dramatically falls backward, clutching a glass. His wide eyes and open mouth show shock or surprise. He lies on a red rug, holding the glass as if it’s precious, against an ornate wooden backdrop. His expression conveys sudden, startled emotion.",
+    "timestamp": "2026-02-23 15:51:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      8,
+      358,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, dramatically falls backward, clutching a glass. His wide eyes and open mouth convey shock or panic. He lies on a red rug, holding the glass close, as if it’s precious. The ornate wooden furniture in the background adds a classic cartoon setting.",
+    "timestamp": "2026-02-23 15:51:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      0,
+      8,
+      358,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the gray cat, with wide yellow eyes and a startled expression, leaps dramatically across a wooden surface, clutching a glass. His body stretches mid-air, then lands on his back, still holding the glass. He appears shocked or amused, eyes wide, mouth open in surprise. The ornate wooden furniture and red carpet frame his antics, emphasizing his comedic, exaggerated movements in this classic cartoon scene.",
+    "timestamp": "2026-02-23 15:51:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      12,
+      11,
+      512,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, struggles to balance a towering stack of colorful plates, visibly sweating and exhausted, as one plate flies off mid-air.",
+    "timestamp": "2026-02-23 15:52:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      12,
+      11,
+      512,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat struggles to carry a towering stack of colorful plates, his face showing strain and determination. He leaps from a couch, balancing precariously, then drops a plate as he stumbles, revealing his exhaustion and comedic failure. The scene captures his frantic effort and eventual defeat.",
+    "timestamp": "2026-02-23 15:52:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      12,
+      11,
+      512,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, struggles to balance a towering stack of colorful plates. His eyes widen in panic as plates fly off, one soaring upward. He’s visibly sweating, his expression a mix of determination and exhaustion, clinging desperately to the precarious pile as it threatens to topple.",
+    "timestamp": "2026-02-23 15:52:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      12,
+      11,
+      512,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat, Tom, struggles to balance a towering stack of colorful plates, his eyes wide with panic and sweat dripping. He leaps from a couch, clutching the plates, then crashes onto a wooden dresser, still holding them. The plates wobble precariously, one finally flying off. Tom’s expression shifts from frantic determination to exhausted relief as he steadies himself, the plates now slightly askew but still intact. His determined yet overwhelmed demeanor captures the chaos of his endeavor.",
+    "timestamp": "2026-02-23 15:52:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      107,
+      413,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat, Tom, chases tiny mouse, Jerry, across red floor. Tom leaps, pounces, then sits, smirking triumphantly. Jerry scurries away, leaving Tom satisfied.",
+    "timestamp": "2026-02-23 15:52:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      107,
+      413,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and yellow eyes stalks a tiny brown mouse. The cat pounces, then sits back, smugly watching. The mouse scurries away, leaving the cat momentarily stunned before it resumes its predatory grin, ready for another chase.",
+    "timestamp": "2026-02-23 15:53:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      107,
+      413,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and a mischievous grin stalks across a red floor, chasing a tiny brown mouse. The cat’s eyes gleam with anticipation, tail flicking. After a brief chase, it pauses, tail twitching, as if contemplating its next move. The mouse scurries away, leaving the cat smirking in triumph.",
+    "timestamp": "2026-02-23 15:53:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      0,
+      107,
+      413,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and a mischievous grin stalks across a red carpet, tail twitching. It leaps over a “WELCOME” mat, then pounces on a tiny brown mouse, delighting in its capture. The cat’s expression shifts from playful to triumphant as it sits proudly, tail curled. The mouse, small and frantic, scurries away, leaving the cat smug and satisfied, embodying classic cartoon mischief and feline dominance.",
+    "timestamp": "2026-02-23 15:53:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      203,
+      441,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Gray cat Tom lounges, sipping wine, then suddenly leaps up, eyes wide with surprise or excitement, claws extended, as if startled by something unseen.",
+    "timestamp": "2026-02-23 15:53:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      203,
+      441,
+      508
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, lounges on a red carpet, holding a glass. He suddenly leaps up, startled, as yellow streaks radiate from his body. His eyes widen in alarm, and he drops the glass, revealing a mix of surprise and frantic energy.",
+    "timestamp": "2026-02-23 15:53:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      203,
+      441,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, lounges on a red carpet, holding a glass. He suddenly leaps up, eyes wide with surprise or excitement, as yellow streaks radiate from his body. His expression shifts to alertness, suggesting sudden action or discovery. The ornate wooden furniture adds a classic cartoon ambiance.",
+    "timestamp": "2026-02-23 15:53:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      0,
+      203,
+      441,
+      508
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat with white paws and a yellow eye lies on a red rug, holding a glass. Suddenly, it leaps upward with a startled expression, claws extended, as if reacting to a sudden noise. Its body twists mid-air, showing surprise and urgency. The ornate wooden furniture in the background remains static, contrasting the cat’s sudden, frantic motion. The scene captures a moment of startled action, highlighting the cat’s quick reflexes and expressive demeanor.",
+    "timestamp": "2026-02-23 15:54:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      139,
+      81,
+      506,
+      449
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat playfully holds Jerry the mouse in his tail, then drops him. Jerry scurries away, while Tom lies back, smirking with satisfaction and yellow eyes gleaming.",
+    "timestamp": "2026-02-23 15:54:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      139,
+      81,
+      506,
+      449
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, playfully holds Jerry the mouse in his tail, then lets him go. Jerry scurries away, while Tom smiles mischievously, enjoying his successful capture. Their classic chase dynamic continues, filled with humor and charm.",
+    "timestamp": "2026-02-23 15:54:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      139,
+      81,
+      506,
+      449
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat, Tom, playfully holds a tiny brown mouse, Jerry, in his tail. Tom smiles mischievously as Jerry scurries away, leaving a trail of dust. Tom’s tail curls upward, and his eyes gleam with amusement, capturing the classic chase dynamic between the two cartoon characters.",
+    "timestamp": "2026-02-23 15:54:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      139,
+      81,
+      506,
+      449
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lounges with a smug grin, tail curled high, clutching Jerry, the brown mouse, in his grasp. Jerry, tiny and determined, tugs at Tom’s tail, causing him to tumble backward. Tom’s expression shifts from smug to startled, eyes wide with surprise. The scene captures their classic chase, with Tom’s playful dominance and Jerry’s clever evasion, set against a simple, warm-toned room. Their dynamic is full of mischief and comedic tension.",
+    "timestamp": "2026-02-23 15:54:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      230,
+      93,
+      504,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat nervously carries a tray with glasses and a bottle, stumbling and dropping it, then quickly regains composure, eyes wide with anxiety.",
+    "timestamp": "2026-02-23 15:55:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      230,
+      93,
+      504,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, anxiously carries a tray with glasses and a bottle, stumbling and dropping it. He reacts with panic, eyes wide, as the tray shatters. His expression shifts to alarm, then surprise, as he scrambles to recover, revealing his clumsy, comedic nature in this classic cartoon scene.",
+    "timestamp": "2026-02-23 15:55:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      230,
+      93,
+      504,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, rushes while carrying a tray. He trips, spilling glasses. He stumbles, then stands upright, holding a tray with a bottle and glasses. His wide eyes and open mouth show surprise or panic as he navigates the room.",
+    "timestamp": "2026-02-23 15:55:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      230,
+      93,
+      504,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, anxiously carries a tray with glasses and a bottle, eyes wide with fear. He stumbles, dropping the tray, causing the glasses to scatter. He quickly scrambles to recover, clutching the tray again, his expression a mix of panic and determination. The scene suggests a chaotic, comedic mishap as he tries to serve drinks, highlighting his clumsy yet earnest nature. The background remains static, emphasizing Tom’s frantic movements.",
+    "timestamp": "2026-02-23 15:55:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      172,
+      51,
+      507,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat with white paws and belly holds stacked plates, looking up with wide eyes. It appears startled or surprised, possibly after dropping or mishandling them.",
+    "timestamp": "2026-02-23 15:55:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      172,
+      51,
+      507,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray and white cat, Tom, holds a stack of plates, looking upward with a determined, slightly annoyed expression. He sits on a wooden floor, surrounded by colorful stars, suggesting a whimsical or cartoonish setting. His posture and gaze imply he’s focused on an unseen task or challenge.",
+    "timestamp": "2026-02-23 15:55:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      172,
+      51,
+      507,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and a surprised expression holds stacked plates, tilting its head upward. Its eyes widen, and whiskers twitch as it appears startled or confused. The cat sits on a wooden floor near a carved bed frame, surrounded by floating stars, suggesting a whimsical or surreal moment.",
+    "timestamp": "2026-02-23 15:56:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      172,
+      51,
+      507,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray and white cartoon cat, with yellow eyes and a mischievous grin, sits on a wooden floor, holding a stack of plates. He tilts his head back, eyes wide with delight, as if anticipating a treat. Suddenly, he drops the plates, scattering them. The cat looks startled, then amused, as stars flash around him—adding comic flair to his clumsy yet playful antics. His expression shifts from eager to bewildered, capturing the classic cartoon charm.",
+    "timestamp": "2026-02-23 15:56:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      195,
+      14,
+      512,
+      437
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A gray cat with white paws and a smug grin stalks a tiny brown mouse. The mouse scurries away, leaving a trail of dust. The cat's expression remains amused and predatory.",
+    "timestamp": "2026-02-23 15:56:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      195,
+      14,
+      512,
+      437
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and a mischievous grin stalks a small brown mouse across a red carpet. The mouse scurries away, leaving a trail of dust. The cat’s expression shifts from smug to delighted as it closes in, anticipating a playful chase.",
+    "timestamp": "2026-02-23 15:56:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      195,
+      14,
+      512,
+      437
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A gray cat with white paws and a mischievous grin stalks a tiny brown mouse across a red carpet. The mouse scurries nervously, while the cat’s eyes gleam with playful intent. The scene captures their classic chase, filled with suspense and humor as the cat closes in, ready to pounce.",
+    "timestamp": "2026-02-23 15:56:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E01 - Puss Gets The Boot (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      195,
+      14,
+      512,
+      437
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray-and-white cat, Tom, stalks with a sly grin, eyes gleaming with predatory intent. Below, a tiny brown mouse, Jerry, scurries nervously across a red carpet, leaving a trail of dust. Tom’s shadow looms large as he crouches, ready to pounce. Jerry’s frantic movements suggest fear, while Tom’s expression radiates smug satisfaction, anticipating his next catch. The scene captures their classic chase, filled with tension and humor.",
+    "timestamp": "2026-02-23 15:56:49"
+  }
+]

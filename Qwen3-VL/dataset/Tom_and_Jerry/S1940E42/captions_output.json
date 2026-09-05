@@ -1,0 +1,562 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      32,
+      167,
+      329,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds Jerry, then a devil appears. Tom screams, drops Jerry, and runs away as the devil roars, then vanishes. Tom looks shocked and scared.",
+    "timestamp": "2026-02-23 23:18:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      32,
+      167,
+      329,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, holds Jerry, the mouse, while a menacing red demon with horns and a tail appears. Tom screams in terror as the demon looms. He drops Jerry, who scurries away, leaving Tom dazed and frightened by the demonic presence.",
+    "timestamp": "2026-02-23 23:18:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      32,
+      167,
+      329,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, holds Jerry, the mouse, while a menacing red demon with horns and a tail looms behind. Tom appears terrified, then flees as Jerry escapes. The demon’s grin intensifies, suggesting a chaotic, cartoonish confrontation. The scene blends humor with horror, classic Tom and Jerry chaos.",
+    "timestamp": "2026-02-23 23:18:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      32,
+      167,
+      329,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, holds Jerry, the mouse, in his paws, screaming in terror as a red, horned demon emerges. The demon growls menacingly, towering over Tom. Tom’s expression shifts from fear to determination as he flees, dropping Jerry. Jerry scurries away, leaving Tom’s panicked, frantic escape in his wake. The scene is dark, emphasizing the surreal, horror-comedy tone.",
+    "timestamp": "2026-02-23 23:18:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      210,
+      9,
+      511,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, gleefully holds cheese, while Jerry, the mouse, scurries nearby with a paper. Tom's grin shows his delight, while Jerry appears cautious, anticipating Tom's next move.",
+    "timestamp": "2026-02-23 23:19:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      210,
+      9,
+      511,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, gleefully holds a large block of cheese, smiling mischievously. Jerry, the brown mouse, scurries nearby, holding a piece of paper and a pencil, seemingly trying to outwit Tom. The scene captures their classic rivalry, with Tom’s greedy grin contrasting Jerry’s cautious determination.",
+    "timestamp": "2026-02-23 23:19:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      210,
+      9,
+      511,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, gleefully holds a large block of cheese, eyes gleaming with mischief. He crouches, extending a paw toward Jerry, the small brown mouse, who peeks from a hole, holding a piece of paper. Tom’s grin suggests he’s about to pounce, while Jerry looks wary, anticipating trouble.",
+    "timestamp": "2026-02-23 23:19:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      210,
+      9,
+      511,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, gleefully holds a large block of cheese, his eyes gleaming with delight. He crouches low, arms outstretched, as if ready to pounce. Below, Jerry the mouse, tiny and brown, stands on a paper, looking up with a mix of mischief and determination. The scene is set in a dimly lit room with wooden floors, where Tom’s playful aggression contrasts Jerry’s cunning resolve, hinting at an impending chase or standoff.",
+    "timestamp": "2026-02-23 23:19:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      102,
+      1,
+      355,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds a mouse in one paw and a stick in the other, leaping with determination. The mouse looks up, startled, as Tom prepares to strike.",
+    "timestamp": "2026-02-23 23:19:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      102,
+      1,
+      355,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a mouse in one paw and a stick in another, leaping with determination. The mouse, small and brown, appears startled. Tom’s expression is fierce and focused, showing his intent to capture his prey. The scene is set in a dimly lit room with ornate decor.",
+    "timestamp": "2026-02-23 23:20:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      102,
+      1,
+      355,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a small mouse in one paw while raising a stick in the other. He leaps joyfully, eyes wide with triumph. The mouse, tiny and brown, looks up at him with a startled expression. The scene captures Tom’s playful aggression and the mouse’s innocent fear.",
+    "timestamp": "2026-02-23 23:20:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      102,
+      1,
+      355,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a cheese wedge in one paw while clutching Jerry, the brown mouse, in the other. He leaps joyfully, eyes wide with delight, as Jerry scurries away. The scene unfolds in a dimly lit room with ornate furniture. Tom’s expression shifts from triumphant to startled as Jerry escapes, leaving him momentarily stunned. The chase continues with Tom’s frantic pursuit, showcasing their classic rivalry and comedic antics.",
+    "timestamp": "2026-02-23 23:20:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      195,
+      34,
+      481,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a blue cat, reacts dramatically to a mouse holding a pencil, showing shock, anger, and frustration while the mouse stands defiantly nearby.",
+    "timestamp": "2026-02-23 23:20:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      195,
+      34,
+      481,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, reacts dramatically to a map and pencil held by Jerry, the brown mouse. Tom’s expressions shift from shock to rage, then to pleading, as he gestures wildly, while Jerry remains small and defiant, holding the pencil. Their classic chase dynamic is evident.",
+    "timestamp": "2026-02-23 23:20:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      195,
+      34,
+      481,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, reacts with shock and anger as Jerry, the mouse, holds a pencil. Tom’s expressions shift from fear to rage, while Jerry remains calm. The scene captures their classic rivalry, with Tom’s dramatic gestures contrasting Jerry’s quiet defiance.",
+    "timestamp": "2026-02-23 23:20:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      195,
+      34,
+      481,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, kneels in shock, clutching his paws as he stares at Jerry, the small brown mouse, who holds a red pencil. A torn paper lies before them. Tom’s expressions shift from fear to rage, then to pleading, as he gestures wildly, shouting. Jerry remains calm, defiantly holding the pencil, seemingly mocking Tom’s escalating panic. The scene captures their classic dynamic: Tom’s frantic, exaggerated reactions versus Jerry’s sly, unbothered confidence.",
+    "timestamp": "2026-02-23 23:20:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      121,
+      8,
+      512,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps and crouches, eyes wide with excitement. He spots Jerry the mouse peeking from a hole, then joyfully grabs him, showing triumphant delight in his classic chase.",
+    "timestamp": "2026-02-23 23:21:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      121,
+      8,
+      512,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps excitedly, then crouches near a hole. He peers inside, eyes wide with anticipation. A tiny mouse peeks out, startled. Tom's expression shifts to delight as he holds up his paw, smiling triumphantly at his prey. The scene captures their classic chase dynamic with humor and charm.",
+    "timestamp": "2026-02-23 23:21:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      121,
+      8,
+      512,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps eagerly, eyes wide with excitement, toward a mouse hole. He crouches, then lunges, catching Jerry the mouse mid-sneak peek. Tom’s grin shows triumph as Jerry peeks out, startled, their classic chase dynamic unfolding with classic cartoon energy and comedic timing.",
+    "timestamp": "2026-02-23 23:21:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      121,
+      8,
+      512,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, leaps eagerly toward a small mouse hole. He crouches, eyes wide with excitement, then stretches his paws toward the entrance. As the mouse peeks out, Tom’s expression shifts to delight, his mouth open in a joyful gasp. His body language conveys anticipation and playful triumph, ready to pounce on his prey. The scene captures the classic chase dynamic between Tom and Jerry, full of cartoonish energy and charm.",
+    "timestamp": "2026-02-23 23:21:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      249,
+      20,
+      465,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, screams and gestures wildly while kneeling. Jerry, the mouse, stands nearby holding a red pencil, looking amused as Tom’s frantic antics unfold.",
+    "timestamp": "2026-02-23 23:22:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      249,
+      20,
+      465,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, kneels, screaming in frustration, while Jerry, the small mouse, holds a red pencil over a paper. Tom gestures wildly, then clasps his paws, clearly annoyed. Jerry remains calm, observing Tom’s dramatic reactions. The scene captures their classic rivalry with comedic tension.",
+    "timestamp": "2026-02-23 23:22:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      249,
+      20,
+      465,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, kneels in panic, clutching his chest, while Jerry, the mouse, stands defiantly with a pencil. Tom’s expressions shift from fear to frustration, gesturing wildly as if pleading or angry. The scene captures their classic rivalry, with Tom’s exaggerated emotions contrasting Jerry’s calm, sly demeanor.",
+    "timestamp": "2026-02-23 23:22:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      249,
+      20,
+      465,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue-gray cat, kneels dramatically, screaming with exaggerated gestures, fists clenched. His eyes widen in panic or frustration. Nearby, Jerry, the brown mouse, holds a red pencil and stands over a map labeled \"brothers,\" seemingly mocking Tom. The scene is dimly lit, emphasizing Tom’s dramatic outburst. Jerry’s calm demeanor contrasts Tom’s frantic energy, suggesting a comedic rivalry. The setting appears to be a wooden room with a small arched doorway.",
+    "timestamp": "2026-02-23 23:22:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      230,
+      11,
+      509,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, furious, attacks a paper with a pencil, splashing ink. Jerry, small and clever, holds the pencil, taunting Tom with a smirk as the chaos unfolds.",
+    "timestamp": "2026-02-23 23:23:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      230,
+      11,
+      509,
+      477
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, angrily draws on the wall with a red pencil, then recoils in shock as Jerry, the mouse, stands defiantly nearby, holding the pencil. Tom’s expressions shift from rage to surprise, while Jerry remains calm, showcasing their classic rivalry.",
+    "timestamp": "2026-02-23 23:23:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      230,
+      11,
+      509,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, angrily swipes a red pencil, splattering ink. Jerry, the brown mouse, stands defiantly, holding the pencil. Tom’s expressions shift from rage to shock as he watches Jerry’s antics. Their classic chase begins, filled with slapstick humor and chaotic energy.",
+    "timestamp": "2026-02-23 23:23:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      230,
+      11,
+      509,
+      477
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, angrily confronts Jerry, the brown mouse, who holds a red pencil. Tom lunges, drawing a chaotic blue splatter on the wall, then recoils in shock as Jerry counters with a scribble. Tom’s expression shifts from rage to bewilderment, then frantic panic as Jerry triumphantly holds the pencil. The scene is set in a dimly lit room with a paper-covered floor and a small arched doorway, capturing their classic chase-and-counter chase dynamic.",
+    "timestamp": "2026-02-23 23:23:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      257,
+      135,
+      511,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A mouse in a uniform operates a device, triggering fiery visuals. He appears focused, then startled as flames erupt, revealing a menacing figure in a fiery, hellish landscape.",
+    "timestamp": "2026-02-23 23:23:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      257,
+      135,
+      511,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stern, bespectacled mouse in a uniform operates a vintage monitor, which displays flames. He presses buttons, triggering a fiery scene. His expression is focused and concerned, suggesting urgency as he monitors the escalating blaze.",
+    "timestamp": "2026-02-23 23:23:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      257,
+      135,
+      511,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A white mouse in a blue uniform and hat, wearing glasses, operates a vintage monitor. He presses buttons, causing flames to erupt on screen. The scene shifts to a fiery, demonic landscape with a giant pot of stew, suggesting chaos or danger. The mouse appears focused and concerned.",
+    "timestamp": "2026-02-23 23:23:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      257,
+      135,
+      511,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A white mouse in a blue uniform and hat, wearing glasses, operates a vintage monitor. He presses buttons, causing flames to erupt on the screen. The scene shifts to a fiery cave where a red, muscular creature stirs a pot of food with a ladle. The mouse appears focused and concerned, while the creature is animated and intense, suggesting a dramatic or comedic conflict unfolding between them.",
+    "timestamp": "2026-02-23 23:23:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      182,
+      0,
+      511,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, furious, lunges at Jerry who sprays ink. Tom’s face contorts in rage as he recoils, ink splattering everywhere, revealing his defeat and frustration in this classic chase.",
+    "timestamp": "2026-02-23 23:24:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      182,
+      0,
+      511,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, angrily grabs a pen, splashes ink, and yells. Jerry, the mouse, sneaks away, laughing. Tom, drenched in ink, screams in frustration, then collapses in defeat, eyes wide with shock as the ink drips from his fur.",
+    "timestamp": "2026-02-23 23:24:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      182,
+      0,
+      511,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, is furious, fists clenched, as Jerry, the mouse, sprays ink from a red pen. Tom’s expression shifts from rage to shock as ink splatters. Jerry, triumphant, stands near a hole, while Tom’s soaked fur and frantic movements highlight his defeat and frustration in this classic cartoon chase.",
+    "timestamp": "2026-02-23 23:24:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      182,
+      0,
+      511,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, is furious, fists clenched, as Jerry, the brown mouse, wields a red pen and splashes ink. Tom recoils in shock as ink splatters across his face and fur. Jerry, triumphant, stands by the hole, while Tom, drenched in ink, stares in disbelief. The scene captures their classic rivalry, with Jerry’s mischief and Tom’s exaggerated shock, set against a dark, wooden backdrop.",
+    "timestamp": "2026-02-23 23:24:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      241,
+      4,
+      510,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, holds cheese, eyes wide with excitement. Jerry, the mouse, peeks from a hole, wary. Tom leaps, cheese in hand, ready for a chase.",
+    "timestamp": "2026-02-23 23:25:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      241,
+      4,
+      510,
+      428
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds cheese, eyes wide with greed, while Jerry, the brown mouse, peeks from a hole. Tom’s expression shifts from excitement to annoyance as he drops the cheese, revealing his frustration. The scene captures their classic chase dynamic with comedic tension.",
+    "timestamp": "2026-02-23 23:25:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      241,
+      4,
+      510,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, eagerly holds cheese, eyes gleaming with anticipation. He paces, then stops, looking down at a crumpled paper. A sneaky Jerry peeks from a hole nearby, observing Tom’s antics. Tom’s expression shifts from excitement to mild annoyance as he glances at the paper.",
+    "timestamp": "2026-02-23 23:25:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E42 - Heavenly Puss (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      241,
+      4,
+      510,
+      428
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, holds a large wedge of cheese, eyes gleaming with greed. He crouches, then leaps forward with a triumphant grin, tail twitching. Behind him, Jerry the mouse peeks from a hole, eyes wide with mischief. Tom’s white paws and ears stand out against his dark fur. The scene is dimly lit, emphasizing Tom’s hunger and Jerry’s playful cunning. Their classic rivalry is palpable, with Tom’s joyous anticipation and Jerry’s silent, sly observation.",
+    "timestamp": "2026-02-23 23:25:19"
+  }
+]

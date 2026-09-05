@@ -1,0 +1,394 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      5,
+      234,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, startled and agitated, approaches a tiny yellow bird holding a toy gun, his eyes wide with surprise and fear as he steps cautiously forward.",
+    "timestamp": "2026-02-23 22:20:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      5,
+      234,
+      450
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, startled and wide-eyed, stumbles backward as a tiny yellow bird holds a blue gun. The bird, tiny and bold, aims at Tom, who reacts with shock and fear, his paws clasped together in alarm. The scene captures a comedic, tense standoff between the classic cartoon adversaries.",
+    "timestamp": "2026-02-23 22:20:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      5,
+      234,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide eyes and an open mouth, strides angrily toward a tiny yellow bird holding a blue gun. The bird stands defiantly, aiming the weapon. Tom’s expression conveys frustration and aggression as he approaches, suggesting a tense, comedic confrontation in their classic cartoon showdown.",
+    "timestamp": "2026-02-23 22:20:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      5,
+      234,
+      450
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with wide eyes and a startled expression, stands on a green floor, hands clasped in alarm. He turns to face a tiny yellow chick holding a miniature blue gun, which points at him. The room features a yellow couch and pink walls. Tom’s posture and facial expression convey fear and surprise as he reacts to the chick’s threatening gesture, creating a humorous, tense moment in their classic chase.",
+    "timestamp": "2026-02-23 22:20:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      278,
+      127,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat peers into a mirror, seeing his own grave with a flower. He looks shocked and distressed, clutching his head in dismay.",
+    "timestamp": "2026-02-23 22:21:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      278,
+      127,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, peers into a mirror, his expression shifting from curious to horrified as he sees his own grave with a flower. He recoils in shock, his eyes wide and mouth agape, reacting to the surreal image of his demise.",
+    "timestamp": "2026-02-23 22:21:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      278,
+      127,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peeks from behind a door, then approaches a vanity mirror. He gazes at his reflection, which shows a tombstone with \"TOM\" engraved. His expression shifts to shock and dismay, revealing his fear of being remembered as a grave-dweller. The scene captures his comedic dread.",
+    "timestamp": "2026-02-23 22:22:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      278,
+      127,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, peers into a mirror, startled by his reflection. The mirror shows a tombstone with \"TOM\" engraved, surrounded by grass and a flower, hinting at his demise. Tom’s wide, yellow eyes and open mouth convey shock and dismay. On the vanity, a brush, magnifying glass, and coins lie scattered. His body language suggests he’s horrified by the grim image, frozen in disbelief as he stares at his own death.",
+    "timestamp": "2026-02-23 22:22:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      83,
+      0,
+      364,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom catches Jerry under a table, holding him tightly. Tom’s expression shifts from smug to surprised as Jerry’s tiny claws scratch his face, causing Tom to recoil.",
+    "timestamp": "2026-02-23 22:22:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      83,
+      0,
+      364,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly grabs Jerry, the brown mouse, under a table. Tom's expression shifts from triumph to shock as Jerry slips away. Jerry hides, then emerges, causing Tom to tumble backward in surprise. Their classic chase continues with comedic chaos.",
+    "timestamp": "2026-02-23 22:22:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      83,
+      0,
+      364,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the brown mouse, under a table. Jerry hides, then escapes, causing Tom to leap in surprise. Tom’s expression shifts from joy to shock as he flails, showcasing their classic chase dynamic with exaggerated cartoon physics and comedic timing.",
+    "timestamp": "2026-02-23 22:22:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      83,
+      0,
+      364,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds Jerry, the brown mouse, in his paws, eyes glowing with mischief. Jerry, tiny and agile, peeks from under a wooden table, then bolts away as Tom lunges. Tom’s expression shifts from triumphant to startled as Jerry escapes. The scene captures classic slapstick humor, with Tom’s exaggerated movements and Jerry’s quick, clever evasion, set against a simple, cozy interior. Their dynamic is pure cartoon chaos.",
+    "timestamp": "2026-02-23 22:22:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      44,
+      130,
+      291,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom chases Jerry on toy train tracks, grabbing him with a rope. Jerry struggles, while Tom's determined expression shows his pursuit. The scene is playful and chaotic.",
+    "timestamp": "2026-02-23 22:23:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      44,
+      130,
+      291,
+      472
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, joyfully runs with a toy apple, then kneels to play with a toy train. He accidentally knocks over a toy mouse, causing it to tumble. Tom looks amused, while the mouse appears startled. The scene is playful, set in a cozy room with train tracks and furniture.",
+    "timestamp": "2026-02-23 22:23:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      44,
+      130,
+      291,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly chases a toy train, then tackles Jerry, the mouse, who’s tangled in a green rope. Tom’s expression shifts from delight to frustration as he wrestles Jerry on the train tracks, surrounded by a cozy room with a red couch and bookshelves.",
+    "timestamp": "2026-02-23 22:23:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      44,
+      130,
+      291,
+      472
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly chases a toy train, clutching a red apple. He leaps over tracks, then kneels to pull a green toy train with a small mouse inside. The mouse, in a green outfit, lies on the tracks, seemingly trapped. Tom’s expression shifts from excitement to concern as he tries to rescue his prey. The scene unfolds in a cozy room with a red couch, bookshelves, and a miniature train station, capturing Tom’s playful yet mischievous nature.",
+    "timestamp": "2026-02-23 22:23:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      112,
+      221,
+      446,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stretches, then flips over, landing on his back. He rolls, stretches again, and sits up, looking dazed and slightly annoyed after his tumble.",
+    "timestamp": "2026-02-23 22:23:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      112,
+      221,
+      446,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stretches, then flips over, landing on his back. He quickly rolls over, eyes wide with surprise, then springs up, tail flicking. His expression shifts from startled to determined as he prepares to pounce, showcasing his classic mischievous energy.",
+    "timestamp": "2026-02-23 22:23:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      112,
+      221,
+      446,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, lies on a purple rug, then stretches dramatically. He rolls over, eyes wide with surprise or mischief, before leaping toward a wooden table, claws extended. His expression shifts to playful determination as he prepares to pounce, embodying classic cartoon energy and comedic timing.",
+    "timestamp": "2026-02-23 22:24:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      112,
+      221,
+      446,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, gray with white paws, lies on a purple rug, then stretches dramatically, arms outstretched. He rolls onto his back, eyes wide with surprise, then springs up, tail flicking. His expression shifts from playful to determined as he dashes toward a wooden table, claws extended. The scene captures his energetic, mischievous spirit, typical of classic cartoon antics, with bold lines and vibrant colors enhancing his dynamic movements.",
+    "timestamp": "2026-02-23 22:24:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      72,
+      435,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a birdcage, eyes gleaming with mischief. A yellow bird flies past, unnoticed. Tom's expression shifts from joy to smug satisfaction.",
+    "timestamp": "2026-02-23 22:25:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      72,
+      435,
+      509
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat peers from behind a pink couch, eyes gleaming with mischief. A yellow bird flies past, then vanishes. Tom laughs gleefully, clutching a birdcage with a white bird inside, his expression shifting from joy to smug satisfaction as he watches the bird's antics.",
+    "timestamp": "2026-02-23 22:25:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      72,
+      435,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white muzzle, peers from behind a pink couch, eyes gleaming with mischief. A birdcage hangs above, its occupant a yellow bird. Tom’s expression shifts from smug to delighted as he watches the bird, anticipating a playful chase.",
+    "timestamp": "2026-02-23 22:25:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      0,
+      72,
+      435,
+      509
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat peeks from behind a striped couch, eyes gleaming with mischief. A birdcage hangs nearby, its occupant—a yellow bird—flies away. Tom’s expression shifts from smug to delighted as he chases the bird’s escape, his mouth open in a joyful yell. The scene captures his playful, mischievous nature, hinting at a classic chase. The room’s cozy decor contrasts with Tom’s energetic pursuit, underscoring his playful antics.",
+    "timestamp": "2026-02-23 22:25:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      184,
+      425,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, distressed and anxious, holds a coin, then drops it. He stands before a vanity mirror, eyes wide, showing frustration or fear as he reacts to the situation.",
+    "timestamp": "2026-02-23 22:27:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      184,
+      425,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, stands in a room, clutching a coin with a distressed, frowning expression. He appears anxious or frustrated, his eyes wide and teeth gritted. Coins and a purple bell sit on a dresser beside him, suggesting he’s in a hurry or caught in a predicament.",
+    "timestamp": "2026-02-23 22:27:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      184,
+      425,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with wide green eyes and a distressed expression, stands before a vanity, clutching a coin. His fur stands on end, and he appears panicked, as if caught in a trap or facing a dilemma. Coins and a purple bell lie scattered nearby, hinting at a mischievous scheme or sudden discovery.",
+    "timestamp": "2026-02-23 22:27:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E34 - Kitty Foiled (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      187,
+      184,
+      425,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands in a room with a distressed expression, clutching his chest and looking panicked. His eyes widen in alarm as he stares at coins scattered on a dresser beside a mirror. He reaches out, grabbing a coin, his face contorted with frustration or fear. The scene suggests he’s overwhelmed or anxious, possibly about the coins or a situation involving them. The setting is cozy, with a purple bell and brush nearby, contrasting his tense demeanor.",
+    "timestamp": "2026-02-23 22:27:23"
+  }
+]

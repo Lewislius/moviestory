@@ -1,0 +1,35 @@
+_gradient_checkpointing: True
+vae_id: "stable-diffusion-v1-5/stable-diffusion-v1-5"
+noise_scheduler_id: "stable-diffusion-v1-5/stable-diffusion-v1-5"
+scheduler_id: "stable-diffusion-v1-5/stable-diffusion-v1-5"
+mllm_id: "Qwen/Qwen2.5-VL-7B-Instruct"
+diffusion_model_id: "stable-diffusion-v1-5/stable-diffusion-v1-5"
+vae_downsample_f: 8
+in_channels: 4
+target_image_size: 512
+per_device_train_batch_size: 16
+learning_rate: 0.0001
+eval_steps: 1000
+save_steps: 1000
+warmup_steps: 5000
+num_train_epochs: 10.0
+lr_scheduler_type: "cosine_with_min_lr"
+lr_scheduler_kwargs:
+  min_lr: 0.00001
+loss_type: "diff"
+num_metaqueries: 77
+modules_to_freeze:
+  - "vae"
+  - "model.mllm_backbone"
+  - "model.transformer"
+
+modules_to_unfreeze:
+  - "model.mllm_backbone.language_model.model.embed_tokens"
+
+connector_num_hidden_layers: 24
+deepspeed: "configs/zero1.json"
+
+train_datasets:
+  cc12m_t2i: -1
+
+eval_dataset: "cc12m_t2i"

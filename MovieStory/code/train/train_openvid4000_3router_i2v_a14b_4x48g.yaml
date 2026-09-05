@@ -1,0 +1,55 @@
+name: wan-i2v-3router-mode0-cond-only
+description: Native dual-DiT Wan2.2 I2V-A14B with mode-0 Qwen/MetaQuery three-router conditioning and cond-only Wan training
+workspace: ALL-IN-ONE
+project: wan-animate
+
+max_restarts: 0
+resources:
+  resource_pool: amp-48g
+  slots_per_trial: 8
+  is_single_node: true
+  shm_size: 34359738368
+
+bind_mounts:
+  - host_path: /mount/HOME/liuzhirui
+    container_path: /home/liuzhirui
+  - host_path: /mount/NAS1/public
+    container_path: /run/determined/NAS1/public
+
+environment:
+  image: 10.130.130.5:8192/lab-dev:latest
+  environment_variables:
+    - HOME=/home/liuzhirui
+    - WANDB_ENABLED=1
+    - WANDB_PROJECT=wan-i2v-a14b-native-3router
+    - WAN_I2V_CONDITIONING_MODE=0
+    - NPROC_PER_NODE=8
+    - WAN_TRAIN_MODE=cond_only
+    - WAN_ACTIVATION_CHECKPOINTING=1
+    - WAN_I2V_DIST_TIMEOUT_SEC=300
+    - WAN_DATA_PRECLEAN=1
+    - WAN_DATA_PRECLEAN_LOG_INTERVAL=25
+    - WAN_DATA_PROBE_TIMEOUT_SEC=8
+    - WAN_DATA_DECODE_TIMEOUT_SEC=30
+    - WAN_DATA_MAX_TRIALS=4
+    - WAN_KEEP_BEFORE_TRAINING_CHECKPOINT=0
+
+checkpoint_storage:
+  type: shared_fs
+  host_path: /mount/HOME/liuzhirui
+  storage_path: Project/MovieStory/code/checkpoint
+  save_experiment_best: 0
+  save_trial_best: 1
+  save_trial_latest: 1
+
+searcher:
+  name: single
+  metric: train/loss
+  max_length:
+    epochs: 1
+  smaller_is_better: true
+
+profiling:
+  enabled: true
+
+entrypoint: /home/liuzhirui/Project/MovieStory/code/train/train_openvid4000_3router_i2v_a14b_4x48g.sh ${WAN_I2V_CONDITIONING_MODE}

@@ -1,0 +1,170 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      10,
+      0,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing binoculars, smiles while holding a gun. Jerry, in yellow, appears with a hammer, striking Tom’s head. Tom’s expression shifts from smug to surprised.",
+    "timestamp": "2026-02-24 01:17:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      10,
+      0,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing binoculars, aims a rifle with a smug grin. Jerry, in a yellow outfit and green cap, appears, wielding a hammer. Tom’s expression shifts to surprise as Jerry prepares to strike, creating a classic chase moment with comedic tension.",
+    "timestamp": "2026-02-24 01:17:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      10,
+      0,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wears green binoculars and holds a rifle, smiling mischievously. Jerry, the small mouse, appears, wielding a hammer. Tom’s expression shifts to surprise as Jerry approaches, hinting at impending chaos. The scene captures classic cartoon tension and playful rivalry.",
+    "timestamp": "2026-02-24 01:17:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      10,
+      0,
+      510,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wears green binoculars and holds a blue gun, smiling mischievously. Suddenly, Jerry, the small brown mouse in a yellow outfit and green cap, appears atop the gun, wielding a hammer. Jerry raises the hammer high, ready to strike, while Tom remains amused, eyes closed, seemingly unaware of Jerry’s impending attack. The scene captures their classic rivalry, filled with playful tension and comedic anticipation.",
+    "timestamp": "2026-02-24 01:17:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      113,
+      83,
+      335,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stands nervously, eyes wide, paws outstretched, as smoke billows around him, suggesting panic or surprise in a simple room setting.",
+    "timestamp": "2026-02-24 01:17:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      113,
+      83,
+      335,
+      413
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands in a room, eyes wide and mouth agape, displaying shock or fear. He shifts his stance slightly, hands outstretched, as if startled or preparing to react. The scene captures his alarmed expression and tense posture, suggesting imminent action or surprise.",
+    "timestamp": "2026-02-24 01:17:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      113,
+      83,
+      335,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, stands with wide eyes and open mouth, appearing shocked or startled. His arms are outstretched, and he shifts slightly, conveying surprise or alarm. The background remains static, emphasizing Tom’s sudden emotional reaction as he processes an unseen event.",
+    "timestamp": "2026-02-24 01:17:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      113,
+      83,
+      335,
+      413
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat with red ears and yellow eyes, stands in a room with a startled expression, mouth agape. His arms flail slightly as he looks upward, eyes wide with surprise or fear. The background shows a simple wall with a wainscoting detail. Smoke or mist swirls around him in the first frame, dissipating by the second. His posture suggests shock or confusion, as if he’s just witnessed something unexpected or alarming.",
+    "timestamp": "2026-02-24 01:18:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      86,
+      138,
+      307,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat dashes, then smashes furniture, smokes billow around him, showing anger and chaos. His expressions shift from fury to shock as destruction unfolds in his chaotic pursuit.",
+    "timestamp": "2026-02-24 01:18:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      86,
+      138,
+      307,
+      453
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat dashes angrily, then smashes a box, sending debris flying. He grimaces, covered in smoke, as if defeated. His expression shifts from rage to exhaustion, highlighting his futile pursuit and the chaotic aftermath of his destructive rampage.",
+    "timestamp": "2026-02-24 01:18:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      86,
+      138,
+      307,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat dashes angrily, eyes wide, as smoke billows around him. He strikes a triumphant pose, then collapses, panting. His expression shifts from rage to exhaustion. The scene captures his chaotic energy and the aftermath of his frantic pursuit, emphasizing his classic comedic chaos.",
+    "timestamp": "2026-02-24 01:18:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E11 - Jerry's Cousin (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      86,
+      138,
+      307,
+      453
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, initially appears frustrated, then bursts into action, leaping with determination. He smashes a red object, sending debris flying. Smoke billows around him as he stands defiantly, eyes narrowed and teeth bared, radiating anger. His fur stands on end, and his paws are planted firmly, signaling his readiness to confront whatever lies ahead. The scene captures his intense, aggressive energy as he dominates the space with forceful motion and a smoldering aura of rage.",
+    "timestamp": "2026-02-24 01:18:38"
+  }
+]

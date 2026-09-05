@@ -1,0 +1,47 @@
+name: 8h-moviestory-3router-520steps-strongbind-mode1-warmup100
+description: four-way sharded MovieStory training with dual MQ/T5 modes and strong-bound first-frame references
+workspace: ALL-IN-ONE
+project: wan-animate
+
+max_restarts: 0
+resources:
+  resource_pool: amp-48g
+  slots_per_trial: 4
+  is_single_node: true
+  shm_size: 34359738368
+
+bind_mounts:
+  - host_path: /mount/HOME/liuzhirui
+    container_path: /home/liuzhirui
+  - host_path: /mount/NAS1/public
+    container_path: /run/determined/NAS1/public
+
+environment:
+  image: 10.130.130.5:8192/lab-dev:latest
+  environment_variables:
+    - HOME=/home/liuzhirui
+    - WANDB_ENABLED=0
+    - WANDB_PROJECT=moviestory-3router-4x48g
+    - WANDB_LOG_EVERY_STEP=1
+    # 0 = MQ replaces T5; 1 = mapped MQ plus frozen T5 prompt tokens.
+    - MOVIESTORY_CONDITIONING_MODE=1
+
+checkpoint_storage:
+  type: shared_fs
+  host_path: /mount/HOME/liuzhirui
+  storage_path: Project/MovieStory/code/checkpoint
+  save_experiment_best: 0
+  save_trial_best: 1
+  save_trial_latest: 1
+
+searcher:
+  name: single
+  metric: validation_loss
+  max_length:
+    epochs: 1
+  smaller_is_better: true
+
+profiling:
+  enabled: true
+
+entrypoint: /home/liuzhirui/Project/MovieStory/code/train/train_openvid4000_3router_4x48g.sh ${MOVIESTORY_CONDITIONING_MODE}

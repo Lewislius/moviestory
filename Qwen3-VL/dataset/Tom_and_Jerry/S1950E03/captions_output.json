@@ -1,0 +1,1458 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      31,
+      117,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a cowboy outfit, holds a gun while Jerry, also in cowboy gear, climbs atop him. Jerry aims the gun, startling Tom with a playful, mischievous grin.",
+    "timestamp": "2026-02-24 00:24:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      31,
+      117,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a cowboy outfit, holds a gun while Jerry, also dressed as a cowboy, stands on his head. Jerry raises the gun, aiming it at Tom, who looks surprised. The scene captures their playful, mischievous dynamic as they engage in their classic chase, full of humor and exaggerated expressions.",
+    "timestamp": "2026-02-24 00:24:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      31,
+      117,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat with a red scarf, holds a gun while Jerry, a brown mouse in a cowboy hat, balances atop his head. Jerry playfully wields a pistol, aiming it at Tom. Tom’s wide eyes and open mouth show surprise. Their expressions convey comedic tension in this classic cartoon showdown.",
+    "timestamp": "2026-02-24 00:24:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      31,
+      117,
+      511,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, wears a red bandana and holds a blue revolver, his eyes wide with surprise. Jerry, the brown mouse in a cowboy hat, stands atop Tom’s head, gleefully aiming the gun. Tom’s expression shifts from shock to playful alarm as Jerry’s antics escalate. The scene captures their classic comedic rivalry, with Jerry’s mischievous grin and Tom’s exaggerated reactions against a simple wooden backdrop, highlighting their timeless cartoon antics.",
+    "timestamp": "2026-02-24 00:24:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      139,
+      137,
+      493,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a red scarf, runs and transforms into a bull, roaring wildly. He then returns to his original form, holding a lasso, with a mischievous grin.",
+    "timestamp": "2026-02-24 00:25:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      139,
+      137,
+      493,
+      436
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a red scarf, chases Jerry with a lasso. He transforms into a bull, roaring wildly. Jerry, tied up, laughs. Tom’s antics are exaggerated and comedic, with dynamic movements and expressive faces, capturing classic cartoon chaos.",
+    "timestamp": "2026-02-24 00:25:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      139,
+      137,
+      493,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a red bandana, joyfully leaps and transforms into a bull, roaring with glee. He then chases Jerry, who’s tied up in a rope, across a dusty ranch yard. Tom’s antics are comedic, with exaggerated expressions and movements, highlighting his playful, mischievous nature.",
+    "timestamp": "2026-02-24 00:25:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      139,
+      137,
+      493,
+      436
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a black cat with a red scarf, leaps joyfully, then crouches, eyes wide with delight. He suddenly transforms into a bull, complete with horns and a snout, roaring dramatically. He then reverts to his original form, laughing wildly while holding a lasso. The scene is set on a wooden porch with a rustic fence and distant hills, capturing Tom’s playful, exaggerated antics in classic cartoon style.",
+    "timestamp": "2026-02-24 00:25:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      50,
+      109,
+      510,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat with a red scarf, holds a gun to Jerry, a small mouse in a hat. Tom grins, revealing gold teeth, as Jerry looks up, startled.",
+    "timestamp": "2026-02-24 00:25:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      50,
+      109,
+      510,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat with a red scarf, holds a revolver, aiming at Jerry, a brown mouse in a cowboy hat. Tom's expression shifts from menacing to surprised as Jerry reacts. The scene captures their classic rivalry with dramatic tension and comedic timing.",
+    "timestamp": "2026-02-24 00:25:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      50,
+      109,
+      510,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat with a red scarf, menacingly holds a revolver, aiming it at Jerry, a small brown mouse in a cowboy hat. Tom’s expression shifts from intense to gleeful as he chews on the gun’s barrel, while Jerry looks terrified, his eyes wide with fear.",
+    "timestamp": "2026-02-24 00:26:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      50,
+      109,
+      510,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, dons a red scarf and aims a blue revolver at Jerry, the brown mouse in a black hat. Tom’s expression shifts from menacing to mischievous as he smiles, revealing gold teeth. Jerry, gripping Tom’s arm, looks terrified yet defiant. The scene unfolds against a wooden backdrop, capturing their classic rivalry with exaggerated expressions and dynamic tension, hinting at impending chaos or comedy.",
+    "timestamp": "2026-02-24 00:26:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      111,
+      88,
+      347,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in cowboy hat and scarf, screams, then smokes. Suddenly, a massive explosion erupts, engulfing the scene in smoke and chaos.",
+    "timestamp": "2026-02-24 00:26:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      111,
+      88,
+      347,
+      430
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a cowboy hat and green bandana, dances wildly, then stops, smokes a cigarette, and exhales smoke. A sudden explosion follows, filling the screen with billowing clouds. His expression shifts from excitement to surprise as the scene ends abruptly.",
+    "timestamp": "2026-02-24 00:26:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      111,
+      88,
+      347,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, dons a cowboy hat and green scarf, dramatically reacting with surprise and then smoky resignation. He smokes a cigar, exhaling smoke, as a sudden explosion fills the screen. His expressions shift from shock to contemplative calm amidst the chaos.",
+    "timestamp": "2026-02-24 00:26:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      111,
+      88,
+      347,
+      430
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dons a cowboy hat and green bandana, standing in a barn. He screams, then calms, adjusting his hat and puffing smoke from a cigar. Suddenly, a massive explosion erupts, filling the screen with swirling gray smoke against a yellow backdrop. The scene shifts from Tom’s dramatic antics to an explosive, chaotic visual, emphasizing sudden, unexpected action.",
+    "timestamp": "2026-02-24 00:26:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      7,
+      45,
+      335,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed as a cowboy, enthusiastically lassos and jumps in a water trough, then runs with rope, showing playful determination and mischievous glee in the ranch setting.",
+    "timestamp": "2026-02-24 00:27:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      7,
+      45,
+      335,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dons a cowboy hat and lasso, energetically swinging it. His determined expression and dynamic pose suggest he’s practicing or pretending to be a cowboy, showcasing playful mischief in a rustic, fenced setting.",
+    "timestamp": "2026-02-24 00:27:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      7,
+      45,
+      335,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dons a cowboy hat and green bandana, wielding a lasso with determination. He confidently strides across a grassy field, swinging the rope with cowboy flair. His yellow eyes gleam with mischief, embodying a playful, determined spirit as he mimics a rodeo champion in a classic cartoon scene.",
+    "timestamp": "2026-02-24 00:27:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      7,
+      45,
+      335,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dons a cowboy hat and green bandana, wielding a lasso with cowboy flair. He confidently strides across a grassy field, rope coiled in his hands, eyes gleaming with determination. Behind him, a wooden fence and distant hills frame the scene. His posture exudes boldness and humor, as if he’s ready to lasso a mischievous target. The cartoonish style and vibrant colors enhance his comedic, adventurous persona as he embodies the spirit of a daring rancher.",
+    "timestamp": "2026-02-24 00:27:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      9,
+      106,
+      504,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, is startled and jumps backward, mouth open in shock, as Jerry, the brown mouse, rides atop him, holding a star-shaped object.",
+    "timestamp": "2026-02-24 00:27:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      9,
+      106,
+      504,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, is being chased by Jerry the mouse, who’s perched atop his back. Tom’s expression shows panic and exertion as he leaps across a wooden floor, while Jerry, with a mischievous grin, rides him, enjoying the chaos.",
+    "timestamp": "2026-02-24 00:27:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      9,
+      106,
+      504,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, leaps dramatically, mouth agape in surprise or alarm, while Jerry, the brown mouse, perches atop him, grinning mischievously. Their dynamic poses suggest a classic chase, with Tom’s frantic movement contrasting Jerry’s confident, playful stance as they tumble across wooden planks.",
+    "timestamp": "2026-02-24 00:27:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      9,
+      106,
+      504,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, is sprawled on a wooden surface, mouth agape in shock or surprise, while Jerry, the brown mouse, perches triumphantly atop his back, holding a small blue star. Jerry beams with glee, clearly victorious. Tom’s wide eyes and flailing limbs suggest startled defeat. The scene captures their classic chase, with Jerry’s playful dominance contrasting Tom’s comedic downfall. The setting is a rustic wooden interior, adding to the cartoon’s timeless charm.",
+    "timestamp": "2026-02-24 00:28:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      13,
+      5,
+      510,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed as a cowboy, smokes a cigar, then casually drops it. He smiles confidently, exuding a relaxed, mischievous demeanor against a dark blue backdrop.",
+    "timestamp": "2026-02-24 00:28:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      13,
+      5,
+      510,
+      496
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a cowboy, smokes a cigar, exhaling smoke. He then casually drops the cigar, smiles, and holds a revolver with a lit fuse, ready to fire. His expression shifts from smug to focused, hinting at impending action.",
+    "timestamp": "2026-02-24 00:28:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      13,
+      5,
+      510,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a cowboy, smokes a cigar while holding a revolver. He smiles confidently, then exhales smoke. His expression shifts to satisfaction as he sips from the cigar, embodying a relaxed, mischievous demeanor against a plain blue backdrop.",
+    "timestamp": "2026-02-24 00:28:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      13,
+      5,
+      510,
+      496
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a cowboy with a white hat and green scarf, smirks while holding a revolver with a flaming barrel. He casually smokes a cigar, exhaling smoke, then lowers it, smiling mischievously. His confident, playful demeanor suggests he’s enjoying a moment of dominance. The scene captures his sly, humorous character, with the background’s deep blue enhancing the spotlight on his antics.",
+    "timestamp": "2026-02-24 00:28:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      213,
+      46,
+      511,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in cowboy attire, strums a guitar with joyous expressions. Jerry, also dressed as a cowboy, sits beside him, observing with a sly, amused smile, enjoying the musical performance.",
+    "timestamp": "2026-02-24 00:29:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      213,
+      46,
+      511,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in cowboy attire, strums a guitar with enthusiasm, laughing joyfully. Jerry, dressed as a cowboy, sits beside him, smiling and watching. Their expressions convey playful camaraderie against a rustic backdrop, capturing a lighthearted musical moment between the two classic cartoon cats.",
+    "timestamp": "2026-02-24 00:29:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      213,
+      46,
+      511,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in cowboy attire, strums a guitar with enthusiasm, eyes wide and mouth open in joyful expression. Jerry, seated nearby, watches with a sly, amused smile, eyes gleaming. Their dynamic suggests playful camaraderie under a starry night sky, capturing a whimsical, animated moment of musical delight.",
+    "timestamp": "2026-02-24 00:29:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      213,
+      46,
+      511,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a cowboy with a hat and scarf, strums a guitar with joyful expressions, singing enthusiastically. Jerry, also in cowboy attire, sits beside him on a bench, initially watching with a sly smile, then closing his eyes as if enjoying the music. The scene captures their playful camaraderie against a rustic backdrop, with Tom’s animated performance contrasting Jerry’s calm, amused demeanor.",
+    "timestamp": "2026-02-24 00:29:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      29,
+      90,
+      184,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom plays guitar, smiling, while Jerry watches, amused. Both wear cowboy hats and outfits, enjoying a musical moment under a blue sky, exuding playful energy and camaraderie.",
+    "timestamp": "2026-02-24 00:29:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      29,
+      90,
+      184,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a cowboy hat and vest, strums a guitar with joy, while Jerry, dressed as a cowgirl, sits beside him, smiling. Their expressions shift from playful to delighted as they enjoy their musical performance, embodying a whimsical, animated camaraderie in a rustic, western setting.",
+    "timestamp": "2026-02-24 00:30:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      29,
+      90,
+      184,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in cowboy attire, strums a guitar with joy, while Jerry, dressed as a cowgirl, sits beside him, smiling. Their expressions convey delight and camaraderie, capturing a playful, musical moment under a starry sky, highlighting their friendship and shared enjoyment.",
+    "timestamp": "2026-02-24 00:30:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0008_character2_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      29,
+      90,
+      184,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a cowboy, strums a guitar with joyous expression, while Jerry, in a black hat and boots, sits beside him, smirking and occasionally glancing away. Their exaggerated facial expressions and synchronized movements suggest a playful, musical performance. The scene is set against a rustic wooden backdrop, with soft lighting enhancing their animated antics. Their camaraderie and humor shine through, capturing the essence of classic cartoon charm.",
+    "timestamp": "2026-02-24 00:30:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      91,
+      68,
+      405,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed as a cowboy, swings a lasso with determination. His focused expression and dynamic pose suggest he's trying to catch something, showcasing his playful, mischievous nature in this Western-themed scene.",
+    "timestamp": "2026-02-24 00:30:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      91,
+      68,
+      405,
+      409
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, dons a cowboy hat and green bandana, enthusiastically lassoing a rope. His determined expression and dynamic pose suggest he’s practicing or pretending to be a cowboy, showcasing his playful, mischievous nature in a rustic, Western-themed setting.",
+    "timestamp": "2026-02-24 00:30:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      91,
+      68,
+      405,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat in a cowboy hat and green bandana, eagerly swings a lasso near a wooden fence. His determined expression and dynamic posture suggest he's practicing or attempting to rope something, showcasing his playful, mischievous energy in a classic cartoon style.",
+    "timestamp": "2026-02-24 00:30:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      91,
+      68,
+      405,
+      409
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, dons a white cowboy hat and green bandana, gripping a lasso with determination. He swings the rope in a practiced motion, eyes focused, tail flicking. As he lunges forward, the lasso coils around a wooden fence post, sending him flying backward with a startled expression. The scene unfolds in a rustic, sunlit ranch setting, complete with a hanging saddle and wooden fence, capturing Tom’s cowboy antics with comedic flair.",
+    "timestamp": "2026-02-24 00:31:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      214,
+      131,
+      425,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a cowboy hat, bursts out of a wooden shed, yelling in panic. The shed door explodes outward as he flees, showing his frantic, startled expression.",
+    "timestamp": "2026-02-24 00:31:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      214,
+      131,
+      425,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a cowboy hat, stands nervously beside a wooden shed. He then bursts out in a frantic run, arms flailing, as the shed door explodes outward with dramatic energy. His wide-eyed, shocked expression conveys panic and surprise at the sudden, chaotic event.",
+    "timestamp": "2026-02-24 00:31:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      214,
+      131,
+      425,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a cowboy hat and bandana, emerges from a wooden shed, startled and shouting. He dashes across a grassy field, then bursts through a fence, his expression frantic. The scene captures his comedic chaos and exaggerated reactions, typical of classic cartoon antics.",
+    "timestamp": "2026-02-24 00:31:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      214,
+      131,
+      425,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat in a cowboy hat and green bandana, emerges from a wooden shed with a startled expression. He leaps forward, arms flailing, then dramatically crashes into the shed’s door, which bursts open with explosive energy. His wide eyes and open mouth convey shock and panic as he stumbles backward, revealing a rural backdrop with wooden fences and a twilight sky. His frantic motion suggests he’s fleeing or reacting to an unseen threat.",
+    "timestamp": "2026-02-24 00:31:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      75,
+      68,
+      393,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a cowboy hat, pulls a rope with determination, his expression focused. He stands beside a wooden fence, ready for action, showcasing his persistence and cowboy spirit.",
+    "timestamp": "2026-02-24 00:32:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      75,
+      68,
+      393,
+      398
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a cowboy hat, pulls a rope with determination, his eyes fierce and tail twitching. He strains against an unseen force, his body tense and focused. The rustic fence and grassy field frame his cowboy antics, capturing his playful yet stubborn persistence in this classic cartoon chase.",
+    "timestamp": "2026-02-24 00:32:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      75,
+      68,
+      393,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dons a white cowboy hat and grips a lasso, straining to pull it taut. His determined expression shows focus and effort. Behind him, a wooden fence and grassy field frame the scene, hinting at a ranch setting. His posture suggests he’s about to lasso a target, though none is visible yet.",
+    "timestamp": "2026-02-24 00:32:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      75,
+      68,
+      393,
+      398
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dons a white cowboy hat and grips a lasso, straining to pull it taut. His determined expression and focused eyes reveal his intent to catch prey. Behind him, a wooden fence and grassy field set the scene. As he pulls, the lasso swings, suggesting he’s in the midst of a daring chase. His posture and effort convey urgency and determination, capturing the classic chase dynamic between Tom and Jerry.",
+    "timestamp": "2026-02-24 00:32:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      50,
+      318,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a cowboy hat and scarf, joyfully ropes a mouse. He triumphantly lifts the mouse, smiling with pride as he stands on a porch.",
+    "timestamp": "2026-02-24 00:32:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      50,
+      318,
+      486
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a cowboy hat and scarf, joyfully swings a lasso, catching Jerry—a small mouse in a hat—mid-air. Tom beams with triumph, dangling Jerry playfully. Their expressions convey mischievous delight, capturing classic cartoon antics and the timeless chase between cat and mouse.",
+    "timestamp": "2026-02-24 00:32:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      50,
+      318,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a cowboy hat and red bandana, energetically swings a lasso, capturing Jerry—a tiny mouse in a hat—mid-air. Tom’s grin shows triumph, while Jerry’s expression hints at surprise. Their playful antics unfold against a rustic wooden cabin backdrop, capturing classic cartoon humor and mischievous charm.",
+    "timestamp": "2026-02-24 00:32:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      0,
+      50,
+      318,
+      486
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a black-and-white cat wearing a yellow cowboy hat and red bandana, energetically swings a lasso. He leaps, twirling the rope with joy, then catches Jerry—a small brown mouse in a tiny hat—hanging from the lasso. Tom beams triumphantly, holding Jerry aloft with a mischievous grin. The scene unfolds outside a rustic wooden cabin, capturing Tom’s playful, cowboy-like antics and his delight in his successful capture.",
+    "timestamp": "2026-02-24 00:32:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      197,
+      84,
+      453,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, dressed as a cowboy, enthusiastically plays guitar while Jerry watches skeptically. Suddenly, Tom's guitar explodes in a cloud of smoke, startling Jerry.",
+    "timestamp": "2026-02-24 00:33:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      197,
+      84,
+      453,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a cowboy, strums a guitar with joy, while Jerry, also in cowboy gear, watches skeptically. Tom’s performance culminates in a dramatic cloud of smoke, revealing his face in a mischievous grin, as Jerry’s expression shifts from doubt to surprise.",
+    "timestamp": "2026-02-24 00:33:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      197,
+      84,
+      453,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed as a cowboy, strums a guitar with joy, while Jerry, in a hat, watches skeptically. Tom’s expression shifts from delight to surprise as smoke erupts, revealing his face in a comical, exaggerated manner, still holding the guitar. Their antics highlight classic cartoon humor and dynamic expressions.",
+    "timestamp": "2026-02-24 00:33:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      197,
+      84,
+      453,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a cowboy with a hat and spurs, strums a guitar joyfully, while Jerry, in a black cowboy hat and purple scarf, watches skeptically from a bench. Tom’s expression shifts from delight to surprise as he suddenly explodes into a cloud of smoke, revealing his true form with a mischievous grin. Jerry looks on with a mix of amusement and bewilderment, capturing the classic slapstick humor of their antics.",
+    "timestamp": "2026-02-24 00:33:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      118,
+      124,
+      396,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds Jerry in his paw, eyes wide with surprise. Jerry looks terrified, mouth open. Tom’s expression shifts from shock to curiosity as he examines his tiny captive.",
+    "timestamp": "2026-02-24 00:34:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      118,
+      124,
+      396,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat with a red scarf, holds Jerry, the small brown mouse in a black hat, in his paws. Tom looks surprised, eyes wide, while Jerry appears frightened, eyes darting. Their expressions convey tension and surprise in this classic cartoon moment.",
+    "timestamp": "2026-02-24 00:34:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      118,
+      124,
+      396,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat with a red scarf, holds Jerry, the brown mouse in a black hat, in his paws. Tom’s expression shifts from stern to surprised as Jerry looks up, wide-eyed. The scene captures their classic dynamic—Tom’s dominance, Jerry’s cunning, and the comedic tension between them.",
+    "timestamp": "2026-02-24 00:34:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      118,
+      124,
+      396,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat with a red scarf, holds Jerry, the small brown mouse in a black hat, gently in his paw. Tom’s expression shifts from stern to surprised, eyes widening as he looks at Jerry. Jerry appears frightened, eyes wide, mouth open in alarm. The scene suggests a tense moment, possibly after a chase or confrontation, with Tom holding Jerry as if to restrain or interrogate him, set against a plain, textured background.",
+    "timestamp": "2026-02-24 00:34:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      118,
+      18,
+      375,
+      330
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the blue cat, wears a white hat and leaps joyfully across a wooden fence, arms outstretched, eyes wide with excitement in a grassy, fenced area.",
+    "timestamp": "2026-02-24 00:34:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      118,
+      18,
+      375,
+      330
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wears a white cowboy hat and leaps across a wooden fence, arms outstretched. His wide eyes and open mouth show surprise or excitement. The scene is set in a grassy field with wooden fences, suggesting a playful, adventurous moment in the classic cartoon.",
+    "timestamp": "2026-02-24 00:34:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      118,
+      18,
+      375,
+      330
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wears a white cowboy hat and leaps across a wooden fence with wide eyes and an open mouth, displaying surprise or excitement. His paws are spread, and he appears mid-motion, suggesting a playful or mischievous leap in a grassy, fenced outdoor setting.",
+    "timestamp": "2026-02-24 00:34:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      118,
+      18,
+      375,
+      330
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, dons a white cowboy hat, arms outstretched, as if dancing or celebrating. He leaps energetically over a wooden fence in a grassy field, his expression joyful and mischievous. The scene captures his playful, adventurous spirit, with the rustic wooden fence and distant hills framing his lively antics. His white gloves and paws contrast sharply with his dark fur, emphasizing his dynamic movement and spirited demeanor.",
+    "timestamp": "2026-02-24 00:34:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      125,
+      65,
+      292,
+      481
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, leaps over a fence with a determined expression. He lands with a thud, showing surprise or exertion, as the fence splinters behind him.",
+    "timestamp": "2026-02-24 00:35:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      125,
+      65,
+      292,
+      481
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, leaps over a wooden fence with a determined expression. He lands on the other side, panting and smiling triumphantly. The scene captures his playful, mischievous nature as he enjoys his successful escape, showcasing his agility and the classic cartoon charm.",
+    "timestamp": "2026-02-24 00:35:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      125,
+      65,
+      292,
+      481
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, leaps over a wooden fence with a determined expression. He lands on the other side, arms raised triumphantly, eyes wide with excitement. The scene captures his playful, mischievous spirit as he enjoys his daring escape, showcasing his agility and boundless energy in this classic cartoon moment.",
+    "timestamp": "2026-02-24 00:35:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      125,
+      65,
+      292,
+      481
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue-gray cat, leaps over a wooden fence with a determined expression, his eyes wide and mouth open in exertion. He lands with a thud, then immediately scrambles up the fence, claws gripping the wood. His green collar glints as he climbs, showcasing his agility and persistence. The scene captures his playful, mischievous energy as he navigates the rustic setting, embodying classic cartoon antics with exaggerated motion and comedic timing.",
+    "timestamp": "2026-02-24 00:35:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      2,
+      13,
+      381,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in cowboy attire, looks surprised as Jerry, wearing a hat and boots, flies above him, laughing joyfully, suggesting a playful, chaotic chase.",
+    "timestamp": "2026-02-24 00:35:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      2,
+      13,
+      381,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, dressed in a cowboy outfit with a hat and scarf, looks surprised as Jerry, in a similar outfit, floats above him. Jerry’s expression is playful and mischievous, while Tom’s shows shock or amusement, capturing a classic comedic dynamic between the two.",
+    "timestamp": "2026-02-24 00:36:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      2,
+      13,
+      381,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A glamorous cat in a cowboy hat and scarf gazes upward, surprised as a small, frantic mouse in a hat and boots dangles mid-air, clutching a pineapple. The cat’s wide eyes and open mouth suggest astonishment at the mouse’s antics, capturing a comedic, chaotic moment.",
+    "timestamp": "2026-02-24 00:36:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      2,
+      13,
+      381,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, dressed as a cowboy with a black hat and purple scarf, looks surprised as Jerry, wearing a cowboy hat and boots, leaps through the air. Jerry’s expression is playful and mischievous, while Tom’s eyes widen in shock. The scene captures their classic dynamic—Tom’s frustration versus Jerry’s cheeky antics—set against a simple wooden backdrop, emphasizing their comedic rivalry.",
+    "timestamp": "2026-02-24 00:36:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      75,
+      99,
+      370,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a cowboy hat and green scarf, runs frantically across a grassy field, arms outstretched, mouth open in panic, as if chasing something or escaping.",
+    "timestamp": "2026-02-24 00:36:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      75,
+      99,
+      370,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, wears a white cowboy hat and green scarf, running frantically across a grassy field. His wide eyes and open mouth show panic or excitement. Behind him, a wooden fence and distant hills frame the scene, emphasizing his hurried, comedic escape.",
+    "timestamp": "2026-02-24 00:36:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      75,
+      99,
+      370,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dashes in cowboy attire—white hat, green bandana—eyes wide, mouth agape in panic. He skids across grassy terrain near a wooden fence, limbs flailing, clearly terrified or frantic. His exaggerated expressions and motion convey urgency and comedic chaos typical of classic cartoons.",
+    "timestamp": "2026-02-24 00:36:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      75,
+      99,
+      370,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat, wears a white cowboy hat and green scarf, sprinting frantically across a grassy field with wooden fence in the background. His eyes widen, mouth agape in panic or excitement, paws flailing as he dashes. His body leans forward, conveying urgency. The scene suggests a chase or escape, with Tom’s exaggerated expression and motion emphasizing comedic chaos typical of classic cartoon antics.",
+    "timestamp": "2026-02-24 00:36:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      241,
+      15,
+      511,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in cowboy gear, speaks animatedly to a surprised-looking Jerry, also in cowboy attire, as they stand against a wooden backdrop. Their expressions convey playful tension.",
+    "timestamp": "2026-02-24 00:37:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      241,
+      15,
+      511,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a cowboy hat and vest, plays guitar with a grin. Jerry, in a black hat and purple scarf, looks up at him, surprised. Tom’s expression shifts from cheerful to shocked, then back to amused as he continues playing. Their dynamic suggests a humorous, musical showdown.",
+    "timestamp": "2026-02-24 00:37:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      241,
+      15,
+      511,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a cowboy hat and vest, sings enthusiastically while holding a guitar. Jerry, in a black hat and purple scarf, listens with wide eyes, mouth agape. Tom’s expression shifts from joy to surprise as Jerry reacts, capturing their classic comedic dynamic.",
+    "timestamp": "2026-02-24 00:37:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0020_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0020.mp4",
+    "bbox": [
+      241,
+      15,
+      511,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, in a cowboy hat and vest, plays a guitar with a mischievous grin, while Jerry, wearing a black hat and purple scarf, watches with wide eyes and an open mouth, appearing surprised or amused. Tom’s expression shifts from playful to animated, suggesting he’s singing or telling a story. Jerry’s posture and gaze indicate engagement, possibly reacting to Tom’s antics. Their dynamic hints at classic cartoon humor and rivalry, set against a simple, textured backdrop.",
+    "timestamp": "2026-02-24 00:37:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      190,
+      433,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, in a cowboy hat, rides Jerry the mouse on his back, both laughing. Tom’s expression is joyful, Jerry’s is playful, capturing their classic mischievous camaraderie.",
+    "timestamp": "2026-02-24 00:37:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      190,
+      433,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark blue with white paws, lies on ground, looking annoyed. Jerry the mouse, wearing a cowboy hat and boots, sits atop Tom’s back, waving a hat. Both characters display playful, mischievous expressions, suggesting a humorous chase or prank in a rustic setting.",
+    "timestamp": "2026-02-24 00:37:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      190,
+      433,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, lies on his back, panting, as Jerry, the brown mouse, rides atop him, waving a hat. Tom looks amused and slightly exhausted, while Jerry appears cheerful and mischievous, enjoying his unconventional ride. Their expressions convey playful chaos typical of their classic antics.",
+    "timestamp": "2026-02-24 00:37:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0021_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0021.mp4",
+    "bbox": [
+      24,
+      190,
+      433,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, dark blue with white paws, lies on his back, panting, as Jerry the mouse, wearing a cowboy hat and yellow overalls, rides atop him. Jerry waves his arms excitedly, smiling mischievously. Tom looks annoyed, eyes half-closed, as if exhausted or frustrated. The scene suggests a playful, chaotic chase, typical of their antics, with Jerry dominating the moment despite Tom’s apparent defeat. The wooden floor and wall imply a barn or shed setting.",
+    "timestamp": "2026-02-24 00:38:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      231,
+      73,
+      441,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wearing a white hat, runs frantically across a desert landscape, eyes wide and mouth open in panic, trailing motion lines behind him.",
+    "timestamp": "2026-02-24 00:38:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      231,
+      73,
+      441,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, runs frantically across a desert landscape, his eyes wide and mouth agape in panic. His ears flap wildly, and motion lines emphasize his speed. He appears distressed, possibly chasing something or fleeing from danger, with a determined yet panicked expression.",
+    "timestamp": "2026-02-24 00:38:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      231,
+      73,
+      441,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, dashes across a desert landscape, wearing a white hat with a red band and yellow goggles. His expression is frantic, mouth agape, as he runs with determined urgency, paws kicking up dust trails behind him, showcasing his classic cartoon chaos and speed.",
+    "timestamp": "2026-02-24 00:38:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      231,
+      73,
+      441,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sprints across a desert landscape with frantic energy, his eyes wide and mouth agape in alarm. His ears flap wildly, and his tail streams behind him, emphasizing his speed. His paws kick up dust trails as he dashes, clearly in a state of panic or urgency. The background features distant purple mountains under a deep blue sky, adding to the sense of motion and escape. His expression conveys fear or determination, capturing a moment of high-stakes chase.",
+    "timestamp": "2026-02-24 00:38:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      217,
+      164,
+      511,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon bull with white face and horns looks up, then reaches for a hanging horn, causing it to transform into golden horns. He smiles triumphantly.",
+    "timestamp": "2026-02-24 00:38:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      217,
+      164,
+      511,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon bull with white face and horns gazes upward, then leaps to grab a hanging bullhorn. It successfully attaches its horns, causing the horn to detach and fly away. The bull smiles triumphantly, showcasing its playful, determined spirit.",
+    "timestamp": "2026-02-24 00:39:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      217,
+      164,
+      511,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A determined brown bull with white horns and green eyes gazes upward, then leaps to grasp a hanging bullhorn. He successfully lifts it, causing a joyful expression. The scene ends with the bull proudly displaying his new horns, celebrating his triumph in the rustic, fenced field under a clear blue sky.",
+    "timestamp": "2026-02-24 00:39:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0024_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0024.mp4",
+    "bbox": [
+      217,
+      164,
+      511,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A dark brown bull with white face and horns gazes upward, then leaps to grasp a hanging bullhorn. Its eyes widen in surprise as it successfully attaches the horn to its own head, transforming into a larger, more imposing figure. The bull beams with pride, then proudly displays its new horns. The scene ends with an empty wooden fence against a serene, purple-hued landscape.",
+    "timestamp": "2026-02-24 00:39:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      233,
+      14,
+      503,
+      378
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, wearing a red scarf, pulls a rope with determination, then leaps forward, showing focused intensity as he moves across a wooden porch.",
+    "timestamp": "2026-02-24 00:39:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      233,
+      14,
+      503,
+      378
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat with a red scarf, energetically pulls a rope, his face showing determination. He leaps and twists, showcasing agility. The scene captures his playful, mischievous spirit as he moves dynamically across a wooden porch, embodying classic cartoon charm and comedic energy.",
+    "timestamp": "2026-02-24 00:39:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      233,
+      14,
+      503,
+      378
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the blue cat, energetically pulls a rope, his expression focused and determined. He leaps forward, gripping the rope tightly, showcasing his agility and strength. His red scarf flutters as he moves, emphasizing his dynamic motion against the wooden backdrop. The scene captures his playful, mischievous spirit as he engages in his typical antics.",
+    "timestamp": "2026-02-24 00:39:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0025_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0025.mp4",
+    "bbox": [
+      233,
+      14,
+      503,
+      378
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the mischievous blue cat with a red scarf, grips a white rope, swinging with determination. His yellow eyes gleam with focus as he leaps forward, then pulls back, tugging the rope taut. His expression shifts from concentration to playful aggression. The rope whips behind him as he dashes across a wooden porch, showcasing his agility and relentless pursuit. His tail flicks with energy, embodying his spirited, chaotic nature as he races toward his next target.",
+    "timestamp": "2026-02-24 00:40:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      191,
+      11,
+      446,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a red scarf, holds a yellow object. Jerry, atop a blue revolver, aims it. Tom reacts with surprise as the gun fires, causing sparks and smoke. Both characters display exaggerated expressions.",
+    "timestamp": "2026-02-24 00:40:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      191,
+      11,
+      446,
+      493
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a red scarf, holds a yellow object. Jerry, in a cowboy hat, perches atop a blue revolver, aiming it. A spark bursts as Jerry fires. Tom flinches, eyes wide, then smirks, raising his paw triumphantly as Jerry flies off, leaving a trail of smoke.",
+    "timestamp": "2026-02-24 00:40:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      191,
+      11,
+      446,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, in a red scarf, holds a yellow object, while Jerry, atop a blue revolver, aims it. Jerry’s expression shifts from focused to startled as the gun fires, sending sparks. Tom reacts with a startled expression, his eyes wide, as the scene unfolds with comedic chaos.",
+    "timestamp": "2026-02-24 00:40:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0026_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0026.mp4",
+    "bbox": [
+      191,
+      11,
+      446,
+      493
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, wears a red bandana and holds a yellow-tipped cigar. Above him, Jerry, the brown mouse, dons a cowboy hat and grips a blue revolver. Jerry fires, sending a fiery blast toward Tom, who reacts with a startled, wide-eyed expression. Tom then raises his paw, appearing to defend himself or react to the sudden attack. The scene captures their classic rivalry with comedic, exaggerated expressions and dynamic action.",
+    "timestamp": "2026-02-24 00:40:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      152,
+      67,
+      430,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat stretches, then lunges forward, pulling a rope with intense focus. His determined expression and dynamic pose show his eagerness to catch his prey.",
+    "timestamp": "2026-02-24 00:41:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      152,
+      67,
+      430,
+      427
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with red ears and yellow eyes, stretches and leaps across a porch, pulling a white rope with determination. His expression shows focused intensity as he moves dynamically, showcasing his playful, mischievous nature in this classic cartoon scene.",
+    "timestamp": "2026-02-24 00:41:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      152,
+      67,
+      430,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, dark blue with red ears, stretches and leaps with determination, gripping a white rope. His eyes gleam with focus as he pulls himself along the porch, showcasing his agility and playful mischief. The scene captures his classic chase energy, hinting at an impending adventure or pursuit.",
+    "timestamp": "2026-02-24 00:41:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/references/segment_0027_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E03 - Texas Tom (1080p AMZN WEB-DL x265 Ghost)/segments/segment_0027.mp4",
+    "bbox": [
+      152,
+      67,
+      430,
+      427
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the blue cat with red ears and yellow eyes, stretches dramatically on a wooden porch, gripping a white rope. He pulls with intense focus, his body taut and paws gripping the rope tightly. His expression is determined, eyes narrowed, as he strains to pull. The scene suggests a playful or mischievous endeavor, possibly chasing or pulling something unseen. The background features a rustic wooden house, enhancing the classic cartoon setting.",
+    "timestamp": "2026-02-24 00:41:20"
+  }
+]

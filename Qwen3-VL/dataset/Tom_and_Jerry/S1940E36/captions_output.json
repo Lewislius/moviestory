@@ -1,0 +1,954 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      0,
+      323,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in green dress and apron stands with arms crossed. Tom, wearing a yellow hat, nervously approaches, then jumps back in surprise as he sees her.",
+    "timestamp": "2026-02-23 22:38:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      0,
+      323,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout woman in a green dress and apron stands with arms crossed, glaring. Tom, the gray cat in a yellow hat, nervously crouches, then stands, flinching as he looks up at her. He appears scared, his tail twitching, as he tries to avoid her anger.",
+    "timestamp": "2026-02-23 22:38:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      0,
+      323,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout woman in a green dress and apron stands with arms crossed, glaring. Tom, the cat, wearing a yellow hat, nervously approaches, then jumps back, flinching as he looks up, startled by her stern expression. He appears guilty and anxious.",
+    "timestamp": "2026-02-23 22:39:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      0,
+      0,
+      323,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, stout woman in a green dress and white apron enters a room, stomping with red shoes. Tom, a gray cat wearing a yellow hat, peeks from behind a doorway, looking scared. He flinches as she points at him, then nervously cowers. He yelps, jumps, and spins around, showing fear and confusion. The scene is comedic, with Tom’s exaggerated reactions contrasting the woman’s stern demeanor.",
+    "timestamp": "2026-02-23 22:39:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      98,
+      0,
+      391,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in a green dress and red slippers walks into a kitchen, adjusting her apron while standing near cabinets, appearing cheerful and ready to cook.",
+    "timestamp": "2026-02-23 22:39:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      98,
+      0,
+      391,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a green dress, white apron, and red slippers walks into a kitchen, arms crossed. She pauses, then turns slightly, smiling with a content expression, suggesting satisfaction or pride in her surroundings. The scene is bright and cheerful, emphasizing her domestic role.",
+    "timestamp": "2026-02-23 22:39:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      98,
+      0,
+      391,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a green dress, white apron, and red slippers walks into a kitchen, arms crossed. She turns, smiles, and adjusts her apron, appearing cheerful and content. The kitchen features beige cabinets and a green countertop, with a bowl visible on the counter.",
+    "timestamp": "2026-02-23 22:39:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      98,
+      0,
+      391,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, green-clad character with brown arms and red slippers enters a kitchen, wearing a white apron. She walks with a cheerful, slightly exaggerated gait, arms swinging. Her face is not visible, but her posture suggests contentment. She pauses near the counter, hands clasped behind her back, as if preparing to cook or clean. The kitchen is modest, with beige cabinets and a green countertop, hinting at a domestic, cozy setting.",
+    "timestamp": "2026-02-23 22:39:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      480,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A stout woman in green dress and apron walks briskly, then turns, revealing a startled expression as yellow sparks fly from her body.",
+    "timestamp": "2026-02-23 22:40:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      480,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout, dark-skinned woman in a green dress and white apron walks briskly across a room, her red slippers squeaking. She gestures animatedly, then turns sharply, her apron fluttering. Her expression is determined, suggesting urgency or annoyance as she moves purposefully through the space.",
+    "timestamp": "2026-02-23 22:40:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      480,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A stout, animated woman in a green dress and white apron walks briskly across a room, her red slippers clicking. She turns, revealing a mischievous grin as she winks, her arms swinging with purpose. The scene suggests playful energy and determination, hinting at an impending adventure or task.",
+    "timestamp": "2026-02-23 22:40:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      120,
+      0,
+      480,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, animated woman in a green dress and white apron walks briskly across a room, her red slippers clomping on purple carpet. Her arms swing with purpose as she moves past a lamp and armchair. Suddenly, she turns, revealing a startled expression as a burst of yellow sparks erupts from her back, suggesting a comedic mishap or magical surprise. The scene is vibrant and whimsical, capturing a moment of chaotic energy in a cozy, cartoonish interior.",
+    "timestamp": "2026-02-23 22:40:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      1,
+      242,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cat, in a green dress and apron, gestures at a red cat. The red cat responds with exaggerated expressions and movements, showing playful defiance.",
+    "timestamp": "2026-02-23 22:40:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      1,
+      242,
+      426
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a green dress and apron stands, gesturing. An orange cat, Tom, approaches, smiling, then reacts with surprise and annoyance as she points at him. He turns away, looking frustrated, as the scene ends.",
+    "timestamp": "2026-02-23 22:40:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      1,
+      242,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cat in orange fur, with a mischievous grin, dances and gestures playfully near a woman in a green dress and apron. She watches him with a stern expression, arms crossed. He then turns away, tail flicking, as if taunting her. The scene is lighthearted and comedic.",
+    "timestamp": "2026-02-23 22:40:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      0,
+      1,
+      242,
+      426
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon cat, orange with white paws and tail, stands upright, smiling as it interacts with a large, green-clad character wearing a white apron. The cat gestures excitedly, then playfully flails its arms, while the green character points and speaks. The cat’s expression shifts from joy to mock annoyance as it turns away, tail swishing, in a room with purple carpet and red curtains. Their dynamic suggests a humorous, mischievous exchange.",
+    "timestamp": "2026-02-23 22:41:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      92,
+      0,
+      445,
+      318
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon character in green and white attire stands on a yellow stool, adjusting their clothing while wearing red shoes, in a kitchen setting.",
+    "timestamp": "2026-02-23 22:42:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      92,
+      0,
+      445,
+      318
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in green overalls and red shoes stands on a yellow stool, lifting a white cloth. Their arms are raised, and they appear focused, possibly cleaning or preparing. The kitchen setting with tiled walls and cabinets adds context to the scene.",
+    "timestamp": "2026-02-23 22:42:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      92,
+      0,
+      445,
+      318
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon character in a green apron and red shoes stands on a yellow stool, lifting their apron to reveal a surprised face. Their large hands grip the fabric, and they appear startled or amused, set against a kitchen backdrop with tiled walls and cabinets.",
+    "timestamp": "2026-02-23 22:42:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      92,
+      0,
+      445,
+      318
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon character, wearing a green apron and red shoes, stands on a yellow stool in a kitchen. Their arms are raised, gripping their apron as if adjusting or pulling it. The character’s legs are bent, and their feet are flat on the stool. The kitchen features tiled walls, cabinets, and dishes on the counter. The scene is static, with no visible facial expressions or movement, suggesting a moment of pause or preparation.",
+    "timestamp": "2026-02-23 22:42:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      51,
+      0,
+      447,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, struggles to carry a large, colorful hat, grimacing in effort. He stumbles, nearly tipping over, as he moves through a kitchen, showing determination and exhaustion.",
+    "timestamp": "2026-02-23 22:42:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      51,
+      0,
+      447,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, struggles to carry a large, colorful hat while running. He grimaces in effort, his eyes wide and teeth bared. The hat, adorned with green, yellow, and red, seems heavy. He trips near a table with teacups, continuing his frantic, determined run.",
+    "timestamp": "2026-02-23 22:42:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      51,
+      0,
+      447,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, struggles to carry a large, colorful hat while running through a kitchen. He grimaces in effort, his eyes wide with determination. The hat’s bright colors contrast with his gray fur as he navigates past cabinets and a tea set, clearly determined to reach his destination despite his exhaustion.",
+    "timestamp": "2026-02-23 22:42:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      51,
+      0,
+      447,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, struggles under a giant, colorful hat, his face contorted in effort. He stumbles, then leaps, narrowly avoiding a teapot and cup. His eyes widen in panic as he tumbles sideways, the hat still perched precariously on his head. The scene unfolds in a kitchen, with cabinets and a basket in the background. Tom’s frantic movements and exaggerated expressions convey comedic chaos as he tries to escape the absurd burden.",
+    "timestamp": "2026-02-23 22:42:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      206,
+      53,
+      511,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, holding a magnet, stands triumphantly as Jerry, the orange cat, is pulled toward him with sparks flying, showing Tom's victory and Jerry's startled reaction.",
+    "timestamp": "2026-02-23 22:43:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      206,
+      53,
+      511,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, holds a magnet, attracting Jerry, the orange mouse. Jerry leaps toward Tom, who reacts with surprise. Their playful chase continues, showcasing classic cartoon antics and exaggerated expressions, highlighting their mischievous rivalry.",
+    "timestamp": "2026-02-23 22:43:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      206,
+      53,
+      511,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a red magnet, causing yellow sparks to fly. He confronts a red cat, who reacts with surprise and anger. The red cat lunges, but Tom dodges, showcasing his cunning. Their expressions shift from playful to tense, capturing the classic chase-and-escape dynamic in their animated antics.",
+    "timestamp": "2026-02-23 22:43:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      206,
+      53,
+      511,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds a red magnet, smiling triumphantly as yellow sparks fly. Suddenly, Jerry, the orange mouse, lunges with a mischievous grin, grabbing Tom’s paw. Tom’s expression shifts to shock and surprise as Jerry’s sudden attack disrupts his得意. The scene captures their classic rivalry, filled with slapstick humor and playful chaos, highlighting their dynamic and comedic antics in a cozy, book-lined room.",
+    "timestamp": "2026-02-23 22:43:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      16,
+      83,
+      301,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Orange cat leaps excitedly toward a \"MAIL\" sign, then bursts through a door with a yellow spark effect, showing joy and energy as he dashes away.",
+    "timestamp": "2026-02-23 22:43:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      16,
+      83,
+      301,
+      463
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cat, Tom, excitedly approaches a \"MAIL\" box, then leaps with joy. He strikes a playful pose, then suddenly, a bright yellow explosion erupts from the mailbox, startling him. Tom’s expression shifts to surprise as he reacts to the unexpected blast.",
+    "timestamp": "2026-02-23 22:44:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      16,
+      83,
+      301,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "An orange cat, Tom, eagerly approaches a \"MAIL\" box, then leaps joyfully. He strikes a playful pose, eyes wide with excitement. Suddenly, a burst of yellow sparks erupts from the door, startling him. Tom’s expression shifts to surprise as he recoils, startled by the unexpected explosion.",
+    "timestamp": "2026-02-23 22:44:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      16,
+      83,
+      301,
+      463
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A red-orange cat with green eyes and white paws dashes excitedly toward a \"MAIL\" box, leaping with joy. He strikes a playful pose, then suddenly vanishes in a burst of yellow sparks, leaving only the door and a mysterious blue object. The cat’s expression shifts from delight to surprise, then to a mischievous grin as he disappears, hinting at a misadventure or prank. The scene ends with an empty doorway, suggesting the cat’s antics have just begun.",
+    "timestamp": "2026-02-23 22:44:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      194,
+      1,
+      511,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a magnet, spinning on a green rug. His wide eyes and open mouth show excitement as he playfully dances, enjoying his magnetic antics.",
+    "timestamp": "2026-02-23 22:44:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      194,
+      1,
+      511,
+      417
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a horseshoe magnet, dancing on a green rug. His wide eyes and open mouth show excitement. The scene transitions to a blur of motion, suggesting rapid movement or a sudden change, as Tom's tail whips through the air.",
+    "timestamp": "2026-02-23 22:44:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      194,
+      1,
+      511,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat gleefully holds a red magnet, leaping joyfully on a green rug. His wide eyes and open mouth convey excitement. The scene shifts to a blur of motion, then back to Tom, still ecstatic, as he dances with the magnet, embodying playful mischief in his classic cartoon antics.",
+    "timestamp": "2026-02-23 22:44:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      194,
+      1,
+      511,
+      417
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a red magnet, leaping joyfully on a green rug. His wide eyes and open mouth convey excitement. The scene shifts to a blur of motion, then back to Tom, now standing on the rug with a triumphant grin. Behind him, a bookshelf and wooden cabinet suggest a cozy home setting. His playful energy and mischievous grin hint at his ongoing pursuit of Jerry, the mouse, as he revels in his magnetic antics.",
+    "timestamp": "2026-02-23 22:44:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      165,
+      1,
+      486,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Orange cat, Tom, eagerly opens a door, then gets startled and flinches back. He appears annoyed or surprised, with wide eyes and a tense expression as he retreats.",
+    "timestamp": "2026-02-23 22:45:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      165,
+      1,
+      486,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cat, Tom, eagerly grabs a door handle, then gets startled by a woman in a green dress passing by. He reacts with surprise and anger, lunging forward with a dramatic expression, his eyes glowing green as he confronts her.",
+    "timestamp": "2026-02-23 22:45:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      165,
+      1,
+      486,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cat, Tom, eagerly grips a door handle, then recoils as a green-clad figure passes by. Tom’s expression shifts from hopeful to startled, then angry as he lunges forward, eyes glowing with frustration. The scene captures his persistent, comedic pursuit.",
+    "timestamp": "2026-02-23 22:45:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      165,
+      1,
+      486,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A red cat, Tom, eagerly grabs a door handle, then is startled as a woman in a green dress and red shoes passes by. He reacts with surprise, eyes widening, then turns away, his expression shifting to annoyance. The scene captures his playful yet frustrated demeanor as he tries to escape or avoid the woman, highlighting his classic mischievous nature. The room’s purple carpet and blue walls add to the cartoon’s vibrant, comedic atmosphere.",
+    "timestamp": "2026-02-23 22:45:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      208,
+      61,
+      464,
+      350
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, gray cat, gleefully holds a magnet, pulling Jerry, the mouse, away from a sleeping orange dog. Tom laughs triumphantly as Jerry escapes.",
+    "timestamp": "2026-02-23 22:46:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      208,
+      61,
+      464,
+      350
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a magnet, pulling Jerry, the mouse, away from a sleeping orange dog. Tom’s joyful expression contrasts with Jerry’s startled look as he’s lifted off the rug, while the dog remains blissfully unaware of the chaos.",
+    "timestamp": "2026-02-23 22:46:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      208,
+      61,
+      464,
+      350
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a magnet, while Jerry, the mouse, scurries atop a red dog lying on a rug. Tom’s triumphant grin contrasts with the dog’s distressed expression as Jerry escapes, leaving Tom amused by his chaotic antics. The scene captures classic cartoon chaos and playful rivalry.",
+    "timestamp": "2026-02-23 22:46:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      208,
+      61,
+      464,
+      350
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a magnet, laughing as he stands over a red dog lying on a rug. A tiny mouse perches atop the dog’s back, seemingly unbothered. As Tom moves the magnet, the dog’s eyes widen in surprise, then he leaps up, revealing a mischievous grin. Tom’s joyous expression and the dog’s startled reaction highlight their playful, chaotic dynamic, capturing the classic slapstick humor of their rivalry.",
+    "timestamp": "2026-02-23 22:46:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      92,
+      82,
+      403,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Orange cat bounds across purple floor, eyes wide, mouth open in surprise or excitement. Background shifts to cozy living room with pink couch and lamp.",
+    "timestamp": "2026-02-23 22:46:49"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      92,
+      82,
+      403,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cartoon cat with green eyes sprints across a purple floor, tail flicking, paws kicking up dust. Its expression is determined, mouth open as if panting. The scene shifts to a living room with a pink couch and lamp, suggesting a playful, animated chase.",
+    "timestamp": "2026-02-23 22:46:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      92,
+      82,
+      403,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cartoon cat with green eyes sprints across a purple floor, legs pumping, tail flicking. Its expression is determined, mouth open as if panting. The background shifts to a cozy room with a pink couch and lamp, suggesting a playful chase or escape within a domestic setting.",
+    "timestamp": "2026-02-23 22:46:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      92,
+      82,
+      403,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A red cartoon cat with green eyes and white paws dashes across a purple floor, tail flicking, eyes wide with excitement or panic. The scene transitions to a cozy living room with a pink sofa and lamp. The cat’s expression shifts to a mischievous grin, suggesting playful mischief. Its dynamic pose and animated whiskers convey energetic movement, while the background’s soft colors enhance the whimsical, classic animation style.",
+    "timestamp": "2026-02-23 22:47:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      0,
+      208,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in green dress scolds Tom, who's trapped in a cucumber, while Jerry watches. Tom holds a bone, smiling, as Jerry claps, amused by the chaos.",
+    "timestamp": "2026-02-23 22:47:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      0,
+      208,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a green dress and apron stands over a messy room. Tom, in a cucumber costume, holds a bone, while Jerry, in a green hat, sits amidst broken eggs. A red cat claps, smiling. Tom looks annoyed as the woman glares down at the chaos.",
+    "timestamp": "2026-02-23 22:47:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      0,
+      208,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in green attire stands over a messy room, while Tom, in a cucumber costume, holds a bone. Jerry watches, and a red cat clasps hands in prayer. Tom’s expression shifts from content to startled as the cat extends a paw, startling him. The scene is chaotic, filled with broken eggs and spilled food.",
+    "timestamp": "2026-02-23 22:47:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      0,
+      208,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large, green-clad woman with a white apron stands over a messy room, while Tom, the gray cat, sits trapped in a cucumber costume, chewing a bone. A red cat, Jerry, claps happily beside them. Tom looks annoyed as Jerry reaches toward him, then smiles. The floor is littered with broken eggs and spilled food, suggesting a chaotic, comedic mess. The scene exudes cartoonish mischief and playful tension.",
+    "timestamp": "2026-02-23 22:47:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      138,
+      465,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Orange cat, Tom, lounges on purple floor, eyes closed, paws curled. He stretches, then rolls onto back, eyes wide open, showing playful, relaxed demeanor.",
+    "timestamp": "2026-02-23 22:48:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      138,
+      465,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cat, Tom, lounges on a purple floor, playfully gripping a piano leg. He stretches, yawns, and shifts his position, eyes half-closed in contentment. His relaxed demeanor suggests he’s enjoying a quiet, lazy moment in a cozy room with soft furnishings.",
+    "timestamp": "2026-02-23 22:48:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      138,
+      465,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A red cat, Tom, lounges on a purple floor, eyes half-closed, appearing relaxed. He stretches, then playfully grabs a piano leg, pulling himself up with a mischievous grin. His tail flicks, and he seems amused, ready for antics. The room’s cozy furniture adds charm to his playful demeanor.",
+    "timestamp": "2026-02-23 22:48:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      2,
+      138,
+      465,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A red-orange cat, Tom, lounges on a purple carpet, stretching and yawning with a content expression. He playfully paws at a nearby piano leg, then leaps toward a small round table, knocking it over with a mischievous grin. He lands on his back, rolling slightly, before settling into a relaxed pose beside the piano, eyes half-closed in satisfaction. The room’s cozy decor—pink chair, green walls—adds charm to his antics.",
+    "timestamp": "2026-02-23 22:48:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      47,
+      255,
+      375,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom lies on floor, eyes wide, startled. Jerry peeks from behind furniture, watching. Tom’s expression shifts from surprise to annoyance as he glares at Jerry’s shadowy, fleeing form.",
+    "timestamp": "2026-02-23 22:48:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      47,
+      255,
+      375,
+      459
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, eyes wide with surprise or annoyance. A blur of motion suggests a recent chase or slap. Jerry, the brown mouse, stands nearby, peeking from under furniture, smirking triumphantly. The room is quiet, save for their playful tension.",
+    "timestamp": "2026-02-23 22:48:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      47,
+      255,
+      375,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back, eyes wide with surprise or annoyance. A blur of motion suggests a sudden impact or chase, leaving streaks behind. Jerry, the brown mouse, peeks from under a table, watching Tom with mischief. The room is quiet, save for their antics.",
+    "timestamp": "2026-02-23 22:48:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      47,
+      255,
+      375,
+      459
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies sprawled on the floor, eyes wide with shock or annoyance. A blur of motion suggests a recent chase or slap, with streaks indicating speed. Jerry, the small brown mouse, stands nearby, peeking from under a wooden table, smugly triumphant. The room’s warm tones and classic furniture frame their playful, slapstick dynamic, capturing a moment of comedic aftermath where Tom’s defeat is evident, and Jerry’s mischief is clear.",
+    "timestamp": "2026-02-23 22:48:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      78,
+      0,
+      420,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in green dress and red shoes runs past a door, scattering eggs. A cat in a hat chases after her, mouth open, showing determination.",
+    "timestamp": "2026-02-23 22:49:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      78,
+      0,
+      420,
+      491
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a green dress and red shoes runs past a door, scattering broken eggs. A cat in a striped hat, holding a bone, follows closely behind, appearing startled or amused by the chaos. The scene suggests playful mischief and surprise.",
+    "timestamp": "2026-02-23 22:49:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      78,
+      0,
+      420,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon woman in a green dress and red shoes runs past a door, scattering broken eggs. A cat in a striped hat chases after her, mouth open as if panting. The scene suggests a comedic chase, with the woman’s hurried movement and the cat’s determined pursuit.",
+    "timestamp": "2026-02-23 22:49:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      78,
+      0,
+      420,
+      491
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A stout, green-clad character with dark skin and red shoes rushes through a doorway, scattering broken eggs and a chicken on the floor. Behind them, a gray cat in a green-striped hat chases, mouth open, clutching a bone. The scene suggests chaos and urgency, with the cat’s determined expression contrasting the character’s hurried escape. The setting is a simple room with purple carpet and blue walls, emphasizing the comedic, cartoonish nature of the pursuit.",
+    "timestamp": "2026-02-23 22:49:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      270,
+      0,
+      511,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, gray cat, chases Jerry, brown mouse, through kitchen. Tom leaps, eyes wide, mouth open in shock. Jerry scurries away, tail twitching, dodging Tom’s pursuit.",
+    "timestamp": "2026-02-23 22:50:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      270,
+      0,
+      511,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps with wide eyes and an open mouth, chasing Jerry, the brown mouse, who scurries away. Tom’s expression shows surprise or excitement. The scene is set in a kitchen with cabinets and a green floor, capturing their classic chase dynamic.",
+    "timestamp": "2026-02-23 22:50:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      270,
+      0,
+      511,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps with wide eyes and an open mouth, chasing Jerry, the brown mouse, who scurries away. Tom’s expression shows surprise or excitement as he chases, while Jerry appears alert and determined, dodging Tom’s pursuit in a kitchen setting.",
+    "timestamp": "2026-02-23 22:50:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E36 - Old Rockin' Chair Tom (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      270,
+      0,
+      511,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically, eyes wide and mouth agape in shock or excitement, as Jerry, the brown mouse, scurries away beneath him. In a sudden twist, Tom is now holding a red and blue paintbrush, seemingly mid-action, while Jerry dodges a flying yellow object. The scene bursts with chaotic energy, capturing their classic chase dynamic—Tom’s frantic pursuit and Jerry’s clever evasion, both animated with exaggerated expressions and movements typical of their beloved cartoon antics.",
+    "timestamp": "2026-02-23 22:50:16"
+  }
+]

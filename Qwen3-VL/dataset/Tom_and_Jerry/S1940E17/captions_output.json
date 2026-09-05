@@ -1,0 +1,898 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      40,
+      13,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, holds Jerry, the mouse, in his paw. Jerry playfully bites Tom’s ear, causing Tom to scream in surprise and discomfort, showcasing their classic rivalry.",
+    "timestamp": "2026-02-23 19:19:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      40,
+      13,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, in his paw. Jerry playfully bites Tom’s cheek, causing Tom to scream in surprise. Tom’s eyes widen, and his expression shifts from shock to exaggerated delight, highlighting their classic comedic dynamic.",
+    "timestamp": "2026-02-23 19:19:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      40,
+      13,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, holds Jerry, the brown mouse, in his paw. Jerry playfully bites Tom’s cheek, causing Tom to react with surprise and pain. Tom’s eyes widen, and his mouth opens in shock, while Jerry grins mischievously, enjoying the moment. Their classic dynamic of chase and counter-chase shines through.",
+    "timestamp": "2026-02-23 19:19:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      40,
+      13,
+      512,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the brown mouse, in his paw with a surprised expression. Jerry, playful and mischievous, grips Tom’s ear, causing Tom to recoil in shock. Tom’s eyes widen, mouth agape, as Jerry wiggles and laughs, delighting in his antics. The scene captures their classic dynamic: Tom’s frustration and Jerry’s cunning, set against a simple, pastel background. Their exaggerated expressions highlight the comedic tension and playful rivalry.",
+    "timestamp": "2026-02-23 19:19:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      0,
+      404,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat, reads a book while Jerry, a brown mouse, watches. Tom yawns, then flips pages, startled by Jerry’s antics. Jerry playfully nips at Tom’s tail.",
+    "timestamp": "2026-02-23 19:19:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      0,
+      404,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, yawns while reading a book, then snatches it. Jerry, the brown mouse, watches, then jumps on Tom’s back. Tom flips the book, laughing, as Jerry scurries away. Their playful antics highlight their classic rivalry.",
+    "timestamp": "2026-02-23 19:19:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      0,
+      404,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, black and white, reads a book while Jerry the mouse, brown and small, teases him. Tom yawns, flips pages, and gets frustrated. Jerry dodges, then climbs onto Tom’s back. Tom’s expression shifts from annoyed to amused as Jerry playfully pokes him, highlighting their classic rivalry and comedic antics.",
+    "timestamp": "2026-02-23 19:20:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      8,
+      0,
+      404,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits on the floor reading a book, yawning widely. Jerry, the brown mouse, sneaks near, curious. Tom, amused, gently pats Jerry’s head. Jerry then scurries away, prompting Tom to close the book and stand up, stretching. Tom turns, looking surprised as Jerry dashes off, leaving him alone with the book. Tom’s expression shifts from boredom to mild annoyance as he watches Jerry vanish.",
+    "timestamp": "2026-02-23 19:20:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      13,
+      0,
+      491,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, reads a book with a mischievous grin, while Jerry, the small mouse, stands on the page, looking up at him with curiosity and slight alarm.",
+    "timestamp": "2026-02-23 19:20:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      13,
+      0,
+      491,
+      467
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, reads a book with a mischievous grin, while Jerry, the small brown mouse, stands on the pages, looking up at him. Tom’s expression shifts from amused to stern as Jerry’s antics cause him to react with exaggerated facial expressions, highlighting their classic rivalry.",
+    "timestamp": "2026-02-23 19:20:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      13,
+      0,
+      491,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, sits reading a book, initially smiling, then growling menacingly as Jerry, the brown mouse, stands on the pages. Tom’s expression shifts from calm to angry, while Jerry looks up at him, seemingly unbothered by the cat’s rage. The scene captures their classic dynamic of tension and mischief.",
+    "timestamp": "2026-02-23 19:20:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      13,
+      0,
+      491,
+      467
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, sits atop an open book, roaring menacingly with wide eyes and bared teeth. Tiny Jerry, the brown mouse, stands on the pages, looking up at Tom with a startled, fearful expression. Tom’s expression shifts from rage to a smug, triumphant grin as he holds the book open. The scene captures Tom’s predatory dominance and Jerry’s vulnerability, set against a cozy, domestic backdrop with warm lighting and soft furnishings.",
+    "timestamp": "2026-02-23 19:20:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      170,
+      25,
+      479,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat yells in frustration, pawing his head, as Jerry the mouse leaps away, laughing. Tom’s expression shows anger and helplessness as Jerry escapes.",
+    "timestamp": "2026-02-23 19:21:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      170,
+      25,
+      479,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat yells in frustration, pawing his head as Jerry the mouse leaps away. Tom’s expression is one of rage and despair, while Jerry’s joyful escape highlights their classic chase dynamic, capturing their timeless comedic rivalry and slapstick antics.",
+    "timestamp": "2026-02-23 19:21:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      170,
+      25,
+      479,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, yells in frustration, clutching his head. Jerry, the brown mouse, leaps away joyfully, leaving Tom visibly annoyed and overwhelmed. Their classic chase dynamic is captured with exaggerated expressions and motion, highlighting their enduring rivalry and comedic chaos.",
+    "timestamp": "2026-02-23 19:21:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      170,
+      25,
+      479,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, screams in frustration, clutching his head with paws, eyes squeezed shut. Jerry, the brown mouse, leaps joyfully through the air, tail flicking, seemingly escaping Tom’s grasp. Tom’s expression conveys pure exasperation, while Jerry’s radiates triumph. The scene captures their classic chase dynamic, with Tom’s despair contrasting Jerry’s carefree flight against a plain backdrop.",
+    "timestamp": "2026-02-23 19:21:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      7,
+      492,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, sits with a large book, initially reading, then laughing joyfully, eyes wide and mouth open, displaying playful delight.",
+    "timestamp": "2026-02-23 19:22:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      7,
+      492,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits cross-legged, holding a large book. He initially looks bored, then suddenly bursts into laughter, eyes wide and mouth open. His paws grip the book tightly as he enjoys the humorous content, displaying delight and amusement.",
+    "timestamp": "2026-02-23 19:22:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      7,
+      492,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sits cross-legged, holding a large blue book. He opens it dramatically, eyes wide with excitement, then laughs joyfully. His paws rest on the book's edges, and his tail curls playfully. The scene captures his delight and enthusiasm for reading, showcasing his mischievous, animated personality.",
+    "timestamp": "2026-02-23 19:22:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      7,
+      492,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat sits cross-legged, holding a large blue book. He initially looks bored, then suddenly bursts into laughter, eyes wide and mouth open, as if amused by the book’s content. His paws grip the book tightly, and his tail flicks playfully. The scene suggests he’s enjoying a humorous or unexpected read, capturing his classic mischievous and comedic nature. The background is a simple room, emphasizing Tom’s expressive reaction.",
+    "timestamp": "2026-02-23 19:22:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      216,
+      96,
+      505,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, sets a mousetrap with a feather, then hides, watching anxiously as the trap remains set, awaiting his prey.",
+    "timestamp": "2026-02-23 19:22:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      216,
+      96,
+      505,
+      475
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat sets a mousetrap, gleefully anticipating a meal. He places a feather and a yellow ball as bait. After setting it, he retreats, peeking from behind a wall, eyes wide with anticipation, ready to pounce when the trap snaps shut.",
+    "timestamp": "2026-02-23 19:22:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      216,
+      96,
+      505,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, grinning mischievously, sets a mousetrap with a feathered lure. He places it near a hole, then leaps back in delight. His expression shifts to cautious anticipation as he watches the trap, ready for his next clever trap setup, embodying classic cartoon mischief.",
+    "timestamp": "2026-02-23 19:22:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      216,
+      96,
+      505,
+      475
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly sets a mousetrap, gleefully adjusting its components. His expression shifts from triumph to shock as he steps back, revealing a hole in the wall. He peers cautiously, then vanishes into the shadows, leaving the trap alone. The scene captures his mischievous intent and sudden fear, hinting at an impending mouse encounter. The room’s cozy details, like the fireplace and flowers, contrast with Tom’s frantic, cartoonish anxiety.",
+    "timestamp": "2026-02-23 19:22:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      124,
+      73,
+      486,
+      376
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, tricks a mousetrap, gets caught, and flails. Jerry, the mouse, escapes. Tom’s frustration turns to comedic chaos as walls crumble around him.",
+    "timestamp": "2026-02-23 19:23:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      124,
+      73,
+      486,
+      376
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the cat, proudly holds a broken trap, then trips over it. A mouse escapes, triggering the trap, which snaps shut and sends Tom flying backward. The wall cracks as he lands, revealing his startled, flustered expression. The scene ends with the mouse fleeing, leaving Tom dazed and disoriented.",
+    "timestamp": "2026-02-23 19:23:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      124,
+      73,
+      486,
+      376
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, gleefully handles a broken mousetrap, then trips over it, sending himself flying. A mouse escapes through a hole, triggering the trap. Tom’s startled reaction and the wall’s destruction highlight his comedic mishap. The scene ends with Tom’s chaos and the mouse’s escape.",
+    "timestamp": "2026-02-23 19:23:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      124,
+      73,
+      486,
+      376
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat with a red hat, gleefully holds a broken mousetrap, then drops it. A mouse scurries past, triggering the trap. Tom’s expression shifts to panic as he’s caught in the mechanism, flailing wildly. The trap snaps shut, launching him into the air, then he crashes into the wall, causing plaster to fall. The scene ends with Tom sprawled on the floor, the trap now useless and the wall damaged.",
+    "timestamp": "2026-02-23 19:23:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      93,
+      90,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, yawns widely with red tongue and sharp teeth, his orange tufted head tilted back. His expression is sleepy, eyes half-closed, as he stretches in a cozy room.",
+    "timestamp": "2026-02-23 19:24:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      93,
+      90,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, yawns widely with a red tongue, his orange tufted hair bouncing. He appears sleepy and relaxed, eyes half-closed, as he stretches. A white mouse peeks from the left, observing Tom’s yawning. The scene conveys a lazy, domestic moment between the two classic cartoon characters.",
+    "timestamp": "2026-02-23 19:24:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      93,
+      90,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, yawns widely with a red tongue and sharp teeth, his orange tufted head tilted back. His eyes are closed, and he appears sleepy or bored. A white mouse peeks from the left, observing Tom’s yawning. The scene captures a humorous, lazy moment in their classic cartoon dynamic.",
+    "timestamp": "2026-02-23 19:24:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      93,
+      90,
+      509,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, yawns widely with his tongue out, revealing sharp teeth and a red interior of his mouth. His orange tufted hair stands up, and he’s mid-yawn, eyes half-closed, appearing sleepy or bored. A white mouse, possibly Jerry, is partially visible to the left, looking up at Tom. The scene takes place indoors, with a doorway and curtains in the background. Tom’s expression conveys relaxation or fatigue, while the mouse seems curious or cautious.",
+    "timestamp": "2026-02-23 19:24:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      1,
+      0,
+      255,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a black cat with a red bandana, swings a hammer at a wall, hitting a hole where Jerry, a brown mouse, peeks out, startled and defensive.",
+    "timestamp": "2026-02-23 19:25:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      1,
+      0,
+      255,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat with a red bandana, leaps and strikes a hat, then looks upward in surprise. Jerry, a brown mouse, peeks from a wall hole, pointing at Tom. Tom’s expression shifts from startled to amused as he gazes at Jerry’s antics.",
+    "timestamp": "2026-02-23 19:25:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      1,
+      0,
+      255,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a black cat with a red bandana, leaps and grabs a hat, then swings it to strike a wall. A mouse peeks from a hole in the wall, startled. Tom’s expression shifts from focused to surprised as he looks upward, capturing the comedic chase dynamic between the cat and mouse.",
+    "timestamp": "2026-02-23 19:25:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      1,
+      0,
+      255,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a black-and-white cat with a red bandana, leaps and grabs a hat, then swings it upward, striking a wall. A framed picture cracks as Jerry, a brown mouse, peeks out from behind it, startled. Tom, now looking up with a mischievous grin, holds the hat aloft, eyes gleaming with triumph. Jerry, with wide eyes, appears both surprised and amused by Tom’s antics. The scene captures their classic chase, filled with slapstick humor and playful rivalry.",
+    "timestamp": "2026-02-23 19:25:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      258,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, leaps dramatically, grabbing a hat, then stands triumphantly, eyes wide, as Jerry the mouse scurries away beneath him.",
+    "timestamp": "2026-02-23 19:25:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      258,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, hangs upside down, then stands upright, holding a hat. He looks surprised as a tiny mouse scurries away. Tom’s expression shifts from startled to determined, showcasing his classic comedic chase instincts in a playful, cartoonish setting.",
+    "timestamp": "2026-02-23 19:25:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      258,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, leaps dramatically, wearing a red bandana, as he grabs a hat. He stands triumphantly, eyes wide with determination, as a tiny mouse scurries away. The scene captures Tom’s playful, mischievous energy and his relentless pursuit, set against a cozy, pink-walled room with a floral vase nearby.",
+    "timestamp": "2026-02-23 19:25:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      1,
+      0,
+      258,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, hangs upside down from a vase, then rights himself, wielding a hat like a hammer. His expression shifts from surprise to determination as he smashes a small mouse with the hat. The mouse scurries away, tiny and terrified. The room’s pink walls and floral decor contrast with Tom’s chaotic energy, highlighting his comedic, over-the-top antics in this classic cartoon chase.",
+    "timestamp": "2026-02-23 19:25:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      87,
+      106,
+      507,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the cat, reads a book while Jerry, the mouse, sneaks nearby. Tom yawns, then gets startled by Jerry, causing him to tumble backward in surprise.",
+    "timestamp": "2026-02-23 19:26:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      87,
+      106,
+      507,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, reads a book, annoyed by Jerry, the brown mouse. Jerry sneaks closer, then Tom yells, flailing. Tom falls backward, startled, while Jerry watches, amused. Their classic chase begins as Tom’s frustration turns to chaos.",
+    "timestamp": "2026-02-23 19:26:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      87,
+      106,
+      507,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, reads a book while Jerry, the brown mouse, watches. Tom yawns, then suddenly leaps up, startled. Jerry scurries away, but Tom follows, playfully chasing him. Their antics unfold with classic cartoon energy, showcasing their timeless rivalry and comedic chaos.",
+    "timestamp": "2026-02-23 19:26:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      87,
+      106,
+      507,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, sits reading a book, then yawns widely, startling Jerry, the brown mouse, who scurries away. Tom’s expression shifts from boredom to annoyance as he flails his paws and rolls onto his back, still clutching the book. Jerry, ever cautious, watches from a safe distance. Tom’s frustration peaks as he tries to ignore Jerry, but the mouse’s presence keeps him distracted. Their classic rivalry is on full display, with Tom’s comical antics and Jerry’s sly escape.",
+    "timestamp": "2026-02-23 19:26:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      193,
+      140,
+      491,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, wields a shotgun, aiming at a hole. He's startled as the gun accidentally shoots through the wall, leaving him stunned and surprised, with a red starburst effect.",
+    "timestamp": "2026-02-23 19:26:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      193,
+      140,
+      491,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a shotgun, aiming at a hole in the wall. He struggles, then triumphantly shoots through the wall, smiling. His expression shifts from determination to delight as he lies back, reveling in his success. The scene is comically exaggerated, capturing his mischievous glee.",
+    "timestamp": "2026-02-23 19:27:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      193,
+      140,
+      491,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wields a shotgun, aiming it at a hole in the wall. He struggles, then triumphantly peers through the hole, smiling. The scene ends with a red starburst effect, emphasizing his success. His determined expression and playful demeanor highlight his mischievous nature.",
+    "timestamp": "2026-02-23 19:27:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      193,
+      140,
+      491,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, wields a shotgun with determination, aiming at a hole in the floor. He struggles to hold it steady, then suddenly, the gun bursts through the wall, startling him. Tom lies on the floor, eyes wide with shock, then grins mischievously as the gun’s barrel protrudes from the wall. His expression shifts from surprise to delight, suggesting he’s amused by the chaos he’s created. The scene captures his playful, chaotic nature.",
+    "timestamp": "2026-02-23 19:27:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      14,
+      0,
+      438,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, reacts with surprise and frustration, then grabs a green comb, angrily combing his fur, scattering pieces as he struggles.",
+    "timestamp": "2026-02-23 19:27:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      14,
+      0,
+      438,
+      458
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, wearing a red bow, stands behind a counter, expressing frustration. He grabs a green spatula, screams, and throws it, scattering pieces. His expressions shift from anger to shock, showcasing his comedic chaos and exaggerated emotions in this classic cartoon scene.",
+    "timestamp": "2026-02-23 19:27:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      14,
+      0,
+      438,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, with a red bow, stands behind a counter, displaying exaggerated expressions—from shock to delight. He grabs a green spatula, then violently smashes it, scattering pieces. His frantic movements and wide eyes convey comedic chaos and sudden frustration.",
+    "timestamp": "2026-02-23 19:27:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      14,
+      0,
+      438,
+      458
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the cat, with a red bow, stands behind a dresser, arms outstretched in frustration. He grimaces, then suddenly laughs, revealing sharp teeth. His expression shifts to shock as he grabs a green comb, biting it fiercely. The comb shatters, scattering fragments. Tom’s eyes widen in dismay, then he slumps, defeated. The scene captures his escalating frustration and sudden comedic breakdown.",
+    "timestamp": "2026-02-23 19:27:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      244,
+      1,
+      511,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, gleefully lights a fuse on a bomb, aiming it at a mouse hole. His expression is mischievous and triumphant as he prepares for chaos.",
+    "timestamp": "2026-02-23 19:28:16"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      244,
+      1,
+      511,
+      498
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a lit fuse, preparing to set off a bomb. He crouches, eyes wide with mischief, as a mouse peeks from a hole nearby. Tom’s expression is one of triumph and excitement, anticipating the chaos he’s about to unleash.",
+    "timestamp": "2026-02-23 19:28:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      244,
+      1,
+      511,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat with orange tufts, gleefully holds a lit fuse, eyes wide with mischief. He stealthily places a bomb near a mouse hole, then triumphantly raises the fuse, anticipating chaos. His grin suggests playful villainy as he prepares to trigger his explosive plan.",
+    "timestamp": "2026-02-23 19:28:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      244,
+      1,
+      511,
+      498
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat with orange hair, gleefully holds a lit fuse, eyes wide with mischief. He crouches, then places a red dynamite stick near a mouse hole, smiling triumphantly. The mouse peeks out, startled. Tom’s expression shifts to pure glee as he watches the mouse, clearly enjoying his prank. The scene is set in a cozy room with wooden floors and a red chair, emphasizing Tom’s playful, mischievous nature.",
+    "timestamp": "2026-02-23 19:28:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      140,
+      86,
+      419,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat hangs upside down from a ceiling hole, limbs splayed, looking surprised or startled as plaster falls around him, suggesting a chaotic moment.",
+    "timestamp": "2026-02-23 19:28:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      140,
+      86,
+      419,
+      368
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, hangs upside down from a ceiling hole, limbs splayed, as plaster fragments fall. His expression is one of surprise or panic. The scene captures a chaotic, cartoonish moment of comedic disaster, emphasizing Tom's predicament and the absurdity of his situation.",
+    "timestamp": "2026-02-23 19:28:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      140,
+      86,
+      419,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon cat, Tom, hangs upside down from a ceiling hole, limbs splayed, as plaster flakes fall. His expression is one of surprise or panic. The scene captures a comedic, chaotic moment, emphasizing Tom’s predicament and the absurdity of his situation in a classic animated style.",
+    "timestamp": "2026-02-23 19:29:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0018_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0018.mp4",
+    "bbox": [
+      140,
+      86,
+      419,
+      368
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon cat, Tom, hangs upside down from a ceiling hole, limbs splayed, as if caught mid-air. His body is dark gray with a lighter belly, white paws, and a blue tie. The room has pink walls and a gray ceiling. Tom’s expression is one of surprise or shock, eyes wide, mouth agape. Dust particles drift downward as he dangles, suggesting a sudden, chaotic event. The scene captures a comedic, slapstick moment of absurdity and surprise.",
+    "timestamp": "2026-02-23 19:29:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      16,
+      0,
+      502,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A cartoon hand holds a blue book titled \"How to Catch a Mouse: A Random Mouse Book,\" flipping pages with a curious expression, suggesting intrigue or mischief.",
+    "timestamp": "2026-02-23 19:29:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      16,
+      0,
+      502,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon hand holds a teal book titled \"How to Catch a Mouse: A Random Mouse Book.\" The hand, with white gloves and a dark sleeve, gently grips the cover. No expressions or emotions are visible, and the scene remains static, focusing solely on the book’s title and the hand’s steady hold.",
+    "timestamp": "2026-02-23 19:29:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      16,
+      0,
+      502,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A cartoon hand holds a teal book titled \"How to Catch a Mouse: A Random Mouse Book.\" The hand gently grips the cover, slightly tilting it. No facial expressions or emotions are visible, as only the hand and book are shown. The scene is static, focused on the book’s title and the hand’s interaction with it.",
+    "timestamp": "2026-02-23 19:29:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/references/segment_0019_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E17 - Mouse Trouble (1080p BluRay x265 Ghost)/segments/segment_0019.mp4",
+    "bbox": [
+      16,
+      0,
+      502,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A cartoon hand with white gloves holds a teal book titled \"How to Catch a Mouse: A Random Mouse Book.\" The hand gently grips the cover, fingers slightly curled. The book’s title is bold and yellow, contrasting with the teal background. No facial expressions or emotions are visible, as only the hand and book are shown. The scene is static, suggesting a moment of contemplation or preparation for reading. The tone is whimsical, hinting at comedic or absurd content within.",
+    "timestamp": "2026-02-23 19:29:50"
+  }
+]

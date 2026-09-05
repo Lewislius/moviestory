@@ -1,0 +1,41 @@
+name: 10min-metaquery-overfit-fsdp-test
+description: a simple test for the availability of wan-animate inference with metaquery
+workspace: RTX4090
+project: wan-animate
+
+max_restarts: 0
+resources:
+  resource_pool: ada-48g
+  slots_per_trial: 2
+  is_single_node: true
+  shm_size: 34359738368
+
+bind_mounts:
+  - host_path: /mount/HOME/liuzhirui
+    container_path: /home/liuzhirui
+  - host_path: /mount/NAS1/public
+    container_path: /run/determined/NAS1/public
+
+environment:
+  image: 10.130.130.5:8192/liuzhirui:ubuntu22-04-cuda12.8-v3
+
+checkpoint_storage:
+  type: shared_fs
+  host_path: /mount/HOME/liuzhirui/model
+  storage_path: checkpoint
+  save_experiment_best: 0
+  save_trial_best: 1
+  save_trial_latest: 1
+
+searcher:
+  name: single
+  metric: validation_loss
+  max_length:
+    epochs: 1
+  smaller_is_better: true
+
+profiling:
+  enabled: true
+
+entrypoint: /home/liuzhirui/model/Wan2.2/wan-ti2v-metaquery-inference-fsdp-flat.sh
+

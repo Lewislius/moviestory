@@ -1,0 +1,954 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      118,
+      120,
+      405,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat joyfully dances, picks up a guitar, and plays it with enthusiasm, smiling broadly as it strums, surrounded by a vibrant garden setting.",
+    "timestamp": "2026-02-23 20:16:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      118,
+      120,
+      405,
+      412
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with gray paws joyfully dances outdoors, grabbing a guitar and strumming it with enthusiasm. His wide grin and energetic movements convey delight and playful mischief as he performs in a sunlit garden setting.",
+    "timestamp": "2026-02-23 20:16:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      118,
+      120,
+      405,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with gray paws joyfully dances in a garden, then picks up a guitar, strumming it with delight. His wide grin and energetic movements convey pure happiness. The scene is bright and playful, capturing his musical enthusiasm and carefree spirit as he performs outdoors.",
+    "timestamp": "2026-02-23 20:16:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      118,
+      120,
+      405,
+      412
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with gray paws and a joyful expression dances playfully in a sunlit garden. He leaps, grabs a red cushion, and then picks up a guitar, strumming it with delight. His tail wags, eyes sparkle, and he beams with enthusiasm. The background features lush greenery, trees, and a red umbrella, enhancing the cheerful, whimsical atmosphere. The cat’s antics exude pure, unbridled fun, embodying classic cartoon charm and energy.",
+    "timestamp": "2026-02-23 20:16:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      172,
+      503,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, paws on bars, eyes wide, mouth open, showing frustration or anger, then turns, looks around, and seems to be yelling or protesting.",
+    "timestamp": "2026-02-23 20:16:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      172,
+      503,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, is trapped in a yellow-barred cage. He initially looks frustrated, then angry, slamming his paws. His expression shifts to surprise as he turns, showing a mix of annoyance and confusion, while the green background remains static.",
+    "timestamp": "2026-02-23 20:16:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      172,
+      503,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands behind yellow bars, initially smug, then angry, fists clenched. He turns, growling, then relaxes with a surprised look. His expressions shift from frustration to bewilderment, hinting at a sudden realization or interruption. The scene captures his emotional rollercoaster within a confined space.",
+    "timestamp": "2026-02-23 20:17:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      172,
+      503,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, is trapped behind yellow bars, initially sneering with a smug expression. He then growls, fists clenched, showing frustration. His eyes widen in surprise as he turns, then he looks confused and slightly defeated, paws splayed. The background is a simple green field, emphasizing Tom’s isolation and escalating emotions from annoyance to bewilderment. His body language shifts from aggressive to perplexed, highlighting his predicament.",
+    "timestamp": "2026-02-23 20:17:09"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      116,
+      110,
+      375,
+      411
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, gray with white paws, struggles against yellow bars, then falls, rolls, and stands up, showing determination and playful mischief in classic cartoon style.",
+    "timestamp": "2026-02-23 20:17:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      116,
+      110,
+      375,
+      411
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, stands by yellow bars, then falls backward, landing on his back with a surprised expression. He quickly sits up, looking startled and bewildered, as if caught off guard by an unseen event or his own clumsiness.",
+    "timestamp": "2026-02-23 20:17:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      116,
+      110,
+      375,
+      411
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, stands behind yellow bars, paws raised in surprise. He then tumbles backward, landing on his back with a startled expression. He quickly rights himself, looking up with a determined, slightly annoyed gaze, as if ready to chase something. The scene is set outdoors, with green grass and a stone pillar nearby.",
+    "timestamp": "2026-02-23 20:17:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      116,
+      110,
+      375,
+      411
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands behind yellow bars, paws clasped, eyes wide with determination. He leaps, tumbling dramatically, then lands on his back, panting. He quickly sits up, shaking off the fall, then stands again, determined. His expression shifts from startled to focused, as if preparing for a chase. The scene captures his classic comedic energy and relentless pursuit, set against a sunlit, grassy backdrop.",
+    "timestamp": "2026-02-23 20:17:48"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      2,
+      0,
+      494,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom sits on red cushion, back to camera, while Jerry scurries across, playfully jumping and dodging, then vanishes behind curtains, mischief in his eyes.",
+    "timestamp": "2026-02-23 20:18:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      2,
+      0,
+      494,
+      468
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits on a red couch, back turned, while Jerry, the brown mouse, playfully hops across the cushion, then leaps off-screen. Tom remains still, unaware, as Jerry’s antics unfold with mischievous energy. The scene captures their classic dynamic of chase and escape.",
+    "timestamp": "2026-02-23 20:18:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      2,
+      0,
+      494,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, sits on a red couch, back turned, while Jerry, the brown mouse, playfully hops and jumps nearby. Jerry shows mischief, leaping toward Tom with a mischievous grin, evading capture as Tom remains unaware, creating a classic chase scene full of comedic tension and animated charm.",
+    "timestamp": "2026-02-23 20:18:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      2,
+      0,
+      494,
+      468
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A gray cat sits on a red cushion, back turned, hands clasped. A brown mouse scurries across the cushion, then leaps toward the cat, tail flicking with excitement. The mouse’s eyes widen in delight as it approaches, then it dashes away, leaving the cat unmoved. The cat remains still, unaware of the mouse’s antics, while the mouse’s playful energy contrasts with the cat’s calm, patient demeanor.",
+    "timestamp": "2026-02-23 20:18:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      81,
+      236,
+      456,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat leaps joyfully, eyes wide, mouth open in excitement, while a small mouse rests on his back, both characters animated with classic cartoon energy and playful expressions.",
+    "timestamp": "2026-02-23 20:18:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      81,
+      236,
+      456,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat leaps joyfully, eyes wide, mouth open in excitement. He lands on a brown dog, who looks startled. Tom’s playful energy contrasts with the dog’s surprised expression, capturing a classic cartoon moment of mischievous feline antics and unexpected encounters.",
+    "timestamp": "2026-02-23 20:18:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      81,
+      236,
+      456,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, lies on his back, smiling contentedly. He then leaps upward, landing on a large dog's back, eyes gleaming with mischief. The dog, brown and calm, stands still, unaware of Tom’s playful antics. The scene is set in a lush garden with greenery and roses.",
+    "timestamp": "2026-02-23 20:19:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      81,
+      236,
+      456,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, lies on his back with paws up, eyes half-closed, appearing relaxed or sleepy. He then springs upward, mouth open in a joyful leap, eyes wide with excitement. The scene transitions to him standing atop a brown dog, who looks up with a startled expression. Tom’s playful energy contrasts with the dog’s surprise, capturing a classic cartoon dynamic of mischievous feline antics.",
+    "timestamp": "2026-02-23 20:19:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      3,
+      4,
+      241,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat swings on yellow rope, crashes into dirt, then stands up, looking annoyed. A red flower nearby remains untouched. Scene depicts classic cartoon chaos and feline frustration.",
+    "timestamp": "2026-02-23 20:19:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      3,
+      4,
+      241,
+      418
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat swings on a rope, then crashes into the ground, scattering dirt. It stands up, looking annoyed and tired, with a red flower nearby. The cat’s expression shifts from determination to frustration as it shakes off the fall’s aftermath.",
+    "timestamp": "2026-02-23 20:19:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      3,
+      4,
+      241,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat swings from a yellow bucket, crashing into the ground with a thud, scattering dirt. It stands up, looking dazed and annoyed, while a red flower nearby remains untouched. The cat’s expression shifts from shock to irritation as it surveys the scene.",
+    "timestamp": "2026-02-23 20:19:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      3,
+      4,
+      241,
+      418
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, with gray paws and a mischievous grin, swings from a yellow swing, crashing into the ground with a thud, scattering dirt. He lands upside down, then rights himself, looking smug and triumphant. A single red flower blooms nearby, untouched by his chaos. The cat's playful energy and exaggerated expressions convey pure cartoon mischief as he bounces back up, ready for another adventure. The scene is bright and whimsical, capturing classic animation charm.",
+    "timestamp": "2026-02-23 20:19:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      196,
+      8,
+      448,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with gray paws plays croquet, swinging a mallet at a red-and-white ball. It leaps energetically, showing determination and playful focus on the game.",
+    "timestamp": "2026-02-23 20:20:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      196,
+      8,
+      448,
+      424
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with grey paws energetically swings a croquet mallet, aiming at a red-and-white ball. The cat leaps, showing determination and playful focus. A croquet set stands nearby, and the scene unfolds on a sunny, grassy lawn with trees and a pool in the background.",
+    "timestamp": "2026-02-23 20:20:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      196,
+      8,
+      448,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with gray paws energetically swings a croquet mallet, aiming at a red-and-white ball. Its focused expression and dynamic pose convey determination. The scene unfolds on a vibrant green lawn, with a croquet set nearby and a serene pool in the background, capturing playful, cartoonish motion.",
+    "timestamp": "2026-02-23 20:20:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      196,
+      8,
+      448,
+      424
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with gray paws and a long tail leaps energetically, swinging a croquet mallet high above its head. Its eyes gleam with determination as it aims to strike a red-and-white ball. Nearby, a croquet rack holds colorful balls. The cat’s playful expression and dynamic pose suggest joy and focus. The lush green lawn and distant trees frame the scene, capturing a lively, cartoonish moment of feline athleticism and whimsical charm.",
+    "timestamp": "2026-02-23 20:20:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      163,
+      29,
+      448,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat plays golf, hitting ball. Gray cat lies down, drinks from glass. Black cat laughs, then kicks ball. Both cats show playful, mischievous expressions.",
+    "timestamp": "2026-02-23 20:21:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      163,
+      29,
+      448,
+      501
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat plays golf, hitting a ball with a mallet. Gray cat lies on grass, drinking from a glass. Black cat smirks, then kicks the ball. Gray cat looks annoyed, eyes wide. Both cats show playful, mischievous expressions in the sunny garden setting.",
+    "timestamp": "2026-02-23 20:21:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      163,
+      29,
+      448,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, wielding a yellow mallet, playfully chases a gray cat lying on grass. The black cat swings, splashing water, then smacks the gray cat with a ball. Both cats display mischievous, amused expressions, enjoying their antics in a sunny, green backyard setting.",
+    "timestamp": "2026-02-23 20:21:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      163,
+      29,
+      448,
+      501
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, holding a yellow mallet, playfully teases a gray cat lying on grass. The gray cat, Tom, lies on his back, holding a glass tube filled with pink liquid. The black cat, Sylvester, swings the mallet, splashing liquid onto Tom’s face. Tom looks annoyed, then amused as he rolls a red-and-white ball near his paws. Their expressions shift from playful to mischievous, capturing classic cartoon antics in a sunny garden setting.",
+    "timestamp": "2026-02-23 20:21:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      148,
+      0,
+      392,
+      351
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat leaps from diving board, splashes into pool. Gray cat, Tom, dives headfirst, emerges with wide eyes and a surprised expression, water splashing around him.",
+    "timestamp": "2026-02-23 20:21:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      148,
+      0,
+      392,
+      351
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat leaps from a diving board, splashing into a pool. Tom, the gray cat, watches from the edge, then dives in after, his face showing surprise as he plunges underwater. The scene captures playful chaos and classic cartoon antics.",
+    "timestamp": "2026-02-23 20:21:46"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      148,
+      0,
+      392,
+      351
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat stands atop a diving board, poised to leap. He dives, creating a splash as he enters the pool. Moments later, a gray cat with yellow eyes emerges, dripping wet, looking surprised and slightly dazed, clinging to the pool's edge. Both cats exhibit playful, cartoonish expressions.",
+    "timestamp": "2026-02-23 20:21:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      148,
+      0,
+      392,
+      351
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with white paws and belly stands atop a diving board, poised for a leap. The scene shifts as the cat dives into a pool, creating a splash. Upon entry, the cat’s face shows surprise, eyes wide and mouth agape. The water ripples around him as he submerges, then resurfaces, looking dazed and slightly bewildered. The background features a clear blue sky and green trees, adding to the playful, cartoonish atmosphere.",
+    "timestamp": "2026-02-23 20:21:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      241,
+      4,
+      475,
+      353
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the gray cat, swings on a rope, then crashes into a tree, scattering dirt and flowers. He lands in a heap, visibly stunned, with a flower pot on his head.",
+    "timestamp": "2026-02-23 20:22:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      241,
+      4,
+      475,
+      353
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the grey cat, joyfully swings on a yellow swing, then crashes into a tree, sending dirt flying. He lands with a thud, his expression shifting from delight to surprise as he lies amidst the chaos, flowers scattered around him.",
+    "timestamp": "2026-02-23 20:22:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      241,
+      4,
+      475,
+      353
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully swings on a yellow swing, carrying a potted plant. He crashes into a tree, scattering dirt and flowers. His expression shifts from delight to shock as he lies sprawled, plant in hand, amidst the chaos. The scene bursts with slapstick comedy and vibrant colors.",
+    "timestamp": "2026-02-23 20:22:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      241,
+      4,
+      475,
+      353
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, joyfully swings on a yellow swing, carrying a potted plant. He leaps off, crashing into a tree with a dramatic explosion of dirt and flowers. His expression shifts from delight to shock as he tumbles, plant flying off. The scene is vibrant, cartoonish, and chaotic, capturing Tom’s mischievous antics and the slapstick comedy of his clumsy tumble. The background features lush greenery and a sunny garden, enhancing the whimsical chaos.",
+    "timestamp": "2026-02-23 20:22:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      239,
+      68,
+      388,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat Tom swings a mallet, hits a red-and-white ball, then gets hit by a flying object, screaming in surprise. His expression shifts from determined to shocked.",
+    "timestamp": "2026-02-23 20:23:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      239,
+      68,
+      388,
+      434
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, energetically swings a mallet at a croquet ball, causing a burst of motion lines. He then lunges forward, mouth wide open in a triumphant yell, surrounded by dynamic visual effects. His expression is one of fierce determination and playful aggression, embodying classic cartoon mischief.",
+    "timestamp": "2026-02-23 20:23:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      239,
+      68,
+      388,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, energetically swings a mallet at a croquet ball, sending it flying. He then lunges upward, mouth open in a triumphant yell, as a burst of water splashes around him. His expression is one of intense joy and victory, capturing the chaotic, comedic essence of classic cartoon antics.",
+    "timestamp": "2026-02-23 20:23:12"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      239,
+      68,
+      388,
+      434
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, in a sleek suit, swings a mallet with vigor, striking a red-and-white croquet ball. The impact sends a burst of sparks and motion lines, indicating force. He then leaps upward, mouth open in a triumphant grin, eyes gleaming with mischief and satisfaction. The scene bursts with dynamic energy, capturing Tom’s playful, mischievous spirit as he dominates the game, his tail swishing proudly behind him.",
+    "timestamp": "2026-02-23 20:23:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      68,
+      199,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat and gray cat confront each other on a bed. Black cat appears angry, while gray cat looks surprised and excited, gesturing with paws. Their expressions shift between aggression and amusement.",
+    "timestamp": "2026-02-23 20:23:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      68,
+      199,
+      469
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, playfully gestures with a toothpick while Jerry, the black cat, stands defiantly. Jerry's expression shifts from annoyance to surprise as Tom leaps toward him, their classic chase dynamic unfolding with exaggerated cartoon energy and comedic timing.",
+    "timestamp": "2026-02-23 20:23:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      68,
+      199,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, gleefully holds a needle, while black cat Butch stands defiantly. Butch's expression shifts from annoyance to surprise as Tom's antics escalate. Their playful rivalry unfolds atop a colorful bed, capturing classic cartoon chaos and comedic tension between the two feline adversaries.",
+    "timestamp": "2026-02-23 20:23:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      0,
+      68,
+      199,
+      469
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with a brown muzzle and white paws stands on a yellow surface, arms raised in surprise. Beside him, a gray cat with green eyes and a red bowtie gestures excitedly, then leaps upward, creating a swirling motion. The black cat looks startled, while the gray cat beams with delight. Behind them, a striped pillow and colorful cushions add vibrancy to the scene, emphasizing their playful, cartoonish antics.",
+    "timestamp": "2026-02-23 20:23:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      242,
+      71,
+      511,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat holds red object, grinning mischievously. Gray cat looks alarmed, running away. Scene shifts to them both sprinting across grass, black cat still smirking, gray cat panicking.",
+    "timestamp": "2026-02-23 20:24:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      242,
+      71,
+      511,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Black cat holds a red object, smiling mischievously, while gray cat Tom runs away, eyes wide in panic. The scene depicts classic cartoon antics, with Tom’s fear contrasting the black cat’s playful, predatory grin as they chase each other through a green garden.",
+    "timestamp": "2026-02-23 20:24:36"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      242,
+      71,
+      511,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, holding a red object, lunges forward with a mischievous grin. A gray cat, Tom, reacts with wide eyes and a startled expression, recoiling as the black cat's paw swings toward him. Their playful chase unfolds in a sunlit garden, capturing classic cartoon energy and rivalry.",
+    "timestamp": "2026-02-23 20:24:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0015_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0015.mp4",
+    "bbox": [
+      242,
+      71,
+      511,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, holding a red object, lunges forward with a mischievous grin. A gray cat, Tom, reacts with shock and fear, his eyes wide and mouth agape. They’re in a grassy yard with trees and a stone wall. Tom’s startled posture suggests he’s caught off guard, while the black cat’s aggressive stance implies a playful or predatory intent. Their expressions and body language convey a classic chase scene full of comedic tension and cartoonish energy.",
+    "timestamp": "2026-02-23 20:24:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      235,
+      168,
+      464,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, Jerry, and Tippy sit on a yellow lounge chair. Jerry holds a cigar, Tom looks annoyed, and Tippy smiles. They appear relaxed, enjoying a sunny day outdoors.",
+    "timestamp": "2026-02-23 20:25:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      235,
+      168,
+      464,
+      425
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, and a black cat lounge on a yellow couch under an umbrella. The black cat holds a cigar, smiling mischievously. Tom looks annoyed, then amused. A white cat with a blue bow sits beside them, appearing relaxed and unbothered by their antics.",
+    "timestamp": "2026-02-23 20:25:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      235,
+      168,
+      464,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, confronts a black cat and a white cat lounging on a yellow chaise. The black cat smirks while holding a cigar, Tom growls, and the white cat looks annoyed. They’re under a red umbrella, with drinks nearby, suggesting a tense, comedic outdoor scene.",
+    "timestamp": "2026-02-23 20:25:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      235,
+      168,
+      464,
+      425
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat, and a black cat sit on a yellow lounge chair under a red umbrella, while a white cat lounges beside them. The black cat holds a cigar, smokes it, and laughs. Tom looks annoyed, then amused, as he pats his own head. The white cat smiles, enjoying the scene. Their expressions shift from relaxed to playful, capturing classic cartoon mischief and camaraderie. The background features a garden with green grass and trees.",
+    "timestamp": "2026-02-23 20:25:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      293,
+      89,
+      510,
+      442
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, eagerly watches as Toodles, a white cat, offers him chocolates. Tom jumps excitedly, then sits back, smiling triumphantly as he enjoys the treats.",
+    "timestamp": "2026-02-23 20:25:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      293,
+      89,
+      510,
+      442
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly watches as Toodles, the white cat, offers him chocolates. Tom’s joyful anticipation turns to surprise as he leaps, then lands with a grin, delighted by the sweet treat. Their playful interaction radiates classic cartoon charm and mischievous delight.",
+    "timestamp": "2026-02-23 20:26:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      293,
+      89,
+      510,
+      442
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, eagerly watches as Tippy, the white cat, selects chocolates. Tom’s excitement grows as he leaps and twirls, then sits back with a satisfied grin, eyes gleaming with anticipation, as Tippy continues to enjoy her sweet treat.",
+    "timestamp": "2026-02-23 20:26:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0017_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0017.mp4",
+    "bbox": [
+      293,
+      89,
+      510,
+      442
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, eagerly watches as Toodles, the white cat, selects chocolates. He laughs joyfully, then suddenly leaps, tail high, as if dancing. He lands with a playful bounce, tail flicking, eyes wide with delight. Toodles, amused, continues choosing treats. The scene is set outdoors, with lush greenery and a stone wall behind them, capturing their playful, mischievous bond under a bright blue sky.",
+    "timestamp": "2026-02-23 20:26:11"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      232,
+      203,
+      417,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A brown mouse stands near a white fence, watching a red leaf fall. It then jumps, catches the leaf, and happily holds it, smiling with delight.",
+    "timestamp": "2026-02-23 20:26:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      232,
+      203,
+      417,
+      488
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cartoon mouse, Tom, stands near a white fence, eyes wide with excitement. He leaps joyfully, then lands with a playful grin, tail flicking. His expression shifts to delight as he watches a red leaf drift by, capturing his whimsical, energetic spirit in a classic animated style.",
+    "timestamp": "2026-02-23 20:26:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      232,
+      203,
+      417,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown cartoon mouse stands near a white fence, eyes wide with delight as a red butterfly flies by. He leaps joyfully, then settles with a satisfied smile, arms crossed, as if pleased with his playful chase. His expression shifts from excitement to contentment, capturing a moment of pure, animated joy.",
+    "timestamp": "2026-02-23 20:26:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0022_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0022.mp4",
+    "bbox": [
+      232,
+      203,
+      417,
+      488
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown cartoon mouse, Tom, stands near a white fence, eyes wide with delight as a red leaf floats by. He leaps joyfully, then lands with a delighted grin, arms crossed, eyes sparkling with mischief. His tail wags, ears perked, as he revels in the moment. The scene exudes playful energy, capturing Tom’s innocent glee and curious nature against a simple, sunlit backdrop of green grass and leafy branches.",
+    "timestamp": "2026-02-23 20:26:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      21,
+      66,
+      279,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a gray cat, laughs as Jerry, a brown mouse, dances nearby. Tom then leaps over a fence, leaving Jerry behind, both characters displaying playful, mischievous energy.",
+    "timestamp": "2026-02-23 20:27:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      21,
+      66,
+      279,
+      439
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, laughs as Jerry, the brown mouse, playfully taunts him. Tom attempts to chase Jerry, but ends up stuck behind a yellow railing. Jerry escapes, leaving Tom bewildered and amused, highlighting their classic, mischievous dynamic.",
+    "timestamp": "2026-02-23 20:27:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      21,
+      66,
+      279,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, joyfully interacts with Jerry, the brown mouse, outside a yellow-barred gate. Tom laughs and playfully pounces, while Jerry dances away. Their antics are filled with exaggerated expressions, capturing their classic rivalry-turned-fun, ending with Tom’s leap over the gate as Jerry escapes.",
+    "timestamp": "2026-02-23 20:27:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/references/segment_0023_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1940/output_Tom and Jerry (1940) - S1940E23 - Springtime For Thomas (1080p BluRay x265 Ghost)/segments/segment_0023.mp4",
+    "bbox": [
+      21,
+      66,
+      279,
+      439
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, laughs joyfully as Jerry, the brown mouse, dances nearby. Tom playfully gestures, then suddenly leaps toward the golden railing, aiming to catch Jerry. Jerry, mischievously, dodges and runs away, leaving Tom mid-air, startled. The scene captures their classic rivalry with exaggerated expressions and slapstick humor, set against a sunny, green backdrop. Their antics highlight their timeless dynamic of chase and escape.",
+    "timestamp": "2026-02-23 20:27:29"
+  }
+]

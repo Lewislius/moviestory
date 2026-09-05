@@ -1,0 +1,282 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      157,
+      46,
+      290,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A large brown dog with a chef's hat carries a small puppy, both smiling. They walk happily through a sunny, green yard with trees and a fence.",
+    "timestamp": "2026-02-24 02:58:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      157,
+      46,
+      290,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large brown dog in a chef's hat walks happily, carrying a smaller dog in its arms. Both wear red collars. They stroll through a vibrant garden, smiling and enjoying their walk under a sunny sky, surrounded by greenery and trees. Their cheerful expressions convey joy and companionship.",
+    "timestamp": "2026-02-24 02:58:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      157,
+      46,
+      290,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A large brown dog with a chef’s hat and red collar carries a smaller dog in his arms, both smiling. They stroll through a vibrant garden, passing trees and fences. Their joyful expressions and synchronized movement convey a playful, affectionate bond as they enjoy their outdoor adventure together.",
+    "timestamp": "2026-02-24 02:59:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      157,
+      46,
+      290,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A large brown dog wearing a chef’s hat and red collar carries a smaller, identical pup in his arms. They stroll happily across a vibrant green lawn, past trees and a fence. The larger dog smiles contentedly, occasionally glancing at his companion. The smaller pup looks up with joy, clutching the larger dog’s arm. Their synchronized steps and cheerful expressions convey a playful, affectionate bond as they explore the sunny outdoor setting.",
+    "timestamp": "2026-02-24 02:59:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      0,
+      354,
+      470
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Two cartoon dogs in chef hats run joyfully outdoors, one carrying a steak. They smile, exuding excitement as they sprint past trees and a fence.",
+    "timestamp": "2026-02-24 02:59:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      0,
+      354,
+      470
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Two cartoon dogs, both wearing chef hats and red collars, exit a house. The larger dog carries a large steak, while the smaller one clings to his side. They joyfully run across a grassy yard, their expressions cheerful and excited, as they head toward an orange tree.",
+    "timestamp": "2026-02-24 02:59:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      0,
+      354,
+      470
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Two cartoon dogs, both wearing chef hats and red collars, joyfully run outdoors. The larger dog carries a steak on a stick. They smile broadly, exuding excitement as they sprint past trees and a fence, embodying playful, energetic enthusiasm in their culinary adventure.",
+    "timestamp": "2026-02-24 02:59:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      95,
+      0,
+      354,
+      470
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Two cartoon dogs, both wearing chef hats and red collars, exit a yellow house. The larger dog carries a large steak on a stick and holds the smaller dog in his arms. They joyfully run across a green lawn, past trees with red fruits. Their expressions are cheerful and excited. The scene is bright and playful, capturing their energetic, whimsical adventure outdoors.",
+    "timestamp": "2026-02-24 02:59:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      167,
+      115,
+      428,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A chef dog holds a spatula, while a cat jumps up, grabbing it. The cat gets covered in sauce, looking shocked, as the dog watches with a smug expression.",
+    "timestamp": "2026-02-24 03:00:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      167,
+      115,
+      428,
+      505
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A brown dog in a chef's hat holds a spatula, while a gray cat leaps toward him, grabbing the spatula. The dog, startled, recoils as the cat transforms into a gooey, splattered mess. The dog looks annoyed and confused, while the cat appears triumphant.",
+    "timestamp": "2026-02-24 03:00:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      167,
+      115,
+      428,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A chef dog, wearing a hat and red bandana, holds a spatula. A gray cat, Tom, leaps up, grabs the spatula, and gets covered in white goo. The dog looks annoyed, then smugly holds the spatula aloft as Tom, goo-covered, stands beside him.",
+    "timestamp": "2026-02-24 03:00:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      167,
+      115,
+      428,
+      505
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A brown dog in a chef’s hat and red collar holds a blue spatula, looking annoyed. A gray cat, initially standing upright, leaps toward him, grabbing the spatula. The cat gets covered in white goo, transforming into a slimy, gooey creature. The dog watches with a smug, unimpressed expression, arms crossed, as the gooey cat stumbles away. The scene is set outdoors on a stone path with greenery in the background.",
+    "timestamp": "2026-02-24 03:00:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      9,
+      313,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A bulldog chef, wearing a hat, cooks outdoors, stirring a pot. A cat, Tom, watches, then gets startled. A small dog sits at a table nearby.",
+    "timestamp": "2026-02-24 03:01:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      9,
+      313,
+      507
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A bulldog chef, wearing a hat, cooks with a spatula while a small puppy watches. A gray cat, Tom, tries to steal a spatula but gets hit. The chef becomes angry, then frustrated, as he grills blackened meat, showing determination and annoyance.",
+    "timestamp": "2026-02-24 03:01:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      9,
+      313,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A chef dog, wearing a tall hat, stirs a pot while a smaller dog watches. A cat, Tom, sneaks up, startled by the chaos. The chef, annoyed, grabs a spatula and flips a pot, causing Tom to jump back. The scene is lively, with the chef’s frustration and Tom’s mischief evident.",
+    "timestamp": "2026-02-24 03:01:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      85,
+      9,
+      313,
+      507
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A bulldog chef, wearing a tall white hat and red collar, enthusiastically cooks outdoors. He stirs a pot, then lifts a spatula with blackened food, startling a gray cat, Tom, who yelps in surprise. A smaller dog, also in a chef’s hat, sits calmly on a checkered table. The bulldog gestures dramatically, then turns to the grill, showing his culinary focus. Tom looks bewildered, while the scene is set against a lush green backdrop.",
+    "timestamp": "2026-02-24 03:01:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      52,
+      215,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Two cartoon dogs in chef hats carry a large netted bag, one holding it while the other carries a smaller bag, walking toward a table outdoors.",
+    "timestamp": "2026-02-24 03:01:54"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      52,
+      215,
+      421
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Two cartoon dogs, wearing chef hats and red collars, carry a large netted bag. One dog holds the bag while the other carries a smaller dog on its back. They walk across a stone path toward a table, smiling with determination. The scene suggests a playful, culinary adventure.",
+    "timestamp": "2026-02-24 03:01:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      52,
+      215,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Two cartoon dogs, wearing chef hats and red collars, carry a large netted bag. One holds it aloft while the other clutches it close. They walk past a table, then pause beside a pool, both smiling. Their expressions convey cheerful anticipation, suggesting they’re preparing for a culinary adventure or playful outing.",
+    "timestamp": "2026-02-24 03:02:03"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E58 - Barbecue Brawl (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      52,
+      215,
+      421
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Two cartoon dogs, wearing chef hats and red collars, joyfully carry a large, netted bag. The larger dog leads, holding the bag with one paw, while the smaller dog clings to its back, both smiling. They walk across a stone patio toward a table, their expressions cheerful and determined. The scene is bright and playful, set against a green backdrop with a wooden fence. Their coordinated movement and happy expressions convey teamwork and excitement.",
+    "timestamp": "2026-02-24 03:02:09"
+  }
+]

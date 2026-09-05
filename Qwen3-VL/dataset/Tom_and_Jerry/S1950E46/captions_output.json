@@ -1,0 +1,114 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      179,
+      370,
+      437
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, a white cat, holds a mouse toy, then angrily throws it. He dances wildly, joyfully, as the mouse scurries away, while a woman in a pink dress watches.",
+    "timestamp": "2026-02-24 02:50:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      179,
+      370,
+      437
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a white cat, holds a toy mouse, smiling as a woman in a pink dress approaches. He then angrily drops the toy, which scurries away. Tom leaps joyfully, chasing it, his expression shifting to delight as he runs.",
+    "timestamp": "2026-02-24 02:50:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      179,
+      370,
+      437
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat joyfully dances, holding a mouse toy, while a woman in a pink dress watches. He suddenly drops the toy, causing the mouse to scamper away. Tom leaps in excitement, then falls dramatically, laughing wildly as the mouse escapes. His antics are pure, exaggerated fun.",
+    "timestamp": "2026-02-24 02:50:44"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      85,
+      179,
+      370,
+      437
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A white cat, Tom, joyfully holds a small mouse, Jerry, in his paws. A woman in a pink dress and apron enters, scolding him. Tom’s expression shifts to annoyance, then he leaps excitedly, flinging Jerry away. Jerry scurries backward, while Tom dances wildly, tongue out, reveling in his playful chaos. The scene ends with a sudden dark screen, leaving the antics unresolved.",
+    "timestamp": "2026-02-24 02:50:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      84,
+      1,
+      329,
+      438
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A woman in a blue coat and pink skirt walks outdoors, carrying a green box. She moves steadily, her posture relaxed, suggesting a calm, purposeful stride through a leafy setting.",
+    "timestamp": "2026-02-24 02:51:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      84,
+      1,
+      329,
+      438
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a navy coat and pink skirt walks outdoors, carrying a green box. She moves steadily, her high heels clicking on the path. Trees and a fence frame the scene, suggesting a peaceful, sunny day. Her focused expression implies purpose as she carries the box, possibly delivering or retrieving something important.",
+    "timestamp": "2026-02-24 02:51:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      84,
+      1,
+      329,
+      438
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A woman in a navy coat and pink skirt walks outdoors, carrying a green box. She moves steadily, her white heels clicking on the path. Trees and a wooden fence frame the scene. Her expression is neutral, focused on her task. The animation style is classic, with smooth motion and vibrant colors.",
+    "timestamp": "2026-02-24 02:51:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E46 - Mouse For Sale (1080p HMAX WEB-DL x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      84,
+      1,
+      329,
+      438
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A woman in a navy coat and pink skirt walks gracefully, holding a green gift box. Her white heels click softly as she moves past a tree and wooden fence under a clear blue sky. Her posture is poised, suggesting purpose or anticipation. The scene is serene, with no visible expressions, but her steady gait implies confidence or quiet determination as she carries the box, perhaps delivering or returning it. The animation style is smooth and stylized, capturing a moment of calm movement.",
+    "timestamp": "2026-02-24 02:51:29"
+  }
+]

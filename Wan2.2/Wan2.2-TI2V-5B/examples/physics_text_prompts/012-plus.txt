@@ -1,0 +1,42 @@
+[Original prompt]
+The video captures the process of demolition at an abandoned building. Two large yellow excavators dominate the scene, their mechanical arms extended towards the structure. The building itself is in a state of disrepair, with graffiti covering its walls and broken windows allowing light to filter through. The upper floors have collapsed, leaving only the lower sections standing. The excavators methodically break apart the remaining parts of the building, sending debris flying into the air. The machinery's movements are deliberate and powerful, showcasing the force required to dismantle such a structure. The sky above is overcast, casting a somber mood over the scene. The video focuses on the interaction between the machinery and the building, highlighting the transformation from a once-standing structure to rubble.
+
+Relevant physical states:
+
+* The two yellow excavators must remain present and visually consistent throughout the demolition sequence.
+* The abandoned building must remain present and spatially consistent before and during demolition.
+* The building should show pre-existing damage, including graffiti, broken windows, and collapsed upper floors.
+* The lower remaining sections of the building must stay standing before being struck and dismantled.
+* The excavators’ mechanical arms and tools should move continuously and remain physically connected to the excavators.
+* Physical contact between the excavators and the building must occur during the demolition actions.
+* The impacted building sections should fracture, detach, or collapse only after being struck or sufficiently weakened.
+* Debris should be generated from the building material as a result of demolition.
+* Debris should move outward or downward in physically plausible directions after structural breakage.
+* The overall amount of intact standing structure should decrease over time.
+* Rubble should accumulate as the demolition progresses.
+* The overcast sky and general outdoor setting should remain visually stable throughout the sequence.
+* No unrelated people, animals, or extra machinery should spontaneously appear in the scene.
+
+Physical event order:
+
+1. Two excavators are positioned near the abandoned building, with the remaining lower structure still standing.
+2. The excavators extend and position their mechanical arms toward the building.
+3. One or both excavators make physical contact with the building’s remaining structure.
+4. The contacted building sections begin to fracture or break apart under the applied force.
+5. Debris is released and moves through the air or falls downward as the structure is dismantled.
+6. Additional strikes or sustained force from the excavators further weaken and collapse more of the building.
+7. The standing structure decreases progressively, and the scene transitions from a partially standing ruin toward rubble.
+
+Cause-effect constraints:
+
+* The excavators and the building must exist before demolition interactions can occur.
+* The remaining lower sections of the building must be present before they can be broken apart.
+* The excavators’ arms must move toward the building before contact can occur.
+* Physical contact or sustained applied force from the excavators must happen before a corresponding building section fractures, detaches, or collapses.
+* Debris must be produced by the breaking of the building structure rather than appearing spontaneously.
+* The motion of flying or falling debris must follow structural breakage.
+* Structural collapse of the remaining sections must result from demolition impact or accumulated weakening, rather than occurring spontaneously without interaction.
+* The amount of intact building structure must decrease progressively as demolition proceeds.
+* Rubble accumulation must happen after building materials detach or collapse.
+* The excavators must not pass through the building without interaction, and the building must not disappear, duplicate, or instantly transform into rubble without intermediate demolition events.
+* The overcast environment should remain stable and should not introduce unrelated scene changes.

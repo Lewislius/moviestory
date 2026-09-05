@@ -1,0 +1,1514 @@
+[
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      94,
+      12,
+      334,
+      492
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a hat, walks happily with a flower bouquet, pulling a small dog on a leash. His cheerful expression suggests he's enjoying his stroll.",
+    "timestamp": "2026-02-24 00:53:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      94,
+      12,
+      334,
+      492
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a straw hat, happily walks with a bouquet of flowers, dragging Jerry on a leash. Jerry, small and brown, runs ahead with a determined look. Tom smiles, enjoying the outing, while Jerry seems to be in a hurry, creating a playful, mischievous dynamic between them.",
+    "timestamp": "2026-02-24 00:53:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      94,
+      12,
+      334,
+      492
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a straw hat, walks confidently with a flower bouquet, smiling mischievously. He pulls a small dog on a leash, both moving along a sidewalk past houses and greenery. Tom’s playful demeanor suggests he’s on a charming errand, perhaps to impress someone.",
+    "timestamp": "2026-02-24 00:53:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      94,
+      12,
+      334,
+      492
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat wearing a straw hat, happily walks down a street, holding a bouquet of flowers and a leash. He smiles, seemingly proud or amused. Behind him, Jerry, a small brown mouse, runs along the leash, looking up at Tom with a mischievous grin. The scene suggests a playful, lighthearted moment between the classic cartoon characters, set against a backdrop of brick buildings and greenery.",
+    "timestamp": "2026-02-24 00:53:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      25,
+      0,
+      460,
+      456
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat leaps, chasing white cat. White cat lies on green couch, eyes closed. Black cat lands on top, pouncing playfully. Both cats show mischievous, joyful expressions.",
+    "timestamp": "2026-02-24 00:54:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      25,
+      0,
+      460,
+      456
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat leaps dynamically, chasing a white cat on a green couch. The white cat appears startled, while the black cat shows playful aggression. Their expressions convey excitement and mischief, capturing the classic cartoon chase and playful rivalry between the two feline characters.",
+    "timestamp": "2026-02-24 00:54:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      25,
+      0,
+      460,
+      456
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat leaps energetically, then lands on a green couch, pouncing on a white cat. The white cat lies on its back, eyes closed, seemingly enjoying the playful assault. The black cat’s expression shifts from mischievous to triumphant as it embraces its prey.",
+    "timestamp": "2026-02-24 00:54:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      25,
+      0,
+      460,
+      456
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, with a mischievous grin, leaps dynamically across a room, arms outstretched. He lands on a green couch, where a white cat lies, eyes closed, seemingly unaware. The black cat then pounces, wrapping his paws around the white cat’s neck with a playful, triumphant expression. The white cat’s eyes flutter open in surprise, but the black cat’s grin suggests he’s enjoying the chaos. Their antics exude classic cartoon mischief and charm.",
+    "timestamp": "2026-02-24 00:54:27"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      137,
+      100,
+      411,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry interact playfully; Tom offers flowers with a tiny Jerry, while Toodles applies lipstick, then reacts to Tom's antics with amusement and surprise.",
+    "timestamp": "2026-02-24 00:54:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      137,
+      100,
+      411,
+      433
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry interact in a cozy room. Tom, playful and smug, offers a flower bouquet with a tiny Jerry nestled inside. The white cat, with purple bow, reacts with surprise and delight. Their expressions shift from mischievous to affectionate, capturing classic cartoon charm.",
+    "timestamp": "2026-02-24 00:54:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      137,
+      100,
+      411,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, playfully interacts with Toodles, the white cat with a purple bow. He offers her flowers, then reveals a tiny mouse. Toodles reacts with surprise and delight, showcasing their comedic, affectionate dynamic in a cozy room setting.",
+    "timestamp": "2026-02-24 00:55:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      137,
+      100,
+      411,
+      433
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, surprises Toodles, the white cat with a purple bow, as she applies red lipstick. He leans in playfully, then presents her with a bouquet of flowers, revealing a tiny mouse nestled inside. Toodles reacts with delight, clasping her hands. Tom beams with mischief, showcasing his charm. Their expressions shift from playful to affectionate, capturing a classic, lighthearted moment of their dynamic.",
+    "timestamp": "2026-02-24 00:55:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      279,
+      98,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat leaps, startled, then confronts gray cat. Gray cat, trapped in a box, emerges, both cats engage in playful, exaggerated antics with wide-eyed expressions and dynamic poses.",
+    "timestamp": "2026-02-24 00:55:41"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      279,
+      98,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Scat Cat, leaps and lands beside a grey cat, Tom, who's trapped in a box. Tom emerges, furious, and they engage in a comical standoff. Both cats display exaggerated expressions—Scat Cat’s smugness and Tom’s annoyance—highlighting their classic rivalry.",
+    "timestamp": "2026-02-24 00:55:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      279,
+      98,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, startled, leaps and lands near a gray cat trapped in a box. The gray cat, Tom, emerges, growling, then sits up, glaring at the black cat, which crouches defensively. Both cats display intense, confrontational expressions, hinting at a tense, comedic showdown.",
+    "timestamp": "2026-02-24 00:55:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      279,
+      98,
+      511,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, with wide eyes and a startled expression, leaps across a room, then stops to confront a gray cat trapped in a box. The gray cat, Tom, emerges from the box, smug and defiant, while the black cat, Sylvester, growls in anger. Both cats stare at each other, their expressions shifting from surprise to aggression, as they prepare for a showdown. The scene is filled with tension and comedic rivalry.",
+    "timestamp": "2026-02-24 00:55:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      189,
+      27,
+      465,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat, Tom, angrily punches a wall, causing it to crack. He then leaps back, showing frustration, as the wall remains damaged behind him.",
+    "timestamp": "2026-02-24 00:56:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      189,
+      27,
+      465,
+      451
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, aggressively punches through a wall, causing it to crack and break. He grins triumphantly as he stands over the damaged wall, fists clenched, displaying anger and determination. His tail sways as he leans forward, eyes narrowed in focus.",
+    "timestamp": "2026-02-24 00:56:23"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      189,
+      27,
+      465,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, angrily punches a wall, causing it to crack and a window to fall. He grunts with effort, then leaps backward, eyes narrowed in rage. His white paws and tail contrast sharply against the green wall, emphasizing his furious, cartoonish aggression.",
+    "timestamp": "2026-02-24 00:56:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      189,
+      27,
+      465,
+      451
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat with white paws and a grumpy expression forcefully pulls a wall-mounted vent, causing it to detach and swing away. The cat's face contorts in effort, then relaxes as he stands triumphantly, tail flicking. The wall cracks dramatically behind him, revealing a jagged hole. His determined stance and the vent’s sudden movement suggest he’s either testing his strength or preparing for a chase, embodying classic cartoon mischief.",
+    "timestamp": "2026-02-24 00:56:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      149,
+      135,
+      428,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom pulls a rope, dragging a black cat. The white cat, with a purple bow, sits on a couch, looking annoyed as Tom smirks triumphantly.",
+    "timestamp": "2026-02-24 00:56:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      149,
+      135,
+      428,
+      490
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, pulls a rope, chasing a black cat. The white cat, with a purple bow, sits on a couch, looking annoyed. Tom smirks triumphantly, while the white cat turns away, showing disdain. The scene ends with Tom lounging, smirking, as the white cat glares.",
+    "timestamp": "2026-02-24 00:57:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      149,
+      135,
+      428,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, pulls a rope, chasing a black cat on a couch. The white cat, with a purple bow, sits calmly, then turns away. Tom smirks triumphantly, holding a cigar, while the white cat looks annoyed, her expression shifting from boredom to mild frustration.",
+    "timestamp": "2026-02-24 00:57:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0006_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0006.mp4",
+    "bbox": [
+      149,
+      135,
+      428,
+      490
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, pulls a rope with determination, chasing a black cat lounging on a couch. Meanwhile, a white cat with a purple bow sits nearby, looking annoyed and sassy. As Tom struggles, the black cat smirks, holding a cigar. The white cat glares, then turns away, clearly displeased. The scene is playful and comedic, capturing classic cartoon mischief and rivalry among the feline characters.",
+    "timestamp": "2026-02-24 00:57:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      214,
+      76,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds Jerry, who looks annoyed. Tom smirks, then exhales smoke, revealing a blackened Jerry. He chuckles, holding the smoldering mouse with a satisfied grin.",
+    "timestamp": "2026-02-24 00:57:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      214,
+      76,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom holds Jerry, who looks annoyed. Tom smirks, then exhales smoke, turning Jerry black. Jerry’s expression shifts to surprise, then annoyance. Tom laughs triumphantly, holding the now-black mouse, showing his playful, mischievous nature.",
+    "timestamp": "2026-02-24 00:57:43"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      214,
+      76,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom holds Jerry, who looks annoyed. Tom smirks, then blows smoke into Jerry’s face, causing him to turn black. Tom laughs, holding Jerry’s tiny, smoky form with a mischievous grin, clearly enjoying his prank. Their expressions convey playful rivalry and Tom’s dominant, teasing nature.",
+    "timestamp": "2026-02-24 00:57:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      214,
+      76,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, holds Jerry, the brown mouse, gently in his paw. Tom smiles mischievously, then exhales smoke, causing Jerry to blacken. Tom chuckles, examining the smoky Jerry with amusement. Jerry, now charred, looks up at Tom with wide, startled eyes. Tom’s playful smirk suggests he’s enjoying the chaos, while Jerry’s expression conveys shock and dismay. Their classic dynamic of chase and trickery shines through.",
+    "timestamp": "2026-02-24 00:57:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      23,
+      164,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, black cat, smiles as he holds Toodles' paw; she looks annoyed, eyes narrowed, tongue out, arms crossed, resisting his grip in classic cartoon tension.",
+    "timestamp": "2026-02-24 00:58:17"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      23,
+      164,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, smiles mischievously while holding Toodles' paw. Toodles, the white cat with a pink bow, looks annoyed and defiant, her eyes narrowed and mouth open in a frustrated expression as she resists his grip. Their dynamic suggests a playful yet tense interaction.",
+    "timestamp": "2026-02-24 00:58:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      23,
+      164,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, smiles mischievously while holding Tippy’s paw. Tippy, the white cat in a pink bow, looks annoyed, her eyes narrowed and mouth open in frustration. Their interaction suggests a playful yet tense dynamic, with Tom’s grin hinting at his cunning nature.",
+    "timestamp": "2026-02-24 00:58:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      23,
+      164,
+      511,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, smiles mischievously as he grips Tippy, the white cat with a pink bow, by her paw. Tippy looks annoyed, eyes narrowed, mouth open in a surprised or defiant expression. They’re on a green couch against a teal wall. Tom’s playful smirk contrasts with Tippy’s frustration, hinting at a comedic struggle or playful dominance. Their interaction is lighthearted, filled with classic cartoon energy and rivalry.",
+    "timestamp": "2026-02-24 00:58:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      31,
+      283,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, gray cat, holds a striped ball, smiling mischievously. Jerry, white mouse, watches with a mix of anticipation and skepticism, hands clasped, eyes wide.",
+    "timestamp": "2026-02-24 00:58:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      31,
+      283,
+      464
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, smiles while holding a striped ball, then gestures playfully. Jerry, the white mouse, sits beside him, eyes closed in contentment, then opens them with a sly grin. Their expressions suggest a lighthearted, teasing interaction, typical of their classic antics.",
+    "timestamp": "2026-02-24 00:59:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      31,
+      283,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, holds a striped ball, smiling mischievously. Beside him, a white mouse with a purple bow, Muffy, watches with a sly, amused expression, clasping her paws. Tom playfully gestures with the ball, teasing her as she leans forward, intrigued and amused by his antics.",
+    "timestamp": "2026-02-24 00:59:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      0,
+      31,
+      283,
+      464
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, smiles mischievously while holding a striped ball, then playfully gestures with it toward Jerry, the white mouse with a purple bow. Jerry, seated beside him, looks intrigued, then amused, with a coy smile. Tom’s expression shifts from smug to playful as he teases Jerry, who leans forward with curiosity. Their dynamic suggests a classic, lighthearted rivalry filled with charm and humor, set against a simple green backdrop.",
+    "timestamp": "2026-02-24 00:59:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      56,
+      92,
+      388,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat aggressively paws at a wall vent, showing frustration or anger. His expression shifts from intense to annoyed as he struggles with the vent, displaying classic cartoon antics.",
+    "timestamp": "2026-02-24 00:59:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      56,
+      92,
+      388,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, aggressively paws at a wall vent, his expression fierce and determined. He shifts his stance, muscles tensing, as if trying to force it open or escape. His eyes narrow, showing frustration or intent, while his paws grip the vent tightly, indicating a struggle or attempt to overcome something.",
+    "timestamp": "2026-02-24 00:59:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      56,
+      92,
+      388,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat, gray with white paws, angrily paws at a wall vent, his expression fierce. He shifts stance, growling, as if frustrated or attempting to escape. The scene captures his intense, determined demeanor, highlighting his classic cartoon antics and comedic tension.",
+    "timestamp": "2026-02-24 00:59:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      56,
+      92,
+      388,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, aggressively paws at a wooden vent, his face contorted in anger. He shifts his stance, growling with determination, then suddenly stops, eyes widening in surprise as a pink dot appears above the vent. His expression softens into confusion, then he resumes his furious pummeling, fists clenched, body tensed, as if trying to force the vent open or escape the situation. The scene is filled with comedic tension and slapstick energy.",
+    "timestamp": "2026-02-24 00:59:51"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      177,
+      74,
+      477,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat, black and white, breaks through a wall with a wooden frame, showing determination and aggression, while a small mouse lies defeated nearby.",
+    "timestamp": "2026-02-24 01:00:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      177,
+      74,
+      477,
+      455
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, angrily smashes a window with his paws, sending glass shards flying. His expression is furious and determined. The scene captures his aggression as he breaks through the wall, showcasing his relentless pursuit and destructive energy in this classic cartoon moment.",
+    "timestamp": "2026-02-24 01:00:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      177,
+      74,
+      477,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, Tom, aggressively breaks through a wall, clutching a wooden window frame. His expression is fierce and determined. He leaps with force, causing the wall to crack dramatically. The scene captures his intense, chaotic energy as he forcefully breaches the barrier.",
+    "timestamp": "2026-02-24 01:00:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      177,
+      74,
+      477,
+      455
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, with white paws and a mischievous grin, leaps through a wall, carrying a wooden window frame. His expression shifts to shock as he realizes he’s stuck. The wall cracks dramatically behind him, revealing a jagged hole. Tom’s eyes widen in panic, and his body contorts as he struggles to free himself, his paws flailing in the air. The scene captures his frantic, comical predicament as he attempts to escape the newly created hole.",
+    "timestamp": "2026-02-24 01:00:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      95,
+      22,
+      427,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom holds a tiny mouse on a plate, smiling. A white cat with a purple scarf sits nearby, frowning. The scene suggests a playful, mischievous interaction between the characters.",
+    "timestamp": "2026-02-24 01:00:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      95,
+      22,
+      427,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom holds a tiny mouse on a plate, smiling triumphantly. The mouse, wearing a yellow bow, stands upright. A white cat with a purple scarf sits nearby, eyes closed, seemingly amused or indifferent. Tom’s expression shifts to smug satisfaction as he presents his prize.",
+    "timestamp": "2026-02-24 01:01:04"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      95,
+      22,
+      427,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat, proudly holds a tiny mouse in a yellow bowtie on a delicate tray. He presents it to a white cat with a purple scarf, who gazes with disdain. Tom beams with satisfaction, while the mouse looks up, seemingly unaware of the tension.",
+    "timestamp": "2026-02-24 01:01:08"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (1080p DVDRip x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      95,
+      22,
+      427,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, proudly holds a tiny black mouse in his hand, then places it on a delicate blue plate. He smiles smugly, while a white cat with a purple scarf sits beside him, eyes narrowed in disdain. The scene suggests a playful, yet tense interaction, as Tom seems to be presenting his tiny captive with theatrical flair, while the white cat watches with an air of disapproval or annoyance.",
+    "timestamp": "2026-02-24 01:01:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      100,
+      512,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat Tuffy chases gray cat Tom, who's trapped in a box. Tom emerges, both cats confront each other with angry expressions, then Tom sits calmly as Tuffy growls.",
+    "timestamp": "2026-02-24 01:01:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      100,
+      512,
+      471
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, with wide eyes and a mischievous grin, leaps over a gray cat trapped in a box. The gray cat, Tom, emerges, startled and angry, confronting the black cat, Tuffy, who smirks triumphantly, showcasing their classic rivalry in a playful, cartoonish showdown.",
+    "timestamp": "2026-02-24 01:01:52"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      100,
+      512,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat, with wide eyes and a mischievous grin, leaps over a box containing a gray cat. The gray cat, startled, emerges from the box, sitting up with a surprised expression. The black cat crouches, smirking, as if anticipating the gray cat’s next move.",
+    "timestamp": "2026-02-24 01:01:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0000_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0000.mp4",
+    "bbox": [
+      274,
+      100,
+      512,
+      471
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tuffy, leaps in surprise, then turns to confront a gray cat, Tom, who’s trapped inside a box. Tom emerges, looking annoyed, as Tuffy stands menacingly. Tom, now sitting, looks up at Tuffy with a mix of defiance and fear. Tuffy’s expression shifts from anger to a smug, triumphant smirk, while Tom’s eyes widen in alarm. The scene captures their classic rivalry, filled with slapstick humor and expressive cartoon antics.",
+    "timestamp": "2026-02-24 01:02:02"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      93,
+      18,
+      386,
+      483
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, wearing a hat, walks with a flower bouquet, smiling. He pulls Jerry on a leash, who runs happily beside him, both enjoying the sunny day.",
+    "timestamp": "2026-02-24 01:02:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      93,
+      18,
+      386,
+      483
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a straw hat, walks happily with a flower bouquet, pulling Jerry on a leash. Jerry runs beside him, playful and energetic. Tom’s smile suggests joy or mischief, while Jerry’s demeanor reflects his usual mischievous nature. Their dynamic interaction is lighthearted and comedic.",
+    "timestamp": "2026-02-24 01:02:31"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      93,
+      18,
+      386,
+      483
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, wears a straw hat and smiles while walking with a flower bouquet. He pulls a small dog on a leash, both moving along a sidewalk past buildings. Tom’s cheerful expression suggests he’s enjoying his stroll, perhaps delivering flowers or on a pleasant outing.",
+    "timestamp": "2026-02-24 01:02:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0001_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0001.mp4",
+    "bbox": [
+      93,
+      18,
+      386,
+      483
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat wearing a straw hat, walks confidently with a bouquet of flowers, smiling cheerfully. He pulls a small brown mouse on a leash, who runs happily beside him. The scene unfolds on a sidewalk past brick buildings and greenery, with Tom’s joyful demeanor suggesting a lighthearted, affectionate outing. The mouse’s energetic pace contrasts with Tom’s calm stroll, creating a playful, animated dynamic.",
+    "timestamp": "2026-02-24 01:02:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      35,
+      465,
+      454
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the black cat angrily punches through a wall, causing it to crack and break apart. He grunts in frustration, then leaps away, tail swishing, as debris falls around him.",
+    "timestamp": "2026-02-24 01:03:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      35,
+      465,
+      454
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, angrily punches a wall, causing a window to break free. He grunts in frustration, then leaps backward, tail whipping. His expression shifts from rage to surprise as he stares at the broken window, clearly annoyed by the destruction.",
+    "timestamp": "2026-02-24 01:03:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      35,
+      465,
+      454
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black-and-white cat, angrily punches through a wall, causing a window pane to break. He grunts in frustration, then leaps backward, tail swishing. His expression shifts from rage to surprise as he stares at the damage, furrowed brows and wide eyes betraying his shock.",
+    "timestamp": "2026-02-24 01:03:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0002_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0002.mp4",
+    "bbox": [
+      196,
+      35,
+      465,
+      454
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cat, Tom, angrily smashes a wall-mounted vent with his fists, causing it to crack and fall. He grimaces in frustration, then leaps back with a startled expression as the vent's pieces scatter. His tail flicks in agitation, and his ears twitch with annoyance. The room’s green walls and wooden furniture remain static, emphasizing Tom’s chaotic, rage-filled actions. His determined yet frustrated demeanor dominates the scene.",
+    "timestamp": "2026-02-24 01:03:21"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      148,
+      182,
+      453,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom pulls a rope, dragging a black cat. The white cat, wearing a purple bow, sits on a couch, looking amused as Tom struggles, then smirks with a cigar.",
+    "timestamp": "2026-02-24 01:03:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      148,
+      182,
+      453,
+      495
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom pulls a rope, chasing a black cat. The white cat, wearing a purple bow, sits calmly on a couch, smirking. The black cat smokes a cigar, then laughs. The white cat turns away, looking annoyed, as the scene ends with her sitting alone, eyes half-closed.",
+    "timestamp": "2026-02-24 01:03:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      148,
+      182,
+      453,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom pulls a rope, chasing a black cat. The white cat, wearing a purple bow, sits calmly on a green couch, smirking. Tom’s frustration peaks as he struggles, then the black cat smirks triumphantly, holding a cigar. The white cat turns away, amused.",
+    "timestamp": "2026-02-24 01:03:58"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0003_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0003.mp4",
+    "bbox": [
+      148,
+      182,
+      453,
+      495
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A white cat with a purple bow sits calmly on a green couch, eyes half-closed. A gray cat, Tom, pulls a rope, then swings it to hit a black cat, which lands on the couch. The black cat smirks, holding a cigar. Tom’s expression shifts from determination to frustration. The white cat, now alert, glances around, her expression shifting from serene to curious, as if sensing something amusing or unexpected in the chaos.",
+    "timestamp": "2026-02-24 01:04:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      60,
+      45,
+      395,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom the cat pounces on a vent, grinning mischievously. He struggles to pull it open, showing determination and playful mischief as he tries to escape or retrieve something.",
+    "timestamp": "2026-02-24 01:04:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      60,
+      45,
+      395,
+      473
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands before a wall vent, eyes wide with determination. He paws at the vent, then lunges forward, pushing with force. His expression shifts from focused to frustrated as he struggles, tail swishing, clearly determined to get through the opening despite his efforts.",
+    "timestamp": "2026-02-24 01:04:33"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      60,
+      45,
+      395,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the cat stands before a wall vent, eyes wide with determination. He paws at the vent, then leaps forward, claws extended, as if attempting to pry it open. His expression shifts from focused to frustrated, showcasing his persistent, mischievous nature in pursuit of his next adventure.",
+    "timestamp": "2026-02-24 01:04:37"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0004_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0004.mp4",
+    "bbox": [
+      60,
+      45,
+      395,
+      473
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands before a wall vent, eyes wide with determination. He paws at the vent, then lunges forward, claws extended, as if trying to pry it open. His expression shifts from focused to frustrated, showing his determination and annoyance. The vent remains stubbornly closed, and Tom’s movements convey his persistent effort to escape or access something beyond the wall. His fur bristles slightly, emphasizing his intense focus on the task.",
+    "timestamp": "2026-02-24 01:04:42"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      294,
+      81,
+      511,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry interact; Tom sneers, then yawns dramatically, while Jerry reacts with annoyance, then smirks, showcasing their classic rivalry and comedic expressions.",
+    "timestamp": "2026-02-24 01:06:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      294,
+      81,
+      511,
+      497
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry share a playful moment. Tom, gray and mischievous, leans in, then yawns dramatically, startling Jerry. Jerry, white with a purple bow, reacts with annoyance, then smirks. Their expressions shift from playful to annoyed, showcasing their classic rivalry and comedic dynamic.",
+    "timestamp": "2026-02-24 01:06:20"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      294,
+      81,
+      511,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom and Jerry engage in a comedic exchange. Tom, gray and mischievous, sneaks up to Jerry, the white mouse with a purple bow, who reacts with annoyance. Tom's exaggerated expressions and Jerry’s shifting poses highlight their classic rivalry, filled with playful tension and slapstick humor.",
+    "timestamp": "2026-02-24 01:06:25"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0005_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0005.mp4",
+    "bbox": [
+      294,
+      81,
+      511,
+      497
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, playfully nuzzles a white cat with a purple bow, who reacts with annoyance. Tom then turns red, yawns dramatically, and laughs mischievously. The white cat, initially displeased, shifts to a smug, amused expression as she crosses her arms. Their dynamic suggests a teasing, flirtatious rivalry, with Tom’s antics sparking her reluctant amusement. The scene captures their classic cartoon banter and exaggerated expressions.",
+    "timestamp": "2026-02-24 01:06:32"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      59,
+      85,
+      319,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat Tom joyfully leaps across a room, arms raised, mouth open in delight. His playful energy and exaggerated expressions convey pure excitement as he bounds through the cozy, cartoonish space.",
+    "timestamp": "2026-02-24 01:07:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      59,
+      85,
+      319,
+      423
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cat, Tom, joyfully leaps through a room, arms raised, eyes closed in delight. His tail sweeps behind him as he bounds across the floor, embodying pure, unbridled excitement. The scene captures his playful energy and infectious happiness in a classic cartoon style.",
+    "timestamp": "2026-02-24 01:07:56"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      59,
+      85,
+      319,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black-and-white cartoon cat, Tom, joyfully leaps across a room, arms raised and mouth open in delight. His playful energy is evident as he bounds past furniture and a lamp, showcasing his mischievous, exuberant spirit in a classic animated scene.",
+    "timestamp": "2026-02-24 01:08:00"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0007_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0007.mp4",
+    "bbox": [
+      59,
+      85,
+      319,
+      423
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black-and-white cartoon cat, Tom, joyfully leaps across a room, arms raised and mouth open in delight. His eyes sparkle with excitement as he bounds past a lamp and a floral armchair, tail swishing behind him. The scene captures his playful energy and unbridled enthusiasm, set against a simple teal wall and wooden floor. His animated movements and expressive face convey pure, uncontainable happiness as he dashes through the space.",
+    "timestamp": "2026-02-24 01:08:05"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      269,
+      78,
+      489,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom smokes a cigar, eyes closed, while Toodles sits beside him, hands clasped, eyes half-lidded, showing contentment or mild annoyance.",
+    "timestamp": "2026-02-24 01:08:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      269,
+      78,
+      489,
+      500
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom smokes a cigar, enjoying himself, while Tippy, a white cat with a purple scarf, sits beside him, hands clasped, looking annoyed. Tom’s expression shifts from smug to slightly guilty as smoke drifts. Tippy’s frown intensifies, hinting at her displeasure with his behavior.",
+    "timestamp": "2026-02-24 01:08:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      269,
+      78,
+      489,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom smokes a cigar, exuding smugness, while Toodles, in a purple scarf, kneels with clasped hands, eyes closed in prayerful anticipation. As smoke curls, Tom’s expression shifts to delight, then annoyance, while Toodles’ gaze turns skeptical, her lips pursed in mild disapproval.",
+    "timestamp": "2026-02-24 01:08:40"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0008_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0008.mp4",
+    "bbox": [
+      269,
+      78,
+      489,
+      500
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat, smokes a cigar while lounging on a green couch, exuding smugness. Beside him, a white cat with a purple scarf sits cross-legged, eyes closed in prayer-like pose, then opens them with a smug, satisfied grin. Tom blows smoke, which drifts across the frame. The scene is playful and comedic, capturing their classic dynamic of mischief and charm, with subtle expressions hinting at their mischievous camaraderie.",
+    "timestamp": "2026-02-24 01:08:47"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      50,
+      321,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, grumpy, points accusingly at Jerry, who lounges on the couch. Jerry smirks, then playfully slaps Tom, who reacts with shock and annoyance. Their classic rivalry is evident.",
+    "timestamp": "2026-02-24 01:09:13"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      50,
+      321,
+      512
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, confronts a black cat on a green couch. He gestures angrily, pointing accusingly. The black cat responds with a smirk, then playfully slaps Tom’s face, causing him to recoil. Their expressions shift from hostility to amusement, highlighting their classic rivalry.",
+    "timestamp": "2026-02-24 01:09:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      50,
+      321,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the gray cat, confronts a black cat with a stern expression, gesturing angrily. The black cat, lounging on a green couch, smirks and playfully swats Tom’s face, causing a comedic shockwave. Their dynamic showcases classic rivalry with exaggerated expressions and slapstick humor.",
+    "timestamp": "2026-02-24 01:09:22"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0009_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0009.mp4",
+    "bbox": [
+      6,
+      50,
+      321,
+      512
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the gray cat, stands with a smug expression, gesturing with his paws. He points accusingly at Jerry, the black cat, who lounges on a green couch, smirking back. Tom’s frustration peaks as he slaps Jerry’s paw, causing a dramatic flash effect. Jerry, unbothered, leans forward with a playful smirk, clearly enjoying the chaos. Their dynamic is classic rivalry, filled with exaggerated expressions and slapstick humor.",
+    "timestamp": "2026-02-24 01:09:28"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      14,
+      173,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Black cat and white cat engage in playful hand-holding, smiling and laughing. White cat winks, showing affection. Their joyful expressions highlight their friendship and lighthearted interaction.",
+    "timestamp": "2026-02-24 01:09:53"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      14,
+      173,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, the black cat, smiles mischievously as he holds Muffy’s paw. Muffy, the white cat with a purple scarf, looks annoyed and defiant, her eyes narrowed and mouth open in a frustrated expression. Their interaction suggests a playful yet tense dynamic.",
+    "timestamp": "2026-02-24 01:09:57"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      14,
+      173,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat and a white cat with a purple bow engage in a playful handshake. The black cat smiles mischievously, while the white cat looks annoyed or unimpressed, her eyes narrowed and tongue out. Their interaction suggests a lighthearted, comedic tension typical of classic cartoon antics.",
+    "timestamp": "2026-02-24 01:10:01"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0010_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0010.mp4",
+    "bbox": [
+      14,
+      173,
+      510,
+      511
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black cat, smiles mischievously as he extends his paw toward Tippy, the white cat with a purple bow. Tippy, with narrowed eyes and a defiant expression, holds his paw firmly, her tongue sticking out in annoyance. Their interaction suggests playful tension, with Tom’s smug grin contrasting Tippy’s irritation. The green couch and teal background frame their standoff, highlighting their dynamic as rivals in a classic cartoon showdown.",
+    "timestamp": "2026-02-24 01:10:07"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      310,
+      62,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom and Jerry interact; Tom offers flowers with a tiny Jerry on top, while Toodles reacts with surprise and delight, showcasing playful antics in their classic cartoon dynamic.",
+    "timestamp": "2026-02-24 01:11:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      310,
+      62,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A white cat with a purple bow applies red lipstick, then smiles as a gray cat approaches. The gray cat presents a bouquet with a tiny mouse on top, surprising the white cat, who claps delightedly. Both cats exhibit playful, affectionate expressions.",
+    "timestamp": "2026-02-24 01:11:14"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      310,
+      62,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A white cat with a purple bow applies red nail polish, then smiles as a gray cat approaches, offering flowers. The gray cat proudly displays a tiny mouse atop the bouquet. Both cats express delight, their expressions full of playful charm and affection in this classic cartoon scene.",
+    "timestamp": "2026-02-24 01:11:18"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0011_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0011.mp4",
+    "bbox": [
+      310,
+      62,
+      511,
+      510
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A white cat with a purple bow applies red nail polish while sitting on a green couch. A gray cat, Tom, enters, smiling, and offers her a bouquet of flowers with a tiny mouse perched atop. The white cat, Tom's girlfriend, reacts with surprise and delight, clasping her hands. Tom beams proudly, holding up the mouse as if presenting it. Their expressions convey affection and playful mischief.",
+    "timestamp": "2026-02-24 01:11:24"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      13,
+      11,
+      463,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "A black cat with white paws and a mischievous grin leaps dynamically across a room, arms outstretched, displaying playful energy and determination in a classic cartoon style.",
+    "timestamp": "2026-02-24 01:12:29"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      13,
+      11,
+      463,
+      460
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and belly, Tom, leaps dynamically across a room, arms outstretched, eyes gleaming with mischief. He dashes past a striped chair and a window with green curtains, his tail swishing. His grin suggests playful pursuit or surprise, capturing his classic cartoon energy and mischievous charm.",
+    "timestamp": "2026-02-24 01:12:34"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      13,
+      11,
+      463,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "A black cat with white paws and a mischievous grin leaps dynamically across a room, arms outstretched. Behind him, a window reveals roses. The cat’s playful energy and confident stride suggest he’s in pursuit or reveling in his antics, embodying classic cartoon mischief and charm.",
+    "timestamp": "2026-02-24 01:12:38"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0012_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0012.mp4",
+    "bbox": [
+      13,
+      11,
+      463,
+      460
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "A black cat, Tom, leaps dynamically across a room, arms outstretched, eyes gleaming with mischievous glee. He dashes past a window with green curtains, a vase of red roses, and a striped armchair. His body stretches comically as he bounds, tail flicking, embodying playful chaos. The room’s elegant decor contrasts with his wild energy, capturing a classic cartoon moment of feline antics and unbridled enthusiasm.",
+    "timestamp": "2026-02-24 01:12:45"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      124,
+      56,
+      451,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, gray cat, leaps from couch, startled. Jerry, black mouse, peeks from behind, then scurries away. Tom’s expression shows surprise and mild annoyance as he watches Jerry vanish.",
+    "timestamp": "2026-02-24 01:13:10"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      124,
+      56,
+      451,
+      419
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the gray cat leaps onto a green couch, startled by Jerry the black mouse. Jerry peeks over the couch, then bolts away. Tom’s wide eyes and flailing paws show his surprise and frustration as Jerry escapes, leaving Tom alone with the empty couch.",
+    "timestamp": "2026-02-24 01:13:15"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      124,
+      56,
+      451,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the gray cat leaps onto a green couch, startled. A black cat, Jerry, emerges from behind, startling Tom. Tom recoils, then swiftly dives off the couch, leaving Jerry momentarily stunned. The scene captures their classic chase, filled with surprise and playful chaos.",
+    "timestamp": "2026-02-24 01:13:19"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0013_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0013.mp4",
+    "bbox": [
+      124,
+      56,
+      451,
+      419
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom the grey cat leaps from behind a green sofa, startled, then swiftly jumps onto it, arms outstretched. A black cat, likely Jerry, appears briefly, peeking from behind the sofa with wide eyes, then vanishes. Tom, now atop the sofa, looks surprised and slightly amused, eyes wide and ears perked. The scene captures their classic chase dynamic, with Tom’s playful tension and Jerry’s mischievous escape, set against a soft blue curtain backdrop.",
+    "timestamp": "2026-02-24 01:13:26"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      65,
+      98,
+      268,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, in a hat, holds flowers while Jerry pulls a leash. Tom reads a paper, then drops it as Jerry watches, both displaying playful, mischievous expressions on a sunny street.",
+    "timestamp": "2026-02-24 01:13:50"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      65,
+      98,
+      268,
+      403
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, wearing a straw hat, holds a newspaper and walks with Jerry on a leash. Jerry looks up at Tom with a mischievous grin. Tom appears focused, reading the paper, while Jerry sits obediently beside him, enjoying the stroll through the sunny street.",
+    "timestamp": "2026-02-24 01:13:55"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      65,
+      98,
+      268,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom, a gray cat in a straw hat, holds a rolled-up paper, smiling as he walks with Jerry, a brown mouse on a leash. Jerry looks up at Tom, curious. Tom turns, reading the paper, then smiles broadly, enjoying his stroll through a sunny city street. Their playful dynamic shines through their expressions and movements.",
+    "timestamp": "2026-02-24 01:13:59"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0014_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0014.mp4",
+    "bbox": [
+      65,
+      98,
+      268,
+      403
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, a gray cat in a straw hat, holds a rolled-up paper and a bouquet of flowers, smiling as he walks on a ledge. Jerry, a small brown mouse in a yellow hat, pulls a leash attached to Tom’s paw. Tom turns, amused, as Jerry sits beside him, looking up with wide eyes. The scene unfolds in a sunny, classical town setting, capturing their playful dynamic and Tom’s gentle, charming demeanor.",
+    "timestamp": "2026-02-24 01:14:06"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      125,
+      93,
+      470,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 30 words if possible.",
+    "caption": "Tom, the black cat, forcefully breaks through a wall, clutching a window frame, his expression fierce and determined, showcasing his relentless pursuit.",
+    "timestamp": "2026-02-24 01:14:30"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      125,
+      93,
+      470,
+      462
+    ],
+    "prompt": "Describe this video, be brief, focusing on the characters and their actions. Note: Please provide a description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the black cat angrily smashes through a wall, clutching a windowpane. His face shows rage and determination. He leaps through the broken wall, landing with a dramatic flourish, his claws extended, ready for action. The scene captures his intense, cartoonish fury and physical prowess.",
+    "timestamp": "2026-02-24 01:14:35"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      125,
+      93,
+      470,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 60 words if possible.",
+    "caption": "Tom the black cat, with white paws and a mischievous grin, forcefully breaks through a wall, carrying a window pane. His determined expression and dynamic pose convey intense effort. The scene captures his comedic, destructive energy as he emerges from the rubble, embodying classic cartoon chaos.",
+    "timestamp": "2026-02-24 01:14:39"
+  },
+  {
+    "segment_video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "character_crop_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/references/segment_0016_character1_crop.jpg",
+    "video_path": "/home/liuzhirui/model/SCAIL/dataset/output_Tom and Jerry/S1950/output_Tom and Jerry (1940) - S1950E09 - Casanova Cat (576p DVD x265 Ghost)/segments/segment_0016.mp4",
+    "bbox": [
+      125,
+      93,
+      470,
+      462
+    ],
+    "prompt": "Describe this video, focusing on the characters and their actions. Note: Please provide a detailed description of the characters, their actions, and any notable expressions or emotions they display. No new lines. Keep it under 100 words if possible.",
+    "caption": "Tom, the black-and-white cat, bursts through a wall, clutching a broken window frame. His expression is fierce and determined, eyes narrowed, teeth bared in a snarl. He’s mid-leap, body stretched, paws wide, as if charging forward with unstoppable force. The wall cracks dramatically behind him, emphasizing the impact. His fur bristles, and his claws dig into the debris, conveying raw aggression and urgency as he moves through the space, determined to reach his target.",
+    "timestamp": "2026-02-24 01:14:46"
+  }
+]
